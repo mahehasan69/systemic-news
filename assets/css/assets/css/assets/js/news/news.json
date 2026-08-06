@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "SYSTEMIC NEWS Launches New AI News Platform",
+    "summary": "SYSTEMIC NEWS introduces a next-generation AI-powered newsroom focused on verified journalism and transparent reporting.",
+    "content": "<p>SYSTEMIC NEWS officially launched today with the goal of delivering verified, human-quality journalism powered by artificial intelligence.</p><p>The platform combines multi-source verification, fact extraction, timeline generation and AI-assisted writing to improve both speed and reliability.</p><h2>Why It Matters</h2><p>The project aims to reduce misinformation while making global news easier to understand.</p>",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-06",
+    "time": "2 minutes ago",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 99,
+    "facts": [
+      "AI-assisted newsroom",
+      "Multi-source verification",
+      "Fact extraction",
+      "Timeline generation"
+    ],
+    "timeline": [
+      "Project development started",
+      "Website completed",
+      "Public launch"
+    ],
+    "sources": [
+      "SYSTEMIC NEWS"
+    ],
+    "url": "article.html?id=0",
+    "featured": true
+  },
+
+  {
+    "id": 2,
+    "title": "Example Breaking News",
+    "summary": "Replace this article with your bot output.",
+    "content": "<p>Your Telegram bot will automatically generate this HTML article.</p>",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-06",
+    "time": "15 minutes ago",
+    "reading_time": "5 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 96,
+    "facts": [
+      "Fact One",
+      "Fact Two",
+      "Fact Three"
+    ],
+    "timeline": [
+      "Event Started",
+      "Authorities Responded",
+      "Investigation Continues"
+    ],
+    "sources": [
+      "BBC",
+      "Reuters",
+      "AP"
+    ],
+    "url": "article.html?id=1",
+    "featured": false
+  }
+]

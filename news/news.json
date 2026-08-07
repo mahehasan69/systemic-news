@@ -1,5 +1,28 @@
 [
   {
+    "id": 8,
+    "title": "How police left a registered sex offender free to murder and attack women",
+    "summary": "",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-07",
+    "time": "17:42",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Simon Levy is a serial sex predator",
+      "Simon Levy has been found guilty of murdering two women"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=8",
+    "featured": true
+  },
+  {
     "id": 7,
     "title": "How police let a registered sex offender murder and attack women",
     "summary": "",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=7",
-    "featured": true
+    "featured": false
   },
   {
     "id": 6,

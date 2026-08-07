@@ -1,0 +1,272 @@
+/* ===========================
+   RESET
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+
+    font-family:"Inter",sans-serif;
+
+    background:#0b1220;
+
+    color:#f8fafc;
+
+    line-height:1.8;
+
+}
+
+img{
+
+    display:block;
+
+    width:100%;
+
+}
+
+a{
+
+    text-decoration:none;
+
+    color:inherit;
+
+}
+
+.container{
+
+    width:min(900px,92%);
+
+    margin:auto;
+
+}
+
+/* ===========================
+   NAVBAR
+=========================== */
+
+.navbar{
+
+    position:sticky;
+
+    top:0;
+
+    z-index:100;
+
+    background:#111827;
+
+    border-bottom:1px solid #1f2937;
+
+}
+
+.navbar .container{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    height:72px;
+
+}
+
+.logo{
+
+    font-size:28px;
+
+    font-weight:800;
+
+}
+
+.logo span{
+
+    color:#3b82f6;
+
+}
+
+/* ===========================
+   HEADER
+=========================== */
+
+.article-header{
+
+    padding:60px 0 30px;
+
+}
+
+.category{
+
+    display:inline-block;
+
+    padding:8px 18px;
+
+    border-radius:999px;
+
+    background:#2563eb;
+
+    color:white;
+
+    font-weight:700;
+
+    margin-bottom:20px;
+
+}
+
+.article-header h1{
+
+    font-size:46px;
+
+    line-height:1.2;
+
+    margin-bottom:20px;
+
+}
+
+.meta{
+
+    display:flex;
+
+    gap:18px;
+
+    color:#94a3b8;
+
+    flex-wrap:wrap;
+
+}
+
+/* ===========================
+   IMAGE
+=========================== */
+
+.hero-image{
+
+    margin-bottom:40px;
+
+}
+
+.hero-image img{
+
+    border-radius:16px;
+
+    max-height:520px;
+
+    object-fit:cover;
+
+}
+
+/* ===========================
+   CONTENT
+=========================== */
+
+.content{
+
+    font-size:19px;
+
+    color:#e2e8f0;
+
+    white-space:pre-line;
+
+}
+
+.content p{
+
+    margin-bottom:22px;
+
+}
+
+/* ===========================
+   INFO BOXES
+=========================== */
+
+.info{
+
+    margin:70px 0;
+
+}
+
+.info-box{
+
+    background:#111827;
+
+    border:1px solid #1f2937;
+
+    border-radius:14px;
+
+    padding:24px;
+
+    margin-bottom:24px;
+
+}
+
+.info-box h2{
+
+    margin-bottom:16px;
+
+    color:#3b82f6;
+
+}
+
+.info-box ul{
+
+    padding-left:20px;
+
+}
+
+.info-box li{
+
+    margin-bottom:10px;
+
+}
+
+/* ===========================
+   FOOTER
+=========================== */
+
+footer{
+
+    border-top:1px solid #1f2937;
+
+    padding:35px 0;
+
+    text-align:center;
+
+    color:#94a3b8;
+
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:768px){
+
+.article-header h1{
+
+font-size:34px;
+
+}
+
+.content{
+
+font-size:17px;
+
+}
+
+.meta{
+
+flex-direction:column;
+
+gap:8px;
+
+}
+
+}
+

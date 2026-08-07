@@ -45,7 +45,7 @@ function buildHero() {
     const article = NEWS[0];
 
     heroImage.src =
-        article.image || "assets/images/placeholder.jpg";
+    article.image || "assets/images/news_card.jpg";
 
     heroTitle.textContent =
         article.title || "No title";

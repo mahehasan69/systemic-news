@@ -1,5 +1,26 @@
 [
   {
+    "id": 5,
+    "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
+    "summary": "Ongoing Investigation Unveils Deeper Concerns in Media Integrity",
+    "content": "HEADLINE\nOngoing Investigation Unveils Deeper Concerns in Media Integrity\n\nLead\nA thorough examination of multiple articles has sparked a comprehensive investigation, raising essential questions about the accuracy and reliability of information dissemination. As the inquiry continues, it has become increasingly evident that the implications of this investigation extend far beyond the realm of journalism, affecting the very fabric of public discourse and trust in media.\n\nWhat happened\nThe investigation began with a meticulous review of numerous articles, aiming to understand the underlying dynamics and potential biases that influence the creation and dissemination of news content. This process involved a detailed analysis of sources, methodologies, and the overall narrative presented in each article. The findings from this initial phase have prompted a broader inquiry, seeking to uncover the root causes of any discrepancies or inaccuracies identified during the review. The ongoing nature of this investigation indicates that the issues at hand are complex and multifaceted, requiring a thorough and systematic approach to fully comprehend and address them.\n\nWhy this matters\nThe significance of this investigation lies in its potential to impact the way news is consumed and trusted by the public. In an era where information is readily available and often taken at face value, ensuring the integrity and accuracy of news sources is crucial. The consequences of spreading misinformation or biased reporting can be far-reaching, influencing public opinion, policy decisions, and ultimately, the democratic process. Therefore, understanding the causes of any lapses in media integrity and taking corrective measures is essential for maintaining a well-informed and critically thinking society.\n\nBackground\nThe context in which this investigation is taking place is one of heightened scrutiny of media practices. Recent years have seen an increase in concerns about fake news, propaganda, and the role of social media in disseminating information. This backdrop underscores the importance of the current investigation, as it seeks to contribute to a broader conversation about media responsibility and the need for transparent, fact-based reporting. Historically, the media has played a vital role in holding those in power accountable and providing the public with accurate, unbiased information. The ongoing investigation serves as a reminder of the challenges faced by media outlets in fulfilling this role, particularly in the face of evolving technological landscapes and changing consumer behaviors.\n\nNext developments\nAs the investigation progresses, it is anticipated that more findings will come to light, potentially leading to a reevaluation of current media practices and standards. The next steps may involve consultations with media experts, policymakers, and the public, aiming to foster a collaborative environment where solutions to the identified problems can be developed and implemented. Furthermore, there may be a focus on enhancing transparency and accountability within media organizations, possibly through the adoption of stricter fact-checking protocols, clearer disclosure of sources, and more robust editorial oversight. The ultimate goal of these efforts would be to reinforce trust in the media and ensure that the information disseminated to the public is reliable and trustworthy.\n\nKey Takeaway\nThe ongoing investigation into media integrity serves as a critical reminder of the importance of a free, fair, and fact-based press in democratic societies. As the inquiry unfolds, it is likely to shed more light on the complexities of modern journalism and the challenges inherent in maintaining the highest standards of reporting in a rapidly changing world. The outcomes of this investigation have the potential to influence not only the media landscape but also the broader social and political discourse, highlighting the need for continuous vigilance and commitment to the principles of ethical journalism.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-07",
+    "time": "09:31",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 0,
+    "facts": [
+      "Multiple articles have been studied",
+      "Investigation is ongoing"
+    ],
+    "timeline": [],
+    "sources": [],
+    "url": "article.html?id=5",
+    "featured": true
+  },
+  {
     "id": 4,
     "title": "Trump again tries to limit US birthright citizenship with new executive orders",
     "summary": "**A Nation Divided: Trump's Executive Orders Spark Fury and Uncertainty Over Birthright Citizenship**",
@@ -20,7 +41,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=4",
-    "featured": true
+    "featured": false
   },
   {
     "id": 3,

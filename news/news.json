@@ -1,5 +1,33 @@
 [
   {
+    "id": 2,
+    "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+    "summary": "**A Nation Divided: Trump's Executive Orders Threaten Birthright Citizenship**",
+    "content": "**A Nation Divided: Trump's Executive Orders Threaten Birthright Citizenship**\n\nIn a shocking move that has sent tremors throughout the United States, President Trump has signed executive orders that impose new limits on birthright citizenship, a fundamental right that has been enshrined in the US Constitution for over a century. The sudden and unexpected nature of this decision has sparked widespread outrage, fear, and uncertainty, leaving many to wonder about the motivations behind this drastic measure.\n\nFor generations, birthright citizenship has been a cornerstone of American identity, a symbol of the country's commitment to inclusivity, diversity, and the idea that anyone can come to the United States and build a better life for themselves and their families. The 14th Amendment to the Constitution has guaranteed that every child born on American soil is automatically a US citizen, regardless of their parents' immigration status. However, with the stroke of a pen, the Trump administration has thrown this long-standing tradition into chaos, leaving thousands of children and families in a state of limbo.\n\nThe implications of this move are far-reaching and devastating. The executive orders, which aim to restrict the automatic granting of citizenship to children born in the United States to non-citizen parents, will create a new class of stateless individuals who will be forced to navigate a complex and often hostile immigration system. This will have a disproportionate impact on vulnerable families, who will be torn apart by the uncertainty and fear of deportation. The very thought of children being denied access to basic rights and services, such as education and healthcare, is a stark reminder of the human cost of this policy.\n\nThe Trump administration's justification for this move is that it is necessary to curb immigration and address national security concerns. However, critics argue that this is nothing more than a thinly veiled attempt to appease the President's base, rather than a genuine effort to reform the immigration system. The move is seen as a key plank in the administration's broader strategy to restrict access to citizenship and limit the ability of non-citizens to access social services and benefits.\n\nAs the nation grapples with the implications of this move, the road ahead is likely to be marked by intense controversy and opposition. The American Civil Liberties Union (ACLU) has already announced plans to sue the administration, arguing that the orders are unconstitutional and violate the rights of thousands of children. Democrats in Congress have vowed to block any attempts to restrict birthright citizenship, setting the stage for a bitter and protracted battle over the future of American identity and values.\n\nThe fate of thousands of children and families hangs precariously in the balance, as the nation struggles to come to terms with the consequences of this move. The Trump administration's willingness to push the boundaries of executive power to achieve its goals on immigration, even if it means challenging long-established constitutional rights, sets a worrying precedent for the future of civil liberties and human rights in the United States. As the debate rages on, one thing is clear: the consequences of this move will be felt for years to come, and the very fabric of American society will be forever changed.\n\nIn the end, this is not just a policy debate; it is a question of who we are as a nation and what we stand for. Will we continue to be a beacon of hope and opportunity for those seeking a better life, or will we turn our backs on the values that have made us great? The answer to this question will have far-reaching implications for the future of our country, and it is up to us to ensure that the principles of inclusivity, diversity, and compassion that have always defined us are not lost in the midst of this divisive and tumultuous era.",
+    "category": "🏥 Health",
+    "image": "news_card.jpg",
+    "date": "2026-08-07",
+    "time": "08:13",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Trump signed executive orders",
+      "The executive orders impose new limits on birthright citizenship"
+    ],
+    "timeline": [
+      {
+        "date": "No specific date mentioned",
+        "event": "Trump signed executive orders"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=2",
+    "featured": true
+  },
+  {
     "id": 1,
     "title": "Trump again tries to limit US birthright citizenship with new executive orders",
     "summary": "**A Nation Divided: Trump's Executive Orders Threaten Birthright Citizenship**",
@@ -20,6 +48,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=1",
-    "featured": true
+    "featured": false
   }
 ]

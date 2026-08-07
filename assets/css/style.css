@@ -419,3 +419,219 @@ nav a:hover{
     font-size:14px;
 
 }
+
+/* ===========================
+   FOOTER
+=========================== */
+
+footer{
+
+    margin-top:80px;
+
+    border-top:1px solid #1f2937;
+
+    background:#111827;
+
+}
+
+footer .container{
+
+    height:90px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+footer p{
+
+    color:#9ca3af;
+
+    font-size:15px;
+
+}
+
+/* ===========================
+   LIGHT MODE
+=========================== */
+
+body.light{
+
+    background:#f5f7fb;
+
+    color:#111827;
+
+}
+
+body.light .navbar,
+
+body.light .hero-card,
+
+body.light .news-card,
+
+body.light footer{
+
+    background:#ffffff;
+
+    border-color:#e5e7eb;
+
+}
+
+body.light nav a{
+
+    color:#374151;
+
+}
+
+body.light .news-summary,
+
+body.light .hero-content p,
+
+body.light footer p{
+
+    color:#6b7280;
+
+}
+
+body.light #searchBox{
+
+    background:#f3f4f6;
+
+    color:#111827;
+
+    border:1px solid #d1d5db;
+
+}
+
+/* ===========================
+   SCROLLBAR
+=========================== */
+
+::-webkit-scrollbar{
+
+    width:10px;
+
+}
+
+::-webkit-scrollbar-track{
+
+    background:#0b1220;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:#2563eb;
+
+    border-radius:20px;
+
+}
+
+/* ===========================
+   RESPONSIVE
+=========================== */
+
+@media(max-width:1100px){
+
+.hero-card{
+
+grid-template-columns:1fr;
+
+}
+
+.hero-card img{
+
+height:420px;
+
+}
+
+.hero-content{
+
+padding:30px;
+
+}
+
+.hero-content h1{
+
+font-size:34px;
+
+}
+
+}
+
+@media(max-width:900px){
+
+nav{
+
+display:none;
+
+}
+
+#searchBox{
+
+width:160px;
+
+}
+
+.news-grid{
+
+grid-template-columns:1fr 1fr;
+
+}
+
+}
+
+@media(max-width:650px){
+
+.news-grid{
+
+grid-template-columns:1fr;
+
+}
+
+.hero-card img{
+
+height:260px;
+
+}
+
+.hero-content h1{
+
+font-size:28px;
+
+}
+
+.hero-content p{
+
+font-size:16px;
+
+}
+
+#searchBox{
+
+display:none;
+
+}
+
+.logo{
+
+font-size:22px;
+
+}
+
+.section-title h2{
+
+font-size:26px;
+
+}
+
+.read-button{
+
+width:100%;
+
+}
+
+}

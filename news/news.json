@@ -1,5 +1,28 @@
 [
   {
+    "id": 7,
+    "title": "How police let a registered sex offender murder and attack women",
+    "summary": "",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-07",
+    "time": "16:46",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Rep. Ogles has renewed a call for the National Guard in Nashville",
+      "A sex offender is accused of attacking a woman after a concert"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=7",
+    "featured": true
+  },
+  {
     "id": 6,
     "title": "Serial sex offender guilty of murdering two women and raping third",
     "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
@@ -21,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=6",
-    "featured": true
+    "featured": false
   },
   {
     "id": 5,

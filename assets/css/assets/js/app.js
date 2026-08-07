@@ -40,17 +40,24 @@ async function loadNews() {
 
 function buildHero() {
 
+    if (!NEWS.length) return;
+
     const article = NEWS[0];
 
-    heroImage.src = article.image;
+    heroImage.src =
+        article.image || "assets/images/placeholder.jpg";
 
-    heroTitle.textContent = article.title;
+    heroTitle.textContent =
+        article.title || "No title";
 
-    heroSummary.textContent = article.summary;
+    heroSummary.textContent =
+        article.summary || "";
 
-    heroCategory.textContent = article.category;
+    heroCategory.textContent =
+        article.category || "News";
 
-    heroLink.href = article.url;
+    heroLink.href =
+        article.url || "#";
 
 }
 

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "England footballer Ivan Toney charged with assault at Soho nightclub",
+    "summary": "",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-07",
+    "time": "10:43",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Toney is an England international",
+      "Toney plays in the Saudi Pro League",
+      "Toney has been charged with assault"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=1",
+    "featured": true
+  }
+]

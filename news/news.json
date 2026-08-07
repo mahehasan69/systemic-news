@@ -1,5 +1,26 @@
 [
   {
+    "id": 3,
+    "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+    "summary": "Please provide the article you would like me to improve, and I will revise it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will revise it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-07",
+    "time": "11:40",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 0,
+    "facts": [
+      "Multiple articles have been studied",
+      "Investigation is ongoing"
+    ],
+    "timeline": [],
+    "sources": [],
+    "url": "article.html?id=3",
+    "featured": true
+  },
+  {
     "id": 2,
     "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
     "summary": "",
@@ -17,7 +38,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=2",
-    "featured": true
+    "featured": false
   },
   {
     "id": 1,

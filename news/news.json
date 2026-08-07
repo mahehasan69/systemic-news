@@ -1,5 +1,27 @@
 [
   {
+    "id": 5,
+    "title": "Turkiye, Saudi Arabi, Pakistan sign joint defence agreement: What’s in it?",
+    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-07",
+    "time": "14:09",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Turkiye, Saudi Arabia, and Pakistan have signed a joint defence agreement"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=5",
+    "featured": true
+  },
+  {
     "id": 4,
     "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
     "summary": "",
@@ -21,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=4",
-    "featured": true
+    "featured": false
   },
   {
     "id": 3,

@@ -1,0 +1,7 @@
+/* Article page styles */
+
+.article-container { padding: 1.5rem 0 3rem; }
+.article { max-width: 800px; margin: 0 auto; }
+.article img { width: 100%; height: auto; border-radius: 6px; margin: 1rem 0; }
+.article h2 { margin-top: 0; }
+.article .meta { color: var(--muted); font-size: 0.9rem; }

@@ -1,295 +1,32 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
-
-<meta charset="UTF-8">
-
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>SYSTEMIC NEWS</title>
-
-<meta name="description" content="Global News Powered by AI">
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-
-<link rel="stylesheet" href="assets/css/style.css">
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Systemic News</title>
+  <meta name="description" content="A simple, responsive news demo site">
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
-
 <body>
-
-<header class="navbar">
-
-<div class="container">
-
-<a href="#" class="logo">
-
-SYSTEMIC<span>NEWS</span>
-
-</a>
-
-<nav class="menu">
-
-<a href="#">Home</a>
-
-<a href="#">World</a>
-
-<a href="#">AI</a>
-
-<a href="#">Technology</a>
-
-<a href="#">Cyber</a>
-
-<a href="#">Business</a>
-
-<a href="#">Sports</a>
-
-</nav>
-
-<div class="right-menu">
-
-<input
-type="text"
-placeholder="Search..."
-id="searchBox">
-
-<button id="themeButton">
-
-🌙
-
-</button>
-
-</div>
-
-</div>
-
-</header>
-
-<main>
-
-<section class="hero">
-
-<div class="container">
-
-<div class="hero-card">
-
-<img
-id="heroImage"
-src="assets/images/placeholder.jpg"
-alt="Breaking News">
-
-<div class="hero-content">
-
-<div class="breaking">
-
-🔥 BREAKING NEWS
-
-</div>
-
-<div
-id="heroCategory"
-class="category">
-
-Technology
-
-</div>
-
-<h1 id="heroTitle">
-
-Loading...
-
-</h1>
-
-<p id="heroSummary">
-
-Loading latest news...
-
-</p>
-
-<a
-id="heroLink"
-href="#"
-class="read-btn">
-
-Read Full Story →
-
-</a>
-
-</div>
-
-</div>
-
-</div>
-
-</section>
-<section class="latest-news">
-
-<div class="container">
-
-<div class="section-header">
-
-<h2>
-
-Latest News
-
-</h2>
-
-<a href="#">
-
-View All →
-
-</a>
-
-</div>
-
-<div
-id="newsGrid"
-class="news-grid">
-
-<!-- JS Load -->
-
-</div>
-
-</div>
-
-</section>
-
-<section class="trending-section">
-
-<div class="container">
-
-<div class="section-header">
-
-<h2>
-
-🔥 Trending
-
-</h2>
-
-</div>
-
-<div
-id="trendingNews"
-class="trending-grid">
-
-<!-- JS -->
-
-</div>
-
-</div>
-
-</section>
-
-<section class="category-section">
-
-<div class="container">
-
-<div class="section-header">
-
-<h2>
-
-Categories
-
-</h2>
-
-</div>
-
-<div class="category-grid">
-
-<a href="#">🌍 World</a>
-
-<a href="#">🤖 AI</a>
-
-<a href="#">💻 Technology</a>
-
-<a href="#">🛡 Cyber</a>
-
-<a href="#">💰 Business</a>
-
-<a href="#">₿ Crypto</a>
-
-<a href="#">⚽ Sports</a>
-
-<a href="#">🎬 Entertainment</a>
-
-<a href="#">🧬 Science</a>
-
-<a href="#">🏥 Health</a>
-
-</div>
-
-</div>
-
-</section>
-<footer class="footer">
-
-<div class="container">
-
-<div class="footer-top">
-
-<div class="footer-brand">
-
-<h2>
-
-SYSTEMIC<span>NEWS</span>
-
-</h2>
-
-<p>
-
-Fast. Verified. Global.
-
-</p>
-
-</div>
-
-<div class="footer-links">
-
-<a href="#">About</a>
-
-<a href="#">Privacy</a>
-
-<a href="#">Contact</a>
-
-<a href="#">Terms</a>
-
-</div>
-
-<div class="footer-social">
-
-<a href="#">Telegram</a>
-
-<a href="#">GitHub</a>
-
-<a href="#">X</a>
-
-</div>
-
-</div>
-
-<div class="footer-bottom">
-
-<p>
-
-© 2026 SYSTEMIC NEWS. All Rights Reserved.
-
-</p>
-
-</div>
-
-</div>
-
-</footer>
-
-</main>
-
-<script src="assets/js/app.js"></script>
-
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title"><a href="/">Systemic News</a></h1>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="/">Home</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="news-list" class="news-grid" aria-live="polite">
+      <!-- News cards will be injected here -->
+    </section>
+  </main>
+
+  <footer class="site-footer container">
+    <p>&copy; Systemic News</p>
+  </footer>
+
+  <script src="assets/js/app.js" defer></script>
 </body>
-
 </html>

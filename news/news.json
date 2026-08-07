@@ -1,5 +1,23 @@
 [
   {
+    "id": 7,
+    "title": "Thai pupil describes harrowing moment teacher was shot in front of her",
+    "summary": "",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-07",
+    "time": "09:54",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 0,
+    "facts": [],
+    "timeline": [],
+    "sources": [],
+    "url": "article.html?id=7",
+    "featured": true
+  },
+  {
     "id": 6,
     "title": "Officer who led PC Harper investigation 'appalled' killers could be released early",
     "summary": "",
@@ -15,7 +33,7 @@
     "timeline": [],
     "sources": [],
     "url": "article.html?id=6",
-    "featured": true
+    "featured": false
   },
   {
     "id": 5,

@@ -1,5 +1,29 @@
 [
   {
+    "id": 4,
+    "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
+    "summary": "",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-07",
+    "time": "12:46",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Cambridge Professor Jason Arday is facing a plagiarism finding",
+      "The plagiarism finding involves 188 sentences",
+      "A charity's claims related to the plagiarism finding are disputed"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=4",
+    "featured": true
+  },
+  {
     "id": 3,
     "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
     "summary": "Please provide the article you would like me to improve, and I will revise it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
@@ -18,7 +42,7 @@
     "timeline": [],
     "sources": [],
     "url": "article.html?id=3",
-    "featured": true
+    "featured": false
   },
   {
     "id": 2,

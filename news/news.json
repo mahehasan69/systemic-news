@@ -1,5 +1,27 @@
 [
   {
+    "id": 14,
+    "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
+    "summary": "Levy Victims Urged to Come Forward as Police Face Scathing Criticism for 'Litany of Failures'",
+    "content": "Levy Victims Urged to Come Forward as Police Face Scathing Criticism for 'Litany of Failures'\n\nThe release of a damning report has sent shockwaves through the community, exposing a heartbreaking trail of mistakes and oversights by the police in the Levy case. This devastating scandal has left an untold number of victims in its wake, their lives forever changed by the authorities' catastrophic failures. As the true extent of the police's shortcomings becomes painfully clear, a rallying cry has gone out to those affected: come forward, share your story, and demand justice.\n\nThe police's handling of the Levy case has been nothing short of disastrous from the outset. A series of critical errors, misjudgments, and oversights allowed the perpetrator to continue their heinous activities unchecked, leaving victims to suffer in silence, unaware that their experiences were part of a larger, sinister pattern of abuse. The report lays bare a disturbing lack of communication, inadequate training, and a staggering lack of urgency in responding to allegations. The consequences of these failures are all too real: countless victims have been denied justice, forced to pick up the pieces of their shattered lives, and left to grapple with the long-term trauma, anxiety, and depression that follows.\n\nThe backstory to this case is complex, multifaceted, and deeply troubling. The Levy case involves a series of allegations of abuse and exploitation that first surfaced several years ago, sparking initial promises of a thorough investigation. However, the police's response was glacial and inadequate, leaving many victims feeling dismissed, ignored, and utterly betrayed. As the case dragged on, it became painfully clear that the police were struggling to cope with the scale and complexity of the allegations, their efforts hindered by a lack of leadership, inadequate training, and a lack of accountability.\n\nThe fallout from this case will be significant, with the police facing intense pressure to reform and rebuild trust with the community. The report's findings are expected to trigger a major overhaul of the police's procedures and policies, with a laser-like focus on improving communication, increasing transparency, and providing better support for victims. The question on everyone's lips is: what happens next? Will the police learn from their mistakes and implement meaningful changes, or will they continue to fail those they are sworn to protect? The answer will depend on the police's willingness to confront their shortcomings and take concrete steps to prevent similar failures in the future.\n\nOne thing is certain: the victims of the Levy case deserve justice, and it is the police's responsibility to ensure they receive it. The report's findings serve as a stark reminder of the importance of accountability, transparency, and compassion in policing. As the police begin the long, difficult process of rebuilding trust and restoring faith in their ability to protect and serve, they must prioritize the needs of the victims and their families. The courage and resilience shown by those affected are a testament to the human spirit, and it is our collective responsibility to ensure that their voices are heard, their stories are told, and their demands for justice are met.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-08",
+    "time": "22:10",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Police accused of failures"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=14",
+    "featured": true
+  },
+  {
     "id": 13,
     "title": "Police failings revealed as sex offender left free to murder and attack women",
     "summary": "",
@@ -17,7 +39,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=13",
-    "featured": true
+    "featured": false
   },
   {
     "id": 12,

@@ -1,5 +1,25 @@
 [
   {
+    "id": 37,
+    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-09",
+    "time": "22:18",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=37",
+    "featured": true
+  },
+  {
     "id": 36,
     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
     "summary": "Israel Rejects Trump's 15-Point Plan for Gaza",
@@ -30,7 +50,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=36",
-    "featured": true
+    "featured": false
   },
   {
     "id": 35,

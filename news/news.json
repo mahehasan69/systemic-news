@@ -1,5 +1,25 @@
 [
   {
+    "id": 29,
+    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-09",
+    "time": "14:24",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=29",
+    "featured": true
+  },
+  {
     "id": 28,
     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
     "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Risks",
@@ -17,7 +37,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=28",
-    "featured": true
+    "featured": false
   },
   {
     "id": 27,

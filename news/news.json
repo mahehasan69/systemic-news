@@ -1,5 +1,25 @@
 [
   {
+    "id": 32,
+    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud",
+    "content": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud\n\nLead: In a historic move, top financial regulators from around the world have joined forces to tackle the growing threat of cryptocurrency fraud, which has seen billions of dollars lost to scams and phishing attacks in recent years. This unprecedented collaboration aims to share intelligence, coordinate efforts, and develop new strategies to protect consumers and maintain the integrity of the global financial system.\n\nWhat happened: The meeting, which took place in London last week, brought together representatives from the US Securities and Exchange Commission, the European Securities and Markets Authority, the Financial Conduct Authority of the UK, and other prominent regulatory bodies. The gathering was prompted by a surge in cryptocurrency-related fraud, with many investors falling prey to sophisticated scams and fake investment schemes. According to reports, the regulators shared case studies, discussed best practices, and explored ways to improve international cooperation in the fight against cryptocurrency fraud.\n\nWhy this matters: The rise of cryptocurrency has created new opportunities for investors, but it has also attracted a growing number of scammers and fraudsters. The lack of clear regulations and oversight has made it difficult for authorities to track and prosecute these crimes, resulting in significant financial losses for individuals and businesses. By working together, financial regulators can pool their resources, expertise, and knowledge to develop more effective strategies for combating cryptocurrency fraud and protecting consumers. This collaboration is crucial, as the integrity of the global financial system depends on the ability of regulators to stay ahead of emerging threats.\n\nBackground: The cryptocurrency market has experienced rapid growth in recent years, with the total value of cryptocurrencies surpassing $2 trillion. However, this growth has been accompanied by a sharp increase in fraud and scams. Many investors have been lured into fake investment schemes, while others have fallen victim to phishing attacks and other types of cybercrime. The lack of clear regulations and oversight has made it difficult for authorities to track and prosecute these crimes, resulting in significant financial losses for individuals and businesses. In response, financial regulators have been working to develop new rules and guidelines for the cryptocurrency market, but the pace of change has been slow, and many challenges remain.\n\nNext developments: The meeting of financial regulators in London marks an important step forward in the fight against cryptocurrency fraud. In the coming months, regulators are expected to develop new guidelines and best practices for the cryptocurrency industry, including stricter rules for initial coin offerings and more robust anti-money laundering controls. Additionally, regulators will work to improve international cooperation, including the sharing of intelligence and coordination of efforts to track and prosecute cryptocurrency-related crimes. As the cryptocurrency market continues to evolve, regulators will need to stay vigilant and adapt their strategies to stay ahead of emerging threats.\n\nKey Takeaway: The collaboration between global financial regulators to combat cryptocurrency fraud is a significant development that has the potential to make a major impact on the safety and security of the global financial system. By working together, regulators can develop more effective strategies for protecting consumers, maintaining the integrity of the financial system, and promoting confidence in the cryptocurrency market. As the cryptocurrency market continues to grow and evolve, it is essential that regulators remain proactive and adaptable, staying ahead of emerging threats and working to create a safer, more secure environment for investors and consumers alike.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-09",
+    "time": "17:22",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=32",
+    "featured": true
+  },
+  {
     "id": 31,
     "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
     "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud",
@@ -17,7 +37,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=31",
-    "featured": true
+    "featured": false
   },
   {
     "id": 30,

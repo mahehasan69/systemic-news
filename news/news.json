@@ -1,5 +1,25 @@
 [
   {
+    "id": 45,
+    "title": "Record 230 people cross Channel in one small boat",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-10",
+    "time": "11:41",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=45",
+    "featured": true
+  },
+  {
     "id": 44,
     "title": "Record 230 people cross Channel in one small boat",
     "summary": "A Heart-Wrenching Record: 230 Migrants Brave the English Channel in a Single Small Boat",
@@ -19,7 +39,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=44",
-    "featured": true
+    "featured": false
   },
   {
     "id": 43,

@@ -1,5 +1,27 @@
 [
   {
+    "id": 48,
+    "title": "Record 230 people cross Channel in one small boat",
+    "summary": "I don't see an article to improve. Please provide the article you'd like me to work on, and I'll do my best to make it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions. I'm ready when you are.",
+    "content": "I don't see an article to improve. Please provide the article you'd like me to work on, and I'll do my best to make it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions. I'm ready when you are.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-10",
+    "time": "15:48",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "230 people crossed the Channel in one small boat"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=48",
+    "featured": true
+  },
+  {
     "id": 47,
     "title": "Record 230 people cross Channel in one small boat",
     "summary": "Record 230 people cross Channel in one small boat",
@@ -19,7 +41,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=47",
-    "featured": true
+    "featured": false
   },
   {
     "id": 46,

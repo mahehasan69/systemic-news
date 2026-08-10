@@ -1,5 +1,27 @@
 [
   {
+    "id": 43,
+    "title": "Travelodge staff gave domestic abuser key to his victim's room",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-10",
+    "time": "09:05",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Travelodge staff gave a key to a domestic abuser's victim's room"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=43",
+    "featured": true
+  },
+  {
     "id": 42,
     "title": "Travelodge staff gave domestic abuser key to his victim's room",
     "summary": "Travelodge Staff's Devastating Mistake: Handing a Domestic Abuser the Key to His Victim's Room",
@@ -19,7 +41,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=42",
-    "featured": true
+    "featured": false
   },
   {
     "id": 41,

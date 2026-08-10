@@ -1,5 +1,27 @@
 [
   {
+    "id": 46,
+    "title": "Record 230 people cross Channel in one small boat",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-10",
+    "time": "12:39",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "230 people crossed the Channel in one small boat"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=46",
+    "featured": true
+  },
+  {
     "id": 45,
     "title": "Record 230 people cross Channel in one small boat",
     "summary": "Unable to generate article.",
@@ -17,7 +39,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=45",
-    "featured": true
+    "featured": false
   },
   {
     "id": 44,

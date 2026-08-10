@@ -1,5 +1,32 @@
 [
   {
+    "id": 56,
+    "title": "The Evening: An Earthquake Shakes Colombia",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-10",
+    "time": "23:25",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "An earthquake occurred in Colombia"
+    ],
+    "timeline": [
+      {
+        "date": "Unknown",
+        "event": "Earthquake in Colombia"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=56",
+    "featured": true
+  },
+  {
     "id": 55,
     "title": "More than two-thirds of England now in drought",
     "summary": "Unable to generate article.",
@@ -19,7 +46,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=55",
-    "featured": true
+    "featured": false
   },
   {
     "id": 54,

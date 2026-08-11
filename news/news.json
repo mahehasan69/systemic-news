@@ -1,5 +1,25 @@
 [
   {
+    "id": 64,
+    "title": "Trump hidden in catering truck in secret plane swap over Iran threat, reports say",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-11",
+    "time": "09:49",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=64",
+    "featured": true
+  },
+  {
     "id": 63,
     "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
     "summary": "Unable to generate article.",
@@ -21,7 +41,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=63",
-    "featured": true
+    "featured": false
   },
   {
     "id": 62,

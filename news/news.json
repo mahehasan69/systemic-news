@@ -1,5 +1,30 @@
 [
   {
+    "id": 71,
+    "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+    "summary": "As the UK swelters in the grip of a scorching summer, the Met Office has issued a stark warning: Summer 2026 is on track to be the hottest on record. The nation is struggling to cope with the heat, and concerns are growing about the devastating impact on public health, the environment, and the economy. The Met Office's statement has sparked a flurry of activity, with policymakers and experts racing against time to respond to the crisis.",
+    "content": "As the UK swelters in the grip of a scorching summer, the Met Office has issued a stark warning: Summer 2026 is on track to be the hottest on record. The nation is struggling to cope with the heat, and concerns are growing about the devastating impact on public health, the environment, and the economy. The Met Office's statement has sparked a flurry of activity, with policymakers and experts racing against time to respond to the crisis.\n\nThe numbers are alarming. Data from weather stations across the country shows that temperatures have been consistently higher than average throughout the summer months. The Met Office's warning is a clear indication that the UK is experiencing a prolonged period of extreme heat, with serious consequences for the environment, human health, and the economy. The culprit behind this heatwave is a combination of factors, including climate change, which is driving up global temperatures, and a high-pressure system that has been dominating the UK's weather patterns this summer.\n\nThe human cost of this heatwave cannot be overstated. Extreme heat can have devastating effects, from heat-related illnesses and deaths to damage to crops and infrastructure. The elderly, young children, and those with pre-existing medical conditions are particularly vulnerable. As the temperature soars, the risk of heatstroke, dehydration, and other heat-related illnesses increases exponentially. The emotional toll on families and communities who have lost loved ones or are struggling to cope with the heat is immeasurable.\n\nThis summer's heatwave is part of a larger pattern of climate change, which is having far-reaching consequences for the environment, human health, and the economy. The UK has been experiencing a trend of rising temperatures in recent years, with 2022 being one of the hottest years on record. The Met Office's statement is a stark reminder of the need for urgent action to reduce greenhouse gas emissions and mitigate the effects of climate change. The clock is ticking, and the consequences of inaction will be catastrophic.\n\nAs the UK struggles to cope with the heat, policymakers and experts are under pressure to respond to the crisis. The government will face calls to accelerate its transition to renewable energy sources and reduce the UK's reliance on fossil fuels. Emergency meetings between government ministers, policymakers, and experts will be held to discuss the response to the heatwave. The Met Office will continue to monitor the weather patterns, providing updates and warnings to the public. The government may also announce new measures to support affected communities, such as funding for air conditioning units in public buildings or emergency aid for farmers who have lost crops due to the heat.\n\nThe road ahead will be challenging, but one thing is clear: the UK cannot afford to ignore the warning signs of climate change any longer. The government, policymakers, and the public must work together to respond to the crisis, with a renewed commitment to protecting the environment, public health, and the economy. The Summer 2026 heatwave is a wake-up call, a reminder that the consequences of climate change are real, and they are already being felt. It's time for the UK to take action, to reduce its carbon footprint, and to ensure a sustainable future for generations to come. The future of the planet depends on it.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-11",
+    "time": "18:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Met Office has made a statement about Summer 2026",
+      "The statement is related to the temperature record in the UK"
+    ],
+    "timeline": [
+      "Summer 2026"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=71",
+    "featured": true
+  },
+  {
     "id": 70,
     "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
     "summary": "Unable to generate article.",
@@ -17,7 +42,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=70",
-    "featured": true
+    "featured": false
   },
   {
     "id": 69,

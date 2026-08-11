@@ -1,5 +1,30 @@
 [
   {
+    "id": 68,
+    "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-11",
+    "time": "14:11",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Three-quarters of England is in drought",
+      "A fifth heatwave is looming in the summer"
+    ],
+    "timeline": [
+      "Summer (current season)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=68",
+    "featured": true
+  },
+  {
     "id": 67,
     "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
     "summary": "Unable to generate article.",
@@ -20,7 +45,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=67",
-    "featured": true
+    "featured": false
   },
   {
     "id": 66,

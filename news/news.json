@@ -1,5 +1,25 @@
 [
   {
+    "id": 90,
+    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-12",
+    "time": "16:44",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=90",
+    "featured": true
+  },
+  {
     "id": 89,
     "title": "Double killer and rapist given whole life sentence",
     "summary": "Murderer and serial sex offender Simon Levy given whole life jail sentence",
@@ -20,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=89",
-    "featured": true
+    "featured": false
   },
   {
     "id": 88,

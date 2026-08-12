@@ -1,5 +1,29 @@
 [
   {
+    "id": 84,
+    "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-12",
+    "time": "09:55",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A Cobra meeting will be chaired by Burnham",
+      "The meeting is regarding extreme heat in the UK",
+      "Temperatures are surging again in the UK"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=84",
+    "featured": true
+  },
+  {
     "id": 83,
     "title": "Three ways to watch the solar eclipse safely without glasses",
     "summary": "Three ways to watch the solar eclipse safely without glasses",
@@ -20,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=83",
-    "featured": true
+    "featured": false
   },
   {
     "id": 82,

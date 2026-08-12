@@ -1,5 +1,28 @@
 [
   {
+    "id": 91,
+    "title": "Ann Widdecombe's loved ones gather for her funeral",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-12",
+    "time": "17:49",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ann Widdecombe's funeral service was held",
+      "Politicians were among the mourners"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=91",
+    "featured": true
+  },
+  {
     "id": 90,
     "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
     "summary": "Unable to generate article.",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=90",
-    "featured": true
+    "featured": false
   },
   {
     "id": 89,

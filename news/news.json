@@ -1,5 +1,25 @@
 [
   {
+    "id": 96,
+    "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+    "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud",
+    "content": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud\n\nLead: In a landmark move, top financial regulators from around the world have joined forces to tackle the growing menace of cryptocurrency fraud, which has seen billions of dollars lost to scams and phishing attacks in recent years. This unprecedented collaboration aims to share intelligence, coordinate efforts, and develop common standards to protect consumers and maintain the integrity of the global financial system.\n\nWhat happened: The regulators, representing over 20 countries, met in an emergency summit last week to discuss the alarming rise in cryptocurrency-related crimes. The meeting was convened in response to a surge in complaints from investors who have fallen prey to fake investment schemes, Ponzi scams, and other types of financial fraud. According to sources, the regulators shared data and best practices, and agreed to establish a network for real-time information sharing to help detect and prevent fraudulent activities. Why did it happen? The rapid growth of the cryptocurrency market, coupled with its largely unregulated nature, has created an environment conducive to fraudulent activities. The anonymity and ease of transactions afforded by cryptocurrencies have made them an attractive target for scammers. Why does it matter? The lack of effective regulation and oversight has led to a crisis of confidence among investors, with many losing life savings to scams. The collaborative effort by regulators is a crucial step towards restoring trust and stability in the market. What changes now? The regulators' joint effort is expected to lead to more stringent regulations and stricter enforcement, making it harder for scammers to operate. What happens next? The regulators will meet again in six months to review progress and discuss further measures to combat cryptocurrency fraud.\n\nBackground: The cryptocurrency market has experienced exponential growth over the past decade, with the total value of cryptocurrencies surpassing $2 trillion. However, this growth has been accompanied by a rise in fraudulent activities, with scammers exploiting the lack of regulation and oversight. In recent years, there have been numerous high-profile cases of cryptocurrency scams, including the infamous OneCoin Ponzi scheme, which is estimated to have defrauded investors of over $4 billion. The regulators' move to collaborate is seen as a long-overdue response to the growing threat posed by cryptocurrency fraud. Why does it matter? The impact of cryptocurrency fraud extends beyond financial losses, as it also undermines trust in the financial system and can have broader economic implications. What changes now? The regulators' joint effort is expected to lead to increased transparency and accountability in the cryptocurrency market. What happens next? The development of common standards and regulations will be a key focus area for the regulators in the coming months.\n\nNext developments: The regulators' collaboration is expected to lead to a series of concrete actions, including the development of common standards for anti-money laundering and know-your-customer checks. Additionally, the regulators will work towards establishing a global registry of licensed cryptocurrency exchanges and wallet providers, making it easier to track and monitor suspicious activities. The regulators will also increase public awareness campaigns to educate investors about the risks associated with cryptocurrencies and how to protect themselves from scams. What happens next? The regulators will establish a permanent working group to oversee the implementation of the agreed measures and to identify new areas of cooperation.\n\nKey Takeaway: The regulators' move to combat cryptocurrency fraud marks a significant shift in the global approach to regulating the cryptocurrency market. The collaboration is expected to lead to more effective oversight and enforcement, which will help to protect consumers and maintain the integrity of the financial system. As the cryptocurrency market continues to evolve, the regulators' joint effort will play a crucial role in shaping its future and ensuring that it operates in a fair and transparent manner. What happens next? The success of the regulators' collaboration will depend on their ability to work together effectively and to adapt to the rapidly changing cryptocurrency landscape.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-12",
+    "time": "22:30",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=96",
+    "featured": true
+  },
+  {
     "id": 95,
     "title": "Watch: Solar eclipse seen over UK skies",
     "summary": "Unable to generate article.",
@@ -24,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=95",
-    "featured": true
+    "featured": false
   },
   {
     "id": 94,

@@ -1,5 +1,28 @@
 [
   {
+    "id": 94,
+    "title": "US immigration officers to be equipped with gloves that deliver electric shocks",
+    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-12",
+    "time": "20:30",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "ICE plans to give officers gloves",
+      "The gloves can deliver electric shocks"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=94",
+    "featured": true
+  },
+  {
     "id": 93,
     "title": "Students wait for A-level, T-level and BTec results",
     "summary": "Unable to generate article.",
@@ -21,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=93",
-    "featured": true
+    "featured": false
   },
   {
     "id": 92,

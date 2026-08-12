@@ -1,5 +1,37 @@
 [
   {
+    "id": 87,
+    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+    "summary": "Colombia Quake Rescuers Pull Off Miracle, Saving Woman Trapped in Rubble for 36 Hours",
+    "content": "Colombia Quake Rescuers Pull Off Miracle, Saving Woman Trapped in Rubble for 36 Hours\n\nIn a heart-stopping, emotional rollercoaster, a woman was pulled from the rubble in Colombia, 36 hours after a devastating earthquake struck the region, leaving a trail of destruction and despair in its wake. The rescue team's unwavering dedication and tireless efforts ultimately paid off, giving the woman a second chance at life, and rekindling hope in the hearts of a nation. This extraordinary story of survival and rescue has captivated the imagination of the Colombian people, shining a spotlight on the bravery, selflessness, and compassion of the rescue teams who risked everything to save her.\n\nAs the hours ticked by, the woman, whose identity remains a secret, was trapped in the rubble of a collapsed building, her fate hanging precariously in the balance. With each passing moment, the rescue team's sense of urgency grew, as they navigated the treacherous terrain and unstable structures, their hearts racing with anticipation. The operation was a complex, delicate dance, requiring precision, patience, and a deep understanding of the human spirit. And then, after 36 hours of being trapped, the woman was finally rescued, exhausted, shaken, but alive.\n\nThis miracle rescue is a powerful reminder of the importance of disaster preparedness and response. The fact that the woman was trapped for 36 hours underscores the need for swift, effective, and well-coordinated rescue efforts. The rescue team's success demonstrates the value of investing in emergency services and training personnel to handle such situations, and highlights the critical role that these heroes play in saving lives. Moreover, the woman's survival serves as a beacon of hope for the affected communities, a shining example of the human spirit's capacity to persevere, even in the darkest moments.\n\nThe earthquake that struck Colombia has left an indelible mark on the nation, causing widespread destruction, and leaving hundreds of people injured or trapped. The disaster has had a profound impact on the affected communities, with many families left without homes, livelihoods, or a sense of security. The rescue operation was a massive undertaking, involving multiple agencies and organizations working together in perfect harmony, to locate and rescue those trapped. The woman's rescue is a rare moment of joy in an otherwise bleak landscape, a testament to the power of hope, resilience, and the human spirit.\n\nAs the nation begins the long, difficult process of healing and recovery, the focus will shift to providing aid and support to the affected communities. The government has announced plans to deploy additional resources to the region, including food, shelter, and medical supplies, a vital lifeline for those struggling to survive. The rescue teams will continue to work tirelessly, fueled by their determination and courage, to locate and rescue those still trapped, and to provide assistance to those who have been displaced. The international community is also expected to play a critical role, with many countries offering aid and assistance to Colombia, a testament to the global community's capacity for compassion and solidarity.\n\nThe key takeaway from this story is the importance of resilience, hope, and the human spirit in the face of disaster. The woman's survival is a powerful reminder that even in the darkest moments, there is always a chance for rescue, recovery, and redemption. As the people of Colombia begin the long, difficult journey of rebuilding and recovery, they can draw strength from this remarkable story of survival, and the bravery, selflessness, and compassion of the rescue teams who made it possible. The rescue operation has shown that with determination, courage, and the right resources, even the most daunting challenges can be overcome, and that hope can be found in the most desperate of situations, a beacon of light in the darkest of times.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-12",
+    "time": "12:40",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A woman was rescued in Colombia after being trapped in rubble",
+      "The woman was trapped for 36 hours"
+    ],
+    "timeline": [
+      {
+        "time": "36 hours",
+        "event": "Woman trapped in rubble"
+      },
+      {
+        "time": "After 36 hours",
+        "event": "Woman rescued"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=87",
+    "featured": true
+  },
+  {
     "id": 86,
     "title": "Trump confirms he switched planes after Nato summit because of possible threat",
     "summary": "Unable to generate article.",
@@ -17,7 +49,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=86",
-    "featured": true
+    "featured": false
   },
   {
     "id": 85,

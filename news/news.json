@@ -1,5 +1,27 @@
 [
   {
+    "id": 85,
+    "title": "Burnham says disposable BBQ ban under consideration",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-12",
+    "time": "10:48",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham is considering a ban on disposable BBQs"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=85",
+    "featured": true
+  },
+  {
     "id": 84,
     "title": "Burnham to chair Cobra meeting on extreme heat as temperatures surge again",
     "summary": "Unable to generate article.",
@@ -21,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=84",
-    "featured": true
+    "featured": false
   },
   {
     "id": 83,

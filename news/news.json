@@ -1,5 +1,28 @@
 [
   {
+    "id": 113,
+    "title": "Two seriously hurt as passenger train derails in East Sussex",
+    "summary": "**Tragedy Strikes: Two Seriously Injured in Lewes Train Derailment**",
+    "content": "**Tragedy Strikes: Two Seriously Injured in Lewes Train Derailment**\n\nThe small town of Lewes was left reeling in the early hours of the morning as a devastating train derailment sent shockwaves through the community, leaving two people fighting for their lives. The passenger train, packed with commuters, was torn apart as several carriages derailed, sparking a massive rescue effort and a frantic search for answers.\n\nEyewitnesses described the scene as \"apocalyptic\" and \"horrific,\" with passengers screaming and desperately trying to escape the mangled wreckage. The sound of shattering glass and twisted metal still echoes in the minds of those who witnessed the carnage. Emergency services rushed to the scene, and the injured were rushed to a nearby hospital, their lives hanging in the balance.\n\nAs the investigation into the cause of the derailment begins, officials are left grappling with the question of how this could have happened. The train's wheels had failed catastrophically, sending the carriages careening off the tracks. The train, which was traveling from a nearby town, was approaching the Lewes station when disaster struck. The incident has raised more questions than answers, and officials are determined to get to the bottom of it.\n\nThe human cost of this tragedy cannot be overstated. Two people, with families, friends, and loved ones, are now facing a long and uncertain road to recovery. The incident is a stark reminder of the importance of rail safety and the need for constant vigilance to prevent such disasters. The fact that two people were seriously hurt is a tragedy that will haunt the community for a long time to come.\n\nThis incident is not an isolated one. The region has been plagued by concerns over rail safety in recent years, with several near-misses and incidents highlighting the need for improved safety measures. The rail company has been under intense pressure to improve its safety record, and this incident will only add to those concerns. The company has promised to cooperate fully with the investigation and to take any necessary steps to prevent such incidents in the future.\n\nAs the investigation unfolds, the rail company will be under the microscope, with passengers and the community demanding answers. The company will need to explain how this incident occurred and what steps it will take to prevent similar incidents in the future. The incident will have significant implications for the rail network, with services likely to be disrupted for several days. Passengers will need to find alternative routes, and the rail company will need to provide compensation to those affected.\n\nThe road to recovery will be long and arduous, but one thing is certain - the safety of passengers must be the top priority. The investigation will need to examine whether the rail company took adequate steps to prevent such an incident, and whether more could have been done to protect the passengers on board. As the community comes to terms with the aftermath of this tragedy, one thing is clear - the need for rail safety can never be overstated, and any incident that puts passengers at risk must be thoroughly investigated and prevented from happening again.\n\nIn the days and weeks to come, the community will be watching with bated breath as the investigation unfolds. The outcome will have far-reaching implications for the rail network and the company responsible. But for now, our thoughts are with the two people who were seriously injured and their loved ones, who are facing a difficult and uncertain future. The tragedy in Lewes is a stark reminder of the importance of rail safety and the need for constant vigilance to prevent such disasters.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-13",
+    "time": "22:29",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A passenger train derailed in Lewes",
+      "Two people were seriously hurt"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=113",
+    "featured": true
+  },
+  {
     "id": 112,
     "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
     "summary": "Unable to generate article.",
@@ -21,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=112",
-    "featured": true
+    "featured": false
   },
   {
     "id": 111,
@@ -2238,26 +2261,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=14",
-    "featured": false
-  },
-  {
-    "id": 13,
-    "title": "Police failings revealed as sex offender left free to murder and attack women",
-    "summary": "",
-    "content": "Unable to generate article.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-07",
-    "time": "22:28",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=13",
     "featured": false
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 100,
+    "title": "Three Palestinian families besieged in their homes by Israeli settlers",
+    "summary": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
+    "content": "HEADLINE\nIsraeli settlers besiege three Palestinian families in West Bank’s Qusra\n\nLead\nIn a disturbing escalation of tensions in the West Bank, Israeli settlers have surrounded the homes of three Palestinian families in the village of Qusra, sparking widespread concern over the fate of the affected residents. The incident has raised questions about the role of Israeli authorities in protecting the rights of Palestinian civilians and the potential consequences for the already fragile peace process in the region.\n\nWhat happened\nThe incident began when a group of Israeli settlers, reportedly from a nearby settlement, arrived in Qusra and blocked the entrance to the homes of the three Palestinian families. The settlers, who were armed and allegedly aggressive, prevented the families from leaving their homes or receiving visitors. The affected families, who have been identified as the Abu Raida, Hasan, and Saleh families, have been living in a state of siege for several days, with limited access to basic necessities like food and medicine. The Israeli military has been deployed to the area, but their role in the incident remains unclear, with some reports suggesting that they may be complicit in the settlers' actions. The reasons behind the settlers' actions are still unclear, but it is believed that they may be related to a long-standing dispute over land ownership in the area. The fact that the settlers were able to blockade the homes of the Palestinian families with apparent impunity raises questions about the effectiveness of the Israeli authorities in preventing such incidents.\n\nWhy this matters\nThe incident in Qusra is significant because it highlights the ongoing tensions between Israeli settlers and Palestinian civilians in the West Bank. The presence of Israeli settlements in the West Bank is a major point of contention in the Israeli-Palestinian conflict, with many Palestinians viewing them as an obstacle to peace. The fact that Israeli settlers are able to blockade the homes of Palestinian families with apparent impunity raises concerns about the rule of law and the protection of human rights in the region. The international community has repeatedly called for an end to the construction of Israeli settlements in the West Bank, citing their illegality under international law. The incident in Qusra is a stark reminder of the need for a lasting solution to the Israeli-Palestinian conflict, one that addresses the core issues of borders, settlements, and security. The fact that the incident has been met with relative silence from the Israeli government raises concerns about their commitment to protecting the rights of Palestinian civilians.\n\nBackground\nThe village of Qusra has been a flashpoint for tensions between Israeli settlers and Palestinian civilians in recent years. The village is located near several Israeli settlements, and there have been numerous incidents of violence and harassment reported in the area. The Israeli military has a significant presence in the area, with checkpoints and roadblocks restricting the movement of Palestinian civilians. The Palestinian families affected by the incident have been living in the area for generations, and have repeatedly faced harassment and intimidation from Israeli settlers. The incident is the latest in a long line of disputes over land ownership in the area, with Israeli settlers claiming that the land belongs to them and Palestinian civilians arguing that it is their ancestral home. The history of the conflict in the area is complex, with both sides having competing claims and narratives. However, the fact that Israeli settlers are able to use violence and intimidation to assert their claims raises concerns about the balance of power in the region.\n\nNext developments\nThe incident in Qusra is likely to have significant consequences for the affected families and the wider region. The Palestinian families affected by the incident are likely to face ongoing harassment and intimidation from Israeli settlers, and may be forced to abandon their homes. The Israeli government may face increased pressure from the international community to take action to protect the rights of Palestinian civilians, particularly in areas where they are vulnerable to settler violence. The incident may also have implications for the peace process, with many Palestinians viewing the construction of Israeli settlements in the West Bank as a major obstacle to peace. In the coming days, human rights organizations and international diplomats are likely to visit the area to assess the situation and call for calm. The Israeli government may also face calls to investigate the incident and hold those responsible to account. The fact that the incident has sparked widespread condemnation from the international community raises hopes that it may serve as a catalyst for renewed efforts to address the underlying issues driving the conflict.\n\nKey Takeaway\nThe incident in Qusra is a stark reminder of the ongoing tensions between Israeli settlers and Palestinian civilians in the West Bank. The fact that Israeli settlers are able to blockade the homes of Palestinian families with apparent impunity raises concerns about the rule of law and the protection of human rights in the region. As the international community calls for calm and restraint, it is clear that a lasting solution to the Israeli-Palestinian conflict will require a fundamental shift in the dynamics of the region, one that addresses the core issues of borders, settlements, and security. The incident in Qusra is a wake-up call for the international community to take action to protect the rights of Palestinian civilians and to work towards a just and lasting peace in the region. The fact that the incident has sparked widespread condemnation raises hopes that it may serve as a catalyst for renewed efforts to address the underlying issues driving the conflict. However, the fact that the incident has been met with relative silence from the Israeli government raises concerns about their commitment to protecting the rights of Palestinian civilians.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-13",
+    "time": "05:27",
+    "reading_time": "5 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Israeli settlers are involved",
+      "Three Palestinian families are affected",
+      "The incident is located in Qusra, West Bank"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=100",
+    "featured": true
+  },
+  {
     "id": 99,
     "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
     "summary": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
@@ -20,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=99",
-    "featured": true
+    "featured": false
   },
   {
     "id": 98,

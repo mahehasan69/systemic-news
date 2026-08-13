@@ -1,5 +1,28 @@
 [
   {
+    "id": 105,
+    "title": "Water bills set to rise for many after firms permitted extra funding",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-13",
+    "time": "12:40",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Water bills are set to rise",
+      "Firms have been permitted extra funding"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=105",
+    "featured": true
+  },
+  {
     "id": 104,
     "title": "Met chief accepts mistakes made over Simon Levy but defends investigation into murders",
     "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and smoothing out the transitions.",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=104",
-    "featured": true
+    "featured": false
   },
   {
     "id": 103,
@@ -2220,28 +2243,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=6",
-    "featured": false
-  },
-  {
-    "id": 5,
-    "title": "Turkiye, Saudi Arabi, Pakistan sign joint defence agreement: What’s in it?",
-    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
-    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
-    "category": "🌍 World",
-    "image": "assets/images/placeholder.jpg",
-    "date": "2026-08-07",
-    "time": "14:09",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Turkiye, Saudi Arabia, and Pakistan have signed a joint defence agreement"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=5",
     "featured": false
   }
 ]

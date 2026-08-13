@@ -1,5 +1,28 @@
 [
   {
+    "id": 99,
+    "title": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+    "summary": "Temperatures to soar to 38C as amber extreme heat warning comes into force",
+    "content": "Temperatures to soar to 38C as amber extreme heat warning comes into force\n\nA severe heatwave is gripping the nation, with temperatures expected to reach a scorching 38C, prompting the issuance of an amber extreme heat warning. The warning, which comes into effect today, signals a potentially life-threatening heat event that will impact millions of people across the country. As the mercury rises, concerns are growing about the potential consequences for vulnerable populations, including the elderly, young children, and those with pre-existing medical conditions.\n\nWhat happened is that a high-pressure system has settled over the region, bringing with it a mass of hot air from continental Europe. This has led to a rapid increase in temperatures, with some areas already experiencing temperatures above 35C. The amber warning, issued by the national weather service, indicates that the heatwave is expected to intensify over the next 48 hours, with temperatures reaching potentially record-breaking levels. Why this happened is due to a combination of climate change and weather patterns, which have created a perfect storm of heat and dryness. The warning matters because it highlights the need for people to take precautions to protect themselves from the heat, particularly those who are most vulnerable.\n\nThe background to this heatwave is complex, involving a mix of long-term climate trends and short-term weather patterns. Climate change is playing a significant role, as rising global temperatures are leading to more frequent and intense heatwaves. Additionally, the current weather pattern, which involves a high-pressure system dominating the region, is contributing to the heatwave. This pattern is expected to persist for several days, leading to a prolonged period of hot weather. Why this matters is that it underscores the need for urgent action to address climate change, as well as the importance of having effective heatwave mitigation strategies in place.\n\nNext developments will be closely watched, as the heatwave is expected to have significant impacts on various aspects of society. The warning will remain in place for at least the next 48 hours, during which time temperatures are expected to continue rising. The government has announced plans to activate heatwave emergency response plans, which will include measures such as opening cooling centers and providing additional support to vulnerable populations. What happens next will depend on the effectiveness of these measures, as well as the ability of individuals to take necessary precautions to protect themselves from the heat.\n\nThe key takeaway from this heatwave is that it serves as a stark reminder of the need to take climate change seriously and to develop effective strategies for mitigating its impacts. As the world continues to warm, heatwaves like this one will become more frequent and intense, posing significant risks to human health and well-being. The issuance of the amber extreme heat warning is a wake-up call, highlighting the need for collective action to address this critical issue. As the nation struggles to cope with the heat, it is essential that we learn from this experience and work towards creating a more resilient and sustainable future.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-13",
+    "time": "03:22",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "An amber extreme heat warning has been issued",
+      "Temperatures are expected to reach 38C"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=99",
+    "featured": true
+  },
+  {
     "id": 98,
     "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
     "summary": "Travis Kelce shares first comments on his 'crazy' wedding to Taylor Swift",
@@ -21,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=98",
-    "featured": true
+    "featured": false
   },
   {
     "id": 97,

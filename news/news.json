@@ -1,5 +1,28 @@
 [
   {
+    "id": 107,
+    "title": "The key signs you may have damaged your eyes by looking at the eclipse",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-13",
+    "time": "15:47",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The article is from the BBC",
+      "The article is about eclipse eye damage"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=107",
+    "featured": true
+  },
+  {
     "id": 106,
     "title": "Man, 102, dies after alleged pub assault",
     "summary": "**Tragedy Strikes: 102-Year-Old Man Loses Life in Welsh Pub Assault**",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=106",
-    "featured": true
+    "featured": false
   },
   {
     "id": 105,
@@ -2219,29 +2242,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=8",
-    "featured": false
-  },
-  {
-    "id": 7,
-    "title": "How police let a registered sex offender murder and attack women",
-    "summary": "",
-    "content": "Unable to generate article.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-07",
-    "time": "16:46",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Rep. Ogles has renewed a call for the National Guard in Nashville",
-      "A sex offender is accused of attacking a woman after a concert"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=7",
     "featured": false
   }
 ]

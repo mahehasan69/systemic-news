@@ -1,5 +1,27 @@
 [
   {
+    "id": 103,
+    "title": "Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-13",
+    "time": "10:02",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russian strikes on grain ships"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=103",
+    "featured": true
+  },
+  {
     "id": 102,
     "title": "UK economy grows between April and June but experts warn of challenges in coming months",
     "summary": "Economy grew in April to June as sun and World Cup helped some UK businesses",
@@ -24,7 +46,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=102",
-    "featured": true
+    "featured": false
   },
   {
     "id": 101,
@@ -2224,27 +2246,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=4",
-    "featured": false
-  },
-  {
-    "id": 3,
-    "title": "Academics call for independent inquiry into Jason Arday's Cambridge appointment",
-    "summary": "Please provide the article you would like me to improve, and I will revise it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
-    "content": "Please provide the article you would like me to improve, and I will revise it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-07",
-    "time": "11:40",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 0,
-    "facts": [
-      "Multiple articles have been studied",
-      "Investigation is ongoing"
-    ],
-    "timeline": [],
-    "sources": [],
-    "url": "article.html?id=3",
     "featured": false
   }
 ]

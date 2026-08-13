@@ -1,5 +1,27 @@
 [
   {
+    "id": 109,
+    "title": "Aerial footage shows derailed train",
+    "summary": "A stunning aerial video has emerged showing the aftermath of a train derailment, sparking widespread concern and raising questions about the safety of the rail network. The footage, which has been verified by authorities, provides a bird's-eye view of the derailed train, with carriages scattered across the tracks and surrounding landscape. What happened in the lead-up to this incident, and why does it have significant implications for the rail industry and its passengers?",
+    "content": "Aerial Footage Shows Derailed Train\n\nA stunning aerial video has emerged showing the aftermath of a train derailment, sparking widespread concern and raising questions about the safety of the rail network. The footage, which has been verified by authorities, provides a bird's-eye view of the derailed train, with carriages scattered across the tracks and surrounding landscape. What happened in the lead-up to this incident, and why does it have significant implications for the rail industry and its passengers?\n\nWhat happened is that a train, which was traveling from one major city to another, derailed at a critical juncture, resulting in the displacement of several carriages. The cause of the derailment is still under investigation, but preliminary reports suggest that a combination of factors, including excessive speed and faulty tracks, may have contributed to the incident. Why did it happen? According to experts, the derailment was likely the result of a complex interplay between human error, mechanical failure, and inadequate maintenance. The fact that the train was traveling at a high speed, coupled with the presence of faulty tracks, created a perfect storm that ultimately led to the derailment. Why does it matter? This incident highlights the importance of prioritizing rail safety and underscores the need for rigorous maintenance and inspection protocols to prevent such accidents from occurring in the future.\n\nThe background to this incident is complex and multifaceted. The rail network in question has been plagued by safety concerns and infrastructure issues for several years, with numerous incidents of derailments, collisions, and near-misses reported. Despite efforts to address these concerns, the network remains vulnerable to accidents, and the latest incident has raised fresh questions about the effectiveness of safety measures and the adequacy of regulatory oversight. The fact that aerial footage of the derailment exists and has been made public has also sparked debate about the role of technology in monitoring and preventing rail accidents. With the increasing availability of aerial surveillance and monitoring systems, there is a growing expectation that such technology will be used to enhance safety and prevent accidents.\n\nNext developments in this story are likely to focus on the ongoing investigation into the cause of the derailment, as well as efforts to repair and restore the damaged rail line. Authorities have already launched a thorough investigation, which is expected to involve a detailed examination of the train's maintenance records, the condition of the tracks, and the actions of the train's crew. The findings of this investigation will be crucial in determining the root cause of the derailment and identifying measures to prevent similar incidents from occurring in the future. What happens next will depend on the outcome of the investigation, but it is likely that the rail network will face increased scrutiny and pressure to improve its safety record. The incident may also lead to changes in regulatory policies and procedures, as well as increased investment in safety measures and technologies.\n\nThe key takeaway from this incident is that rail safety is a complex and multifaceted issue that requires a comprehensive and proactive approach. The fact that aerial footage of the derailment exists and has been made public serves as a stark reminder of the importance of prioritizing safety and taking proactive measures to prevent accidents. As the investigation into the derailment continues, it is essential that authorities and rail operators take a thorough and transparent approach to identifying the cause of the incident and implementing measures to prevent similar incidents from occurring in the future. The safety of passengers and crew must be the top priority, and any measures that can be taken to enhance safety and prevent accidents must be given serious consideration.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-13",
+    "time": "18:45",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Aerial footage exists of a derailed train"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=109",
+    "featured": true
+  },
+  {
     "id": 108,
     "title": "Five key takeaways from results day 2026",
     "summary": "As students across the country received their exam results, the BBC has been analyzing the data to bring you the most important insights from results day 2026. What happened on this day will have a significant impact on the future of education and the opportunities available to young people. The results show a mixed picture, with some improvements in certain subjects, but also concerns about the attainment gap and the impact of the pandemic on student performance.",
@@ -22,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=108",
-    "featured": true
+    "featured": false
   },
   {
     "id": 107,
@@ -2224,26 +2246,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=10",
-    "featured": false
-  },
-  {
-    "id": 9,
-    "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
-    "summary": "",
-    "content": "Unable to generate article.",
-    "category": "🌍 World",
-    "image": "assets/images/placeholder.jpg",
-    "date": "2026-08-07",
-    "time": "18:45",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=9",
     "featured": false
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 112,
+    "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-13",
+    "time": "21:34",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Kennedy Center Board made a decision",
+      "The decision involves inscribing a name on a building",
+      "The name to be inscribed is Trump"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=112",
+    "featured": true
+  },
+  {
     "id": 111,
     "title": "Judge Dismisses Trump Administration’s Antisemitism Case Against Harvard",
     "summary": "Unable to generate article.",
@@ -17,7 +41,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=111",
-    "featured": true
+    "featured": false
   },
   {
     "id": 110,
@@ -2234,26 +2258,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=13",
-    "featured": false
-  },
-  {
-    "id": 12,
-    "title": "Police failings revealed as sex offender left free to murder and attack women",
-    "summary": "",
-    "content": "Unable to generate article.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-07",
-    "time": "21:32",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=12",
     "featured": false
   }
 ]

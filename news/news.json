@@ -1,5 +1,33 @@
 [
   {
+    "id": 110,
+    "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-13",
+    "time": "19:50",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The UK experienced its hottest day of the year",
+      "A temperature of 38.1C was recorded in Kew Gardens"
+    ],
+    "timeline": [
+      {
+        "date": "unknown",
+        "event": "The UK experienced its hottest day of the year"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=110",
+    "featured": true
+  },
+  {
     "id": 109,
     "title": "Aerial footage shows derailed train",
     "summary": "A stunning aerial video has emerged showing the aftermath of a train derailment, sparking widespread concern and raising questions about the safety of the rail network. The footage, which has been verified by authorities, provides a bird's-eye view of the derailed train, with carriages scattered across the tracks and surrounding landscape. What happened in the lead-up to this incident, and why does it have significant implications for the rail industry and its passengers?",
@@ -19,7 +47,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=109",
-    "featured": true
+    "featured": false
   },
   {
     "id": 108,
@@ -2226,26 +2254,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=11",
-    "featured": false
-  },
-  {
-    "id": 10,
-    "title": "How police left a registered sex offender free to murder and attack women",
-    "summary": "",
-    "content": "Unable to generate article.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-07",
-    "time": "19:48",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=10",
     "featured": false
   }
 ]

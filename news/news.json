@@ -1,5 +1,28 @@
 [
   {
+    "id": 131,
+    "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
+    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-14",
+    "time": "21:15",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jason Arday was a former Cambridge university professor",
+      "Jason Arday was found dead"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=131",
+    "featured": true
+  },
+  {
     "id": 130,
     "title": "DOJ Charges Kentucky Woman in World War II Memorial Vandalism Case",
     "summary": "Unable to generate article.",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=130",
-    "featured": true
+    "featured": false
   },
   {
     "id": 129,
@@ -2244,26 +2267,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=32",
-    "featured": false
-  },
-  {
-    "id": 31,
-    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud",
-    "content": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud\n\nLead: In a historic move, top financial regulators from around the world have joined forces to tackle the escalating issue of cryptocurrency fraud, which has resulted in billions of dollars in losses for unsuspecting investors. This unprecedented collaboration aims to create a unified framework for regulating and monitoring cryptocurrency transactions, making it more difficult for scammers to operate undetected.\n\nWhat happened: Over the past year, the number of reported cryptocurrency fraud cases has skyrocketed, with many victims losing their life savings to sophisticated scams. The lack of clear regulations and oversight has allowed these scammers to thrive, exploiting the anonymity and complexity of cryptocurrency transactions. In response, financial regulators from major countries, including the United States, China, and the European Union, have come together to share intelligence, best practices, and resources to combat this growing threat. A series of high-level meetings and workshops have been held to discuss the scope of the problem, identify vulnerabilities, and develop a comprehensive strategy to prevent and prosecute cryptocurrency fraud.\n\nWhy this matters: The rise of cryptocurrency fraud has significant implications for the stability of the global financial system. As more people invest in cryptocurrencies, the potential for massive losses due to scams increases, which can erode trust in the financial system and have far-reaching consequences for the economy. Furthermore, the anonymity of cryptocurrency transactions makes it challenging for law enforcement agencies to track and prosecute scammers, allowing them to operate with relative impunity. By working together, financial regulators can pool their expertise and resources to create a more robust and effective framework for preventing and detecting cryptocurrency fraud, protecting investors and maintaining the integrity of the financial system.\n\nBackground: The cryptocurrency market has experienced rapid growth over the past decade, with the value of Bitcoin and other digital currencies soaring to unprecedented heights. However, this growth has also attracted a large number of scammers and fraudsters, who have developed sophisticated techniques to exploit unsuspecting investors. The lack of clear regulations and oversight has allowed these scammers to operate with relative ease, using tactics such as phishing, Ponzi schemes, and fake investment opportunities to swindle victims out of their money. As the cryptocurrency market continues to evolve, it is essential that financial regulators keep pace, developing effective strategies to prevent and prosecute fraud, and protecting investors from the risks associated with this rapidly changing landscape.\n\nNext developments: The newly formed coalition of financial regulators is expected to announce a series of measures to combat cryptocurrency fraud, including the creation of a global database to track and monitor suspicious transactions, the development of standardized guidelines for cryptocurrency exchanges and wallet providers, and the establishment of a task force to investigate and prosecute major scams. Additionally, regulators will work with law enforcement agencies to develop more effective strategies for tracking and apprehending scammers, and will engage with the cryptocurrency industry to promote best practices and raise awareness about the risks of fraud. As the coalition continues to work together, it is likely that we will see a significant increase in the number of prosecutions and convictions related to cryptocurrency fraud, as well as a reduction in the number of reported scams.\n\nKey Takeaway: The formation of a global coalition to combat cryptocurrency fraud marks a significant turning point in the fight against this growing threat. By working together, financial regulators can create a more robust and effective framework for preventing and detecting fraud, protecting investors, and maintaining the integrity of the financial system. As the cryptocurrency market continues to evolve, it is essential that regulators keep pace, developing effective strategies to address the risks associated with this rapidly changing landscape. The success of this coalition will depend on the ability of regulators to work together, share intelligence, and develop a unified approach to combating cryptocurrency fraud, and it is likely that we will see significant progress in the coming months and years.",
-    "category": "💰 Finance",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "16:20",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=31",
     "featured": false
   }
 ]

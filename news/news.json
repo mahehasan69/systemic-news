@@ -1,5 +1,27 @@
 [
   {
+    "id": 129,
+    "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+    "summary": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+    "content": "HEADLINE\nTrump Administration Asks Supreme Court to Greenlight White House Ballroom\n\nIn a surprise move, the Trump Administration has petitioned the Supreme Court to intervene in a longstanding dispute over the use of the White House ballroom, sparking controversy and raising questions about the limits of executive power. The request, submitted earlier this week, seeks to overturn a lower court ruling that restricted the Administration's ability to use the historic space for certain events.\n\nWhat happened is that the Trump Administration, citing national security and logistical concerns, had attempted to use the White House ballroom for a high-profile gathering, only to be blocked by a federal judge who ruled that such use would violate longstanding protocols and traditions. The Administration, undeterred, has now taken its case to the highest court in the land, arguing that the lower court overstepped its authority and that the President has the inherent right to use the White House as he sees fit. Why it happened is rooted in a complex web of politics, power, and precedent, with the Administration seeking to assert its dominance over the other branches of government. Why it matters is that the outcome of this case could have far-reaching implications for the balance of power in Washington, potentially setting a precedent for future Administrations to disregard established norms and protocols.\n\nThe background to this dispute is complex and multifaceted, involving a delicate interplay of history, tradition, and constitutional law. The White House ballroom has long been a symbol of American democracy and civic pride, hosting countless state dinners, receptions, and other high-profile events over the years. However, its use has always been subject to certain restrictions and guidelines, designed to ensure that the space is used in a manner consistent with its historical significance and the principles of transparency and accountability. The Trump Administration's efforts to use the ballroom for its own purposes, without regard for these protocols, has sparked outrage and concern among lawmakers, historians, and the general public. What changes now is that the Supreme Court's decision, whichever way it goes, will likely have a profound impact on the way the White House is used and perceived, potentially altering the very fabric of American politics and society.\n\nAs the case makes its way through the Supreme Court, next developments are likely to be closely watched and intensely scrutinized. The Court's ruling, expected in the coming months, will either uphold the lower court's decision and restrict the Administration's use of the ballroom, or overturn it and grant the President sweeping new powers to use the White House as he sees fit. Either way, the consequences will be significant, with potential implications for the balance of power, the rule of law, and the very notion of democratic accountability. What happens next is that the Supreme Court will review the Administration's petition, consider oral arguments, and render a decision that will be binding and final. The Court's ruling will likely be subject to intense media scrutiny and public debate, with lawmakers, pundits, and ordinary citizens weighing in on the implications and consequences of the decision.\n\nThe key takeaway from this development is that the Trump Administration's request to the Supreme Court represents a bold and potentially transformative move, one that could reshape the contours of American politics and society for years to come. As the nation waits with bated breath for the Supreme Court's decision, one thing is clear: the outcome of this case will have far-reaching implications, not just for the White House and the Trump Administration, but for the very fabric of American democracy itself. The ruling will either reaffirm the importance of tradition, protocol, and the rule of law, or it will grant the President unprecedented new powers, potentially undermining the system of checks and balances that has long been a hallmark of American governance.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-14",
+    "time": "19:42",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Trump Administration has made a request to the Supreme Court"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=129",
+    "featured": true
+  },
+  {
     "id": 128,
     "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
     "summary": "Unable to generate article.",
@@ -21,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=128",
-    "featured": true
+    "featured": false
   },
   {
     "id": 127,
@@ -2245,26 +2267,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=30",
-    "featured": false
-  },
-  {
-    "id": 29,
-    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "summary": "Unable to generate article.",
-    "content": "Unable to generate article.",
-    "category": "🌍 World",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "14:24",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=29",
     "featured": false
   }
 ]

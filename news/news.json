@@ -1,5 +1,28 @@
 [
   {
+    "id": 119,
+    "title": "Watch: Video shows scale of devastation in Stourbridge",
+    "summary": "Please provide the article you would like me to improve, and I will transform it into a compelling, emotional, and human piece while maintaining the accuracy of the facts and ensuring a smooth flow of transitions.",
+    "content": "Please provide the article you would like me to improve, and I will transform it into a compelling, emotional, and human piece while maintaining the accuracy of the facts and ensuring a smooth flow of transitions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-14",
+    "time": "08:56",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Homes in Stourbridge have been destroyed",
+      "The destruction was caused by wildfires"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=119",
+    "featured": true
+  },
+  {
     "id": 118,
     "title": "Farage's by-election victory won't stop questions about finances",
     "summary": "Nigel Farage faces off against Count Binface in special election",
@@ -21,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=118",
-    "featured": true
+    "featured": false
   },
   {
     "id": 117,
@@ -2234,30 +2257,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=20",
-    "featured": false
-  },
-  {
-    "id": 19,
-    "title": "Andy Burnham to embark on cost of living tour through the UK",
-    "summary": "Andy Burnham to Embark on Cost of Living Tour: A Journey to the Heart of the Crisis",
-    "content": "Andy Burnham to Embark on Cost of Living Tour: A Journey to the Heart of the Crisis\n\nAs the cost of living crisis continues to tighten its grip on the UK, Andy Burnham, the Mayor of Greater Manchester, is taking a bold step to understand the human impact of this devastating issue. His nationwide tour, which will take him to every corner of the country, is a beacon of hope for those struggling to make ends meet. By listening to the stories of ordinary people, Burnham aims to shed light on the everyday challenges faced by individuals and families as they grapple with rising costs and stagnant incomes.\n\nThe timing of the tour couldn't be more critical. The UK is in the midst of a cost of living crisis, with prices of essential goods and services skyrocketing. The statistics are stark: food, housing, and transportation costs have risen exponentially, leaving many individuals and families on the brink of financial disaster. Burnham's decision to embark on this tour is a response to the growing desperation of the public, who are crying out for solutions to the escalating crisis. As he travels across the country, he will provide a platform for people to share their concerns, their fears, and their hopes for a better future.\n\nThe cost of living crisis is more than just a statistical trend; it's a human tragedy that affects millions of people across the UK. It's a mother who has to choose between feeding her children or paying the rent. It's a pensioner who has to decide between heating their home or buying medication. It's a family who has to sacrifice their dignity to access basic necessities. The crisis has a disproportionate impact on vulnerable populations, including low-income households, pensioners, and those living in poverty. By acknowledging the severity of the crisis, Burnham is taking a crucial step towards finding solutions that prioritize the needs and well-being of ordinary citizens.\n\nThe roots of the cost of living crisis are complex and multifaceted. Rising inflation, stagnant wages, and changes in government policies have all contributed to the perfect storm that is engulfing the UK. The COVID-19 pandemic has exacerbated the crisis, with lockdowns and supply chain disruptions leading to increased costs and reduced incomes. The UK's decision to leave the European Union has introduced new economic uncertainties, which have further fueled the crisis. Against this backdrop, Burnham's tour takes on added significance, as it seeks to amplify the voices of those most affected by the crisis and push for meaningful policy changes that address the root causes of the problem.\n\nAs Burnham embarks on his journey, he will visit urban and rural areas, meeting with local residents, business owners, and community leaders. He will listen to their stories, gather their feedback, and use their insights to inform his policy proposals and advocacy efforts. In the coming weeks and months, Burnham will work tirelessly to push for changes that benefit those struggling with the cost of living. This may involve collaborating with policymakers, business leaders, and other stakeholders to develop and implement initiatives that address the root causes of the crisis, such as increasing the minimum wage, improving access to affordable housing, and enhancing social support services.\n\nThe announcement of Andy Burnham's cost of living tour marks a pivotal moment in the national conversation about the UK's escalating cost of living crisis. By putting the human face of the crisis at the forefront of the debate, Burnham is reminding us that this is not just a statistical trend, but a human tragedy that demands compassion, empathy, and action. As the tour gets underway, it will shine a spotlight on the devastating impact of the cost of living crisis, highlighting the need for policymakers to take bold and courageous action to address the root causes of the problem and ensure that everyone has access to a decent standard of living. The journey ahead will be long and challenging, but with Burnham's leadership, there is hope that together, we can build a better future for all.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "04:09",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Andy Burnham is embarking on a tour",
-      "The tour is related to the cost of living",
-      "The tour will take place in the UK"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=19",
     "featured": false
   }
 ]

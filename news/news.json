@@ -1,5 +1,28 @@
 [
   {
+    "id": 126,
+    "title": "Watch: Moment €9m worth of art stolen from Italy museum",
+    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-14",
+    "time": "16:39",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The theft occurred at a museum in Italy",
+      "The value of the stolen art is €9m"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=126",
+    "featured": true
+  },
+  {
     "id": 125,
     "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
     "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=125",
-    "featured": true
+    "featured": false
   },
   {
     "id": 124,
@@ -2233,29 +2256,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=27",
-    "featured": false
-  },
-  {
-    "id": 26,
-    "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-    "summary": "Suspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation",
-    "content": "HEADLINE\nSuspected crime boss Daniel Kinahan to be returned to Ireland in high-security operation\n\nIn a significant development, suspected crime boss Daniel Kinahan is set to be returned to Ireland as part of a high-security operation. This move is expected to send shockwaves through the Irish underworld, with many speculating about the potential implications of Kinahan's return. The operation, which is being carried out by Irish authorities, is shrouded in secrecy, with details of the exact timing and logistics being kept under wraps.\n\nWhat happened is that Daniel Kinahan, who has been living abroad for several years, has been deemed a high-priority target by Irish law enforcement. His suspected involvement in organized crime has made him a key figure in the Irish authorities' efforts to disrupt and dismantle criminal networks. The decision to return him to Ireland is likely the result of a lengthy investigation and cooperation between Irish and international law enforcement agencies. Why this happened is due to the Irish authorities' determination to bring Kinahan to justice and to disrupt his alleged criminal activities. The return of Kinahan to Ireland matters because it has the potential to significantly impact the balance of power within the Irish underworld, potentially leading to a period of instability and violence.\n\nThe background to this story is complex and multifaceted. Daniel Kinahan has been suspected of involvement in organized crime for many years, with allegations of money laundering, extortion, and other serious offenses. His rise to prominence in the Irish underworld has been marked by violence and intimidation, with many of his associates and rivals meeting with violent ends. The Irish authorities have been working tirelessly to build a case against Kinahan, gathering evidence and intelligence from a variety of sources. Why this matters is that the return of Kinahan to Ireland has the potential to destabilize the entire Irish underworld, leading to a period of uncertainty and potentially even violence. The potential consequences of this are far-reaching, with the potential to impact not just the criminal underworld but also the wider community.\n\nNext developments in this story are likely to be closely watched by law enforcement and the media. The high-security operation to return Kinahan to Ireland is expected to be a complex and potentially dangerous endeavor, with multiple agencies involved. The Irish authorities will need to be vigilant to ensure that Kinahan does not escape or cause harm to others during the operation. Once Kinahan is back in Ireland, he is likely to face a series of charges related to his alleged criminal activities. The prosecution's case against him will be built on evidence gathered over many years, and it is likely to be a lengthy and complex process. What happens next is that the Irish authorities will need to ensure that Kinahan is held in a secure facility, with measures in place to prevent him from communicating with his associates or orchestrating any further criminal activity.\n\nThe key takeaway from this story is that the return of Daniel Kinahan to Ireland marks a significant milestone in the Irish authorities' efforts to tackle organized crime. The operation to return him to Ireland is a testament to the determination and cooperation of law enforcement agencies, both domestically and internationally. As the story unfolds, it is likely that more details will emerge about Kinahan's alleged activities and the evidence against him. The potential consequences of his return are far-reaching, with the potential to impact not just the criminal underworld but also the wider community. What changes now is that the Irish underworld will likely be thrown into a period of instability and uncertainty, as Kinahan's associates and rivals jockey for position and power. The Irish authorities will need to be vigilant to ensure that this instability does not spill over into violence, and that the community is protected from any potential fallout.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "11:19",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Daniel Kinahan is a suspected crime boss",
-      "He is to be returned to Ireland"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=26",
     "featured": false
   }
 ]

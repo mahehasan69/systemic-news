@@ -1,5 +1,30 @@
 [
   {
+    "id": 127,
+    "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-14",
+    "time": "17:44",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Finlay Tarling was a British cyclist",
+      "Finlay Tarling was 19 years old",
+      "Finlay Tarling died in an accident",
+      "The accident occurred during the Volta a Portugal"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=127",
+    "featured": true
+  },
+  {
     "id": 126,
     "title": "Watch: Moment €9m worth of art stolen from Italy museum",
     "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
@@ -20,7 +45,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=126",
-    "featured": true
+    "featured": false
   },
   {
     "id": 125,
@@ -2236,26 +2261,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=28",
-    "featured": false
-  },
-  {
-    "id": 27,
-    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Risks",
-    "content": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Risks\n\nLead: In a historic move, top financial regulators from around the world have joined forces to tackle the growing threats posed by the largely unregulated cryptocurrency market, marking a significant shift in the way governments approach digital assets.\n\nWhat happened: The unprecedented collaboration, which includes regulators from the United States, Europe, and Asia, aims to establish a unified framework for overseeing the cryptocurrency sector, which has been plagued by instances of fraud, money laundering, and market volatility. According to sources, the regulators have been working behind the scenes for months to develop a comprehensive set of guidelines that will help to mitigate the risks associated with cryptocurrencies, such as Bitcoin and Ethereum. The move comes as the value of cryptocurrencies has skyrocketed in recent years, with the global market capitalization exceeding $2 trillion. The regulators' efforts are focused on creating a more transparent and secure environment for investors, while also ensuring that the benefits of cryptocurrencies, such as increased financial inclusion and innovation, are not undermined by illicit activities.\n\nWhy this matters: The regulators' decision to band together to address the cryptocurrency risks is a significant development, as it recognizes the global nature of the problem and the need for a coordinated response. The lack of clear regulations has created an environment in which bad actors have been able to thrive, putting investors at risk and undermining trust in the financial system. By establishing a unified framework, regulators can help to prevent the misuse of cryptocurrencies for illicit purposes, such as terrorist financing and money laundering, while also providing clarity and certainty for legitimate businesses and investors. This, in turn, can help to promote the development of the cryptocurrency sector in a way that is consistent with the values of transparency, accountability, and fairness.\n\nBackground: The cryptocurrency market has experienced rapid growth in recent years, with the value of Bitcoin, the largest cryptocurrency, increasing by over 1,000% since 2020. However, this growth has been accompanied by a rise in fraudulent activities, such as Ponzi schemes and phishing scams, which have resulted in significant financial losses for investors. Furthermore, the lack of clear regulations has created uncertainty and confusion among investors, businesses, and regulators, making it difficult to distinguish between legitimate and illegitimate activities. The regulators' efforts to establish a unified framework are aimed at addressing these challenges and creating a more stable and secure environment for the cryptocurrency sector to develop.\n\nNext developments: The regulators are expected to release a set of guidelines and recommendations in the coming months, which will provide a framework for the oversight of cryptocurrencies. These guidelines will likely include measures to prevent money laundering and terrorist financing, as well as requirements for transparency and disclosure. The regulators will also work with lawmakers to develop legislation that will provide a clear and consistent regulatory framework for cryptocurrencies. Additionally, the regulators will engage with industry stakeholders, including cryptocurrency exchanges, wallet providers, and other businesses, to ensure that their concerns and needs are taken into account. As the regulators move forward with their plans, they will face challenges, such as balancing the need for oversight with the need to promote innovation and entrepreneurship in the cryptocurrency sector.\n\nKey Takeaway: The global financial regulators' decision to unite and establish a unified framework for overseeing the cryptocurrency sector marks a significant shift in the way governments approach digital assets. The move recognizes the global nature of the problem and the need for a coordinated response to mitigate the risks associated with cryptocurrencies. As the regulators work to establish a more transparent and secure environment for investors, they will face challenges, but their efforts have the potential to promote the development of the cryptocurrency sector in a way that is consistent with the values of transparency, accountability, and fairness. The outcome of these efforts will be closely watched by investors, businesses, and regulators around the world, as the future of the cryptocurrency sector hangs in the balance.",
-    "category": "₿ Crypto",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "12:23",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=27",
     "featured": false
   }
 ]

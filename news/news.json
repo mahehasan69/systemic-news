@@ -1,5 +1,29 @@
 [
   {
+    "id": 128,
+    "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-14",
+    "time": "18:39",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Taliban has been in rule for five years"
+    ],
+    "timeline": [
+      "Five years of Taliban rule"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=128",
+    "featured": true
+  },
+  {
     "id": 127,
     "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
     "summary": "Unable to generate article.",
@@ -22,7 +46,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=127",
-    "featured": true
+    "featured": false
   },
   {
     "id": 126,
@@ -2241,26 +2265,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=29",
-    "featured": false
-  },
-  {
-    "id": 28,
-    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Risks",
-    "content": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Risks\n\nIn a historic move, top financial regulators from around the world have joined forces to tackle the growing concerns surrounding the cryptocurrency market. This unprecedented collaboration comes as the value of digital currencies continues to fluctuate wildly, leaving investors and governments on high alert. The regulators' decision to band together is a clear indication that the cryptocurrency market has become too big to ignore, and its potential impact on the global economy can no longer be underestimated.\n\nWhat happened is that the regulators, representing some of the world's most influential financial institutions, convened an emergency meeting to discuss the risks associated with cryptocurrencies. The meeting was prompted by a series of high-profile incidents, including a major cryptocurrency exchange hack and a significant decline in the value of a popular digital currency. During the meeting, the regulators shared their concerns and expertise, ultimately agreeing to work together to develop a comprehensive framework for regulating the cryptocurrency market. This framework will aim to protect investors, prevent money laundering, and mitigate the potential risks to the global financial system. Why this happened is due to the rapid growth and increasing complexity of the cryptocurrency market, which has outpaced the ability of individual regulators to keep up. The regulators realized that a unified approach was necessary to address the global nature of the cryptocurrency market and to prevent a potential crisis.\n\nWhy this matters is that the cryptocurrency market has grown exponentially in recent years, with millions of people around the world investing in digital currencies. The market's potential impact on the global economy is significant, and any major disruption could have far-reaching consequences. The regulators' decision to collaborate is a crucial step towards ensuring that the cryptocurrency market operates in a safe and transparent manner. By working together, the regulators can share knowledge, resources, and expertise, ultimately creating a more robust and effective regulatory framework. This, in turn, will help to build trust and confidence in the cryptocurrency market, which is essential for its long-term sustainability.\n\nBackground information on the cryptocurrency market reveals that it has been largely unregulated until now. The lack of clear guidelines and oversight has created an environment in which investors have been vulnerable to scams, hacks, and other forms of exploitation. Furthermore, the anonymity of cryptocurrency transactions has made it difficult for law enforcement agencies to track and prevent illicit activities, such as money laundering and terrorist financing. The regulators' decision to collaborate is a significant shift in approach, recognizing that the cryptocurrency market is not a fringe activity, but a major player in the global financial system. By acknowledging the market's importance, the regulators are taking a proactive approach to addressing the associated risks and ensuring that the market operates in a responsible and transparent manner.\n\nNext developments are expected to include the establishment of a joint task force, comprising representatives from each of the participating regulatory bodies. This task force will be responsible for developing and implementing the comprehensive framework for regulating the cryptocurrency market. The task force will also provide a platform for ongoing collaboration and information sharing, enabling the regulators to respond quickly and effectively to emerging trends and risks. Additionally, the regulators are expected to engage with industry stakeholders, including cryptocurrency exchanges, wallet providers, and other market participants, to ensure that the regulatory framework is practical and effective. What happens next will depend on the success of the task force in developing and implementing the regulatory framework, as well as the ability of the regulators to balance the need for oversight with the need to foster innovation and growth in the cryptocurrency market.\n\nKey Takeaway is that the regulators' decision to collaborate on cryptocurrency regulation marks a significant turning point in the development of the digital currency market. The move recognizes the market's growing importance and the need for a unified approach to addressing the associated risks. By working together, the regulators can create a more robust and effective regulatory framework, which will help to build trust and confidence in the cryptocurrency market. As the market continues to evolve, it is likely that the regulators will face new challenges and opportunities, and their ability to adapt and respond will be crucial in shaping the future of the cryptocurrency market. Ultimately, the success of the regulatory framework will depend on the regulators' ability to balance the need for oversight with the need to foster innovation and growth, ensuring that the cryptocurrency market operates in a safe, transparent, and responsible manner.",
-    "category": "💰 Finance",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "13:41",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=28",
     "featured": false
   }
 ]

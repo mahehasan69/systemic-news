@@ -1,5 +1,28 @@
 [
   {
+    "id": 115,
+    "title": "Multiple fires destroy homes and cause devastation in West Midlands",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-14",
+    "time": "00:52",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Multiple fires occurred",
+      "Location: West Midlands"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=115",
+    "featured": true
+  },
+  {
     "id": 114,
     "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
     "summary": "Government Agencies Under Fire for Mishandling Sensitive Information, Sparking Widespread Concerns Over National Security",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=114",
-    "featured": true
+    "featured": false
   },
   {
     "id": 113,
@@ -2236,29 +2259,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=16",
-    "featured": false
-  },
-  {
-    "id": 15,
-    "title": "Victims urged to come forward as police accused of 'litany of failures' over murderer and rapist",
-    "summary": "**Levy Victims Urged to Come Forward as Police Face Scathing Criticism**",
-    "content": "**Levy Victims Urged to Come Forward as Police Face Scathing Criticism**\n\nA devastating report has exposed a shocking \"litany of failures\" by the police in their handling of the Levy case, leaving a trail of shattered trust and broken lives in its wake. The damning findings have sparked a heartfelt plea for victims to share their stories, as the community struggles to come to terms with the inadequacies of the police response. This painful reckoning is the culmination of a prolonged investigation, which has laid bare the systemic flaws and institutional weaknesses that allowed these failures to occur.\n\nThe police's mishandling of the Levy case has had a profound impact on the community, causing a deep-seated breakdown in trust between the authorities and the people they are sworn to protect. At the root of this crisis lies a toxic combination of inadequate training, insufficient resources, and a lack of effective communication. A culture of complacency has allowed these shortcomings to fester, unchecked and unchallenged. The consequences of these failures are far-reaching and devastating, eroding trust and undermining public safety.\n\nFor the victims and their families, the experience has been one of prolonged frustration and disillusionment. Their concerns were ignored or dismissed by the authorities, leaving them feeling helpless and betrayed. The police response was characterized by a staggering lack of empathy and understanding, exacerbating the trauma and heartache that these families have endured. As the investigation unfolded, it became clear that the police had failed to follow even the most basic protocols, leading to a series of mistakes and oversights that have had a lasting impact on the community.\n\nThe fallout from this case has been profound, undermining confidence in the police and creating a sense of vulnerability among the public. The police are expected to uphold the highest standards of integrity and professionalism, and their failures have had a corrosive effect on the social fabric. The community is now looking to the authorities to take concrete steps to address these failures and restore trust. This will require a fundamental overhaul of police procedures and protocols, including enhanced training programs, improved communication channels, and increased accountability measures.\n\nAs the police strive to regain the trust of the community, they must prioritize openness, empathy, and a commitment to upholding the highest standards of professionalism. The call for victims to come forward is a crucial step in this process, allowing their voices to be heard and their experiences to be acknowledged. By doing so, the police can begin to rebuild trust and work towards a more just and equitable society. The key takeaway from this case is that police accountability and transparency are essential for maintaining public trust and ensuring that justice is served. The Levy case serves as a stark reminder of the need for vigilance and oversight, to prevent similar failures from occurring in the future. Only by confronting the past and learning from its mistakes can the police hope to heal the wounds of the community and restore faith in their ability to protect and serve.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-08",
-    "time": "22:16",
-    "reading_time": "3 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Police accused of failures",
-      "Victims of Levy urged to come forward"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=15",
     "featured": false
   }
 ]

@@ -1,5 +1,28 @@
 [
   {
+    "id": 120,
+    "title": "'Unprecedented' rain in Japan kills six people",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-14",
+    "time": "09:50",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Four people killed in Japan due to rain",
+      "Thousands of people stranded at an airport in Japan"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=120",
+    "featured": true
+  },
+  {
     "id": 119,
     "title": "Watch: Video shows scale of devastation in Stourbridge",
     "summary": "Please provide the article you would like me to improve, and I will transform it into a compelling, emotional, and human piece while maintaining the accuracy of the facts and ensuring a smooth flow of transitions.",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=119",
-    "featured": true
+    "featured": false
   },
   {
     "id": 118,
@@ -2233,30 +2256,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=21",
-    "featured": false
-  },
-  {
-    "id": 20,
-    "title": "Andy Burnham to embark on cost of living tour through the UK",
-    "summary": "Andy Burnham Embarks on a Journey to Expose the Human Cost of the UK's Growing Crisis",
-    "content": "Andy Burnham Embarks on a Journey to Expose the Human Cost of the UK's Growing Crisis\n\nAs the UK grapples with the harsh realities of soaring energy bills, rising food prices, and stagnant wages, Andy Burnham, the Mayor of Greater Manchester, is taking a bold step to shine a light on the devastating impact of the cost of living crisis on families across the country. His nationwide tour is a heartfelt attempt to listen to the stories of those struggling to make ends meet, and to push for tangible solutions to alleviate the financial burden that's crippling households.\n\nFor many, the cost of living crisis is more than just a statistic – it's a constant, gnawing worry that's eroding their sense of security and dignity. Burnham's tour is a powerful acknowledgment of the human cost of this crisis, and a testament to his commitment to fighting for the rights of ordinary people. By traveling to towns and cities across the UK, he's taking his campaign to the streets, literally, to engage with local communities, and to gather firsthand accounts of the crisis's brutal impact on daily lives.\n\nThe reasons behind Burnham's decision to embark on this tour are deeply personal. He's driven by a desire to raise awareness about the severity of the crisis, and to mobilize public support for policy changes that can provide relief to those struggling. The crisis has far-reaching consequences, affecting not only people's health and wellbeing but also their ability to participate in the economy. As Burnham listens to the stories of those affected, he's likely to hear tales of impossible choices: heating or eating, paying rent or buying food. These are the stark realities of a crisis that's been years in the making.\n\nThe UK's perfect storm of economic challenges – Brexit, the COVID-19 pandemic, and the ongoing conflict in Ukraine – has created a toxic mix that's exacerbated the cost of living crisis. Years of austerity measures have eroded the social safety net, leaving many vulnerable households without a financial cushion to fall back on. Burnham's tour is an attempt to humanize the statistics, to put a face to the numbers, and to share the stories of those who are struggling to cope. By doing so, he's hoping to galvanize public opinion, and to push policymakers to rethink their approach to addressing the crisis.\n\nAs the tour progresses, it's likely to attract significant media attention, amplifying the message and reaching a wider audience. The next developments will depend on the feedback and responses that Burnham receives, as well as the level of support he's able to garner from other politicians, community leaders, and grassroots organizations. The tour may lead to the formation of new alliances and partnerships, which could help drive policy changes and secure concrete commitments from those in power. The outcome will be crucial in determining the impact and legacy of the tour.\n\nThe key takeaway from this story is that the cost of living crisis is not just an economic issue – it's a deeply human one, requiring a compassionate and empathetic response. Burnham's tour is a powerful signal that he's committed to listening to the concerns of ordinary people, and to fighting for their rights. As the tour unfolds, it will be essential to watch for signs of how it's being received, both by those directly affected by the crisis and by those who can influence policy. The success of the tour will be measured by its ability to inspire meaningful change, and to improve the lives of those struggling to cope with the cost of living crisis. Ultimately, it's a journey that has the potential to spark a national conversation, and to bring about a more just and equitable society for all.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "05:40",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Andy Burnham is embarking on a tour",
-      "The tour is related to the cost of living",
-      "The tour will take place in the UK"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=20",
     "featured": false
   }
 ]

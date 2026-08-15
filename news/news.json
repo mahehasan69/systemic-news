@@ -1,5 +1,27 @@
 [
   {
+    "id": 144,
+    "title": "Analysis: Arday's death will send shockwaves through a divided academia",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-15",
+    "time": "11:08",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jason Arday is deceased"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=144",
+    "featured": true
+  },
+  {
     "id": 143,
     "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
     "summary": "Please provide the article you would like me to improve, and I will refine it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
@@ -20,7 +42,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=143",
-    "featured": true
+    "featured": false
   },
   {
     "id": 142,
@@ -2245,28 +2267,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=45",
-    "featured": false
-  },
-  {
-    "id": 44,
-    "title": "Record 230 people cross Channel in one small boat",
-    "summary": "A Heart-Wrenching Record: 230 Migrants Brave the English Channel in a Single Small Boat",
-    "content": "A Heart-Wrenching Record: 230 Migrants Brave the English Channel in a Single Small Boat\n\nYesterday, the English Channel witnessed a staggering and perilous journey, as a record 230 migrants packed into a single small boat, desperate to reach the UK. This unprecedented crossing has left authorities reeling and raised serious concerns about the safety of those attempting to make this treacherous journey. The incident has sparked a heated debate about the government's immigration policies, highlighting the need for more effective and compassionate measures to prevent such dangerous crossings.\n\nAs the small boat, designed to carry only a fraction of its occupants, set off from the coast of France, the migrants on board embarked on a journey driven by a mix of hope and desperation. Fleeing poverty, conflict, and persecution in their home countries, these individuals risked everything in search of a better future. The vessel was eventually intercepted by the UK's Border Force, and the passengers were taken ashore, where they received medical attention and food. However, the reasons behind this massive crossing are complex and multifaceted, and it is clear that a deeper understanding of the root causes of migration is needed to address this crisis.\n\nThe story of these 230 migrants is a stark reminder of the human cost of the ongoing migration crisis. In recent years, the UK has seen an increase in the number of migrants attempting to cross the Channel, with many more likely to follow. The UK government has implemented various measures to deter these crossings, including increased patrols and cooperation with French authorities. However, these efforts have had limited success, and it is clear that a more comprehensive approach is needed. The push factors driving migration, such as war, poverty, and persecution, remain unresolved, while the pull factors, including the prospect of a better life and the presence of established migrant communities, continue to attract people to the UK.\n\nAs the UK government grapples with the implications of this record crossing, it is clear that a new approach is needed to address the complex issues surrounding migration. The fact that 230 people were willing to risk their lives to cross the Channel in a single small boat is a wake-up call for policymakers to rethink their approach to migration. It is a stark reminder of the desperation and vulnerability of those seeking to reach the UK and the need for a more compassionate and effective approach to addressing the root causes of migration. The UK government must consider the need to balance the protection of national borders with the protection of human life and dignity.\n\nThe days and weeks ahead will be crucial in determining the UK's response to this crisis. The government may come under pressure to revisit its approach to migration, including the possibility of introducing more humane and effective asylum procedures. There may also be calls for increased cooperation with international partners to address the root causes of migration and to provide support to countries of origin. As the UK navigates this complex issue, it is essential to remember the human faces behind the statistics. The story of these 230 migrants is a powerful reminder of the need for a more compassionate and effective approach to migration, one that prioritizes the safety and dignity of all individuals, regardless of their nationality or immigration status. Ultimately, it is a call to action, urging policymakers to work towards a more just and humane solution to the migration crisis, one that balances the needs of the nation with the needs of the human heart.",
-    "category": "🌍 World",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-10",
-    "time": "10:55",
-    "reading_time": "3 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "230 people crossed the Channel in one small boat"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=44",
     "featured": false
   }
 ]

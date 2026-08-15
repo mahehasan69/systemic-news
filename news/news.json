@@ -1,5 +1,28 @@
 [
   {
+    "id": 156,
+    "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-15",
+    "time": "23:10",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "China is pushing to expand in Asia",
+      "Trump is focusing on Iran"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=156",
+    "featured": true
+  },
+  {
     "id": 155,
     "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
     "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=155",
-    "featured": true
+    "featured": false
   },
   {
     "id": 154,
@@ -2250,33 +2273,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=57",
-    "featured": false
-  },
-  {
-    "id": 56,
-    "title": "The Evening: An Earthquake Shakes Colombia",
-    "summary": "Unable to generate article.",
-    "content": "Unable to generate article.",
-    "category": "📰 General",
-    "image": "assets/images/placeholder.jpg",
-    "date": "2026-08-10",
-    "time": "23:25",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "An earthquake occurred in Colombia"
-    ],
-    "timeline": [
-      {
-        "date": "Unknown",
-        "event": "Earthquake in Colombia"
-      }
-    ],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=56",
     "featured": false
   }
 ]

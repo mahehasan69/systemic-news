@@ -1,5 +1,25 @@
 [
   {
+    "id": 141,
+    "title": "Tributes paid to Jason Arday after ex-Cambridge professor found dead",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-15",
+    "time": "08:14",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=141",
+    "featured": true
+  },
+  {
     "id": 140,
     "title": "Heathrow Airport warns of disruption following floods",
     "summary": "Unable to generate article.",
@@ -20,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=140",
-    "featured": true
+    "featured": false
   },
   {
     "id": 139,
@@ -2245,28 +2265,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=42",
-    "featured": false
-  },
-  {
-    "id": 41,
-    "title": "Travelodge staff gave domestic abuser key to his victim's room",
-    "summary": "Travelodge staff gave domestic abuser key to his victim's room",
-    "content": "HEADLINE\nTravelodge staff gave domestic abuser key to his victim's room\n\nA shocking incident has come to light where staff at a Travelodge hotel handed over a key to a domestic abuse victim's room to her abuser, sparking widespread outrage and concerns over hotel security protocols. The incident raises serious questions about the training and procedures in place to protect vulnerable guests.\n\nWhat happened was that the abuser, who had previously been violent towards the victim, managed to convince hotel staff to give him a key to her room. This was despite the victim having taken steps to protect herself, including not sharing her room number with the abuser. The staff's decision to hand over the key has been widely criticized, with many arguing that it put the victim's life at risk. Why this happened is still unclear, but it is believed that the staff may not have received adequate training on how to handle domestic abuse situations. Why it matters is that this incident highlights the need for hotels to have robust security protocols in place to protect their guests, particularly those who are vulnerable to domestic abuse. What changes now is that Travelodge has announced an investigation into the incident and has promised to review its staff training procedures. What happens next will depend on the outcome of the investigation, but it is likely that the hotel chain will face calls to implement new measures to prevent similar incidents in the future.\n\nThe background to this incident is one of growing concern about domestic abuse and the role that hotels and other service providers can play in preventing it. Domestic abuse is a major issue in the UK, with thousands of people affected every year. Hotels can often be a refuge for those fleeing abusive relationships, but incidents like this one highlight the need for staff to be trained to handle these situations sensitively and effectively. Why this matters is that domestic abuse can have devastating consequences, including physical and emotional harm, and even death. What changes now is that there will be increased pressure on hotels to take domestic abuse seriously and to put in place measures to prevent it. What happens next will depend on the response of the hotel industry, but it is likely that we will see increased scrutiny of hotel security protocols and staff training procedures.\n\nNext developments in this case will likely involve an investigation by Travelodge into the incident, as well as potential action by the police and other authorities. The hotel chain has already apologized for the incident and has promised to cooperate fully with any investigation. Why this matters is that it will help to establish what went wrong and how similar incidents can be prevented in the future. What changes now is that Travelodge will face increased scrutiny over its security protocols and staff training procedures. What happens next will depend on the outcome of the investigation, but it is likely that the hotel chain will face calls to implement new measures to prevent similar incidents in the future, such as providing staff with training on how to handle domestic abuse situations and implementing new security protocols to protect vulnerable guests.\n\nThe key takeaway from this incident is that hotels have a critical role to play in preventing domestic abuse and protecting their guests. The fact that Travelodge staff handed over a key to a domestic abuse victim's room to her abuser is a shocking failure of hotel security protocols. Why this matters is that it highlights the need for hotels to take domestic abuse seriously and to put in place measures to prevent it. What changes now is that there will be increased pressure on hotels to review their security protocols and staff training procedures. What happens next will depend on the response of the hotel industry, but it is likely that we will see increased scrutiny of hotel security protocols and staff training procedures, as well as calls for new measures to be put in place to protect vulnerable guests.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-10",
-    "time": "05:16",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Travelodge staff gave a key to a domestic abuser's victim's room"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=41",
     "featured": false
   }
 ]

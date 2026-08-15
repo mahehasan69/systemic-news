@@ -1,5 +1,28 @@
 [
   {
+    "id": 140,
+    "title": "Heathrow Airport warns of disruption following floods",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-15",
+    "time": "07:22",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Heathrow Airport has warned of disruption",
+      "The disruption is due to floods"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=140",
+    "featured": true
+  },
+  {
     "id": 139,
     "title": "Trump Dismisses Reports About Dire Conditions Aboard U.S.S. Abraham Lincoln",
     "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Fraud",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=139",
-    "featured": true
+    "featured": false
   },
   {
     "id": 138,
@@ -2244,28 +2267,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=41",
-    "featured": false
-  },
-  {
-    "id": 40,
-    "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-    "summary": "Alleged Irish crime boss Kinahan charged with directing criminal organisation",
-    "content": "Alleged Irish crime boss Kinahan charged with directing criminal organisation\n\nIn a significant breakthrough, alleged Irish crime boss Daniel Kinahan has been formally charged with directing a criminal organisation, marking a major milestone in the ongoing efforts to dismantle his vast and notorious empire. This development is the culmination of years of meticulous investigation and intelligence gathering by law enforcement agencies, both domestically and internationally. The charges brought against Kinahan underscore the seriousness of the allegations and the commitment of the authorities to bring him to justice. This move is expected to have far-reaching implications, not only for Kinahan himself but also for the broader landscape of organized crime in Ireland and beyond.\n\nWhat happened is that Kinahan, who has been at the center of a long-standing investigation, was charged following an exhaustive probe into his activities and those of his associates. The charges are the result of a collaborative effort between various law enforcement agencies, including those in Ireland, the UK, and other European countries, which have been working tirelessly to amass evidence and build a robust case against him. This charging decision was made possible by the meticulous gathering of intelligence, the analysis of financial transactions, and the testimony of key witnesses, all of which contributed to a comprehensive understanding of Kinahan's alleged role in directing a criminal organisation. Why it happened is rooted in the determination of law enforcement to disrupt and dismantle organized crime networks, recognizing the profound impact these groups have on public safety, economic stability, and social cohesion. The charging of Kinahan sends a clear message that such activities will not be tolerated and that those involved will face the full force of the law. Why it matters is that this development has the potential to significantly weaken Kinahan's organisation, creating an opportunity for further disruption of criminal networks and potentially leading to a reduction in criminal activity.\n\nThe background to these charges is complex and multifaceted, involving years of alleged criminal activity by Kinahan and his associates. Kinahan has been accused of being a pivotal figure in international organised crime, with alleged involvement in drug trafficking, money laundering, and other illicit activities. The investigation into his activities has been ongoing for several years, with law enforcement agencies facing significant challenges in gathering evidence due to the clandestine nature of organised crime. However, through perseverance and international cooperation, sufficient evidence was compiled to support the charges now brought against him. This case highlights the importance of international cooperation in combating organised crime, as well as the need for sustained and dedicated efforts by law enforcement agencies. The effects of Kinahan's alleged activities have been far-reaching, contributing to a climate of fear and undermining trust in institutions. The charging of Kinahan is a critical step towards addressing these issues and restoring public confidence.\n\nNext developments in this case are likely to include Kinahan's appearance in court to face the charges, where he will have the opportunity to respond to the allegations made against him. The prosecution will then present its case, relying on the evidence gathered during the investigation to prove Kinahan's guilt beyond a reasonable doubt. This process is expected to be lengthy and complex, given the nature of the charges and the volume of evidence involved. As the case progresses, it is anticipated that more details about Kinahan's alleged activities and the scope of his organisation will come to light, potentially leading to further charges against him or his associates. The outcome of this case will have significant implications for the future of organised crime in Ireland and internationally, serving as a deterrent to those involved in such activities and demonstrating the commitment of law enforcement to combating these threats.\n\nThe key takeaway from this development is that the charging of Daniel Kinahan represents a significant victory for law enforcement in the fight against organised crime. It underscores the importance of persistence, international cooperation, and the use of all available legal tools to disrupt and dismantle criminal networks. As this case moves forward, it will be closely watched, not only for its impact on Kinahan and his associates but also for the broader implications it may have on the global fight against organised crime. The charging of Kinahan is a powerful reminder that no individual is above the law and that those involved in criminal activity will be pursued and held accountable, regardless of their perceived power or influence.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-10",
-    "time": "03:05",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Kinahan has been charged"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=40",
     "featured": false
   }
 ]

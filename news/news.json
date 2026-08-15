@@ -1,5 +1,28 @@
 [
   {
+    "id": 152,
+    "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-15",
+    "time": "19:13",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A petition exists to expel U.S. Ambassador Pete Hoekstra",
+      "The petition is from Canada"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=152",
+    "featured": true
+  },
+  {
     "id": 151,
     "title": "How Cyclospora Evaded the U.S. Food Safety System to Sicken Thousands",
     "summary": "Unable to generate article.",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=151",
-    "featured": true
+    "featured": false
   },
   {
     "id": 150,
@@ -2247,28 +2270,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=53",
-    "featured": false
-  },
-  {
-    "id": 52,
-    "title": "More than two-thirds of England now in drought",
-    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
-    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-10",
-    "time": "19:47",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "More than two-thirds of England is in drought"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=52",
     "featured": false
   }
 ]

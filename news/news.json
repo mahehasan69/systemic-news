@@ -1,5 +1,32 @@
 [
   {
+    "id": 153,
+    "title": "Democrats Make South Carolina the First Contest in 2028 Presidential Primary Calendar",
+    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and smoothing out the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and smoothing out the transitions.",
+    "category": "📰 General",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-15",
+    "time": "20:09",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Democratic Party is reshaping the 2028 presidential primary calendar",
+      "South Carolina will be the first state in the primary calendar"
+    ],
+    "timeline": [
+      "2028",
+      ":",
+      "Presidential primary calendar"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=153",
+    "featured": true
+  },
+  {
     "id": 152,
     "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
     "summary": "Unable to generate article.",
@@ -20,7 +47,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=152",
-    "featured": true
+    "featured": false
   },
   {
     "id": 151,
@@ -2248,28 +2275,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=54",
-    "featured": false
-  },
-  {
-    "id": 53,
-    "title": "More than two-thirds of England now in drought",
-    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
-    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving the transitions.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-10",
-    "time": "20:30",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "More than two-thirds of England is in drought"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=53",
     "featured": false
   }
 ]

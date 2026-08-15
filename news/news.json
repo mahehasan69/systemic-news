@@ -1,5 +1,28 @@
 [
   {
+    "id": 143,
+    "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+    "summary": "Please provide the article you would like me to improve, and I will refine it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
+    "content": "Please provide the article you would like me to improve, and I will refine it to make it more emotional, human, and engaging, while maintaining the accuracy of the facts and smoothing out the transitions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-15",
+    "time": "10:12",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A 7.7-magnitude earthquake struck Indonesia",
+      "The earthquake resulted in 38 deaths"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=143",
+    "featured": true
+  },
+  {
     "id": 142,
     "title": "How The New York Times Reported on Trump’s Air Force One Ruse in Turkey",
     "summary": "Unable to generate article.",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=142",
-    "featured": true
+    "featured": false
   },
   {
     "id": 141,
@@ -2244,28 +2267,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=44",
-    "featured": false
-  },
-  {
-    "id": 43,
-    "title": "Travelodge staff gave domestic abuser key to his victim's room",
-    "summary": "Unable to generate article.",
-    "content": "Unable to generate article.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-10",
-    "time": "09:05",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Travelodge staff gave a key to a domestic abuser's victim's room"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=43",
     "featured": false
   }
 ]

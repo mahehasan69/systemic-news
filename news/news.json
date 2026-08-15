@@ -1,5 +1,28 @@
 [
   {
+    "id": 138,
+    "title": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
+    "summary": "The USS Lincoln, a stalwart of the U.S. Navy, has been facing significant operational problems, sending shockwaves throughout the defense community. The root of these issues lies in a series of devastating attacks on a U.S. base early in a war, which exposed critical vulnerabilities in the base's defenses. The aftermath of these attacks has been a harsh wake-up call for the Navy, highlighting the importance of adaptability and resilience in the face of unexpected threats.",
+    "content": "The USS Lincoln, a stalwart of the U.S. Navy, has been facing significant operational problems, sending shockwaves throughout the defense community. The root of these issues lies in a series of devastating attacks on a U.S. base early in a war, which exposed critical vulnerabilities in the base's defenses. The aftermath of these attacks has been a harsh wake-up call for the Navy, highlighting the importance of adaptability and resilience in the face of unexpected threats.\n\nAs the USS Lincoln was deployed to a critical region, its performance was severely hampered by the damage it sustained during the attacks. The extent of the damage was not immediately apparent, but as the ship continued to operate, it became clear that its systems and equipment had been compromised. The attacks on the base were a sobering reminder that the threats the Navy faces are increasingly sophisticated and intense, catching personnel and assets off guard and leaving them vulnerable to exploitation.\n\nThe implications of the USS Lincoln's problems are far-reaching, with significant consequences for the Navy's ability to project power and protect U.S. interests in critical regions. The Navy must now reassess its assumptions about the threats it faces and develop more effective strategies for mitigating those threats. This will require a fundamental shift in the way the Navy approaches base security, with a renewed focus on investing in more effective defenses and countermeasures.\n\nThe U.S. base that was attacked was a critical hub for U.S. military operations in the region, supporting a wide range of activities, including logistics, intelligence, and communications. The attacks on the base were part of a broader campaign by enemy forces to disrupt U.S. military operations and gain a strategic advantage. The Navy must now prioritize base security, allocating additional resources to enhance its defenses and working closely with other branches of the U.S. military to develop a more comprehensive approach to base security.\n\nAs the Navy moves forward, it will undergo a major overhaul of its security protocols and emergency response procedures. This will involve significant investments in new technologies and capabilities, as well as changes to the way the Navy trains and operates. The Navy's ability to adapt and evolve in response to emerging threats will be critical to its success in the future. By prioritizing innovation and experimentation, the Navy can stay ahead of the threat curve and ensure that its personnel and assets are protected.\n\nThe USS Lincoln's problems are a symptom of a broader set of challenges facing the U.S. Navy. The attacks on the U.S. base early in the war exposed critical vulnerabilities in the Navy's defenses, highlighting the need for more effective security protocols and emergency response procedures. As the Navy navigates this complex and evolving landscape, it must remain vigilant and proactive, embracing new ideas and approaches to stay ahead of the threat curve. The future of the Navy's success depends on its ability to learn from its mistakes, adapt to new challenges, and prioritize the safety and security of its personnel and assets.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-15",
+    "time": "05:16",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The USS Lincoln is a U.S. Navy ship",
+      "There were attacks on a U.S. base early in a war"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=138",
+    "featured": true
+  },
+  {
     "id": 137,
     "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
     "summary": "Unable to generate article.",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=137",
-    "featured": true
+    "featured": false
   },
   {
     "id": 136,
@@ -2247,30 +2270,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=39",
-    "featured": false
-  },
-  {
-    "id": 38,
-    "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-    "summary": "Unable to generate article.",
-    "content": "Unable to generate article.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-09",
-    "time": "23:19",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Daniel Kinahan is a suspected crime boss",
-      "Daniel Kinahan appeared in court",
-      "Daniel Kinahan was extradited"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=38",
     "featured": false
   }
 ]

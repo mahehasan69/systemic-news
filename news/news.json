@@ -1,5 +1,28 @@
 [
   {
+    "id": 165,
+    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
+    "summary": "**Five Innocent Lives Lost: Russia's Drone and Missile Attack on Ukraine Sparks Outrage and Fear**",
+    "content": "**Five Innocent Lives Lost: Russia's Drone and Missile Attack on Ukraine Sparks Outrage and Fear**\n\nIn the dead of night, a devastating wave of drone and missile attacks rained down on Ukraine, leaving a trail of destruction and claiming the lives of five innocent civilians. The brutal assault, launched by Russia, has sent shockwaves around the world, sparking widespread condemnation and raising the stakes in a conflict that has been simmering for years. As Ukraine mourns the loss of its citizens, the international community is left to grapple with the implications of this latest escalation, and the haunting question: what's next?\n\n**A Night of Terror**\n\nThe attack, which began in the early hours of the morning, was a coordinated effort involving drones and missiles launched from Russian territory. Despite the bravery of Ukraine's air defense systems, which managed to intercept some of the incoming projectiles, the sheer scale of the assault proved overwhelming. The result was a series of explosions that rocked several cities across Ukraine, causing widespread damage and snuffing out the lives of five people who had done nothing to deserve such a fate. The attack is a stark reminder of the human cost of war, and the devastating consequences of a conflict that seems to have no end in sight.\n\n**A Conflict with No End in Sight**\n\nThe roots of this conflict date back to 2014, when Ukraine's pro-Russian president was ousted in a popular uprising, leading to Russia's annexation of Crimea and support for separatist rebels in eastern Ukraine. Since then, the conflict has ebbed and flowed, with periods of relative calm punctuated by outbreaks of violence. But this latest attack is a significant escalation, one that has the potential to draw in other countries and spark a wider conflict. The use of drones and missiles to target civilian areas is a clear violation of international law, and it has raised concerns about the ability of the two sides to negotiate a peaceful resolution.\n\n**A Call to Action**\n\nAs the international community comes to terms with the implications of this latest attack, one thing is clear: something must be done to stop the bloodshed. The United Nations Security Council is expected to hold an emergency meeting to discuss the situation, and there are calls for increased economic sanctions against Russia. The European Union and the United States have also issued statements condemning the attack and calling for a peaceful resolution to the conflict. But words alone are not enough. It's time for the international community to come together and take concrete action to prevent further escalation and to support Ukraine in its time of need.\n\n**A Future in the Balance**\n\nAs the situation continues to unfold, the stakes are higher than ever. The buildup of military forces in the region, the increase in diplomatic activity, and the looming threat of further escalation all point to one thing: the future of Ukraine, and the stability of the entire region, hang in the balance. It's a future that is uncertain, fragile, and fraught with danger. But it's not too late to change course. It's not too late to find a peaceful resolution to this conflict, one that takes into account the interests and concerns of all parties involved. The question is: will we act in time, or will we stand idly by as the situation spirals out of control? The clock is ticking, and the world is watching.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-16",
+    "time": "17:11",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russia launched a drone and missile attack on Ukraine",
+      "Five people were killed in the attack"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=165",
+    "featured": true
+  },
+  {
     "id": 164,
     "title": "Watch: BBC visits smouldering market in Ukraine after strikes",
     "summary": "HEADLINE: Global Financial Regulators Unite to Combat Rising Cryptocurrency Risks",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=164",
-    "featured": true
+    "featured": false
   },
   {
     "id": 163,

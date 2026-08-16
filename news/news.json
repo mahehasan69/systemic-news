@@ -1,5 +1,28 @@
 [
   {
+    "id": 159,
+    "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+    "summary": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+    "content": "HEADLINE\nMorocco detains dozens of migrants trying to cross into Ceuta, reports say\n\nDozens of migrants have been detained by Moroccan authorities while attempting to cross into the Spanish enclave of Ceuta, according to recent reports. The migrants, who were trying to reach European soil, were intercepted and taken into custody by Moroccan security forces. This incident is the latest in a series of attempts by migrants to cross into Ceuta, a disputed territory that has become a focal point for migration and border control issues.\n\nWhat happened is that a large group of migrants, reportedly from sub-Saharan Africa, gathered at the border between Morocco and Ceuta, attempting to breach the border fence and enter the Spanish enclave. However, Moroccan authorities were alerted to the situation and quickly responded, detaining dozens of migrants and preventing them from crossing into Ceuta. The reasons behind this attempt to cross into Ceuta are complex, but it is believed that the migrants were seeking better economic opportunities and a safer living environment. The fact that they were trying to cross into Ceuta, rather than other parts of Europe, suggests that they may have been drawn by the enclave's proximity to Morocco and the perceived ease of crossing into Spanish territory.\n\nWhy this matters is that the situation in Ceuta has significant implications for European migration policy and border control. The Spanish government has been under pressure to address the issue of migration and border control, particularly in Ceuta and Melilla, another Spanish enclave in North Africa. The fact that migrants are continuing to attempt to cross into Ceuta, despite the risks and challenges involved, highlights the need for a more comprehensive and sustainable approach to migration and border control. The situation also has significant humanitarian implications, as migrants who are detained or deported may face significant risks to their safety and well-being.\n\nThe background to this incident is complex and multifaceted. Ceuta has long been a point of tension between Spain and Morocco, with the latter claiming sovereignty over the enclave. The border between Morocco and Ceuta is heavily fortified, with a high fence and significant security presence. However, migrants have continued to attempt to cross into the enclave, often using desperate and dangerous methods. The Moroccan government has faced criticism for its handling of migration issues, including allegations of human rights abuses and mistreatment of migrants. The Spanish government, meanwhile, has been under pressure to address the issue of migration and border control, particularly in Ceuta and Melilla.\n\nNext developments in this situation are likely to be closely watched by European leaders and migration experts. The Spanish government may face increased pressure to address the issue of migration and border control, particularly in Ceuta and Melilla. The Moroccan government, meanwhile, may face criticism for its handling of migration issues, including the detention of migrants and the use of force to prevent them from crossing into Ceuta. The European Union may also become involved in the situation, particularly if there are concerns about human rights abuses or mistreatment of migrants. As the situation continues to unfold, it is likely that there will be significant developments and challenges in the days and weeks ahead.\n\nThe key takeaway from this incident is that the situation in Ceuta is complex and multifaceted, and requires a comprehensive and sustainable approach to migration and border control. The fact that migrants are continuing to attempt to cross into the enclave, despite the risks and challenges involved, highlights the need for a more nuanced and effective approach to addressing the root causes of migration. This may involve increased cooperation between European leaders and migration experts, as well as a greater focus on addressing the humanitarian and economic needs of migrants. As the situation continues to unfold, it is likely that there will be significant challenges and opportunities for growth and development in the days and weeks ahead.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-16",
+    "time": "03:38",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Morocco has detained migrants",
+      "Migrants were trying to cross into Ceuta"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=159",
+    "featured": true
+  },
+  {
     "id": 158,
     "title": "Ariana Grande leaves problems at home as her tour hits the UK",
     "summary": "Unable to generate article.",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=158",
-    "featured": true
+    "featured": false
   },
   {
     "id": 157,
@@ -2249,30 +2272,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=60",
-    "featured": false
-  },
-  {
-    "id": 59,
-    "title": "Amber heat health alerts for almost all of England as next heatwave begins",
-    "summary": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving transitions to create a smoother flow.",
-    "content": "Please provide the article you would like me to improve, and I will be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and improving transitions to create a smoother flow.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-11",
-    "time": "04:13",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Amber heat health alerts have been issued",
-      "The alerts are for almost all of England",
-      "A heatwave has begun"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=59",
     "featured": false
   }
 ]

@@ -1,5 +1,28 @@
 [
   {
+    "id": 163,
+    "title": "People who fled Stourbridge fires start to return home",
+    "summary": "As the streets of Stourbridge slowly come back to life, a sense of relief and hope begins to emerge. The devastating fires that ravaged the area, forcing many to flee their homes and seek shelter elsewhere, are finally starting to recede from memory. For the residents who are now returning home, the journey is not just about rebuilding their lives, but also about rediscovering a sense of security and normalcy.",
+    "content": "As the streets of Stourbridge slowly come back to life, a sense of relief and hope begins to emerge. The devastating fires that ravaged the area, forcing many to flee their homes and seek shelter elsewhere, are finally starting to recede from memory. For the residents who are now returning home, the journey is not just about rebuilding their lives, but also about rediscovering a sense of security and normalcy.\n\nThe fires, which were likely fueled by a combination of strong winds and dry conditions, left an indelible mark on the community. The trail of destruction they left behind is a stark reminder of the fragility of life and the importance of resilience. As the emergency services worked tirelessly to contain the blazes, the people of Stourbridge were forced to confront the very real possibility of losing everything they held dear. The investigation into the causes of the fires is ongoing, but one thing is clear: the perfect storm of weather conditions and other factors created a disaster that will be etched in the memories of the community for years to come.\n\nThe return of residents to Stourbridge marks a significant turning point in the community's recovery efforts. It's a testament to the strength and resilience of the people who call this town home, and a reminder that even in the darkest of times, there is always hope. As families begin to rebuild their lives, they will have to navigate the complex emotions that come with trauma and displacement. The emotional toll of the fires should not be underestimated, and it's essential that the community comes together to support those who have been affected.\n\nThe road to recovery will be long and arduous, but the people of Stourbridge are not alone. The local government has pledged to provide aid to those in need, and community organizations are rallying to support their neighbors. Counseling services and financial assistance will be made available to help residents cope with the aftermath of the disaster. As the community begins to heal, it's clear that the social fabric of Stourbridge will be forever changed. The fires may have destroyed homes and businesses, but they have also brought the community closer together.\n\nIn the coming days, key stakeholders, including emergency services, local government, and community leaders, will meet to discuss the recovery efforts and plan for the future. The focus will shift from evacuation and emergency response to recovery and rebuilding, and the community will begin to look towards a brighter future. The return of residents to Stourbridge is just the beginning of a new chapter in the town's history, one that will be marked by resilience, hope, and a deep sense of community.\n\nAs the people of Stourbridge look to the future, they do so with a sense of determination and courage. The fires may have taken everything from them, but they will not take away their spirit. The community will rebuild, and it will emerge from this disaster stronger and more united than ever. The journey ahead will be challenging, but with each passing day, the people of Stourbridge will take one step closer to healing, rebuilding, and rediscovering the sense of home and community that they thought was lost forever.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-16",
+    "time": "12:14",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "People fled Stourbridge due to fires",
+      "Some people have started returning home"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=163",
+    "featured": true
+  },
+  {
     "id": 162,
     "title": "Haberman reveals why Trump attacked judge and his family in speech",
     "summary": "Leaks reveal the inside story of Trump’s decision to attack Iran",
@@ -17,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=162",
-    "featured": true
+    "featured": false
   },
   {
     "id": 161,

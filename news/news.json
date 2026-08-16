@@ -1,5 +1,28 @@
 [
   {
+    "id": 158,
+    "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-16",
+    "time": "02:14",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ariana Grande has a tour",
+      "The tour has hit the UK"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=158",
+    "featured": true
+  },
+  {
     "id": 157,
     "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
     "summary": "Unable to generate article.",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=157",
-    "featured": true
+    "featured": false
   },
   {
     "id": 156,
@@ -2250,30 +2273,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=59",
-    "featured": false
-  },
-  {
-    "id": 58,
-    "title": "Amber heat health alerts for almost all of England as next heatwave begins",
-    "summary": "Amber heat health alerts for almost all of England as next heatwave begins",
-    "content": "HEADLINE\nAmber heat health alerts for almost all of England as next heatwave begins\n\nAs the UK braces itself for another prolonged period of scorching temperatures, amber heat health alerts have been issued for almost all of England, sparking concerns over the potential impact on vulnerable populations. The alerts, which are designed to warn of potential health risks associated with high temperatures, come as a new heatwave begins to grip the country.\n\nWhat happened is that the UK's weather forecasting service has issued amber heat health alerts for nearly the entire country, with only a few areas in the north escaping the warning. This move is a response to the anticipated prolonged period of hot weather, which is expected to last for several days. The alerts are triggered when temperatures are forecast to reach certain thresholds, and in this case, the mercury is expected to soar to levels that could pose a significant risk to public health. Why this happened is due to a combination of factors, including a high-pressure system that is dominating the UK's weather patterns and a lack of significant rainfall in recent weeks. The result is a perfect storm of heat and dryness that is exacerbating the risk of heat-related illnesses. Why it matters is that heatwaves can have a devastating impact on vulnerable populations, including the elderly, young children, and those with pre-existing medical conditions.\n\nThe background to this story is that the UK has been experiencing an unusually hot summer, with several heatwaves already affecting the country. The current heatwave is expected to be one of the most severe, with temperatures forecast to reach record levels in some areas. The UK's heatwave plan, which is designed to mitigate the impact of high temperatures on public health, has been activated, and health officials are working to ensure that vulnerable populations are protected. The plan includes measures such as providing additional support to care homes, hospitals, and other healthcare facilities, as well as issuing public health warnings and advice on how to stay safe during the heatwave.\n\nNext developments will be closely watched as the heatwave continues to unfold. The UK's weather forecasting service will be monitoring temperatures closely, and further updates to the heat health alerts are possible. In addition, health officials will be working to respond to any emerging health issues related to the heatwave, and the government may be forced to take further action to mitigate the impact of the heatwave. The continuation of the heatwave is likely to put a strain on the UK's healthcare system, and there may be a need for additional resources to be deployed to support vulnerable populations. What happens next will depend on a range of factors, including the severity of the heatwave and the effectiveness of the measures put in place to mitigate its impact.\n\nThe key takeaway from this story is that the UK is facing a significant public health challenge as a result of the heatwave, and it is essential that individuals and communities take steps to protect themselves and their loved ones. This includes staying hydrated, staying cool, and checking in on vulnerable neighbors and relatives. The government and health officials are also playing a critical role in responding to the heatwave, and their efforts will be crucial in mitigating its impact. As the heatwave continues to unfold, it is essential that everyone remains vigilant and takes the necessary precautions to stay safe.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-11",
-    "time": "02:58",
-    "reading_time": "3 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Amber heat health alerts have been issued",
-      "The alerts are for almost all of England",
-      "A heatwave has begun"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=58",
     "featured": false
   }
 ]

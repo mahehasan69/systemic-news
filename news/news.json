@@ -1,5 +1,25 @@
 [
   {
+    "id": 160,
+    "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-16",
+    "time": "04:25",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=160",
+    "featured": true
+  },
+  {
     "id": 159,
     "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
     "summary": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
@@ -20,7 +40,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=159",
-    "featured": true
+    "featured": false
   },
   {
     "id": 158,
@@ -2250,28 +2270,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=61",
-    "featured": false
-  },
-  {
-    "id": 60,
-    "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
-    "summary": "Burnham asks justice secretary to find way to keep PC Andrew Harper’s killers in jail",
-    "content": "HEADLINE\nBurnham asks justice secretary to find way to keep PC Andrew Harper’s killers in jail\n\nIn a dramatic turn of events, Andy Burnham, the Mayor of Greater Manchester, has made a formal request to the justice secretary to explore all possible avenues to keep the killers of PC Andrew Harper behind bars. This development comes after the sentencing of the three teenagers responsible for the tragic death of the police officer, which has sparked widespread outrage and calls for justice.\n\nWhat happened is that Burnham has written to the justice secretary, expressing his deep concern over the sentences handed down to the perpetrators and urging the government to take immediate action to address the public's concerns. The mayor's intervention is a direct response to the growing discontent among the community, who feel that the sentences do not reflect the severity of the crime. The killers of PC Harper were sentenced to between 13 and 16 years in prison, which many believe is too lenient considering the circumstances of the case. Why this happened is attributed to the sentencing guidelines, which take into account the age of the offenders and their perceived level of culpability. However, the fact that the sentences can be reduced further due to time served and good behavior has only added to the sense of injustice felt by many.\n\nWhy this matters is that the case of PC Andrew Harper has become a symbol of the struggle for justice and the need for the criminal justice system to be more accountable to the public. The killing of a police officer in the line of duty is a rare and tragic event, and the perception that the perpetrators are not being held fully accountable has eroded trust in the system. The fact that Burnham has taken it upon himself to intervene in the matter highlights the gravity of the situation and the need for urgent action. The mayor's request to the justice secretary is not just about ensuring that the killers of PC Harper remain in jail, but also about restoring public faith in the justice system.\n\nBackground to this case reveals a complex web of factors that contributed to the tragic events. PC Andrew Harper was killed while responding to a reported burglary, and the subsequent investigation led to the arrest and conviction of three teenagers. The case has been marked by controversy, with many questioning the handling of the investigation and the sentencing of the perpetrators. The fact that the killers were able to evade capture for a significant period of time and that the sentences handed down were perceived as lenient has only added to the sense of outrage. The case has also raised questions about the effectiveness of the justice system in dealing with violent crime and the need for greater accountability.\n\nNext developments in this case are likely to be closely watched, as the justice secretary considers Burnham's request. The government may be forced to re-examine the sentencing guidelines and consider introducing new legislation to ensure that perpetrators of violent crimes are held fully accountable. The case of PC Andrew Harper has also sparked a wider debate about the need for greater support for the families of victims of crime and the importance of ensuring that the justice system is more responsive to the needs of the community. As the justice secretary deliberates on the matter, the public will be waiting with bated breath to see what action will be taken to address their concerns.\n\nKey Takeaway from this development is that the case of PC Andrew Harper has become a catalyst for change, highlighting the need for a more robust and accountable justice system. The fact that a senior politician like Andy Burnham has taken it upon himself to intervene in the matter underscores the gravity of the situation and the need for urgent action. As the government considers its next move, one thing is clear: the public will be watching closely to ensure that justice is served and that the memory of PC Andrew Harper is honored. The outcome of this case will have far-reaching implications for the justice system and the community, and it remains to be seen what changes will be implemented to prevent similar tragedies from occurring in the future.",
-    "category": "🏥 Health",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-11",
-    "time": "05:45",
-    "reading_time": "4 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "Burnham has asked the justice secretary to find a way to keep PC Andrew Harper's killers in jail"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=60",
     "featured": false
   }
 ]

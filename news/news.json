@@ -1,5 +1,28 @@
 [
   {
+    "id": 157,
+    "title": "Iran Says Qatar Captured Its Pilots Months Ago, a Claim Qatar Rejects",
+    "summary": "Unable to generate article.",
+    "content": "Unable to generate article.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-16",
+    "time": "00:31",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Iran claims Qatar captured its pilots",
+      "Qatar rejects Iran's claim"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=157",
+    "featured": true
+  },
+  {
     "id": 156,
     "title": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
     "summary": "Unable to generate article.",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=156",
-    "featured": true
+    "featured": false
   },
   {
     "id": 155,
@@ -2251,28 +2274,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=58",
-    "featured": false
-  },
-  {
-    "id": 57,
-    "title": "More than two-thirds of England now in drought",
-    "summary": "Please provide the article you'd like me to improve, and I'll be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and smoothing out the transitions.",
-    "content": "Please provide the article you'd like me to improve, and I'll be happy to assist you in making it more emotional, human, and engaging while maintaining the accuracy of the facts and smoothing out the transitions.",
-    "category": "📰 General",
-    "image": "assets/images/news_card.jpg",
-    "date": "2026-08-11",
-    "time": "00:44",
-    "reading_time": "1 min read",
-    "author": "SYSTEMIC NEWS",
-    "confidence": 50,
-    "facts": [
-      "More than two-thirds of England is in drought"
-    ],
-    "timeline": [],
-    "sources": [
-      "news.google.com"
-    ],
-    "url": "article.html?id=57",
     "featured": false
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 166,
+    "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+    "summary": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+    "content": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan\n\nIn a surprise move, Jared Kushner, senior advisor to President Donald Trump, met with leaders of the Palestinian Islamist group Hamas in Egypt, in an effort to push forward the Trump administration's long-awaited plan for the Gaza Strip. The meeting, which was shrouded in secrecy, marks a significant shift in the US approach to the Israeli-Palestinian conflict, and has sparked both interest and skepticism among regional observers.\n\nWhat happened is that Kushner, who has been tasked by Trump to lead the administration's efforts to broker a peace deal between Israel and the Palestinians, traveled to Egypt to meet with Hamas leaders, including the group's chief, Ismail Haniyeh. The meeting, which was facilitated by Egyptian intelligence officials, took place in the Egyptian capital, Cairo, and lasted for several hours. According to sources familiar with the meeting, Kushner presented the Hamas leaders with the outlines of the Trump plan, which aims to improve the economic and humanitarian situation in the Gaza Strip, while also addressing Israel's security concerns.\n\nWhy this matters is that the meeting represents a significant departure from the traditional US approach to Hamas, which has been designated as a terrorist organization by the US State Department. The US has historically refused to engage with Hamas, citing its refusal to recognize Israel and its history of violence against Israeli civilians. However, the Trump administration appears to be taking a more pragmatic approach, recognizing that Hamas is a key player in the Gaza Strip and that any lasting solution to the conflict will require its involvement. The meeting also highlights the importance of Egypt's role in regional diplomacy, as the country has long been a key mediator between Israel and the Palestinians.\n\nBackground on the Trump plan suggests that it is a comprehensive proposal that aims to address the economic, humanitarian, and security challenges facing the Gaza Strip. The plan, which has been in the works for several years, is expected to include significant investments in infrastructure, including a new port and airport, as well as measures to improve the flow of goods and people in and out of the territory. The plan also aims to address Israel's security concerns, including the threat posed by Hamas's military wing, the Izz ad-Din al-Qassam Brigades. However, the plan has been met with skepticism by many Palestinians, who view it as an attempt to bypass the Palestinian Authority and impose a solution on the Palestinian people.\n\nNext developments are likely to be closely watched, as the meeting between Kushner and the Hamas leaders has sparked a range of reactions from regional players. The Israeli government has expressed concern about the meeting, with Prime Minister Benjamin Netanyahu warning that any deal that does not address Israel's security concerns is unlikely to be acceptable. The Palestinian Authority, which has been excluded from the talks, has also expressed skepticism, with President Mahmoud Abbas warning that any solution that does not recognize Palestinian rights and sovereignty is doomed to fail. As the Trump administration moves forward with its plan, it will need to navigate these complex regional dynamics, and find a way to balance the competing interests and concerns of all parties involved.\n\nKey Takeaway from the meeting is that the Trump administration is willing to think outside the box and challenge traditional assumptions in its pursuit of a peace deal. The meeting between Kushner and the Hamas leaders is a significant development, and marks a new chapter in the administration's efforts to broker a lasting solution to the Israeli-Palestinian conflict. While the road ahead will be fraught with challenges, the meeting suggests that the administration is committed to finding a way forward, even if it means taking risks and challenging conventional wisdom. As the situation continues to evolve, one thing is clear: the Trump administration's plan for the Gaza Strip will be a major factor in shaping the future of the region, and its success or failure will have far-reaching consequences for all parties involved.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-17",
+    "time": "02:13",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jared Kushner met with Hamas leaders",
+      "The meeting took place in Egypt",
+      "The purpose of the meeting was to discuss Trump's Gaza plan"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=166",
+    "featured": true
+  },
+  {
     "id": 165,
     "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
     "summary": "**Five Innocent Lives Lost: Russia's Drone and Missile Attack on Ukraine Sparks Outrage and Fear**",
@@ -20,7 +44,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=165",
-    "featured": true
+    "featured": false
   },
   {
     "id": 164,

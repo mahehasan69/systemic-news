@@ -1,5 +1,42 @@
 [
   {
+    "id": 169,
+    "title": "Two police officers among seven killed in wrong-way car crash",
+    "summary": "**Seven Killed, Including Two Police Officers, After Wrong‑Way Vehicle Collides With Police Car on A66**",
+    "content": "**Seven Killed, Including Two Police Officers, After Wrong‑Way Vehicle Collides With Police Car on A66**\n\n*North Yorkshire, England – A fatal crash on the A66 on [date not provided] claimed seven lives, among them Police Constable Matthew Blades and Police Constable Tom Clough of Cleveland Police.*\n\nA vehicle travelling in the opposite direction of traffic was spotted on the A66, a major east‑west arterial road through North Yorkshire. Cleveland Police officers initiated a pursuit, during which the suspect’s car struck a police vehicle. The impact caused a severe collision that killed all seven occupants of the two vehicles.\n\nThe victims include PC Matthew Blades and PC Tom Clough, both serving members of Cleveland Police. The identities of the remaining five deceased have not been released. No further information about the driver of the wrong‑way vehicle has been disclosed, and there were no injuries reported among by‑standers or other motorists.\n\nCleveland Police confirmed that the incident began when the wrong‑way vehicle was observed traveling against traffic. Officers pursued the driver, and the suspect’s car rammed the police car, leading to the fatal crash. The force has secured the scene, conducted forensic examinations, and is providing support to the families of the deceased.\n\nIn the wake of the tragedy, authorities are reviewing pursuit protocols and emphasizing the heightened risks faced by police officers during high‑speed chases. The incident also renews public warnings about the dangers of wrong‑way driving, a growing safety concern across the United Kingdom and Ireland. Officials say the case underscores the need for stricter enforcement and public education to deter motorists from entering traffic against the flow.\n\nInvestigations into the driver’s motives and the precise sequence of events are ongoing. While no timeline has been set for a formal report, Cleveland Police and other road‑safety agencies have pledged to keep the public informed of any new findings. Further guidance on preventing similar incidents is expected to be issued in the coming weeks.\n\nThe loss of PC Matthew Blades, PC Tom Clough, and five other victims serves as a stark reminder of the lethal consequences of reckless driving and the vulnerabilities inherent in police pursuits. The A66 collision is likely to shape future policy discussions on pursuit tactics and road safety, reinforcing the need for coordinated efforts to protect both law‑enforcement personnel and the traveling public.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-22",
+    "time": "19:50",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Seven people died in the incident",
+      "Two police officers were among the dead",
+      "The officers were identified as PC Matthew Blades and PC Tom Clough",
+      "The crash occurred on the A66 road in North Yorkshire, England, United Kingdom",
+      "Cleveland Police were involved in the response"
+    ],
+    "timeline": [
+      {
+        "event": "Collision on A66 resulting in seven deaths",
+        "date": null,
+        "source": "Multiple news outlets"
+      },
+      {
+        "event": "News reports published",
+        "date": null,
+        "source": "BBC, Yahoo News Canada, ABC News, The Guardian, The Times, The Independent, Daily Sabah, Irish Examiner, NDTV, Manchester Evening News (Facebook post)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=169",
+    "featured": true
+  },
+  {
     "id": 168,
     "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
     "summary": "**U.S. Imposes 50 % Tariffs on Canadian Imports; Canada Vows Matching Retaliation**",
@@ -35,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=168",
-    "featured": true
+    "featured": false
   },
   {
     "id": 167,

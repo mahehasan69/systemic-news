@@ -1,5 +1,43 @@
 [
   {
+    "id": 173,
+    "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
+    "summary": "**Lucy Davis Thanks Fans for Outpouring of Support Following Cancer Diagnosis**",
+    "content": "**Lucy Davis Thanks Fans for Outpouring of Support Following Cancer Diagnosis**\n\n*London, UK* – British actress Lucy Davis, best known for her role as Dawn Tinsley in the original UK version of *The Office*, has publicly thanked the public for the “overwhelming love” she has received since revealing her cancer diagnosis earlier this year. Her statements, reported in several UK newspapers and online outlets, highlighted the messages, prayers and practical assistance that have helped her maintain a positive outlook throughout treatment.\n\nIn a heartfelt comment released shortly after the announcement, Davis said the encouragement from supporters across the country had been a “lifeline” during her battle with the disease. Social‑media users, fellow performers and charitable organisations quickly responded with messages of solidarity and offers of help.\n\nAdding a personal dimension to the conversation, Davis’s father, veteran comedian Jasper Carrott, issued his own remarks during the same period. Carrott praised his daughter’s courage, expressed pride in her resilience and emphasized the family’s united front in facing the health challenge. His comments, also covered by multiple UK outlets, amplified the story and sparked discussion about the importance of familial support for those confronting serious illness.\n\nThe media attention surrounding Davis’s diagnosis reflects a broader trend in which celebrity health disclosures raise public awareness of cancer and stimulate community engagement. In the United Kingdom, such announcements have historically prompted increased dialogue about the disease, boosted charitable donations and encouraged participation in screening programmes. While no specific figures have been released in connection with Davis’s case, the coverage suggests a potential rise in interest toward cancer‑related causes and support networks.\n\nJournalists anticipate further updates on Davis’s health as she progresses through treatment. Sources indicate that future reports may detail her medical regimen, any involvement in advocacy or fundraising initiatives, and possible appearances at public or charitable events. Davis’s openness about her condition, combined with the supportive response from fans and family, positions her as a potential ambassador for cancer awareness—a role that could amplify messages about early detection and patient support.\n\nIn sum, Lucy Davis’s public gratitude, reinforced by her father Jasper Carrott’s affirming remarks, has drawn considerable media attention across the United Kingdom. The episode underscores the powerful influence of celebrity narratives in mobilising public empathy, fostering community solidarity and potentially shaping health‑related advocacy. As the story develops, observers will watch for further disclosures that may impact both Davis’s personal journey and the wider conversation about cancer support in the public sphere.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-22",
+    "time": "22:11",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Lucy Davis is an actress known for her role in The Office.",
+      "Lucy Davis publicly thanked fans and the public for their support following her cancer diagnosis.",
+      "Multiple UK media outlets reported her statements of gratitude.",
+      "Her father, comedian Jasper Carrott, publicly expressed pride and support for her."
+    ],
+    "timeline": [
+      {
+        "event": "Cancer diagnosis disclosed publicly",
+        "date": "2024-??-?? (date not provided)"
+      },
+      {
+        "event": "Lucy Davis issues statement thanking fans for kindness/support",
+        "date": "2024-??-?? (same period as articles)"
+      },
+      {
+        "event": "Jasper Carrott releases statements praising his daughter and expressing pride",
+        "date": "2024-??-?? (same period)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=173",
+    "featured": true
+  },
+  {
     "id": 172,
     "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
     "summary": "**Rescuers continue to search for survivors amid the rubble of a Ukrainian shopping centre hit by a Russian missile, while political leaders in Kyiv and abroad grapple with the incident’s diplomatic fallout and a string of unrelated security incidents across Europe.**",
@@ -69,7 +107,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=172",
-    "featured": true
+    "featured": false
   },
   {
     "id": 171,

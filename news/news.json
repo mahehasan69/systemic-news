@@ -1,5 +1,54 @@
 [
   {
+    "id": 171,
+    "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+    "summary": "**Canada to Mirror U.S. Tariffs Starting Sept. 8, Escalating Trade Dispute**",
+    "content": "**Canada to Mirror U.S. Tariffs Starting Sept. 8, Escalating Trade Dispute**\n\nOttawa announced on Thursday that it will impose retaliatory tariffs on a range of Canadian goods that exactly match the United States’ newly‑imposed duties, with the measures taking effect on Sept. 8. The decision comes hours after Washington announced fresh tariffs on Canadian imports, a move that precipitated the collapse of ongoing bilateral trade talks.\n\nThe rapid sequence of events was documented by several news outlets. NPR reported the United States’ tariff announcement, and within the same day the BBC confirmed that Canada would respond on a one‑for‑one basis. A follow‑up NPR bulletin specified Sept. 8 as the start date for the Canadian measures, while Global News noted that some of the retaliatory duties will be set at 50 percent—the steepest level among the U.S. tariffs.\n\nCanadian finance chief Mark Carney described the U.S. action as a “miscalculation,” underscoring Ottawa’s disappointment with Washington’s approach. The breakdown of the trade talks, which had been the primary channel for resolving the dispute, leaves both countries without a diplomatic avenue for de‑escalation. A source quoted by the BBC, identified as a Canadian negotiator, mentioned an upcoming U.S. deadline and suggested that further talks could be attempted before that date, though no concrete timetable has been disclosed.\n\n**Implications of the Escalation**\n\n1. **Higher Costs for U.S. Consumers and Businesses** – The 50‑percent tariff on selected Canadian products will raise import prices, potentially disrupting supply chains that have long relied on the Canada‑U.S. trade corridor.\n\n2. **Shift in Bilateral Relations** – The reciprocal tariff regime marks a departure from the historically cooperative North American trade relationship toward a more confrontational stance. Both governments have used diplomatic language that characterizes the situation as “at war.”\n\n3. **Timing Concerns** – The measures are being implemented weeks before the U.S. trade deadline, heightening the risk of additional economic actions if negotiations do not resume, and threatening broader market stability in the region.\n\n**Underlying Cause and Strategic Intent**\n\nThe dispute stems from the United States’ decision to levy fresh tariffs on Canadian goods and the failure of trade talks to produce a mutually acceptable solution. Ottawa’s response is a proportional retaliation designed to pressure Washington into reopening negotiations. By matching tariffs dollar for dollar, Canada aims to neutralize the economic impact of the U.S. duties while signaling that unilateral actions will be met with equivalent measures.\n\n**Outlook**\n\nBoth governments have indicated that negotiations remain possible, albeit under a tight timeline. Diplomatic outreach is expected to intensify before the U.S. trade deadline, with the possibility of further tariff escalations if talks stall. Analysts cited by news.google.com warn that retaliation could expand beyond the current product categories, potentially affecting automotive parts, agricultural commodities and other manufactured goods.\n\n**Conclusion**\n\nThe collapse of Canada‑U.S. trade talks has triggered a swift, symmetrical tariff retaliation, with Canada set to impose duties that mirror U.S. rates—including 50‑percent tariffs on certain imports—effective Sept. 8. The episode highlights the fragility of the bilateral trade framework and illustrates how quickly policy disagreements can translate into concrete economic penalties. The coming weeks will determine whether diplomatic channels can be reopened to avert a deeper trade war, or whether the two neighbours will continue on a path of escalating protectionism.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-22",
+    "time": "20:03",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Canada announced it will match U.S. tariffs dollar for dollar.",
+      "U.S. imposed new tariffs on Canadian goods.",
+      "Trade talks between Canada and the United States collapsed.",
+      "Mark Carney described the U.S. tariffs as a miscalculation.",
+      "Canada plans to implement retaliatory tariffs starting September 8.",
+      "Some Canadian tariffs are set at 50%."
+    ],
+    "timeline": [
+      {
+        "event": "U.S. imposes new tariffs on Canadian goods",
+        "source": "NPR",
+        "relative_time": "hours before Canada response"
+      },
+      {
+        "event": "Canada announces matching tariffs dollar-for-dollar",
+        "source": "BBC"
+      },
+      {
+        "event": "Canada says retaliatory tariffs will start September 8",
+        "source": "NPR"
+      },
+      {
+        "event": "50% tariffs on Canadian goods take effect",
+        "source": "Global News"
+      },
+      {
+        "event": "Canada negotiator comments on upcoming U.S. deadline",
+        "source": "BBC"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=171",
+    "featured": true
+  },
+  {
     "id": 170,
     "title": "Video appears to show police chase minutes before fatal A66 crash",
     "summary": "**Police Pursuits Captured on Video End in Fatal Crashes in the United Kingdom and the United States**",
@@ -35,7 +84,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=170",
-    "featured": true
+    "featured": false
   },
   {
     "id": 169,

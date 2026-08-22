@@ -1,5 +1,77 @@
 [
   {
+    "id": 172,
+    "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+    "summary": "**Rescuers continue to search for survivors amid the rubble of a Ukrainian shopping centre hit by a Russian missile, while political leaders in Kyiv and abroad grapple with the incident’s diplomatic fallout and a string of unrelated security incidents across Europe.**",
+    "content": "**Rescuers continue to search for survivors amid the rubble of a Ukrainian shopping centre hit by a Russian missile, while political leaders in Kyiv and abroad grapple with the incident’s diplomatic fallout and a string of unrelated security incidents across Europe.**\n\nThe missile strike on the mall in Kyiv reduced the building to a collapsed structure, prompting emergency crews to dig through the debris for any remaining victims. Ukrainian President Volodymyr Zelensky condemned the attack as “despicable,” and Kyiv’s mayor said it was part of a deliberate Russian campaign to target critical infrastructure. The incident has been reported by the BBC, Winn FM and *The Times of India*. Authorities expect the rescue operation to last several days as they work to locate possible survivors and clear the site.\n\nIn Kyiv’s political arena, a recently dismissed former defence minister seized the moment to call for an early presidential election, arguing that fresh leadership is needed amid the ongoing war. The proposal adds to the government’s current challenges, which include managing the humanitarian crisis caused by the mall strike and maintaining domestic cohesion under wartime pressure.\n\nThe United Kingdom reiterated its support for Ukraine. British official Burnham stated that the United Kingdom backs Kyiv “100 %,” a pledge made after a recent Russian drone warning that heightened regional tensions.\n\nRussia, meanwhile, issued a statement claiming that at least seven people were killed in what it described as the largest Ukrainian attack of 2026. The claim has not been independently verified and stands in stark contrast to Kyiv’s account of Russian aggression, underscoring the continuing information war surrounding the conflict.\n\nGerman prosecutors have opened an investigation into a weapons cache discovered in a forest, probing possible links to Russian actors. The probe reflects growing concerns among European security services about covert supply lines that could destabilise the region further.\n\nElsewhere on the continent, a sword attack at a school in Sweden left one person dead. Motives remain unclear, and Swedish law‑enforcement agencies have launched a full investigation while reviewing security protocols at educational institutions. In Ireland, a crash in County Donegal injured two people seriously; the victims are receiving medical treatment as local authorities examine the cause of the collision.\n\nThese events illustrate a volatile security environment across Europe. The Ukrainian mall strike highlights the immediate human cost of the war and fuels diplomatic friction, with Zelensky’s condemnation likely to prompt calls for additional sanctions or aid. The mayor’s assertion that Russia is deliberately targeting essential services may influence NATO’s strategic calculations and future assistance packages. The former defence minister’s call for an election could spark debate in the Ukrainian parliament about the timing and conditions for a vote, potentially affecting governance during a critical phase of the conflict.\n\nThe United Kingdom’s unequivocal pledge of support, articulated after the Russian drone warning, signals continued Western backing for Kyiv and may translate into further military, economic or humanitarian assistance. Conversely, if Russia’s casualty figures from the alleged 2026 Ukrainian attack are substantiated, they could be used to justify additional strikes, complicating peace‑building efforts. Germany’s investigation into the forest weapons cache may lead to legal action against individuals or networks linked to Russian intelligence, reinforcing Europe’s resolve to curb illicit arms flows.\n\nLooking ahead, rescue teams will maintain search‑and‑recovery operations at the Ukrainian mall, while Kyiv’s leadership is expected to pursue diplomatic avenues—potentially seeking a broader condemnation of the strike at the United Nations or within the European Union. The call for a presidential election is likely to generate discussion in the Ukrainian parliament about the feasibility of an early vote. The United Kingdom is poised to continue its assistance, possibly expanding training or equipment deliveries to Ukrainian forces. International observers will monitor any verification of Russia’s casualty claims, Swedish investigators will proceed with the sword‑attack case, and German prosecutors will determine whether the forest cache has direct Russian involvement. In Donegal, authorities will complete their investigation into the crash to prevent future incidents.\n\nTogether, these developments underscore the intertwined nature of military actions, political maneuvering and civilian safety in a region still reeling from war. The ongoing rescue at the Ukrainian mall serves as a stark reminder of the human toll, while the surrounding diplomatic and security responses will shape the trajectory of both national and continental stability in the months to come.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-22",
+    "time": "20:11",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Rescuers are digging through the wreckage of a mall in Ukraine after a Russian strike.",
+      "Ukrainian President Volodymyr Zelensky condemned the Russian strike on the mall as \"despicable\".",
+      "Multiple news outlets (BBC, Winn FM, The Times of India) reported the same mall strike event.",
+      "Kyiv mayor stated that Russia purposefully hit critical infrastructure in its latest strikes.",
+      "A sacked Ukrainian defence minister called for a presidential election.",
+      "UK official Burnham said the United Kingdom supports Ukraine 100% after a Russian drone warning.",
+      "Russia reported that at least seven people were killed in what it described as the largest Ukrainian attack of 2026.",
+      "One person was killed in a sword attack at a school in Sweden.",
+      "German authorities are investigating possible Russian links to a weapons cache discovered in a forest.",
+      "Two individuals were taken to hospital with serious injuries after a crash in Donegal, Ireland."
+    ],
+    "timeline": [
+      {
+        "event": "Ukrainian mall strike and rescue operations",
+        "date": null,
+        "description": "Rescuers dig through mall wreckage; Zelensky condemns the strike."
+      },
+      {
+        "event": "Kyiv mayor comments on Russian strikes",
+        "date": null,
+        "description": "Mayor says Russia purposefully hit critical infrastructure."
+      },
+      {
+        "event": "Sacked Ukrainian defence minister calls for election",
+        "date": null,
+        "description": "Former defence minister urges a presidential election."
+      },
+      {
+        "event": "UK statement on support for Ukraine",
+        "date": null,
+        "description": "Burnham says UK supports Ukraine 100% after drone warning."
+      },
+      {
+        "event": "Russia reports casualties from Ukrainian attack",
+        "date": null,
+        "description": "Russia says at least seven killed in largest Ukrainian attack of 2026."
+      },
+      {
+        "event": "Sword attack at Swedish school",
+        "date": null,
+        "description": "One person killed in a sword attack."
+      },
+      {
+        "event": "German investigation of weapons cache",
+        "date": null,
+        "description": "Germany probes possible Russian links to a cache found in woods."
+      },
+      {
+        "event": "Crash in Donegal",
+        "date": null,
+        "description": "Two people hospitalized with serious injuries."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=172",
+    "featured": true
+  },
+  {
     "id": 171,
     "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
     "summary": "**Canada to Mirror U.S. Tariffs Starting Sept. 8, Escalating Trade Dispute**",
@@ -46,7 +118,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=171",
-    "featured": true
+    "featured": false
   },
   {
     "id": 170,

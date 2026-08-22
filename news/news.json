@@ -1,5 +1,43 @@
 [
   {
+    "id": 168,
+    "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
+    "summary": "**U.S. Imposes 50 % Tariffs on Canadian Imports; Canada Vows Matching Retaliation**",
+    "content": "**U.S. Imposes 50 % Tariffs on Canadian Imports; Canada Vows Matching Retaliation**\n\nWashington announced late Thursday that a uniform 50 percent tariff will be applied to a broad range of Canadian goods entering the United States, with the measure taking effect at midnight. The decision follows the collapse of the latest round of bilateral trade talks, which had been aimed at resolving disputes over agricultural products, steel and aluminum standards, and regulatory alignment.\n\nIn response, Ottawa issued an immediate statement confirming that Canada will impose reciprocal 50 percent duties on U.S. goods “dollar for dollar.” The Canadian government also suspended all ongoing trade negotiations with Washington, indicating that dialogue will remain on hold until the tariff dispute is settled. By mirroring the U.S. rate, Ottawa seeks to shield domestic producers from an uneven competitive disadvantage and to signal that unilateral trade barriers will be met with equal countermeasures.\n\nThe tariffs are expected to raise costs sharply for exporters on both sides. Canadian firms face higher barriers to the world’s largest consumer market, while American companies that rely on Canadian inputs could see supply costs double. Industry groups in both countries warn that the measures could disrupt cross‑border supply chains, lift consumer prices and erode the economic gains built on decades of relatively frictionless trade.\n\nThe United States and Canada together account for more than $600 billion in annual trade, making each other’s largest trading partner. A 50 percent duty is unprecedented in the U.S. record of tariffs on a major partner, and a dollar‑for‑dollar retaliation could quickly expand to cover sectors ranging from agriculture to technology. The escalation also raises questions about the future of the United States‑Mexico‑Canada Agreement (USMCA), which depends on cooperative dispute‑resolution mechanisms.\n\nBoth governments have signaled that the tariffs are not necessarily permanent. Washington left open the possibility of revisiting the duties if “constructive dialogue” resumes, while Canada indicated that “further diplomatic negotiations” will determine the next steps. In the short term, Canadian authorities are expected to finalize the list of U.S. goods subject to the retaliatory tariff, and U.S. customs officials will begin enforcement at the midnight deadline. Some businesses may seek temporary workarounds, such as routing shipments through third‑country intermediaries, though such strategies would add cost and complexity.\n\nThe episode underscores the fragility of North American trade relations when political negotiations falter. With both nations now entrenched in a tit‑for‑tat tariff cycle, policymakers face the immediate challenge of managing economic fallout while seeking pathways to de‑escalate the dispute. For businesses and consumers, the coming weeks are likely to bring higher prices, supply‑chain adjustments and heightened uncertainty as the two countries navigate this unprecedented trade standoff.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-22",
+    "time": "19:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United States announced 50% tariffs on Canadian goods.",
+      "Canada announced it will match the U.S. tariffs \"dollar for dollar\".",
+      "Trade talks between the United States and Canada collapsed.",
+      "The tariffs are scheduled to take effect at midnight."
+    ],
+    "timeline": [
+      {
+        "event": "U.S. announces 50% tariffs on Canadian goods",
+        "time": "midnight (date not specified)"
+      },
+      {
+        "event": "Canada announces matching retaliation",
+        "time": "immediately after U.S. announcement"
+      },
+      {
+        "event": "Trade talks collapse",
+        "time": "prior to tariff implementation"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=168",
+    "featured": true
+  },
+  {
     "id": 167,
     "title": "Parents pushed to breaking point by Child Maintenance Service, BBC told",
     "summary": "Parents on the Brink: The Devastating Reality of the Child Maintenance Service",
@@ -19,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=167",
-    "featured": true
+    "featured": false
   },
   {
     "id": 166,

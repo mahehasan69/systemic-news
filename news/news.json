@@ -1,5 +1,53 @@
 [
   {
+    "id": 174,
+    "title": "Struggling households need more help with bills, energy industry says",
+    "summary": "**Rising Energy Costs Pinch Households in the United Kingdom and West Virginia**",
+    "content": "**Rising Energy Costs Pinch Households in the United Kingdom and West Virginia**\n\nEnergy prices are climbing sharply on both sides of the Atlantic, tightening household budgets and prompting industry groups, lawmakers and consumer advocates to demand immediate relief.\n\n**United Kingdom**\n\nA leading forecaster has warned that, from July, the average annual electricity and gas bill will rise to **£1,850**, an increase of **£209** over the current level. The projection arrives amid growing concerns about energy‑debt across the country.  \n\nThe **End Fuel Poverty Coalition** notes that while energy‑company profits are expanding, an increasing number of households are falling behind on payments. A BBC investigation confirms that bill arrears are surging and that many consumers remain unaware of the assistance available to them. In a separate BBC report, **7.4 million households** were identified as struggling to afford essential goods, underscoring the scale of the problem.\n\nIn response, the Chancellor has announced targeted support for heating‑oil users and faces mounting pressure to introduce a **“social tariff”** that would lower rates for low‑income and vulnerable customers—a proposal repeatedly highlighted in *The Guardian*. Details on eligibility and funding for the heating‑oil measures have yet to be finalised, but the government is expected to debate the social‑tariff plan in the coming weeks.\n\n**West Virginia, United States**\n\nIn West Virginia, local outlets **Mountain Messenger** and **Mountain State Spotlight** have documented a parallel surge in electricity prices that is eroding disposable income for families statewide. The publications outline four legislative options that could provide relief, ranging from direct bill‑payment assistance to rate‑capping mechanisms. State lawmakers are currently debating these proposals, with a vote anticipated in the near term.\n\n**Drivers of the Price Spikes**\n\n- **United Kingdom:** Higher wholesale energy costs and a market environment that has allowed firms to expand margins are driving the overall rise in household bills.  \n- **West Virginia:** Increased electricity‑generation costs are being passed directly onto consumers. Both regions are also experiencing rising heating‑oil expenses, adding further strain for households that rely on the fuel for winter warmth.\n\n**Why It Matters**\n\nIn the UK, the mounting debt burden threatens to push more families into **fuel poverty**, a condition linked to poorer health outcomes and reduced economic productivity. The End Fuel Poverty Coalition warns that unchecked arrears could trigger a cycle of disconnections and long‑term financial instability.\n\nIn West Virginia, higher utility costs risk curbing consumer spending and increasing demand for social services, with broader implications for the state’s economy.\n\n**Looking Ahead**\n\n- **United Kingdom:** The government is expected to deliberate the social‑tariff proposal in the coming weeks and to roll out the heating‑oil support measures, though specifics on eligibility and funding remain pending.  \n- **West Virginia:** State legislators are set to vote on one or more of the four relief options outlined by the Mountain Messenger, potentially delivering immediate policy changes that could temper bill growth for affected households.\n\n**Broader Context**\n\nThe converging narratives in Britain and West Virginia illustrate a global trend: as energy prices rise, the gap between corporate earnings and consumer affordability widens. Policymakers on both continents now face the challenge of balancing market dynamics with social responsibility—a balance that will shape the lived experience of millions of households in the months and years ahead.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-22",
+    "time": "23:11",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Energy industry says struggling households need more help with bills (Yahoo News Canada).",
+      "West Virginians are struggling with rising electric bills (Mountain Messenger; Mountain State Spotlight).",
+      "Four ways lawmakers could help bring relief to West Virginians (Mountain Messenger).",
+      "Energy bills in the UK will rise by £209 a year to £1,850 from July, according to a forecaster (The Guardian).",
+      "UK households face energy‑debt fears as industry profits rise (End Fuel Poverty Coalition).",
+      "Bill debt is soaring and many people do not know help is available (BBC).",
+      "The UK Chancellor will offer support over rising heating oil costs (BBC).",
+      "UK government is being urged to launch a ‘social tariff’ to help vulnerable households (The Guardian).",
+      "7.4 million UK households are struggling to buy essentials (BBC).",
+      "Support for Northern Ireland homes’ heating oil is needed now (BBC)."
+    ],
+    "timeline": [
+      {
+        "event": "Energy‑bill increase to £1,850 per year",
+        "date": "July (year not specified in source)"
+      },
+      {
+        "event": "Reports of household strain and debt",
+        "date": "2023‑2024 (implicit from publication dates)"
+      },
+      {
+        "event": "Calls for a UK social tariff",
+        "date": "2023‑2024 (implicit)"
+      },
+      {
+        "event": "Chancellor announcement on heating‑oil support",
+        "date": "2023‑2024 (implicit)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=174",
+    "featured": true
+  },
+  {
     "id": 173,
     "title": "Lucy Davis 'grateful' for support over cancer diagnosis",
     "summary": "**Lucy Davis Thanks Fans for Outpouring of Support Following Cancer Diagnosis**",
@@ -35,7 +83,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=173",
-    "featured": true
+    "featured": false
   },
   {
     "id": 172,

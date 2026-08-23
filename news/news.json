@@ -1,5 +1,73 @@
 [
   {
+    "id": 180,
+    "title": "What to know about the Trump indictment on the eve of his court appearance",
+    "summary": "**Washington — A wave of high‑profile legal actions unfolded on August 23, highlighting intensified scrutiny of policies and figures associated with the Trump administration.**",
+    "content": "**Washington — A wave of high‑profile legal actions unfolded on August 23, highlighting intensified scrutiny of policies and figures associated with the Trump administration.**  \n\nOn that day the Department of Justice announced it was withdrawing subpoenas it had issued to *The New York Times* for internal records on Air Force One. The same afternoon Georgia authorities launched a criminal investigation into former President Donald Trump’s alleged attempts to overturn the 2020 election results in the state. In Congress, Special Counsel Jack Smith testified before the House, while a federal court granted Steve Bannon permission to pursue a motion to dismiss the criminal charges he faces. Together, these developments underscore a broader push for accountability across multiple fronts.\n\n### DOJ pulls Air Force One subpoenas  \n\nThe subpoenas, originally served to *The New York Times* to obtain documents about the presidential aircraft’s operations, were withdrawn on August 23. The DOJ’s reversal suggests a reassessment of the investigative need or a shift in priorities. Media watchdogs noted that the decision limits public insight into how the executive branch manages its most visible symbol of power.\n\n### Georgia opens criminal probe of Trump  \n\nState prosecutors in Georgia have opened a criminal investigation into whether Trump and his allies engaged in illegal conduct to reverse the 2020 election outcome in the state. The probe adds to the former president’s mounting legal challenges, which already include a pending January 6 trial scheduled for March 3, the eve of Super Tuesday. Authorities have not disclosed any charges at this stage, but the investigation will be closely watched for its potential impact on Trump’s political future.\n\n### Jack Smith’s congressional testimony and its concealment  \n\nSpecial Counsel Jack Smith appeared before the House of Representatives on August 23, providing lawmakers with a detailed account of the investigations into Trump and his associates. Politico identified seven key takeaways from the hearing, but the full transcript was not released to the public. According to *The Present Age*, House Republicans deliberately withheld the transcript on New Year’s Eve, prompting criticism from House Democrats and raising questions about transparency in congressional oversight.\n\n### Pending court test of Trump‑era tariffs  \n\nA federal court is slated to hear a case challenging the legality of the tariff regime implemented during the Trump administration. While the specific arguments have not been disclosed, the hearing is expected shortly before a newly announced deadline, and its outcome could have significant ramifications for domestic industries and international trade partners.\n\n### New York judge and the January 6 trial  \n\nJudge Juan Merchan, who presides over the New York criminal case linked to Trump’s alleged election‑interference, is preparing for the January 6 trial set for March 3. The proximity of the trial to a major primary contest adds a political dimension that could influence voter perceptions and campaign dynamics.\n\n### Steve Bannon’s motion to dismiss  \n\nOn the same day the DOJ rescinded its subpoenas, a federal court granted Steve Bannon permission to file a motion to dismiss the criminal charges he faces. The ruling does not resolve the case but allows Bannon to argue that the indictment is legally insufficient. Legal analysts expect an appellate review of the motion, meaning the case could remain in the courts for months.\n\n### Congressional focus on the January 6 attack  \n\nHouse Democrats marked the five‑year anniversary of the January 6 Capitol attack with a special hearing on January 6, 2024. The session revisited the events of that day and examined ongoing security and legislative reforms, reinforcing congressional attention to the attack’s legacy as the upcoming trial approaches.\n\n### Outlook  \n\nThe coming weeks will see a court hearing on the Trump tariff case, continued work by Georgia investigators, further congressional oversight of Jack Smith’s testimony, the commencement of the January 6 trial on March 3, and appellate consideration of Bannon’s dismissal motion. Each of these events will be closely monitored by legal experts, policymakers, and the public, offering a barometer of how the United States navigates the legal ramifications of recent political turbulence.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-23",
+    "time": "06:22",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Department of Justice dropped subpoenas issued to The New York Times regarding Air Force 1 reports.",
+      "Joe Rogan publicly criticized the Trump administration's indictment of James Comey, calling it a \"crazy precedent\".",
+      "A criminal investigation is underway into former President Donald Trump's attempts to overturn the 2020 election results in Georgia.",
+      "Special Counsel Jack Smith testified before Congress; Politico identified seven key takeaways from his testimony.",
+      "Trump's tariff policies are facing a critical court challenge shortly before a newly announced deadline.",
+      "House Republicans concealed the transcript of Jack Smith's congressional testimony on New Year's Eve, according to The Present Age.",
+      "Juan Merchan is the New York judge presiding over criminal proceedings involving Donald Trump.",
+      "House Democrats convened a special hearing on the January 6 Capitol attack on its five‑year anniversary.",
+      "A trial date for Donald Trump's January 6 criminal case has been set for the day before Super Tuesday.",
+      "A federal court permitted Steve Bannon to proceed with a motion to dismiss the criminal charges against him."
+    ],
+    "timeline": [
+      {
+        "event": "DOJ drops NYT subpoenas over Air Force 1 reports",
+        "date": "2024-08-23"
+      },
+      {
+        "event": "Joe Rogan comments on Comey indictment",
+        "date": "2024-08-23"
+      },
+      {
+        "event": "Criminal probe into Trump’s Georgia election‑overturn efforts",
+        "date": "2024-08-23"
+      },
+      {
+        "event": "Jack Smith congressional testimony",
+        "date": "2024-08-23"
+      },
+      {
+        "event": "Tariff court test scheduled",
+        "date": "2024-08-23"
+      },
+      {
+        "event": "Jack Smith transcript buried on New Year’s Eve",
+        "date": "2023-12-31"
+      },
+      {
+        "event": "House Democrats hold Jan. 6 hearing (5‑year anniversary)",
+        "date": "2024-01-06"
+      },
+      {
+        "event": "Trump Jan. 6 trial date set (eve of Super Tuesday)",
+        "date": "2024-03-04"
+      },
+      {
+        "event": "Court allows Steve Bannon dismissal motion",
+        "date": "2024-08-23"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=180",
+    "featured": true
+  },
+  {
     "id": 179,
     "title": "Why Polling Chaos Could Create Big Problems for American Politics",
     "summary": "**High‑Profile Reporting Highlights Growing Turbulence in U.S. Politics**",
@@ -28,7 +96,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=179",
-    "featured": true
+    "featured": false
   },
   {
     "id": 178,

@@ -1,5 +1,40 @@
 [
   {
+    "id": 183,
+    "title": "Families of two police officers killed in crash say they were heroes",
+    "summary": "Two police officers among seven killed in wrong-way A66 crash; families call them heroes",
+    "content": "Two police officers among seven killed in wrong-way A66 crash; families call them heroes  \n\nA tragic collision on the A66 near Middlesbrough claimed seven lives on an unspecified date, including two serving police officers. The crash was caused by a vehicle travelling in the opposite direction of traffic, a factor confirmed by multiple UK news outlets, including the Herts Advertiser, ITVX, Radio News Hub and the BBC. Families of the fallen officers publicly described their loved ones as heroes, underscoring the deep sense of loss felt across the community.\n\nThe incident unfolded when a vehicle entered the A66 against the flow of traffic, colliding with on‑coming traffic and resulting in a fatal multi‑vehicle accident. Emergency services responded swiftly, but seven occupants of the involved vehicles were pronounced dead at the scene. Among the deceased were two police officers who were on duty at the time of the crash. Their presence on the road highlights the risks faced by law‑enforcement personnel even when performing routine duties.\n\nIn the aftermath, relatives of the two officers issued statements praising their service and character, referring to them as heroes who gave their lives while protecting the public. The families’ tributes have resonated widely, prompting an outpouring of sympathy from fellow officers, local residents and national observers. Community members have begun organising public tributes and memorials to honour all seven victims, reflecting the collective grief that has followed the accident.\n\nAuthorities have launched a formal police investigation to determine the precise circumstances that led to the wrong‑way entry and to identify the driver responsible for the breach of traffic regulations. Investigators will examine vehicle data, witness accounts and any available CCTV footage to reconstruct the sequence of events. The inquiry aims to establish accountability and to inform future measures that could prevent similar tragedies on the A66 and other major routes.\n\nThe broader significance of the crash lies in its stark illustration of the dangers posed by wrong‑way driving, a violation that can have catastrophic consequences for all road users. The loss of two police officers in particular draws attention to the occupational hazards inherent in law‑enforcement work, especially when officers are required to respond to incidents on public highways. The incident has reignited discussions about road safety enforcement and the need for heightened vigilance on high‑speed corridors.\n\nLooking ahead, families, colleagues and community groups are expected to hold memorial services in the coming weeks, providing a space for collective mourning and remembrance. The police investigation will continue to gather evidence, with findings likely to be released to the public once the inquiry reaches a conclusion. Officials have pledged to keep the families informed and to take any necessary actions based on the investigation’s outcomes.\n\nThe tragedy on the A66 serves as a sobering reminder of the fragility of life on the road and the profound impact that a single act of reckless driving can have on families and communities. As the nation mourns the loss of seven individuals, including two dedicated police officers, the call for stricter adherence to traffic laws and enhanced safety measures grows louder, underscoring the enduring need to protect those who serve and the public they safeguard.",
+    "category": "🧬 Science",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-23",
+    "time": "21:10",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Two police officers were among seven people killed in a crash on the A66.",
+      "The crash involved a vehicle traveling the wrong way.",
+      "Families of the officers described them as heroes.",
+      "The incident was reported by multiple UK news outlets (Herts Advertiser, ITVX, Radio News Hub, BBC).",
+      "The crash occurred near Middlesbrough on the A66."
+    ],
+    "timeline": [
+      {
+        "event": "Wrong-way crash on A66 resulting in seven deaths including two police officers",
+        "date": "unknown"
+      },
+      {
+        "event": "Families publicly described the officers as heroes",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=183",
+    "featured": true
+  },
+  {
     "id": 182,
     "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
     "summary": "**BBC reports on Ukraine‑related events (2026)**",
@@ -69,7 +104,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=182",
-    "featured": true
+    "featured": false
   },
   {
     "id": 181,

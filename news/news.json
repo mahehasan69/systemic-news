@@ -1,5 +1,77 @@
 [
   {
+    "id": 182,
+    "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+    "summary": "**BBC reports on Ukraine‑related events (2026)**",
+    "content": "**BBC reports on Ukraine‑related events (2026)**  \n\nKyiv’s political landscape and the wider war effort have been jolted by a series of high‑profile developments in recent weeks, ranging from internal anti‑corruption actions to fresh attacks on critical infrastructure and renewed international pledges of support. A former defence minister has called for a presidential election, while the chief of staff to President Volodymyr Zelensky resigned after an anti‑corruption raid. At the same time, Russian strikes have damaged grain export terminals and targeted medical personnel, prompting stark warnings from Ukrainian officials and a reaffirmed 100 percent backing from the United Kingdom.\n\nThe first of the domestic upheavals came when a sacked Ukrainian minister publicly urged that President Zelensky be questioned about his knowledge of government corruption. The same former minister, who also served as defence minister before being dismissed, subsequently called for a new presidential election, arguing that the country needs a fresh mandate amid the ongoing conflict. In a related move, Andriy Yermak, who had served as Zelensky’s chief of staff, resigned following an anti‑corruption raid on his office, underscoring the heightened scrutiny of senior officials.\n\nParallel to the political turbulence, Ukrainian authorities reported a series of aggressive Russian actions. Kyiv’s mayor asserted that recent Russian strikes were deliberately aimed at critical infrastructure, a claim that aligns with reports of Russian drones targeting medical workers on the front lines. One witness, speaking after the drone attacks, said, “I ran because I knew I would die,” highlighting the peril faced by civilian responders. In a separate incident, Russia announced that at least seven people were killed in what it described as the largest Ukrainian attack of 2026, a claim that underscores the escalating intensity of hostilities.\n\nThe conflict’s economic dimension was brought into focus when an attack on a Ukrainian Black Sea port struck major Russian grain export terminals. The strike, which hit facilities used for shipping Russian grain, illustrates how the war continues to disrupt global food supply chains. Journalist Dmitry Muratov, a Nobel laureate, commented on the broader implications, stating that President Vladimir Putin can no longer claim victory in Ukraine, reflecting a growing perception of strategic setbacks for Moscow.\n\nInternational reaction to the unfolding crisis has been unequivocal. British official Burnham declared that the United Kingdom supports Ukraine “100 percent” after a Russian drone warning, reaffirming the country’s commitment to Kyiv’s defence. In a more grassroots gesture, weavers from Glasgow have organised assistance for Ukraine’s defence effort, demonstrating civilian solidarity from abroad. These expressions of support arrive as Ukraine grapples with both external aggression and internal calls for political renewal.\n\nThe convergence of political resignations, demands for a new election, and intensified attacks on infrastructure signals a pivotal moment for Ukraine. The resignation of Yermak and the anti‑corruption raid suggest a possible tightening of oversight over the government, while the sacked defence minister’s election call could pressure Zelensky to consider an early vote. Meanwhile, the targeting of grain terminals and medical personnel may exacerbate humanitarian challenges and strain Ukraine’s capacity to sustain its war effort.\n\nLooking ahead, the most immediate prospect is the potential presidential election advocated by the former defence minister. If scheduled, the vote would test public confidence in Zelensky’s leadership amid the dual pressures of war and corruption allegations. International partners, including the United Kingdom, are likely to monitor the political process closely, while continued attacks on infrastructure could prompt further diplomatic and material assistance. The situation remains fluid, with each development carrying implications for Ukraine’s governance, its defence posture, and the broader geopolitical balance in the region.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-23",
+    "time": "15:12",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A sacked Ukrainian minister said President Zelensky should be asked what he knew about government corruption.",
+      "Glasgow weavers are providing assistance to Ukraine's defence effort.",
+      "UK official Burnham stated the UK supports Ukraine 100% after a Russian drone warning.",
+      "Kyiv mayor claimed Russia purposefully targeted critical infrastructure in recent strikes.",
+      "A sacked Ukrainian defence minister called for a presidential election.",
+      "Russia reported at least seven people killed in what it described as the largest Ukrainian attack of 2026.",
+      "Journalist Dmitry Muratov said Putin can no longer claim victory in Ukraine.",
+      "Major Russian grain export terminals were hit during an attack on a Ukrainian Black Sea port.",
+      "Andriy Yermak resigned as Zelensky's chief of staff following an anti‑corruption raid.",
+      "A person quoted saying \"I ran because I knew I would die\" after Russian drones targeted medics in Ukraine."
+    ],
+    "timeline": [
+      {
+        "event": "Sacked minister urges questioning of Zelensky's knowledge of corruption",
+        "source": "Article 1"
+      },
+      {
+        "event": "Glasgow weavers aid Ukraine",
+        "source": "Article 2"
+      },
+      {
+        "event": "Burnham declares UK 100% support for Ukraine after drone warning",
+        "source": "Article 3"
+      },
+      {
+        "event": "Kyiv mayor alleges purposeful Russian strikes on infrastructure",
+        "source": "Article 4"
+      },
+      {
+        "event": "Sacked defence minister calls for presidential election",
+        "source": "Article 5"
+      },
+      {
+        "event": "Russia reports at least seven killed in largest Ukrainian attack of 2026",
+        "source": "Article 6"
+      },
+      {
+        "event": "Muratov says Putin can no longer claim victory",
+        "source": "Article 7"
+      },
+      {
+        "event": "Attack hits major Russian grain export terminals at Ukrainian Black Sea port",
+        "source": "Article 8"
+      },
+      {
+        "event": "Andriy Yermak resigns after anti‑corruption raid",
+        "source": "Article 9"
+      },
+      {
+        "event": "Russian drones target medics; witness says \"I ran because I knew I would die\"",
+        "source": "Article 10"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=182",
+    "featured": true
+  },
+  {
     "id": 181,
     "title": "Police officers killed in wrong-way crash mourned in 'unimaginable loss'",
     "summary": "**Nationwide Spike in Fatal Crashes Highlights Persistent Road‑Safety Gaps**",
@@ -39,7 +111,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=181",
-    "featured": true
+    "featured": false
   },
   {
     "id": 180,

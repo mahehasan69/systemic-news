@@ -1,5 +1,47 @@
 [
   {
+    "id": 175,
+    "title": "U.S. Economy Could Feel the Sting From Trade War With Canada",
+    "summary": "**U.S.-Canada Trade Tensions Ease as Trump Pauses 50% Tariffs, Yet Border Economies Remain Strained**",
+    "content": "**U.S.-Canada Trade Tensions Ease as Trump Pauses 50% Tariffs, Yet Border Economies Remain Strained**\n\n*Washington* — President Donald Trump announced a temporary pause on the 50 percent tariffs his administration imposed on a broad range of Canadian imports, a development reported by *The New York Times*. The decision follows a notable rise in U.S. export volumes for April 2023, which the newspaper linked in part to heightened global demand for American crude after the strategic Strait of Hormuz was shut down.\n\nThe tariff suspension offers a modest de‑escalation of the trade dispute that began in early 2023, but officials and analysts warn that border communities along the 5,525‑mile frontier continue to feel the fallout. Canadian Prime Minister Justin Trudeau, speaking to Maine Public, cautioned that the “sting” of the tariff‑related conflict could still reach towns such as Old Orchard Beach, Maine. His remarks echo a BBC report that documented reduced cross‑border commerce, supply‑chain disruptions and lingering uncertainty for businesses that depend on seamless U.S.–Canada trade.\n\nThe original tariffs were introduced as a response to what the Trump administration described as Canadian trade imbalances. Canada retaliated, and the ensuing tit‑for‑tat measures rippled through border economies. The abrupt closure of the Strait of Hormuz—a vital chokepoint for global oil shipments—further complicated matters, prompting international buyers to turn to U.S. crude and contributing to the April export surge noted by *The New York Times*.\n\nEconomists highlight three broader implications. First, the United States’ ability to redirect oil exports amid geopolitical shocks demonstrates resilience but also introduces volatility into global price structures. Second, the strain on border towns illustrates how macro‑level trade policies translate into micro‑level hardships, affecting small businesses, tourism and local labor markets. Third, political rhetoric—exemplified by concerns voiced about Old Orchard Beach—can amplify community anxieties and shape consumer behavior and municipal planning.\n\nLooking ahead, both governments have hinted at the possibility of renewed negotiations toward a comprehensive U.S.–Canada trade agreement, though no formal talks have been scheduled. Officials say they will monitor export trends in the coming months to gauge whether reduced barriers can revive cross‑border trade without compromising the strategic objectives that originally motivated the tariffs. The pause therefore serves as a provisional testing ground for future policy adjustments.\n\nIn sum, the temporary suspension of the 50 percent tariffs marks a modest step toward easing the trade friction that has defined U.S.–Canada relations since early 2023. Nevertheless, the lingering economic impact on border towns, the continued sensitivity of oil markets to geopolitical events, and the uncertainty surrounding further negotiations indicate that a full resolution remains a work in progress. Stakeholders on both sides of the border will be watching export data and diplomatic signals closely as the next phase of the trade relationship unfolds.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-23",
+    "time": "00:32",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "President Donald Trump announced a pause on 50% tariffs imposed on Canadian goods (NYT article title).",
+      "The New York Times reported that U.S. exports increased in April, attributing part of the rise to heightened demand for American oil after the Strait of Hormuz closure.",
+      "Maine Public reported that Canadian Prime Minister Justin Trudeau suggested that Old Orchard Beach, Maine could experience the \"sting\" of a tariff‑related trade war with the United States.",
+      "BBC reported that U.S.-Canada border towns experienced negative effects from the trade war initiated by the Trump administration."
+    ],
+    "timeline": [
+      {
+        "event": "U.S. exports rose in April (2023)",
+        "source": "The New York Times"
+      },
+      {
+        "event": "Trump announced pause on 50% tariffs on Canada",
+        "source": "The New York Times"
+      },
+      {
+        "event": "Canadian Prime Minister Justin Trudeau commented on potential impact to Old Orchard Beach",
+        "source": "Maine Public"
+      },
+      {
+        "event": "BBC reported border towns hit by trade war and overall delay of the trade conflict",
+        "source": "BBC"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=175",
+    "featured": true
+  },
+  {
     "id": 174,
     "title": "Struggling households need more help with bills, energy industry says",
     "summary": "**Rising Energy Costs Pinch Households in the United Kingdom and West Virginia**",
@@ -45,7 +87,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=174",
-    "featured": true
+    "featured": false
   },
   {
     "id": 173,

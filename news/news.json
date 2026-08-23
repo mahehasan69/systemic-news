@@ -1,5 +1,37 @@
 [
   {
+    "id": 178,
+    "title": "Restriction zone scheme for offenders to start in October",
+    "summary": "**UK to Introduce “Restriction‑Zone” Scheme for Released Offenders in October**",
+    "content": "**UK to Introduce “Restriction‑Zone” Scheme for Released Offenders in October**\n\nThe government will launch a new “restriction‑zone” framework for certain released prisoners in October, giving victims the legal right to request exclusion zones that limit where offenders may live or travel. The scheme, reported by the BBC, the Manchester Evening News and AOL.co.uk, forms part of a wider crackdown on the early release of individuals convicted of rape, serious child‑sex offences and grooming, and is tied to sentencing reforms that received Royal Assent earlier this year.\n\nUnder the new policy, victims can submit formal applications for “restriction zones” that effectively “lock” an abuser within a defined geographic boundary. The zones will be monitored using satellite technology, a feature highlighted by GB News as a means of ensuring compliance for rapists and other violent offenders. The aim is to prevent offenders from re‑establishing proximity to their victims or returning to areas where they previously committed crimes.\n\nThe move follows a series of high‑profile judicial interventions. In a recent decision, Justice Burnham blocked the early release of rapists and child‑sex offenders, a stance echoed in coverage by Sky News and the London Evening Standard. Those rulings align with the government’s sentencing reforms, which, according to GOV.UK, expressly exclude rape, serious child‑sex and grooming offences from the broader changes to sentencing guidelines. The Sentencing Act, which received Royal Assent earlier this year, provides the legislative basis for the restriction‑zone initiative and the accompanying satellite‑monitoring provisions.\n\nAdvocates argue that allowing victims to shape post‑release conditions addresses a long‑standing gap in the criminal‑justice system. By empowering victims to delineate exclusion zones, the policy seeks to reduce the risk of re‑offending and to restore a measure of control to those most affected by the crimes. A research roundup on sex‑offender laws, registries and policy questions published by *The Journalist’s Resource* notes a growing evidence base for victim‑centred approaches, observing that tailored geographic restrictions can complement broader public‑safety strategies.\n\nCritics, however, caution that the practical implementation of satellite monitoring and the enforcement of exclusion zones will require significant resources and clear procedural guidelines. The absence of publicly disclosed timelines for the rollout of the monitoring infrastructure raises questions about how quickly the system can become operational. Moreover, the exclusion of certain offences from the broader sentencing reforms—while intended to protect victims—may create inconsistencies in how different categories of offenders are managed after release.\n\nThe October launch will be the first operational test of the restriction‑zone model. Authorities will begin processing victim‑submitted exclusion requests, mapping the designated areas and activating satellite tracking for the identified offenders. If the scheme proves effective, it could prompt further policy adjustments under the Sentencing Act, potentially extending geographic restrictions to additional offence categories. Ongoing evaluation will likely draw on data on compliance rates, recidivism, and victim satisfaction, as well as the academic discourse highlighted by *The Journalist’s Resource*.\n\nIn sum, the upcoming restriction‑zone scheme represents a significant shift in the United Kingdom’s approach to managing the release of high‑risk offenders. By coupling victim‑driven exclusion zones with satellite monitoring, the government aims to tighten safeguards for communities while addressing longstanding concerns about early‑release practices. The October implementation will serve as a critical barometer for the policy’s efficacy and may shape the next phase of sentencing reform in the country.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-23",
+    "time": "04:26",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A restriction zone scheme for offenders is set to start in October (BBC)",
+      "Victims will have power to draw up exclusion zones for released prisoners (Manchester Evening News)",
+      "Victims can draw up restriction zones to \"lock\" abusers in areas (AOL.co.uk)",
+      "Rape, serious child sex and grooming offences are barred from sentencing changes (GOV.UK)",
+      "Burnham blocked early release of rapists and child sex offenders (Sky News, London Evening Standard)",
+      "The Sentencing Act received Royal Assent (GOV.UK)",
+      "The early release scheme includes restriction zones monitored by satellites for rapists and violent criminals (GB News)",
+      "A research roundup on sex offender laws, registries and policy questions was published (The Journalist's Resource)"
+    ],
+    "timeline": {
+      "scheme_start": "October (year not specified)",
+      "sentencing_act_royal_assent": "date not specified"
+    },
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=178",
+    "featured": true
+  },
+  {
     "id": 177,
     "title": "Mayors to get powers to overrule local councils on planning decisions",
     "summary": "**Mayors Granted Power to Overrule Local‑Council Planning Decisions in England and Canada**",
@@ -79,7 +111,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=177",
-    "featured": true
+    "featured": false
   },
   {
     "id": 176,

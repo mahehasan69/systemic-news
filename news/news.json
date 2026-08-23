@@ -1,5 +1,74 @@
 [
   {
+    "id": 176,
+    "title": "Trump’s Top Trade Representative Details Offer That Canada Rejected",
+    "summary": "**U.S. Imposes 50 % Tariffs on Canadian Imports After Trade Deal Falls Apart**",
+    "content": "**U.S. Imposes 50 % Tariffs on Canadian Imports After Trade Deal Falls Apart**\n\n*Washington and Ottawa –* A proposed bilateral trade agreement between the United States and Canada collapsed this week, prompting Washington to announce a 50 % tariff on a wide range of Canadian goods. The rapid escalation marks the first major disruption to the world’s largest bilateral trade relationship in years.\n\n**Negotiations and Collapse**\n\nAccording to the *New York Times*, the United States presented its trade proposal to Canada earlier this month. Canadian officials rejected the offer, triggering a 72‑hour “intensive talks” window described by *Politico*. When the deadline passed without a mutually acceptable agreement, the deal fell apart, a development reported by the *New York Times*, *Politico* and the BBC.\n\n**Tariff Announcement**\n\nU.S. trade officials announced the 50 % tariff shortly after the negotiations ended. The move was first reported by *Fox News* and later confirmed by *ABC News* and *The Hill* as having taken effect. The tariff applies to a broad spectrum of Canadian exports—including agricultural products and manufactured goods—though the exact list of affected items has not been disclosed in the cited sources.\n\n**Reactions**\n\nFormer Bank of Canada governor and climate‑finance envoy Mark Carney called the tariffs a “miscalculation” and said Canada would retaliate, as reported by *NBC News* and *ABC News*. U.S. officials countered that Canada had “walked away from the best deal,” a sentiment echoed in *Fox News* coverage.\n\n**Economic Impact**\n\nThe United States and Canada together account for more than $600 billion in annual trade. Analysts warn that the new tariffs could raise costs for Canadian exporters and disrupt supply chains that have long benefited from frictionless cross‑border movement. The tariff regime also raises questions about the future of the North American trade architecture, especially as discussions continue on updating the United States‑Mexico‑Canada Agreement (USMCA).\n\n**Looking Ahead**\n\nCanadian officials have indicated that retaliatory measures against U.S. goods are forthcoming, though specific actions have not yet been detailed. Both governments face pressure to avoid a protracted tariff war that would harm consumers and businesses on both sides of the border. Sources suggest that a resumption of negotiations remains possible if the parties are willing to revisit contentious issues and seek a compromise.\n\n**Conclusion**\n\nThe collapse of the trade deal and the swift imposition of steep tariffs represent a significant turning point in U.S.–Canada economic relations. While the immediate trigger was Canada’s rejection of the U.S. offer, the broader implication is an elevated risk of a trade conflict that could reverberate throughout North American markets. The next steps—whether through retaliatory tariffs, renewed diplomatic talks, or a combination of both—will determine how quickly the two nations can restore the stability that has underpinned their trade partnership for decades.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-23",
+    "time": "02:19",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United States presented a trade offer to Canada that was rejected by Canada (NYT).",
+      "Negotiations between the United States and Canada failed to produce a trade pact (Politico, The Japan Times).",
+      "A 72‑hour period of intensive talks preceded the collapse of the deal (Politico).",
+      "The United States announced 50 % tariffs on Canadian goods after the deal fell through (Fox News, ABC News, The Hill).",
+      "The tariffs took effect as reported by multiple outlets (ABC News, The Hill).",
+      "Mark Carney publicly described the U.S. tariffs as a “miscalculation” (NBC News).",
+      "Mark Carney vowed to retaliate against the U.S. tariffs (ABC News).",
+      "U.S. trade officials warned that Canada “walked away from the best deal” (Fox News).",
+      "The collapse of the trade deal was reported by several sources (NYT, Politico, BBC)."
+    ],
+    "timeline": [
+      {
+        "event": "U.S. trade representative presents offer to Canada",
+        "source": "NYT"
+      },
+      {
+        "event": "Canada rejects the U.S. offer",
+        "source": "NYT"
+      },
+      {
+        "event": "Intensive 72‑hour negotiation period",
+        "source": "Politico"
+      },
+      {
+        "event": "Deal collapses",
+        "source": [
+          "NYT",
+          "Politico",
+          "BBC"
+        ]
+      },
+      {
+        "event": "U.S. announces 50 % tariffs on Canadian goods",
+        "source": "Fox News"
+      },
+      {
+        "event": "Tariffs take effect",
+        "source": [
+          "ABC News",
+          "The Hill"
+        ]
+      },
+      {
+        "event": "Carney calls tariffs a miscalculation and vows retaliation",
+        "source": [
+          "NBC News",
+          "ABC News"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=176",
+    "featured": true
+  },
+  {
     "id": 175,
     "title": "U.S. Economy Could Feel the Sting From Trade War With Canada",
     "summary": "**U.S.-Canada Trade Tensions Ease as Trump Pauses 50% Tariffs, Yet Border Economies Remain Strained**",
@@ -39,7 +108,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=175",
-    "featured": true
+    "featured": false
   },
   {
     "id": 174,

@@ -1,5 +1,32 @@
 [
   {
+    "id": 185,
+    "title": "Organised crime arrests as police investigate A66 crash that killed two officers",
+    "summary": "Twelve people were taken into custody on Thursday after a fatal head‑on collision on the A66 in northern England claimed seven lives, including two serving police officers and five young men. Police have said the crash appears to be linked to organised‑crime activity, and investigators are treating the incident as a serious criminal matter rather than a routine traffic accident.",
+    "content": "Twelve people were taken into custody on Thursday after a fatal head‑on collision on the A66 in northern England claimed seven lives, including two serving police officers and five young men. Police have said the crash appears to be linked to organised‑crime activity, and investigators are treating the incident as a serious criminal matter rather than a routine traffic accident.\n\nThe collision occurred when two vehicles travelling in opposite directions struck each other on the A66, a major arterial route that connects the east and west coasts of the United Kingdom. Early indications from the police suggest the impact may have resulted from a “joyride” – an illegal, unsanctioned use of a vehicle – that escalated into a head‑on crash. The sudden, high‑speed impact caused catastrophic damage to both vehicles and left seven occupants dead at the scene.\n\nAmong the deceased were two police officers who were on duty at the time of the crash. Their deaths have heightened the gravity of the investigation, prompting senior officers to allocate additional resources to uncover the circumstances that led to the tragedy. The remaining five victims have been described in official statements as young men, though no further personal details have been released pending notification of families.\n\nIn the hours following the crash, law enforcement officers conducted a coordinated sweep of the surrounding area, resulting in the arrest of twelve individuals suspected of involvement in the incident. While the precise roles of each arrestee have not been disclosed, police have indicated that the arrests are part of a broader effort to dismantle organised‑crime networks that may have orchestrated or facilitated the illegal vehicle use that precipitated the collision. The scale of the arrests underscores the seriousness with which authorities are pursuing any criminal links.\n\nThe incident arrives at a time when organised‑crime groups are under intensified scrutiny across the United Kingdom. Recent years have seen a rise in the use of stolen or illegally modified vehicles for illicit purposes, ranging from drug trafficking to intimidation tactics. By linking the A66 crash to such activity, investigators are signalling a willingness to pursue aggressive legal action against those who weaponise ordinary roadways for criminal ends. The loss of two police officers in particular has amplified public concern and reinforced calls for stricter enforcement of vehicle‑theft and joyriding statutes.\n\nAuthorities have confirmed that the investigation remains ongoing. Detectives are reviewing dash‑cam footage, vehicle registration records, and communications between the arrested individuals to establish a clear chain of responsibility. Prosecutors are expected to consider a range of charges, potentially including manslaughter, reckless driving, and offences related to organised crime. The twelve arrestees will appear before a magistrates’ court in the coming weeks, where bail decisions and preliminary hearings will determine the next procedural steps.\n\nThe A66 crash serves as a stark reminder of how ordinary traffic incidents can intersect with broader criminal enterprises, resulting in profound loss of life and community trauma. While the immediate focus is on delivering justice for the victims and their families, the case also highlights the need for continued vigilance against the misuse of vehicles by organised groups. As the investigation unfolds, the outcomes are likely to influence both policing strategies on the nation’s highways and legislative approaches to curbing vehicle‑related crime.\n\nIn the wake of the tragedy, the key takeaway for the public is clear: the convergence of reckless vehicle use and organised‑crime activity poses a serious threat to road safety and public order. The twelve arrests mark a decisive step by law enforcement to hold those responsible accountable, and the forthcoming legal proceedings will set precedents for how similar cases are addressed in the future.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-24",
+    "time": "21:18",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "12 people were arrested in connection with the A66 crash",
+      "The crash resulted in 7 deaths",
+      "Among the deceased were 2 police officers",
+      "The other 5 deceased were described as young men",
+      "The incident occurred on the A66 road in the United Kingdom",
+      "Police investigations have linked the crash to organised crime activity"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=185",
+    "featured": true
+  },
+  {
     "id": 184,
     "title": "How easy is it to find an NHS dentist? It depends where you live",
     "summary": "**NHS Dental Care Remains Widely Available but Not Free Across England**",
@@ -26,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=184",
-    "featured": true
+    "featured": false
   },
   {
     "id": 183,

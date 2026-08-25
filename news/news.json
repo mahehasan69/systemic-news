@@ -1,5 +1,37 @@
 [
   {
+    "id": 187,
+    "title": "How the deadly A66 crash unfolded leaving seven dead",
+    "summary": "**A66 crash investigation and related reports**",
+    "content": "**A66 crash investigation and related reports**\n\nA fatal collision on the A66 road claimed seven lives, prompting a police investigation that has already led to arrests linked to organised crime. Video footage released by authorities shows a police chase minutes before the crash, while a separate recording captures the moment the pursuit was aborted only seconds before the vehicles collided. Families of the deceased police officers have publicly described their loved ones as heroes, underscoring the personal toll of the tragedy.\n\nThe incident unfolded on a stretch of the A66 that is a major east‑west artery in northern England. According to the police, a high‑speed pursuit was underway when officers decided to terminate the chase. The decision to abort the pursuit came just seconds before the fatal collision, suggesting that the vehicles involved were still traveling at considerable speed. Video taken by a by‑stander shows the police cars in pursuit minutes earlier, and a second clip captures the abrupt halt to the operation. The abrupt end to the chase coincided with the moment the crash occurred, leading investigators to examine the role of the pursuit and the driving behaviour of all parties involved.\n\nSeven individuals were killed in the crash, including several police officers whose families have since issued statements praising their service. The families’ remarks have highlighted the officers’ dedication and sacrifice, framing the loss within a broader narrative of public service. In the wake of the tragedy, social media platforms have been flooded with videos of dangerous driving, a phenomenon that has drawn renewed attention to road safety and the risks associated with high‑speed pursuits.\n\nPolice have confirmed that the investigation has already resulted in arrests tied to organised crime. While details of the criminal networks remain confidential, the connection between the crash and organised criminal activity suggests that the pursuit may have been targeting individuals linked to illicit operations. The arrests indicate that law enforcement is pursuing both the immediate circumstances of the collision and the broader criminal context that may have precipitated the chase.\n\nThe incident raises several pressing concerns for public safety and law‑enforcement policy. First, the presence of dangerous driving footage on social media points to a cultural environment in which reckless behaviour on the road is both recorded and shared, potentially normalising risk‑taking. Second, the decision to abort a police pursuit moments before a fatal crash invites scrutiny of pursuit protocols, especially when high‑risk encounters involve both officers and civilians. Finally, the link to organised crime underscores the complex challenges police face when confronting sophisticated criminal networks that may employ high‑speed evasion tactics.\n\nAuthorities have indicated that the investigation will continue for the foreseeable future. Investigators are analysing the video evidence, reviewing pursuit logs, and interviewing witnesses to reconstruct the sequence of events leading up to the collision. The individuals arrested on organised‑crime charges are expected to face court proceedings, although no specific dates have been announced. Police have also pledged to cooperate with any external reviews of pursuit policies that may arise from the incident.\n\nIn the coming weeks, families of the victims will likely seek answers and accountability, while the broader community grapples with the loss of life and the implications for road safety. The A66 crash serves as a stark reminder of the lethal potential of high‑speed pursuits and dangerous driving, and it may catalyse policy discussions aimed at balancing effective law enforcement with the protection of public safety. As the investigation unfolds, the outcomes will shape both criminal‑justice responses to organised crime and the operational guidelines governing police pursuits on Britain’s highways.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-25",
+    "time": "02:12",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A crash on the A66 road resulted in seven deaths.",
+      "Police are investigating the crash.",
+      "Arrests related to organised crime were made in connection with the investigation.",
+      "A police pursuit was aborted seconds before the crash.",
+      "Video footage shows a police chase minutes before the fatal crash.",
+      "Families of the deceased police officers described them as heroes.",
+      "Videos of dangerous driving are easily found on social media."
+    ],
+    "timeline": [
+      "Date of crash: not specified in the provided articles.",
+      "Seconds before crash: police pursuit aborted.",
+      "Minutes before crash: police chase captured on video."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=187",
+    "featured": true
+  },
+  {
     "id": 186,
     "title": "Court Allows Trump to Pursue Mail Voting Limits, for Now",
     "summary": "**Supreme Court Clears Path for Trump Administration’s Mail‑In Voting Restrictions Ahead of 2022 Midterms**",
@@ -24,7 +56,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=186",
-    "featured": true
+    "featured": false
   },
   {
     "id": 185,

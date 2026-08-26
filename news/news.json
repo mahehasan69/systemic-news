@@ -1,5 +1,29 @@
 [
   {
+    "id": 193,
+    "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
+    "summary": "**Meta to Pay Up to $18 Billion in Settlement Over Child‑Safety Claims**",
+    "content": "**Meta to Pay Up to $18 Billion in Settlement Over Child‑Safety Claims**\n\nMeta Platforms Inc. has agreed to a settlement of up to **$18 billion** to resolve a series of lawsuits alleging that its flagship services, Facebook and Instagram, are harmful to children and contribute to social‑media addiction. The deal, reported by the BBC, the Financial Times, The Guardian, Sky News, The Times and The London Economic, represents the largest financial resolution to date in the ongoing debate over the impact of digital platforms on minors.\n\n### Settlement Details\nThe lawsuits contend that Meta’s design choices and algorithmic recommendations encourage excessive screen time, expose young users to inappropriate content and foster addictive usage patterns. While the exact payment schedule and the specific technical changes have not been disclosed, the settlement requires Meta to:\n\n* Pay up to $18 billion to the plaintiffs, and  \n* Implement modifications to Facebook and Instagram intended to reduce the identified risks.\n\nMeta has emphasized that the agreement does not constitute an admission of liability; rather, it reflects a decision to avoid further protracted litigation.\n\n### Regulatory Context\nThe settlement arrives amid intensifying scrutiny of social‑media firms worldwide. Regulators, legislators and advocacy groups have increasingly focused on the mental‑health effects of algorithm‑driven feeds, data‑privacy concerns and the broader psychological impact of digital platforms on children. Recent investigations have examined how content recommendation engines influence user behavior and have prompted calls for stricter age‑verification and content‑moderation standards.\n\n### Financial and Strategic Implications\nThe $18 billion payout will be a material outlay for Meta, likely affecting its quarterly earnings and capital‑allocation decisions. Strategically, the agreement could set a precedent for future litigation targeting tech companies over child‑safety issues, encouraging additional plaintiffs to pursue similar claims.\n\nIf Meta follows through on the promised platform changes, millions of minor users could experience a markedly different online environment. Industry analysts anticipate a shift toward more protective design practices, including:\n\n* Enhanced age‑verification mechanisms,  \n* Limits on algorithmic amplification of potentially harmful content, and  \n* Strengthened parental‑control tools.\n\n### Next Steps and Oversight\nMeta is expected to detail the specific alterations to Facebook and Instagram in the coming weeks. Consumer‑protection agencies, child‑advocacy groups and shareholders are likely to monitor implementation closely to ensure compliance with the settlement terms. The agreement may also spur new legislative initiatives aimed at safeguarding children in the digital sphere.\n\n### Outlook\nThe settlement underscores a growing recognition of the risks social‑media platforms pose to younger users and signals Meta’s willingness to address those concerns through both financial restitution and operational reforms. As the largest settlement of its kind, it could serve as a benchmark for future disputes and catalyze broader transformation in how technology companies design and manage services for children.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-26",
+    "time": "21:24",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Meta agreed to a settlement of up to $18 billion.",
+      "The settlement addresses claims that Meta's platforms, specifically Facebook and Instagram, harm children or cause social‑media addiction.",
+      "Multiple reputable news outlets (BBC, Financial Times, The Times, Sky News, The Guardian, The London Economic, etc.) reported the same settlement amount and purpose."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=193",
+    "featured": true
+  },
+  {
     "id": 192,
     "title": "Prince Harry and Meghan land in UK days after announcing move",
     "summary": "**Prince Harry and Meghan Arrive in Britain to Begin Planned Return**",
@@ -33,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=192",
-    "featured": true
+    "featured": false
   },
   {
     "id": 191,

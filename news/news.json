@@ -1,5 +1,41 @@
 [
   {
+    "id": 192,
+    "title": "Prince Harry and Meghan land in UK days after announcing move",
+    "summary": "**Prince Harry and Meghan Arrive in Britain to Begin Planned Return**",
+    "content": "**Prince Harry and Meghan Arrive in Britain to Begin Planned Return**\n\nLondon – Prince Harry and Meghan, the Duke and Duchess of Sussex, touched down in the United Kingdom on Tuesday, marking the first physical step in the family’s announced relocation after several years abroad. Accompanied by their children, Archie and Lilibet, the couple’s arrival was reported by the BBC and People.com as the official start of a move that the royal household expects to complete before the end of the month.\n\nThe landing comes just days after the Sussexes publicly confirmed their intention to return to the UK. People.com described the moment as the point at which the family’s move “officially begins,” while the BBC noted that the couple is slated to settle in Britain later this month, in line with the timeline they set when the relocation was first announced.\n\n**Related royal developments**\n\n- **Charitable role change:** Shortly after the move was announced, the BBC disclosed that Prince Harry has stepped down from the board of an African wildlife charity, signaling a shift in his charitable focus as the family re‑establishes its base in Britain.\n\n- **Royal family appearances:** Page Six reported that Catherine, Princess of Wales, was photographed publicly with her husband Prince William and her father‑in‑law King Charles in the days following the Sussexes’ announcement, underscoring the broader royal family’s effort to present a united front during the transition.\n\n**Local news**\n\nIn an unrelated development, a council announced that a cracked road will remain closed to traffic until 2027, a decision that will affect local commuters for the next several years, according to BBC coverage.\n\n**Context and significance**\n\nThe Sussexes have lived in North America since their 2020 interview with Oprah Winfrey and their decision to step back from senior royal duties. Their return has been framed by the royal household as a “new chapter” for the family. Prince Harry’s resignation from the wildlife‑charity board coincides with the physical move, suggesting a realignment of his philanthropic activities. The public appearance of the Princess of Wales with the King and Prince William highlights the monarchy’s intent to maintain cohesion amid the changes.\n\nHarry and Meghan’s presence in the United Kingdom re‑introduces a high‑profile couple into the public sphere, potentially influencing future royal engagements, charitable initiatives and media coverage. Their departure from the charity board may affect that organization’s governance and fundraising, while the council’s road closure will continue to shape local traffic patterns and infrastructure planning through 2027.\n\n**Looking ahead**\n\nThe Sussexes are expected to undertake a series of public engagements across the United Kingdom as they settle into their new residence, which media reports suggest could be located in the Cotswolds. These appearances will be coordinated with the royal household’s calendar, and further details about their official duties are anticipated in the coming weeks. Meanwhile, the road closure will remain in effect, with maintenance and safety work scheduled to continue through 2027.\n\nThe return of Prince Harry, Meghan and their children marks a notable shift in the composition of the modern British monarchy, while parallel developments – including the prince’s charitable board resignation and the extended road closure – illustrate the diverse range of issues currently shaping public attention in the United Kingdom.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-26",
+    "time": "18:35",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Prince Harry and Meghan landed in the United Kingdom days after announcing their move (BBC).",
+      "Meghan Markle and Prince Harry landed in the United Kingdom as the family's move back officially begins (People.com).",
+      "Prince Harry and Meghan are moving back to the United Kingdom later this month (BBC).",
+      "The couple will be accompanied by their children Archie and Lilibet (People.com).",
+      "Prince Harry stepped down from the board of an African wildlife charity (BBC).",
+      "A council announced that a cracking road will remain shut until 2027 (BBC).",
+      "Kate Middleton was seen publicly with Prince William and King Charles days after the announcement of Harry and Meghan's UK move (Page Six)."
+    ],
+    "timeline": [
+      "Announcement of Harry and Meghan's intention to move back to the UK (date not provided).",
+      "Prince Harry steps down from African wildlife charity board (date not provided, reported after move announcement).",
+      "Council announces road closure until 2027 (date not provided).",
+      "Harry and Meghan land in the UK (reported as days after announcement).",
+      "Kate Middleton appears with Prince William and King Charles days after the move announcement.",
+      "Family's move back officially begins (People.com report).",
+      "Scheduled relocation later this month (BBC report)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=192",
+    "featured": true
+  },
+  {
     "id": 191,
     "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
     "summary": "Flash flood on Nepal‑Tibet border causes deaths, missing tourists and building damage",
@@ -22,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=191",
-    "featured": true
+    "featured": false
   },
   {
     "id": 190,

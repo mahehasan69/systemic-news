@@ -1,5 +1,30 @@
 [
   {
+    "id": 191,
+    "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
+    "summary": "Flash flood on Nepal‑Tibet border causes deaths, missing tourists and building damage",
+    "content": "Flash flood on Nepal‑Tibet border causes deaths, missing tourists and building damage  \n\nA sudden flash flood swept through a remote Himalayan valley on the Nepal‑Tibet border, killing several people, leaving many others unaccounted for and razing structures in its path. The disaster was captured on video and aerial footage that quickly circulated across multiple media outlets, confirming the scale of the event and prompting an urgent response from regional authorities and rescue teams.\n\nThe flood struck without warning, inundating the valley with a torrent of water and mud that overwhelmed homes and other buildings. According to the footage, the surge moved rapidly down the steep terrain, sweeping away roofs, walls and any objects in its course. The destruction was extensive enough that the valley’s built environment was described as “destroyed by mud and water,” indicating that entire structures were either collapsed or rendered unusable. While the exact number of casualties has not been released, reports confirm that loss of life occurred and that a “large number of people” remain missing.\n\nMultiple news organizations reported the incident after the footage emerged, each citing the same visual evidence of the flood’s impact. The coverage, aggregated on news.google.com, highlighted the immediacy of the disaster and the difficulty of accessing the affected area. The remote location on the border between Nepal and the autonomous region of Tibet in China complicates both rescue operations and the verification of casualty figures, a factor noted by several outlets that have been following the story.\n\nThe cause of the flash flood has not been identified in the available reports. No specific trigger—such as a dam breach, glacial lake outburst, or extreme rainfall event—has been confirmed by the sources consulted. The lack of a clear causal explanation underscores the challenges faced by meteorologists and geologists who monitor the region’s complex hydrological systems, especially in high‑altitude valleys where rapid water movement can occur with little warning.\n\nThe incident carries significant implications for the broader Himalayan region, which is a popular destination for trekkers, mountaineers and cultural tourists. The loss of life and the disappearance of individuals, many of whom are believed to be tourists, highlight the inherent risks of traveling in remote, mountainous terrain where natural hazards can develop suddenly. Moreover, the destruction of buildings in the valley points to a longer‑term impact on local communities that rely on these structures for shelter, commerce and cultural activities. The damage also raises concerns about the capacity of local infrastructure to withstand extreme weather events that may become more frequent in the context of climate variability.\n\nAuthorities in both Nepal and the Tibet Autonomous Region have not yet issued detailed statements regarding the scale of the emergency response, the number of personnel deployed or the timeline for search and rescue operations. The absence of official figures suggests that investigations are still underway and that on‑the‑ground assessments are likely ongoing. As the situation develops, it is expected that additional information will be released by government agencies, humanitarian organizations and local officials tasked with coordinating relief efforts.\n\nIn the immediate aftermath, the priority for responders will be to locate the missing individuals, provide medical assistance to survivors and assess the full extent of structural damage. The flood’s impact on the valley’s habitability may also prompt longer‑term discussions about disaster preparedness, early‑warning systems and infrastructure resilience in high‑altitude border regions. While the precise next steps remain to be detailed by the relevant authorities, the incident serves as a stark reminder of the vulnerability of remote Himalayan communities to sudden hydrological disasters.\n\nThe flash flood on the Nepal‑Tibet border stands as a tragic event that has claimed lives, left many missing and devastated a Himalayan valley’s built environment. With the cause still unidentified and official casualty numbers pending, the episode underscores the urgent need for coordinated emergency response and highlights the broader challenges of managing natural hazards in some of the world’s most rugged and isolated landscapes.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-26",
+    "time": "16:09",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A flash flood occurred on the Nepal‑Tibet border.",
+      "Multiple media outlets reported video or aerial footage of the flood.",
+      "The flood caused casualties and left many people missing.",
+      "Buildings in a Himalayan valley were destroyed by mud and water."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=191",
+    "featured": true
+  },
+  {
     "id": 190,
     "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
     "summary": "**UK energy price cap to rise 4% in October, reaching three‑year high**",
@@ -36,7 +61,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=190",
-    "featured": true
+    "featured": false
   },
   {
     "id": 189,

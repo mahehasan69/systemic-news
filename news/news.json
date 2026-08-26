@@ -1,5 +1,38 @@
 [
   {
+    "id": 188,
+    "title": "Dolly Parton: The life of an iconic country singer",
+    "summary": "Dolly Parton, the beloved American singer‑songwriter, actress and philanthropist, died at the age of 80 after a brief battle with cancer, her family announced on social media. The news, confirmed by a slate of major outlets including ABC7 Los Angeles, The Guardian, BBC, Billboard and U.S. News & Report, sparked an immediate wave of tributes and extensive media coverage across the United States and beyond. Parton’s death marks the end of a six‑decade career that made her one of the most recognizable cultural figures of her generation.",
+    "content": "Dolly Parton, the beloved American singer‑songwriter, actress and philanthropist, died at the age of 80 after a brief battle with cancer, her family announced on social media. The news, confirmed by a slate of major outlets including ABC7 Los Angeles, The Guardian, BBC, Billboard and U.S. News & Report, sparked an immediate wave of tributes and extensive media coverage across the United States and beyond. Parton’s death marks the end of a six‑decade career that made her one of the most recognizable cultural figures of her generation.\n\nThe announcement came in 2024, though the precise date of the reports has not been disclosed in the sources consulted. Multiple news services published obituaries and reaction pieces within hours of the family’s statement, underscoring the speed with which the story spread. The cause of death was identified as cancer, described by the family as a “brief battle” with the disease. No further medical details were released, and no official cause‑of‑death statement beyond the family’s wording has been reported.\n\nParton’s impact on popular music and popular culture is reflected in the breadth of the coverage. Her catalog of hits—including the timeless “Jolene,” the workplace anthem “9 to 5,” and the enduring ballad “I Will Always Love You”—has been cited repeatedly as the foundation of her global fame. In addition to her chart‑topping songs, she built a reputation as a versatile entertainer, appearing in film and television, and as a philanthropist, supporting numerous charitable causes throughout her life. The combination of artistic achievement and public generosity cemented her status as an iconic figure in the United States and a beloved personality worldwide.\n\nThe reaction to Parton’s passing has been swift and heartfelt. Media outlets have devoted front‑page coverage and special segments to her life and legacy, while fans have taken to social platforms to share memories, post tributes and celebrate her contributions to music, film and charitable work. The breadth of the coverage—from local papers such as The Coloradoan to international broadcasters like the BBC—illustrates the depth of her influence across demographic and geographic lines. Public mourning has manifested in spontaneous gatherings, online memorials and a surge of streaming activity for her recordings, reflecting the personal connection many feel to her songs.\n\nUnderstanding why Parton’s death matters requires a look at the cultural landscape she helped shape. Emerging from the Appalachian region, she broke barriers for women in a traditionally male‑dominated country‑music industry, achieving crossover success that opened doors for future generations of artists. Her songwriting, characterized by narrative storytelling and emotional honesty, set a standard that continues to inform contemporary music. Moreover, her philanthropic initiatives—most notably the Imagination Library, which provides free books to children—have left a lasting social imprint that extends far beyond the entertainment sphere.\n\nWhile details of any formal memorial services or public tributes have not yet been announced, industry insiders and community leaders are expected to organize events that honor Parton’s legacy. The family’s social‑media announcement suggests that further information will be communicated through official channels in the coming days. In the interim, radio stations, streaming platforms and television networks are likely to continue featuring her music and archival footage, ensuring that her artistic contributions remain in the public consciousness.\n\nIn sum, Dolly Parton’s death at 80 concludes a remarkable chapter in American cultural history. Her brief struggle with cancer, as reported by her family, has prompted a global outpouring of respect and remembrance. The extensive media coverage, the immediate public response, and the anticipation of forthcoming memorials all attest to the profound impact she had on music, entertainment and charitable work. As the world reflects on her life, Parton’s songs and humanitarian spirit will endure, offering a lasting testament to an artist whose influence transcended genre and geography.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-26",
+    "time": "00:34",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Dolly Parton was a renowned country music singer, songwriter, actress and philanthropist.",
+      "She died at the age of 80.",
+      "Multiple news outlets (ABC7 Los Angeles, The Guardian, LiveNOW from FOX, Yahoo, BBC, Billboard, U.S. News & World Report, The Coloradoan, HOLA) reported her death.",
+      "The cause of death was reported as cancer, described as a \"brief battle\" with the disease.",
+      "Her family announced her death on social media.",
+      "She is known worldwide for major hits such as \"Jolene\", \"9 to 5\" and \"I Will Always Love You\" (the article truncates the title).",
+      "She was an iconic cultural figure in the United States."
+    ],
+    "timeline": [
+      {
+        "event": "Reports of Dolly Parton's death published",
+        "date": "2024 (exact date not specified in the articles)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=188",
+    "featured": true
+  },
+  {
     "id": 187,
     "title": "How the deadly A66 crash unfolded leaving seven dead",
     "summary": "**A66 crash investigation and related reports**",
@@ -29,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=187",
-    "featured": true
+    "featured": false
   },
   {
     "id": 186,

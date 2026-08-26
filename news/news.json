@@ -1,5 +1,44 @@
 [
   {
+    "id": 190,
+    "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+    "summary": "**UK energy price cap to rise 4% in October, reaching three‑year high**",
+    "content": "**UK energy price cap to rise 4% in October, reaching three‑year high**\n\nThe energy regulator Ofgem has announced that the household energy price cap will increase by 4% when it takes effect in October, pushing domestic energy bills to their highest level in three years. The decision, reported by Cornwall Insight, reflects ongoing volatility in gas markets that has driven wholesale energy costs upward.\n\nThe price‑cap rise is scheduled to be implemented from October 2023, with Ofgem confirming that the adjustment will be applied to the default tariffs that most households on standard variable or default plans pay. By design, the cap sets a maximum price per unit of electricity and gas that suppliers can charge, ensuring that consumers are protected from extreme price spikes. The 4% uplift will therefore be reflected directly in the monthly statements of millions of UK households.\n\nOfgem cited volatile gas markets as the primary factor behind the increase. Recent fluctuations in wholesale gas prices have eroded the margin that energy suppliers can maintain under the existing cap, prompting the regulator to adjust the ceiling to reflect current market conditions. The volatility stems from a combination of supply constraints and broader geopolitical factors that have unsettled European gas supplies, although the specific drivers were not detailed in the regulator’s announcement.\n\nThe immediate effect of the new cap will be higher household energy bills throughout the winter of 2023‑24. Analysts expect that the winter energy bills will reach a three‑year high, a projection echoed by Cornwall Insight’s reporting. For many families already coping with elevated living costs, the additional expense could strain household budgets and intensify concerns about energy affordability across the country.\n\nThe move comes at a time when the UK government and consumer groups are closely monitoring the impact of energy costs on inflation and public welfare. By raising the cap, Ofgem aims to balance the need to protect consumers with the reality of higher wholesale costs that suppliers must absorb. The regulator’s decision underscores the broader challenge of maintaining price stability in an energy market that remains susceptible to external shocks.\n\nImplementation of the new price cap will begin in October, after which Ofgem will continue to monitor winter energy bill levels and market dynamics. The regulator has indicated that further adjustments may be considered if gas market volatility persists or intensifies. Stakeholders, including energy suppliers and consumer advocacy groups, are expected to assess the impact of the cap increase on both pricing strategies and household budgets throughout the coming months.\n\nIn summary, the 4% rise in the UK household energy price cap, set to take effect in October, marks a significant shift that will push energy bills to a three‑year high. Driven by volatile gas markets, the adjustment highlights the delicate balance regulators must strike between shielding consumers and reflecting real‑time wholesale costs. The upcoming winter will test the effectiveness of the new cap, with ongoing monitoring poised to inform any future regulatory actions.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-26",
+    "time": "07:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ofgem announced a 4% increase in the household energy price cap.",
+      "The increase is set to take effect from October.",
+      "The rise will push energy bills to a three‑year high.",
+      "Cornwall Insight reported the price cap will hit a three‑year high in October.",
+      "Ofgem cited volatile gas markets as a factor for the rise."
+    ],
+    "timeline": [
+      {
+        "event": "Ofgem announces 4% price‑cap rise",
+        "date": "October 2023 (announcement reported in articles)"
+      },
+      {
+        "event": "Price‑cap increase takes effect",
+        "date": "October 2023"
+      },
+      {
+        "event": "Winter 2023‑24 energy bills reach three‑year high",
+        "date": "Winter 2023‑24"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=190",
+    "featured": true
+  },
+  {
     "id": 189,
     "title": "Father's house rammed before son died in A66 crash",
     "summary": "Seven people were killed when a vehicle travelling the wrong way on the A66 collided with a residential property, and a 17‑year‑old son died in the same crash that also claimed the lives of several police constables, authorities said. The incident, which unfolded seconds after a police pursuit was called off, has prompted a major investigation that has already led to organised‑crime related arrests.",
@@ -31,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=189",
-    "featured": true
+    "featured": false
   },
   {
     "id": 188,

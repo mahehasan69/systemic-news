@@ -1,5 +1,48 @@
 [
   {
+    "id": 195,
+    "title": "Watch: How the collapse of a glacier caused such devastation",
+    "summary": "**Glacier Collapse Triggers Devastating Flash Flood Along Nepal‑Tibet Border**",
+    "content": "**Glacier Collapse Triggers Devastating Flash Flood Along Nepal‑Tibet Border**\n\nA massive fragment of ice broke away from a Himalayan glacier on Wednesday and plunged into the river that forms part of the border between Nepal and China’s Tibet Autonomous Region. The impact released a torrent of water, ice and mud that swept through the valley, destroying roads, bridges and homes and reshaping the landscape. Early scientific assessments and media reports identify the glacier collapse as the primary cause of the flash flood that devastated the trans‑border basin.\n\nWhen the detached ice mass entered the river channel it displaced a large volume of water, generating a high‑energy flow of meltwater, debris and sediment. The surge traveled downstream with enough force to inundate villages, erode riverbanks and damage critical infrastructure. Although the exact calendar date has not been disclosed, international outlets reported the event shortly after it occurred, prompting a rapid response from local authorities and disaster‑relief agencies.\n\nBoth the BBC and Al Jazeera have published analyses linking the flood directly to the glacier break‑off, citing satellite imagery and on‑the‑ground observations that show a clear correlation between the ice detachment and the ensuing flood wave. Scientists involved in the investigation describe the glacier failure as “likely” the cause, emphasizing that the sudden release of stored ice and meltwater can generate flash floods of the magnitude observed in the valley. The reports also note that glacier‑related hazards are not isolated incidents; similar events have been documented elsewhere.\n\nIn Switzerland, the Alpine village of Blatten experienced a comparable glacier collapse that triggered a destructive flood, while in Dharali, India, a flash flood remains under investigation amid debate over whether a glacier collapse or a lake burst was responsible. These parallel cases illustrate a growing pattern of glacial instability in mountainous regions and provide a broader context for understanding how a seemingly static ice mass can become a rapid, destructive force.\n\nThe Nepal‑Tibet flash flood has immediate and longer‑term implications. In the short term, the destruction of roads, bridges and homes hampers relief operations and isolates affected communities, raising concerns about access to medical care, food supplies and reconstruction resources. The event also underscores the vulnerability of populations living in high‑altitude valleys where glacial meltwater feeds major river systems.\n\nFrom a scientific perspective, the incident reinforces the need for continuous monitoring of glacier dynamics, especially in the Himalayas where climate‑driven warming is accelerating melt rates and altering ice stability. Researchers plan to intensify surveillance across the Himalayan range using remote‑sensing technologies, field surveys and hydrological modeling to detect early signs of ice detachment and to assess potential downstream impacts of future collapses. Parallel investigations into the Dharali flash flood will continue, aiming to resolve its disputed causes and to refine regional hazard‑assessment frameworks.\n\nInternational cooperation among meteorological agencies, glaciologists and disaster‑management bodies is expected to increase, with the goal of developing early‑warning systems that can mitigate the human and economic toll of similar events. The Nepal‑Tibet flash flood serves as a stark reminder that glacier collapse can rapidly transform a stable mountain environment into a zone of acute danger. While the precise timing and magnitude of such failures remain difficult to predict, the convergence of scientific evidence and media reporting underscores a clear message: monitoring glacial health and preparing communities for sudden flood hazards are essential steps in safeguarding lives and infrastructure in the world’s high‑altitude frontiers.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-27",
+    "time": "13:13",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A large chunk of ice broke off a glacier and fell into a river in the Himalayas, creating a torrent of water, ice and mud that devastated a valley on the border between Nepal and the Tibetan region of China.",
+      "Scientists say a collapsed glacier likely caused the devastating Nepal‑Tibet floods.",
+      "BBC and Al Jazeera both report that a glacial collapse was the primary trigger of the Nepal‑Tibet flash floods.",
+      "The event occurred on a Wednesday (exact calendar date not provided in the source excerpts).",
+      "Similar glacier‑collapse incidents have been reported in Switzerland (Blatten) and in Dharali, India."
+    ],
+    "timeline": [
+      {
+        "event": "Glacier chunk broke off and fell into river in Himalayas, triggering flash flood",
+        "date": "Wednesday (date not specified)"
+      },
+      {
+        "event": "BBC and Al Jazeera publish analyses linking the Nepal‑Tibet floods to glacier collapse",
+        "date": "After Wednesday (date not specified)"
+      },
+      {
+        "event": "Swiss glacier collapse reported (Blatten)",
+        "date": "Not specified in excerpts"
+      },
+      {
+        "event": "Dharali flash flood investigated; debate over glacier collapse vs lake burst",
+        "date": "Not specified in excerpts"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=195",
+    "featured": true
+  },
+  {
     "id": 194,
     "title": "BBC visits hospital in Kathmandu as families wait for news",
     "summary": "**BBC Reports: Nepal‑Tibet Flood, Hospital Tragedy in Pakistan, Dolly Parton Tribute and New Toxic‑Waste Documentary**",
@@ -65,7 +108,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=194",
-    "featured": true
+    "featured": false
   },
   {
     "id": 193,

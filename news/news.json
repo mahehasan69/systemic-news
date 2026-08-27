@@ -1,5 +1,73 @@
 [
   {
+    "id": 194,
+    "title": "BBC visits hospital in Kathmandu as families wait for news",
+    "summary": "**BBC Reports: Nepal‑Tibet Flood, Hospital Tragedy in Pakistan, Dolly Parton Tribute and New Toxic‑Waste Documentary**",
+    "content": "**BBC Reports: Nepal‑Tibet Flood, Hospital Tragedy in Pakistan, Dolly Parton Tribute and New Toxic‑Waste Documentary**\n\nThe BBC’s recent coverage has spanned a series of starkly different stories—from a deadly flash flood on the Nepal‑Tibet border to a tragic fire at Pakistan’s premier medical centre, a public homage to music icon Dolly Parton, and the announcement of a new documentary on toxic waste starring Michael Sheen.\n\n**Flash flood on the Nepal‑Tibet border**\n\nHeavy monsoon rains triggered a flash flood that swept across the Nepal‑Tibet border, prompting the BBC to describe the response as a “race to save lives.” Video released by the broadcaster shows water surging through remote villages, leaving hundreds missing and dozens dead. One survivor told reporters, “My family members were swept away,” underscoring the personal devastation. The BBC’s “What we know about deadly Nepal‑Tibet floods” compiled the latest confirmed figures and highlighted the urgency of ongoing rescue operations.\n\n**Helicopter rescue and hospital strain**\n\nAmid the chaos, Nepalese rescue teams air‑lifted a man from an isolated village, demonstrating the rapid deployment of aerial assets to reach communities cut off by rising waters. In Kathmandu, BBC journalists documented crowded hospital waiting rooms where families anxiously awaited news about loved ones affected by the flood, illustrating the mounting humanitarian pressure on medical facilities.\n\n**Fire at Pakistan Institute of Medical Sciences (PIMS)**\n\nAcross the border in Islamabad, a blaze at the Pakistan Institute of Medical Sciences claimed the lives of 14 infants. Witnesses reported that a door was locked during the fire, a detail that will shape the forthcoming investigation into the incident and raise questions about safety protocols in South‑Asian hospitals.\n\n**Cultural moments: Dolly Parton tribute and toxic‑waste documentary**\n\nIn Nashville, fans gathered to lay flowers in tribute to Dolly Parton, celebrating her lasting influence on music and philanthropy. The BBC also reported that actor Michael Sheen is attached to a forthcoming documentary that will examine the global threat of toxic waste, aiming to raise awareness of hazardous‑waste management worldwide.\n\n**Broader implications**\n\nThe Nepal‑Tibet flood highlights the vulnerability of mountainous communities to climate‑driven disasters and underscores the need for coordinated disaster‑risk reduction strategies. The PIMS fire has intensified calls for stricter fire‑prevention measures in medical facilities throughout the region. Meanwhile, the Dolly Parton tribute and the upcoming documentary illustrate how cultural and media initiatives can mobilise public sentiment and draw attention to humanitarian and environmental challenges.\n\n**Outlook**\n\nRescue and recovery efforts on the Nepal‑Tibet border will continue, with authorities pledging to locate missing persons and provide medical care to survivors. Investigations are planned to determine the precise triggers of the flash flood and to examine the circumstances surrounding the locked door at PIMS. Production on the Michael Sheen‑led toxic‑waste documentary is slated to begin soon, with distribution aimed at a global audience.\n\nCollectively, the BBC’s reporting paints a picture of a region confronting natural disaster, public‑health emergencies, and cultural solidarity, while also grappling with broader environmental concerns. The convergence of these stories reinforces the importance of resilience, accountability and public awareness in responding to both immediate crises and long‑term threats.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-27",
+    "time": "02:21",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC visited a hospital in Kathmandu where families were waiting for news",
+      "A man was rescued by helicopter in Nepal",
+      "Fans in Nashville laid flowers in tribute to Dolly Parton",
+      "Flash floods hit the Nepal‑Tibet border, leaving hundreds missing and scores dead",
+      "Michael Sheen is associated with a documentary about toxic waste",
+      "BBC published information about deadly Nepal‑Tibet floods",
+      "Rescue efforts were described as a \"race to save lives\" after the flash flood on the Nepal‑Tibet border",
+      "A video shows the scale of the flash flood hitting the Nepal‑Tibet border",
+      "A person said \"My family members were swept away\" regarding the flood",
+      "A fire at Pakistan's PIMS hospital in Islamabad killed 14 babies; witnesses said a door was locked"
+    ],
+    "timeline": [
+      {
+        "event": "Flash flood hits Nepal‑Tibet border",
+        "order": 1
+      },
+      {
+        "event": "Video shows scale of flash flood",
+        "order": 2
+      },
+      {
+        "event": "BBC reports \"race to save lives\" after flood",
+        "order": 3
+      },
+      {
+        "event": "BBC publishes \"What we know about deadly Nepal‑Tibet floods\"",
+        "order": 4
+      },
+      {
+        "event": "Man rescued by helicopter in Nepal",
+        "order": 5
+      },
+      {
+        "event": "BBC visits hospital in Kathmandu, families wait for news",
+        "order": 6
+      },
+      {
+        "event": "Fans lay flowers in Nashville for Dolly Parton",
+        "order": 7
+      },
+      {
+        "event": "Michael Sheen's toxic waste documentary announced",
+        "order": 8
+      },
+      {
+        "event": "PIMS fire in Islamabad kills 14 babies",
+        "order": 9
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=194",
+    "featured": true
+  },
+  {
     "id": 193,
     "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
     "summary": "**Meta to Pay Up to $18 Billion in Settlement Over Child‑Safety Claims**",
@@ -21,7 +89,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=193",
-    "featured": true
+    "featured": false
   },
   {
     "id": 192,

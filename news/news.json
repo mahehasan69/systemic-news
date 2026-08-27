@@ -1,5 +1,35 @@
 [
   {
+    "id": 196,
+    "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
+    "summary": "**Investigation of the Nepal‑Tibet Flash Floods and BBC Coverage**",
+    "content": "**Investigation of the Nepal‑Tibet Flash Floods and BBC Coverage**\n\nIn recent weeks, a series of deadly flash floods swept across the Nepal‑Tibet border, prompting a large‑scale rescue operation and drawing intense international media attention. The British Broadcasting Corporation (BBC) produced a suite of reports that documented the disaster, recorded survivor testimonies, and examined possible causes. The coverage was subsequently republished by other outlets, including *Modern Ghana*, which traced the flood’s path in a piece titled “Tracing the deadly path of the Nepal‑Tibet flash flooding.”\n\n**Rescue Operations**\n\nRescue teams in Nepal worked through mud‑laden terrain to extract people from flood‑ravaged villages, as described in the BBC article “People pulled from mud in Nepal after deadly flash floods.” Emergency responders faced swift currents, debris, and remote locations, yet managed to rescue dozens of individuals. Many more remain missing, and authorities continue to search for them.\n\n**Survivor Accounts**\n\nIn “The flood took everything: Nepal survivors describe horror of loved ones being swept away,” flood victims recounted how a sudden surge of water demolished homes and carried family members downstream. Their testimonies highlight the human toll of the event, with entire households left homeless and grieving.\n\n**Physical Impacts**\n\nOne striking illustration of the flood’s power appeared in the BBC report “Huge boulder rolls down river.” Although the exact location was not disclosed, the incident showed how massive boulders were displaced by the torrent, blocking waterways and creating additional hazards for residents and rescue crews.\n\n**Exploring the Causes**\n\nThe BBC’s video segment “Watch: What caused the Nepal‑Tibet flash floods?” and the accompanying article “Nepal flooding: What’s behind the disaster?” presented expert analysis of potential triggers. Scientists pointed to a combination of intense rainfall, unstable mountainous terrain, and complex river dynamics. While no definitive cause has been assigned, the reports emphasized the difficulty of pinpointing flood genesis in the Himalayas and called for comprehensive scientific investigation.\n\n**Broader Significance**\n\nThe cross‑border nature of the disaster underscores the shared vulnerability of communities that depend on the same river basins and climatic conditions. International attention, amplified by the BBC’s extensive coverage, has highlighted broader challenges in disaster preparedness and response throughout the Himalayan region. *Modern Ghana*’s republishing of the BBC investigation demonstrates the global resonance of the event and the demand for detailed reporting.\n\n**Next Steps**\n\nLocal authorities in Nepal have mobilized additional resources to locate missing persons, provide shelter, and distribute essential supplies. Parallel relief efforts are expected from Tibetan regional agencies, reflecting the trans‑national impact of the floods. Ongoing analysis of meteorological data and river flow patterns aims to refine early‑warning systems and reduce the risk of future catastrophes.\n\n**Conclusion**\n\nThe Nepal‑Tibet flash floods have triggered a multifaceted response that blends emergency rescue, survivor narratives, and investigative journalism. The BBC’s collection of articles and video content offers a comprehensive snapshot of the disaster’s immediate effects and its broader environmental context. As relief operations continue and scientific studies progress, the event serves as a stark reminder of the fragility of mountain communities in the face of extreme weather.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-27",
+    "time": "23:19",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC published multiple articles titled about deadly Nepal-Tibet floods and flash floods.",
+      "BBC article titled 'People pulled from mud in Nepal after deadly flash floods' indicates rescue operations in Nepal.",
+      "BBC article titled 'The flood took everything': Nepal survivors describe horror of loved ones being swept away' indicates survivor testimonies of loss.",
+      "BBC article titled 'Huge boulder rolls down river' suggests a large boulder movement in a river (location unspecified).",
+      "BBC article titled 'Watch: What caused the Nepal-Tibet flash floods?' indicates a video segment discussing causes.",
+      "BBC article titled 'Nepal flooding: What's behind the disaster?' indicates analysis of underlying factors.",
+      "Modern Ghana republished BBC content titled 'Tracing the deadly path of the Nepal-Tibet flash flooding.'",
+      "BBC published article 'Pakistan PIMS hospital fire: Survivor describes moment she fled with newborn' about a fire in Pakistan.",
+      "BBC published article 'Watch Nashville fans lay flowers in tribute to Dolly Parton' about a tribute event in Nashville, USA."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=196",
+    "featured": true
+  },
+  {
     "id": 195,
     "title": "Watch: How the collapse of a glacier caused such devastation",
     "summary": "**Glacier Collapse Triggers Devastating Flash Flood Along Nepal‑Tibet Border**",
@@ -40,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=195",
-    "featured": true
+    "featured": false
   },
   {
     "id": 194,

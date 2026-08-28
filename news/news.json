@@ -1,5 +1,40 @@
 [
   {
+    "id": 198,
+    "title": "Videos show people survive floodwaters on balcony in Nepal",
+    "summary": "**Severe Monsoon Rains Trigger Floods and Mudslide in Nepal, Leaving 168 Dead and Over 1,100 Missing**",
+    "content": "**Severe Monsoon Rains Trigger Floods and Mudslide in Nepal, Leaving 168 Dead and Over 1,100 Missing**\n\n*Kathmandu, Nepal* – Unprecedented monsoon rains have unleashed flash floods and a massive mudslide across western Nepal, devastating villages, killing at least 168 people and leaving more than 1,100 still unaccounted for, according to *The Economic Times*. Satellite images released by Yahoo show entire hamlets submerged beneath water and silt, underscoring the scale of the disaster.\n\nThe deluge forced thousands to seek refuge in improvised camps, stretching the capacity of local and international humanitarian agencies. In response, India issued an alert warning of possible cross‑border impacts and signalling readiness to provide assistance.\n\n### Human Impact\n\nVideo footage circulating on BBC and India Today captured families clinging to elevated surfaces as floodwaters surged. One clip shows a Nepali family perched on the balcony of a greenhouse while a river roared around them; another shows a household trapped on a balcony as water enveloped their home. A construction worker recorded the moment he survived a hillside mudslide, his camera documenting the torrent of earth and debris that engulfed the area.\n\nSurvivors interviewed by *Cebu Daily News* described being buried under thick layers of silt, sustaining injuries and severe trauma. An Essex‑based nurse speaking to the BBC recounted that several of her relatives were among those swept away, highlighting the personal grief behind the statistics.\n\nConditions in the displacement camps are harsh. Residents face limited shelter, insufficient food, and scarce medical supplies. Overcrowding has raised concerns about disease transmission and the psychological well‑being of those who have lost homes, possessions and loved ones.\n\n### Causes and Challenges\n\nMeteorologists attribute the catastrophe to unusually intense monsoon rains that overwhelmed Nepal’s river systems and destabilised steep terrain. Rapid water accumulation in river valleys produced flash floods, while saturated soils on slopes gave way, triggering the mudslide that buried villages and cut off access routes. Blocked roads and lingering floodwaters have hampered rescue operations, leaving many areas inaccessible by vehicle.\n\n### Response Efforts\n\nThe Nepalese government, supported by the Nepalese Army and a coalition of international NGOs, continues to search for missing persons, provide medical care, and distribute food and clean water. Aerial surveys using drones and helicopters are being deployed to locate trapped individuals and assess damage.\n\nIndia’s alert may translate into additional resources—such as relief supplies or technical expertise—but no formal aid package has been announced at the time of reporting.\n\n### Looking Ahead\n\nHumanitarian agencies are working to improve camp conditions, including the installation of sanitation facilities and the provision of mental‑health support services. Continuous monitoring of river levels and weather patterns is essential to prevent further flash flooding. Regional partners remain on standby, underscoring the cross‑border dimension of the crisis.\n\nThe floods and mudslide in Nepal illustrate how extreme weather can swiftly transform ordinary villages into disaster zones, leaving a trail of loss that reverberates far beyond the immediate area. As the nation grapples with the aftermath, the focus now shifts to rescuing survivors, rebuilding infrastructure, and restoring a sense of normalcy for the affected communities.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-28",
+    "time": "19:42",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Satellite images show extensive flood devastation in villages across Nepal (Yahoo).",
+      "Videos depict people surviving on balconies as floodwaters rise in Nepal (BBC).",
+      "A Nepali family survived on the balcony of a greenhouse during a severe flood; the video went viral (India Today).",
+      "A family was trapped on a balcony while floodwaters surrounded their house; video evidence exists (News18).",
+      "A construction worker recorded the moment he survived a mudslide in Nepal (Al Jazeera).",
+      "Survivors describe being engulfed by silt during the Nepal floods (Cebu Daily News).",
+      "A video shows a family watching helplessly as floodwaters sweep away everything around them (India Today).",
+      "Death toll from the Nepal flash floods has risen to 168, with over 1,100 people reported missing (The Economic Times).",
+      "An Essex‑based nurse reported that her relatives were swept away in the Nepal floods (BBC).",
+      "Report describes the difficult conditions in a camp housing Nepal flood survivors (BBC).",
+      "India has issued an alert in response to the Nepal flooding situation (The Economic Times)."
+    ],
+    "timeline": [
+      "Flood events reported in recent news (exact dates not provided).",
+      "Death toll reached 168 and missing persons exceeded 1,100 as of the latest Economic Times update."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=198",
+    "featured": true
+  },
+  {
     "id": 197,
     "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules",
     "summary": "**Federal Judge Blocks Pentagon’s Blacklist of AI Firm Anthropic**",
@@ -27,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=197",
-    "featured": true
+    "featured": false
   },
   {
     "id": 196,

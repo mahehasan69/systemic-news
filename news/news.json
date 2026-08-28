@@ -1,5 +1,35 @@
 [
   {
+    "id": 197,
+    "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules",
+    "summary": "**Federal Judge Blocks Pentagon’s Blacklist of AI Firm Anthropic**",
+    "content": "**Federal Judge Blocks Pentagon’s Blacklist of AI Firm Anthropic**\n\nA U.S. federal judge has ruled that the Pentagon’s decision to place artificial‑intelligence company Anthropic on a “supply‑chain risk” blacklist was illegal, overturning a designation made under the Trump administration. The judgment—reported by The New York Times, The Guardian, The Wall Street Journal, Politico, Reuters and other outlets—removes the barrier that had barred Anthropic from federal contracts and may prompt a broader review of the department’s risk‑assessment procedures.\n\nThe case centered on the Pentagon’s inclusion of Anthropic on a list of companies deemed a supply‑chain risk, a status that automatically disqualified the firm from government procurement. The judge concluded that the administration’s action violated statutory and procedural standards governing such designations, rendering the blacklist unlawful. An injunction now blocks enforcement of the designation, restoring Anthropic’s eligibility for government business.\n\nAnthropic, a startup that develops advanced language‑model technology, was caught up in a Trump‑era effort to tighten scrutiny of emerging‑tech firms perceived as potential security threats. The Pentagon’s supply‑chain risk program was intended to preempt vulnerabilities in critical defense systems by restricting contracts with companies it considered insufficiently vetted. The court’s opinion emphasized that any such restrictions must follow established legal requirements.\n\nLegal analysts say the ruling has implications beyond Anthropic. By invalidating the blacklist, the decision may force the Pentagon to revisit the criteria and documentation it uses to label firms as security risks. The administration could face pressure to adopt more transparent, evidence‑based standards, especially as AI technologies become increasingly integral to national defense. The judgment arrives amid a broader federal reassessment of AI procurement, balancing the need for innovation with security safeguards.\n\nThe Pentagon has not yet indicated whether it will appeal the decision. Officials are expected to weigh legal options while reviewing internal policies governing supply‑chain risk designations. An appeal could extend the litigation and delay a final resolution. In the meantime, Anthropic is free to pursue government contracts, and other AI firms are watching closely for any policy changes that could affect their eligibility.\n\nThe ruling curtails an executive action taken during the Trump administration, reaffirming the requirement for lawful procedures when restricting access to federal markets. It restores Anthropic’s contract prospects and sets a precedent that may shape how the Pentagon and other agencies evaluate emerging technology providers in the future.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-08-28",
+    "time": "07:16",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A U.S. federal judge ruled that the Trump administration's blacklisting of Anthropic was illegal/unlawful.",
+      "The blacklisting was carried out by the Pentagon as part of a supply‑chain risk designation.",
+      "Multiple news outlets (The New York Times, The Guardian, WSJ, Politico, Anadolu Ajansı, MarketWatch, CNBC, The Hill, Reuters, The Verge) reported the same ruling."
+    ],
+    "timeline": [
+      {
+        "event": "Judge issues ruling that the Pentagon's blacklisting of Anthropic is illegal",
+        "date": null,
+        "source": "Multiple news reports (NYT, Guardian, WSJ, etc.)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=197",
+    "featured": true
+  },
+  {
     "id": 196,
     "title": "Watch: Tracing the deadly path of the Nepal-Tibet flash flood",
     "summary": "**Investigation of the Nepal‑Tibet Flash Floods and BBC Coverage**",
@@ -27,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=196",
-    "featured": true
+    "featured": false
   },
   {
     "id": 195,

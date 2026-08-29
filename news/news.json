@@ -1,5 +1,58 @@
 [
   {
+    "id": 204,
+    "title": "Norway's new king remembers 'my dear father' in first speech",
+    "summary": "**Norway Enters National Mourning as King Harald V Passes; Crown Prince Haakon Crowned King Haakon VIII**",
+    "content": "**Norway Enters National Mourning as King Harald V Passes; Crown Prince Haakon Crowned King Haakon VIII**\n\nOslo, Tuesday — Norway declared a period of national mourning on Tuesday following the death of King Harald V, who died at 89 after three decades on the throne. The monarch’s passing triggered the automatic succession of his only son, Crown Prince Haakon, who was formally proclaimed King Haakon VIII in a ceremony attended by members of the royal family, senior government officials and representatives of the diplomatic corps.\n\nIn his inaugural address from the balcony of the Royal Palace, the new king paid tribute to his father, referring to him as “my dear father.” He highlighted Harald’s dedication to public service, his commitment to social welfare, and his role in strengthening Norway’s international standing. The brief, emotionally resonant speech drew applause from the assembled crowd and prompted a wave of tributes across the nation’s media. No policy announcements were made, underscoring a period of reflection before the new reign assumes its full constitutional responsibilities.\n\nThe proclamation was followed by the announcement that King Haakon VIII’s oath‑taking ceremony has been scheduled, though the exact date was not disclosed in the initial statements. The oath will mark the final formal step in the accession process, after which the monarch will assume all ceremonial duties and the constitutional role of head of state. Television coverage is planned to allow the public to witness the historic event.\n\nPublic mourning has already manifested in candlelit vigils outside the Royal Palace, moments of silence observed in schools and workplaces, and a surge of social‑media posts honoring King Harald’s legacy. A national day of remembrance for the late king is also being organized, alongside a series of public engagements intended to introduce the new sovereign to citizens across the country.\n\nThe royal transition unfolded without incident, reflecting the clear line of succession established by Norway’s constitution of 1905. Historically, Norwegian monarchs have served as symbolic, unifying figures above partisan politics, championing social cohesion and national identity. The seamless handover from King Harald to his son reinforces public confidence in the stability of the constitutional monarchy.\n\nKing Harald’s reign was marked by advocacy for environmental stewardship, gender equality and active participation in international diplomacy. By invoking “my dear father” in his first speech, King Haakon VIII signaled an intention to honor those priorities while also charting his own course. Observers note his background in international affairs and climate policy could shape Norway’s future engagements on issues such as Arctic governance and renewable‑energy transitions.\n\nIn unrelated international news, Vienna police are investigating the theft of a 600‑diamond necklace from a museum, with no suspects identified and the jewels still missing. In France, authorities announced the arrest of hundreds of individuals suspected of involvement in the wildfires that devastated parts of the country earlier this summer, highlighting intensified scrutiny of environmental crimes.\n\nAs Norway mourns the loss of a long‑serving head of state, the nation looks ahead to a new chapter under King Haakon VIII, who has pledged to uphold the values and responsibilities that have defined the Norwegian crown for more than a century. The forthcoming oath‑taking ceremony and subsequent state functions will formalize his full constitutional authority and provide an opportunity for the new monarch to connect with the Norwegian people.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-29",
+    "time": "22:54",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "King Harald of Norway died at age 89",
+      "Haakon VIII became King of Norway following Harald's death",
+      "Haakon VIII gave his first speech as sovereign remembering his father",
+      "The phrase \"my dear father\" was used in the speech",
+      "The oath date for Haakon VIII as King of Norway has been set",
+      "A 600-diamond necklace was stolen from a museum in Vienna",
+      "Hundreds of people were arrested in connection with French wildfires"
+    ],
+    "timeline": [
+      {
+        "event": "Death of King Harald",
+        "date": null
+      },
+      {
+        "event": "Haakon VIII ascends throne",
+        "date": null
+      },
+      {
+        "event": "Haakon VIII delivers first speech remembering his father",
+        "date": null
+      },
+      {
+        "event": "Date set for Haakon VIII's oath ceremony",
+        "date": null
+      },
+      {
+        "event": "600-diamond necklace theft in Vienna",
+        "date": null
+      },
+      {
+        "event": "Hundreds arrested over French wildfires",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=204",
+    "featured": true
+  },
+  {
     "id": 203,
     "title": "Cleverly quits shadow cabinet to run for London mayor",
     "summary": "**James Cleverly Resigns From Shadow Cabinet to Contest London Mayoral Race**",
@@ -20,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=203",
-    "featured": true
+    "featured": false
   },
   {
     "id": 202,

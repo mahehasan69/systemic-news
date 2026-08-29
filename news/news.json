@@ -1,5 +1,35 @@
 [
   {
+    "id": 201,
+    "title": "Christian festival 'devastated' as man dies after sign falls",
+    "summary": "**Man Killed, Six Injured After Sign Collapse at West Sussex’s Big Church Festival**",
+    "content": "**Man Killed, Six Injured After Sign Collapse at West Sussex’s Big Church Festival**\n\nA large sign collapsed during the Big Church Festival in West Sussex, United Kingdom, killing one man and injuring at least six other attendees. The sudden structural failure prompted an immediate emergency response, and festival organisers described the scene as “devastated.”\n\nWitnesses said the sizable sign fell onto the crowd gathered on the festival grounds. Emergency services arrived within minutes. The man struck by the falling structure was pronounced dead at the scene. Six festival‑goers suffered injuries ranging from minor cuts to more serious trauma; all were taken to nearby hospitals for treatment, according to the festival’s management team.\n\nIn a statement released shortly after the incident, the organisers confirmed the fatality and the number of injured, expressed profound sorrow, and pledged full cooperation with authorities. They also vowed to conduct a thorough review of safety procedures.\n\nThe Big Church Festival, a Christian gathering that attracts participants from across the region for worship, music and community, has long been a highlight of the local cultural calendar. The collapse has raised immediate concerns about the safety of temporary structures at large public events and underscores the need for rigorous inspection and maintenance regimes for equipment positioned near crowds.\n\nPolice and health‑and‑safety officials have opened an investigation to determine the cause of the failure. Early indications point to a problem with the sign’s mounting or support system, but a full forensic analysis will be required to establish whether design flaws, installation errors or other factors contributed. Investigators will interview witnesses, review site plans and examine the remnants of the sign.\n\nThe festival’s organising committee said it will work closely with investigators and local regulators as the inquiry proceeds. The promised safety‑procedure review suggests future editions of the event may feature revised protocols for installing and monitoring large signage and other temporary structures. Findings are expected to influence not only the festival’s own policies but also broader safety guidelines for similar events across the United Kingdom.\n\nThe tragedy serves as a stark reminder of the hazards inherent in large‑scale gatherings, particularly when temporary installations are involved. While the immediate priority remains caring for the victims’ families and the injured, the incident is likely to shape ongoing discussions about event‑safety standards and the responsibilities of organisers to ensure secure venues. The community and the wider public will be watching closely for recommendations that could help prevent a repeat of this devastating occurrence.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-29",
+    "time": "14:46",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A man died after a sign fell at the Big Church Festival.",
+      "At least six people were injured.",
+      "The incident occurred at the Big Church Festival in West Sussex, United Kingdom.",
+      "The sign was described as large."
+    ],
+    "timeline": [
+      "Sign fell during the festival (date unknown).",
+      "Man died on site (immediate).",
+      "At least six injured were taken to hospital (immediate).",
+      "Organisers released a statement (after incident)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=201",
+    "featured": true
+  },
+  {
     "id": 200,
     "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
     "summary": "**Asia’s Weather‑Driven Turmoil and a U.S. Sentencing Highlight Regional Instability**",
@@ -29,7 +59,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=200",
-    "featured": true
+    "featured": false
   },
   {
     "id": 199,

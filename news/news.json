@@ -1,5 +1,37 @@
 [
   {
+    "id": 200,
+    "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+    "summary": "**Asia’s Weather‑Driven Turmoil and a U.S. Sentencing Highlight Regional Instability**",
+    "content": "**Asia’s Weather‑Driven Turmoil and a U.S. Sentencing Highlight Regional Instability**\n\n*By Senior Editor, SYSTEMIC NEWS*  \n\nA series of weather‑related disasters, regulatory probes and a high‑profile U.S. court ruling have converged to underscore the volatility confronting Asia and the growing reach of American jurisdiction over Chinese nationals.\n\n**Flash Floods in the Himalayas**\n\nHeavy rains on the Tibetan plateau triggered flash flooding that swept away homes and caused fatalities. Chinese authorities have released no footage and have offered only limited details about the victims, leaving families and observers uncertain about the full human toll. Across the border, Nepal suffered a separate flash flood that devastated mountain communities. Survivors reported multiple deaths and a sister who remains missing, highlighting the acute vulnerability of the region’s terrain during the monsoon season.\n\n**Typhoon Dolphin Forces Massive Evacuation in China**\n\nTyphoon Dolphin made landfall in eastern China, prompting officials to evacuate more than one million residents from coastal and inland areas. The large‑scale relocation reflects Beijing’s emphasis on pre‑emptive safety measures as tropical systems grow more intense.\n\n**Cultural and Consumer Fallout**\n\nThe floods also disrupted the entertainment calendar. A scheduled Human League concert was cancelled, while other shows in the region proceeded as planned, illustrating the uneven impact of the weather on public events.\n\nIn parallel, Chinese regulators opened an investigation into the use of formaldehyde as a preservative for cabbages. The probe follows broader scrutiny of agricultural chemicals and aims to ensure that food products meet health standards.\n\nA low‑budget Chinese film, *Niu Lai*, went viral for its notoriously poor animation. Despite critical panning, the movie achieved box‑office success, demonstrating how internet virality can translate into commercial performance even when artistic quality is lacking.\n\n**Political Sensitivities and Maritime Drama**\n\nDuring the funeral of former premier Zhu Rongji, officials censored public mourning, a move that underscores the government’s tight control over collective expressions of grief and the management of political symbolism.\n\nFar from the mainland, a family spent 16 hours adrift on a jet ski off Thailand’s coast before being rescued. The incident highlighted the dangers of maritime recreation in waters affected by storm activity.\n\n**U.S. Court Sentences Chinese Tycoon**\n\nIn a separate development, Chinese businessman Guo Wengui was sentenced to 30 years in a U.S. federal court for transnational financial crimes. The ruling marks the culmination of a protracted legal battle and signals a firm stance by U.S. authorities on illicit activities linked to Chinese nationals.\n\n**Implications and Outlook**\n\nThe twin floods in Tibet and Nepal expose gaps in disaster reporting and emergency communication that could hinder relief efforts and international aid coordination. China’s evacuation of over a million people due to Typhoon Dolphin illustrates the scale of climate‑related displacement and the logistical challenges of mass movement.\n\nThe formaldehyde investigation may lead to stricter food‑safety regulations, affecting agricultural practices and consumer confidence across China’s vast market. Censorship of mourning for Zhu Rongji reflects ongoing tensions between state control and public sentiment, a dynamic that can influence domestic stability.\n\nLooking ahead, Chinese authorities are expected to release a detailed assessment of the Tibet floods as rescue and recovery operations continue. Nepalese officials are likely to persist in search efforts for missing persons, including the reported absent sister. The outcomes of the formaldehyde probe could result in new guidelines or enforcement actions for vegetable producers.\n\nPromoters of outdoor events will likely reassess contingency plans for flood‑prone areas, while Chinese emergency managers will review the Typhoon Dolphin evacuation to refine early‑warning systems and shelter provisions for future storms. Guo Wengui’s lengthy imprisonment will proceed through the U.S. correctional system, with potential appeals or related civil actions to follow.\n\nCollectively, the BBC’s recent reports paint a picture of a region grappling with natural hazards, regulatory challenges, cultural phenomena and high‑stakes legal outcomes. The incidents underscore the interconnectedness of environmental, political and economic forces shaping daily life in Asia, while the U.S. sentencing of a prominent Chinese figure adds an international legal dimension to the broader narrative.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-29",
+    "time": "09:29",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Floods occurred in Tibet and footage is not being shown in China",
+      "Little information is known about victims of the Tibet floods",
+      "A flood in Nepal swept away loved ones of survivors",
+      "A Nepal flash flood left a sister missing",
+      "The Human League concert was halted because of floods while other shows continued",
+      "China is investigating the use of formaldehyde to keep cabbages fresh",
+      "The movie \"Niu Lai\" went viral for its poor animation and became a box‑office hit in China",
+      "Typhoon Dolphin prompted China to evacuate more than 1 million people",
+      "China censored public mourning during former premier Zhu Rongji's funeral",
+      "A family was rescued after spending 16 hours floating on a jet ski off Thailand",
+      "Chinese tycoon Guo Wengui was sentenced to 30 years in a U.S. prison"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=200",
+    "featured": true
+  },
+  {
     "id": 199,
     "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
     "summary": "**Deadly Floods Ravage Nepal‑Tibet Border, Threaten a Second Disaster**",
@@ -28,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=199",
-    "featured": true
+    "featured": false
   },
   {
     "id": 198,

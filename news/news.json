@@ -1,5 +1,36 @@
 [
   {
+    "id": 199,
+    "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+    "summary": "**Deadly Floods Ravage Nepal‑Tibet Border, Threaten a Second Disaster**",
+    "content": "**Deadly Floods Ravage Nepal‑Tibet Border, Threaten a Second Disaster**\n\nA sudden surge of water swept through the mountainous border region of Nepal and Tibet last week, leaving valleys inundated, bridges collapsed and roads choked with debris. Satellite imagery captured the full extent of the damage, while rescue teams pulled a 97‑year‑old survivor from the flood‑ridden terrain. The human toll remains uncertain as authorities continue to search for hundreds of trekkers and foreign nationals believed to be trapped or swept away.\n\nThe flash floods struck remote villages and popular trekking routes in Nepal’s highlands. Although the precise trigger has not been confirmed, the deluge blocked the main roads that connect the region to the rest of the country, halting aid deliveries and isolating communities. At least 77 trekkers are reported missing, including 33 British citizens. Survivors described watching loved ones disappear beneath the raging water, a trauma that has already taken a psychological toll on those who reached safety.\n\nSatellite reconnaissance provides a stark visual record of the devastation. Entire valleys are submerged, agricultural fields have turned to mud, and critical infrastructure—especially bridges and mountain passes—has been reduced to rubble. In response, a temporary camp has been established near the hardest‑hit area to house flood survivors. The camp offers shelter, food and basic medical care and now serves as the focal point for humanitarian assistance as rescuers sort through the wreckage and continue the search for the missing.\n\nCompounding the crisis is a newly formed barrier lake created when landslides dammed a river. Geologists warn that rising water pressure could cause the natural dam to breach, unleashing a second wave of flooding across the already battered Nepalese terrain. Chinese authorities on the Tibetan side have issued a high‑risk warning, and rescuers on the ground share the concern that a sudden release would undo much of the ongoing recovery work.\n\nThe disaster’s impact extends beyond immediate loss of life and property. The affected corridor is a key artery for tourism; trekking contributes substantially to Nepal’s economy. The disappearance of dozens of trekkers and the missing British nationals has prompted diplomatic outreach and coordination with foreign embassies. At the same time, the potential for a secondary flood raises urgent questions about long‑term risk management in a landscape increasingly vulnerable to extreme weather events.\n\nBoth Nepalese and Chinese authorities have pledged heightened vigilance over the barrier lake while continuing rescue and recovery operations. Search teams are employing ground patrols and aerial surveys to locate missing trekkers and the 33 British nationals. Humanitarian agencies are scaling up support for displaced residents, distributing emergency supplies and providing psychological counseling to those who witnessed the disaster. Engineers are assessing the stability of the natural dam and exploring options to safely lower water levels and prevent a breach.\n\nIn the weeks ahead, priorities will be to secure the at‑risk lake, complete the search for missing individuals and restore the transport links that have been severed. The unfolding situation underscores the fragility of mountain ecosystems in the face of sudden hydrological events and highlights the need for coordinated cross‑border disaster preparedness. As Nepal and Tibet grapple with the immediate aftermath, the world watches how quickly the region can move from rescue to reconstruction and whether the looming threat of a second flood can be averted.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-29",
+    "time": "02:33",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Deadly floods occurred in Nepal and Tibet",
+      "A 97‑year‑old person was rescued during flash floods in Nepal",
+      "Satellite imagery revealed flood devastation in Nepal",
+      "77 trekkers went missing in the Nepal flood",
+      "Roads were blocked and there was extensive devastation at the flood site in Nepal",
+      "Rescuers fear a new barrier lake could cause another Nepal‑Tibet flood",
+      "A camp housing Nepal flood survivors exists",
+      "China warned of a high risk of lake breaching that could cause a second flood",
+      "Survivors in Nepal described horror of loved ones being swept away",
+      "33 British nationals are missing in Nepal"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=199",
+    "featured": true
+  },
+  {
     "id": 198,
     "title": "Videos show people survive floodwaters on balcony in Nepal",
     "summary": "**Severe Monsoon Rains Trigger Floods and Mudslide in Nepal, Leaving 168 Dead and Over 1,100 Missing**",
@@ -32,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=198",
-    "featured": true
+    "featured": false
   },
   {
     "id": 197,

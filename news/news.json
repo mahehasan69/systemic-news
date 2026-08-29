@@ -1,5 +1,44 @@
 [
   {
+    "id": 202,
+    "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+    "summary": "**Russian Strike on Kyiv‑Area Ammunition Depot Kills 37; Parallel Developments Heighten Regional Tensions**",
+    "content": "**Russian Strike on Kyiv‑Area Ammunition Depot Kills 37; Parallel Developments Heighten Regional Tensions**\n\nA Russian air strike on an ammunition and weapons depot on the outskirts of Kyiv caused a massive explosion that killed at least 37 people and forced the evacuation of hundreds of residents. The blast, heard for several kilometres, prompted emergency services to cordon off the site and move civilians to safety. Ukrainian authorities confirmed the death toll and announced a formal investigation into the circumstances of the strike, a move reported by CBS News and echoed by Reuters, the BBC, the Daily Mirror (Sri Lanka) and Banglanews24.\n\nThe depot was a storage facility for military munitions near the Ukrainian capital. Its destruction not only represents a tragic loss of life but also raises concerns about the security of Ukraine’s ammunition reserves, which are critical for sustaining its defence.\n\nThe attack follows a series of other Russian actions that could reshape the security and diplomatic landscape in the region. Earlier this week, Russian missiles struck grain export terminals in a Black Sea port, disrupting the flow of agricultural commodities vital to Ukraine’s economy and global food markets. The BBC noted that the strike further strained Ukraine’s export capacity at a time when the country is already grappling with shortages of ammunition.\n\nAmid the escalating conflict, the United States’ Director of the Central Intelligence Agency travelled to Moscow for unannounced talks, also reported by the BBC. While the agenda was not disclosed, the timing—just days after the Kyiv‑area depot explosion—suggests Washington is seeking direct channels to address the intensifying hostilities and explore possible de‑escalation measures.\n\nDomestically, Ukraine faces political turbulence. A former defence minister, recently dismissed, publicly called for a presidential election, adding pressure on President Volodymyr Zelenskyy’s administration. The BBC highlighted the appeal as part of a broader debate over leadership and strategy amid the war, reflecting growing demands among some Ukrainian factions for a renewed mandate.\n\nThe ripple effects of the Russian offensive have also reached Western Europe. German authorities have opened an investigation into a weapons cache discovered in a forested area, probing possible Russian links to the armaments. The BBC reported that the probe could lead to legal actions against individuals or networks connected to the cache, underscoring Germany’s heightened vigilance against illicit arms flows tied to the broader Russian war effort.\n\n**Outlook**\n\nUkrainian officials are expected to continue their probe into the depot strike, seeking to determine the precise target, the weaponry used and any breaches of international law. Parallel diplomatic channels are likely to remain active, with the United States potentially leveraging the CIA director’s Moscow talks to negotiate de‑escalation measures or secure humanitarian corridors.\n\nIn Kyiv, the former defence minister’s call for a presidential election could influence upcoming legislative agendas and spark broader public debate. Assessments of the damaged grain terminals will determine repair timelines, a step crucial for restoring Ukraine’s export capacity. German prosecutors will advance their inquiry into the forest weapons cache, which could culminate in indictments if evidence of Russian involvement is confirmed.\n\nThese intertwined developments illustrate how the war in Ukraine continues to generate lethal consequences on the ground while reshaping diplomatic, economic and political dynamics across Europe and beyond. The immediate priority remains the humanitarian response to the depot explosion, but the broader implications—ranging from supply‑chain disruptions to potential shifts in governance—are likely to reverberate for months to come.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-29",
+    "time": "17:59",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A Russian strike hit a Kyiv-area ammunition/weapons depot, causing a large explosion.",
+      "At least 37 people were killed in the strike.",
+      "Hundreds of people were evacuated from the area surrounding the depot.",
+      "Ukraine announced it would launch an investigation into the depot strike.",
+      "The strike was reported by Reuters, CBS News, BBC, Daily Mirror (Sri Lanka) and Banglanews24.",
+      "The CIA director travelled to Moscow for unannounced talks, as reported by the BBC.",
+      "A sacked Ukrainian defence minister publicly called for a presidential election.",
+      "Russian grain export terminals in a Ukrainian Black Sea port were hit in an attack.",
+      "German authorities are investigating possible Russian links to a weapons cache discovered in woods."
+    ],
+    "timeline": [
+      "Russian strike on Kyiv-area ammunition depot (date not specified).",
+      "Explosion causes at least 37 deaths and hundreds of evacuations.",
+      "Ukraine announces investigation into the strike (CBS News).",
+      "Multiple news outlets publish reports (Reuters, BBC, Daily Mirror, Banglanews24).",
+      "CIA director travels to Moscow for unannounced talks (BBC).",
+      "Sacked Ukrainian defence minister calls for a presidential election (BBC).",
+      "Russian attack hits grain export terminals in a Ukrainian Black Sea port (BBC).",
+      "German authorities begin investigation into possible Russian links to a weapons cache found in woods (BBC)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=202",
+    "featured": true
+  },
+  {
     "id": 201,
     "title": "Christian festival 'devastated' as man dies after sign falls",
     "summary": "**Man Killed, Six Injured After Sign Collapse at West Sussex’s Big Church Festival**",
@@ -27,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=201",
-    "featured": true
+    "featured": false
   },
   {
     "id": 200,

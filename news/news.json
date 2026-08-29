@@ -1,5 +1,28 @@
 [
   {
+    "id": 203,
+    "title": "Cleverly quits shadow cabinet to run for London mayor",
+    "summary": "**James Cleverly Resigns From Shadow Cabinet to Contest London Mayoral Race**",
+    "content": "**James Cleverly Resigns From Shadow Cabinet to Contest London Mayoral Race**\n\nJames Cleverly has quit his position in the UK Conservative Party’s shadow cabinet to launch a campaign for the mayoralty of London, setting up a high‑profile challenge to incumbent Labour Mayor Sadiq Khan. The resignation, announced earlier this week, marks the first time a senior opposition figure has left a front‑bench role to seek the capital’s top elected office in the current electoral cycle.\n\nIn a brief statement, Cleverly said his departure was intended to free him from parliamentary duties and allow him to concentrate on a city‑wide campaign. He confirmed that he will stand against Khan, who has held the mayor’s office since 2016 and is widely expected to run for a third term.\n\n**Immediate implications**\n\nCleverly’s exit creates two immediate effects. First, the Conservative Party must fill the vacancy in its shadow cabinet, a body that mirrors the government’s ministerial team and holds the ruling party to account. Second, his candidacy introduces a figure with national‑level political experience into a race traditionally dominated by local politicians and activists, potentially reshaping the dynamics of the contest.\n\nAlthough the exact date of the mayoral election has not been disclosed, the timing of Cleverly’s announcement suggests a strategic move to build early momentum before the formal start of the campaign.\n\n**Broader political significance**\n\nThe move underscores the growing importance of the London mayoralty as a platform for national visibility. The mayor controls a substantial budget and a wide policy remit—including transport, policing, housing and environmental initiatives—making the role attractive to parties seeking influence over the capital’s direction. For the Conservatives, fielding a high‑profile candidate could improve their appeal in a city that has leaned Labour in recent mayoral elections.\n\n**Context of the contest**\n\nMayor Sadiq Khan’s tenure has featured initiatives on affordable housing, air‑quality improvements and public‑transport expansion, but his administration has also faced criticism over rising crime rates and congestion. Cleverly’s background in national security and foreign affairs may shape his platform on public safety and international engagement for London.\n\n**Looking ahead**\n\nThe next milestone will be the official call for nominations and the setting of the election date, after which campaign activity is expected to intensify. Both parties are likely to mobilise resources, with the Conservatives poised to leverage Cleverly’s parliamentary profile to attract donors and volunteers. Observers will watch how his campaign differentiates itself from Khan’s record and whether it can galvanise swing voters in key boroughs.\n\n**Conclusion**\n\nJames Cleverly’s resignation from the shadow cabinet to pursue the London mayoralty represents a calculated shift from national opposition politics to a bid for municipal leadership. The decision reshapes the Conservative Party’s strategy in the capital, introduces a seasoned politician into a contest that will determine London’s policy direction for the next four years, and sets the stage for a closely watched electoral showdown with incumbent Sadiq Khan. The outcome will not only affect the governance of Britain’s largest city but also signal the opposition’s capacity to contest high‑profile urban offices across the United Kingdom.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-29",
+    "time": "20:15",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "James Cleverly resigned from the UK Conservative Party's shadow cabinet",
+      "He announced his intention to run for Mayor of London"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=203",
+    "featured": true
+  },
+  {
     "id": 202,
     "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
     "summary": "**Russian Strike on Kyiv‑Area Ammunition Depot Kills 37; Parallel Developments Heighten Regional Tensions**",
@@ -36,7 +59,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=202",
-    "featured": true
+    "featured": false
   },
   {
     "id": 201,

@@ -1,5 +1,38 @@
 [
   {
+    "id": 211,
+    "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
+    "summary": "**Tom Tugendhat Appointed Shadow Foreign Secretary in Kemi Badenoch’s First Reshuffle**",
+    "content": "**Tom Tugendhat Appointed Shadow Foreign Secretary in Kemi Badenoch’s First Reshuffle**\n\nConservative Party leader Kemi Badenoch has named former defence minister Tom Tugendhat as the new Shadow Foreign Secretary, replacing Priti Patel, who has been moved to the back benches for an “international role.” The appointment is part of the first shadow‑cabinet reshuffle undertaken since Badenoch secured the party leadership.\n\nThe change was reported by the BBC and *The Telegraph*, which noted that Patel had held the foreign brief since 2022. *The Independent* confirmed Patel’s demotion to the back benches, adding that she will focus on an international portfolio outside the front‑bench team. *Yahoo News UK* echoed the shift, stating that Patel was removed from the top job as the reshuffle began.\n\nThe *Daily Mail* offered a slightly different snapshot. In its coverage of the inaugural meeting of Badenoch’s new top team, the paper listed senior roles for Mel Stride, Priti Patel and Chris Philp, but said Tugendhat had not yet been assigned a specific portfolio in that initial announcement. The discrepancy underscores the fluid nature of the early days of the new shadow cabinet, with some appointments already confirmed and others still pending final allocation.\n\nThe reshuffle signals a broader strategic realignment within the opposition. By moving Patel—a former Home Secretary—away from foreign affairs, Badenoch appears to be rebalancing the team to reflect her policy priorities and to refresh the party’s public image after a period of internal turbulence. The elevation of Mel Stride and Chris Philp to prominent positions, as reported by the *Daily Mail*, further highlights the leader’s intent to blend experienced ministers with rising figures.\n\nTugendhat brings substantial parliamentary experience to the foreign brief, having served as chair of the Foreign Affairs Committee and as a former defence minister. His appointment could herald a more security‑focused approach to Britain’s international agenda. Patel’s new “international role” is expected to involve specific overseas initiatives, though it will fall outside the formal shadow‑cabinet structure.\n\nThe Shadow Foreign Secretary plays a pivotal role in scrutinising the government’s foreign policy, shaping the opposition’s stance on diplomatic, security and trade matters, and articulating an alternative vision for Britain’s place on the world stage. Consequently, the reshuffle is an early test of Badenoch’s leadership style and her ability to manage competing factions within the party—factors that will influence the Conservatives’ prospects in the next general election.\n\nThe *Daily Mail* reported that the first meeting of Badenoch’s top team has already taken place, with newly appointed members outlining their priorities. Further portfolio allocations are expected in the coming days, which will clarify the exact responsibilities of each shadow minister, including whether Tugendhat’s foreign brief will be formally confirmed or adjusted. Observers will also watch for any refinements to Patel’s international remit and for the policy direction set by Stride and Philp.\n\nIn sum, Tom Tugendhat’s appointment as Shadow Foreign Secretary marks a significant reordering of the Conservative opposition’s senior ranks under Kemi Badenoch’s fresh leadership. While the full composition of the new shadow cabinet remains in flux, the reshuffle demonstrates a deliberate effort to reposition the party ahead of upcoming electoral battles and to redefine its approach to Britain’s foreign‑policy challenges.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-30",
+    "time": "23:59",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Priti Patel was removed from the position of Shadow Foreign Secretary (BBC, The Telegraph, The Independent, Yahoo News UK).",
+      "Tom Tugendhat was announced as the new Shadow Foreign Secretary by BBC and The Telegraph.",
+      "Kemi Badenoch became the leader of the Conservative Party and began a major reshuffle of the shadow cabinet.",
+      "Priti Patel returned to the back benches to take on an \"international role\" (The Independent).",
+      "Mel Stride, Priti Patel and Chris Philp were given top jobs in the new shadow cabinet according to the Daily Mail."
+    ],
+    "timeline": [
+      "Kemi Badenoch elected as new Conservative Party leader (date not specified).",
+      "Badenoch announced a major Tory reshuffle.",
+      "BBC and The Telegraph reported Tom Tugendhat would replace Priti Patel as Shadow Foreign Secretary.",
+      "The Independent reported Priti Patel moved to the back benches for an international role.",
+      "Yahoo News UK reported Patel moved out of the top job as the reshuffle began.",
+      "Daily Mail reported the first meeting of the new top team, naming jobs for Mel Stride, Priti Patel and Chris Philp and stating Tugendhat received no role."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=211",
+    "featured": true
+  },
+  {
     "id": 210,
     "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
     "summary": "**Ferry Capsizes Off Northern Cyprus, Eight Confirmed Dead**",
@@ -27,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=210",
-    "featured": true
+    "featured": false
   },
   {
     "id": 209,

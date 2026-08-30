@@ -1,5 +1,35 @@
 [
   {
+    "id": 210,
+    "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+    "summary": "**Ferry Capsizes Off Northern Cyprus, Eight Confirmed Dead**",
+    "content": "**Ferry Capsizes Off Northern Cyprus, Eight Confirmed Dead**\n\nA passenger ferry overturned in the waters off the northern coast of Cyprus on [date not provided], killing at least eight people and leaving dozens more missing. The vessel, which was carrying an estimated 267 passengers and crew, sank after capsizing, prompting an immediate rescue effort by Turkish and Turkish‑Cypriot authorities.\n\nRescue teams were on the scene within minutes, battling rough seas to retrieve survivors and recover bodies. Coast‑guard units, naval vessels and emergency medical personnel coordinated the operation, which confirmed eight fatalities while many passengers remain unaccounted for. Search crews continue to scour the wreck site with sonar equipment and divers, hoping to locate any remaining survivors or victims.\n\nTurkish authorities detained the ferry’s captain and several crew members for questioning, a standard procedure in incidents of this magnitude. Both Turkish and Turkish‑Cypriot (TRNC) officials announced that a formal investigation will be launched to determine whether operational errors, negligence or other factors contributed to the disaster. Investigators will examine the vessel’s black‑box data, interview survivors and review maintenance records.\n\nThe tragedy underscores ongoing concerns about maritime safety in the Eastern Mediterranean, a region known for busy and sometimes treacherous shipping lanes. Officials said the detention of the captain and crew reflects a commitment to accountability and to preventing similar accidents in the future.\n\nIn the coming days, families of the missing and deceased will be notified and offered support services. Legal proceedings against the captain and crew are expected to follow the investigative phase, with potential charges ranging from negligence to violations of maritime regulations.\n\nThe capsizing serves as a stark reminder of the risks inherent in maritime transport and the need for rigorous safety protocols. While the priority remains locating the missing and assisting victims’ families, the forthcoming investigation is likely to shape future regulatory measures for ferries operating in the region.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-30",
+    "time": "21:44",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A ferry capsized off the northern coast of Cyprus",
+      "At least eight people were confirmed dead",
+      "Turkish authorities detained the captain and crew of the vessel",
+      "The vessel was carrying roughly 267 passengers and crew"
+    ],
+    "timeline": [
+      {
+        "event": "Ferry capsizes off northern Cyprus",
+        "date": "date not specified in sources"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=210",
+    "featured": true
+  },
+  {
     "id": 209,
     "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
     "summary": "**UK Early‑Release Scheme Under Scrutiny as Re‑Imprisonments Rise**",
@@ -28,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=209",
-    "featured": true
+    "featured": false
   },
   {
     "id": 208,

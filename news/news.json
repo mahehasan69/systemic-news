@@ -1,5 +1,51 @@
 [
   {
+    "id": 206,
+    "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
+    "summary": "**PC Harper’s killers to remain in jail as government tightens early‑release rules**",
+    "content": "**PC Harper’s killers to remain in jail as government tightens early‑release rules**\n\nThe two men convicted of murdering Police Constable Andrew Harper will serve their full custodial terms after the UK government announced revisions to the early‑release scheme for prisoners. The policy change comes amid a high‑profile campaign by fifty senior police leaders urging Greater Manchester Mayor Andy Burnham to intervene and block any possibility of parole for the offenders.\n\nA statement from the Prime Minister’s Office made clear that ministers cannot prevent the early release of individual prisoners, underscoring the independence of parole decisions from political influence.\n\n### Background\n\nPC Harper’s murder has become a rallying point for law‑enforcement officials nationwide, highlighting the risks faced by frontline officers. Following the sentencing of the two killers, police leaders appealed to political figures to ensure the sentence was fully served. Their appeal was directed at Mayor Burnham, who has a degree of oversight over the regional parole board, and was intended to convey the profession’s view that the seriousness of the crime warranted the complete term of imprisonment.\n\n### Government response\n\nIn response, No 10 reiterated that “it is not possible” for ministers to block the early release of one or two individuals. The comment reaffirmed that parole decisions are made by independent bodies, insulated from direct political interference, and emphasized the government’s commitment to preserving the integrity of the criminal‑justice system while it reforms the broader early‑release framework.\n\n### Early‑release reforms\n\nThe government’s announcement signals a tightening of eligibility criteria for early release, although the precise details of the reforms have not yet been published. The changes are expected to reduce the proportion of prisoners who can be released before completing their full sentences. The timing of the announcement, coinciding with the Harper case, has intensified public scrutiny of how parole policy intersects with public‑safety concerns.\n\nCritics argue that the reforms may be a reaction to high‑profile crimes, while supporters contend that a more restrictive regime will deter future offenses and provide reassurance to victims’ families.\n\n### Wider implications\n\nBy confirming that the Harper killers will remain incarcerated, the government has set a precedent that could affect future parole considerations for other serious offenders. The debate now centres on whether political leaders should have the authority to intervene in individual parole decisions, especially in cases that attract intense media attention. Legal experts stress that maintaining a clear separation between political authority and the judicial process is essential to upholding the rule of law.\n\nImplementation of the revised early‑release scheme is slated to begin in the coming weeks, though an exact rollout schedule has not been disclosed. As the new rules take effect, parole boards will reassess eligibility for all prisoners under the updated criteria. Further statements from the Prime Minister’s Office and Mayor Burnham are expected as the practical impact of the reforms becomes clearer.\n\n### Conclusion\n\nThe killers of PC Andrew Harper will continue to serve their full sentences, a result shaped by both the existing parole framework and the government’s decision to tighten early‑release provisions. The episode highlights the delicate balance between public safety, the independence of the parole process, and the concerns of law‑enforcement professionals. Policymakers, police leaders and the wider public will be watching closely to see whether the revised scheme can prevent premature releases while preserving judicial fairness.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-30",
+    "time": "06:01",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The killers of PC Andrew Harper will remain in prison.",
+      "The UK government has announced changes to the early‑release scheme for prisoners.",
+      "Fifty police leaders have publicly urged Andy Burnham to prevent the early release of PC Harper’s killers.",
+      "The Prime Minister’s office (No 10) has said it is ‘not possible’ to block the early release of one or two killers."
+    ],
+    "timeline": [
+      {
+        "event": "Murder of PC Andrew Harper",
+        "date": "unknown"
+      },
+      {
+        "event": "Sentencing of Harper’s killers",
+        "date": "unknown"
+      },
+      {
+        "event": "Announcement of changes to early‑release scheme",
+        "date": "unknown"
+      },
+      {
+        "event": "Police leaders (50) publicly urge Andy Burnham to prevent early release",
+        "date": "unknown"
+      },
+      {
+        "event": "No 10 statement that blocking early release is not possible",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=206",
+    "featured": true
+  },
+  {
     "id": 205,
     "title": "Rescue to continue overnight for 'in distress' vessel carrying five in the Channel",
     "summary": "**Rescue Operations Intensify in the English Channel as Multiple Vessels Encounter Trouble**",
@@ -28,7 +74,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=205",
-    "featured": true
+    "featured": false
   },
   {
     "id": 204,

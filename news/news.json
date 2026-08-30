@@ -1,5 +1,36 @@
 [
   {
+    "id": 205,
+    "title": "Rescue to continue overnight for 'in distress' vessel carrying five in the Channel",
+    "summary": "**Rescue Operations Intensify in the English Channel as Multiple Vessels Encounter Trouble**",
+    "content": "**Rescue Operations Intensify in the English Channel as Multiple Vessels Encounter Trouble**\n\n*British authorities have launched a series of coordinated rescue missions after three separate incidents involving migrant and private vessels unfolded in the English Channel over the past 24 hours.*\n\nA migrant boat caught fire in the Channel, prompting a large‑scale response from the UK’s rescue services. According to the BBC, more than 170 people were rescued after lifeboats and helicopters were deployed to extract passengers from the water. The cause of the blaze has not yet been disclosed, but the operation highlighted the hazardous conditions faced by migrants attempting the crossing.\n\nIn a second incident, an overloaded craft carrying close to 100 people was intercepted by authorities. The Independent reported that one person was confirmed dead and 15 individuals were rescued. The vessel’s passenger load far exceeded its capacity, a factor that investigators say contributed to the fatality and triggered an immediate coastguard response.\n\nA third emergency involved a small vessel with five occupants that required assistance during the night. The BBC confirmed that rescue teams maintained a presence in the area until the craft’s occupants were safely accounted for, though details about the vessel and its passengers remain limited.\n\nThese events occur against a backdrop of longstanding concerns over distress communications in the Channel. The Guardian noted that, prior to a 2021 disaster, distress calls had been ignored 19 times, raising questions about monitoring gaps and response times. The recent incidents have renewed calls for stronger surveillance systems and stricter enforcement of maritime safety regulations.\n\nAuthorities have opened investigations into each case. For the fire‑afflicted migrant boat, forensic teams will examine the vessel’s fuel system and any potential external ignition sources. The overloaded crossing will be scrutinised for compliance with safety standards, with officials also reviewing procedures for intercepting similar attempts before they reach critical points. The rescue of the five‑person craft will conclude once all occupants receive any necessary medical care.\n\nLooking ahead, the British Coastguard and its partners have pledged heightened vigilance, especially during night hours when visibility is reduced. Additional patrols and aerial surveillance are being deployed to improve the detection of distress signals, and collaborative operations with French authorities are expected to intensify in order to address both migrant flows and illegal crossings.\n\nThe spate of emergencies underscores the complex humanitarian, safety and regulatory challenges that define the English Channel. While the successful rescue of more than 170 migrants demonstrates the effectiveness of coordinated response efforts, the loss of life in the overloaded crossing and the ongoing assistance to smaller vessels serve as stark reminders of the risks inherent in navigating one of Europe’s busiest waterways. As investigations continue and preventive measures are reinforced, safeguarding lives remains the paramount priority for the Channel’s maritime community.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-30",
+    "time": "00:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A rescue operation continued overnight for a vessel carrying five people in the English Channel (BBC)",
+      "Reform UK council group formed a shadow cabinet (BBC)",
+      "The Red Arrows cancelled a flypast in Sidmouth due to storms (BBC)",
+      "One person was dead and three missing as a search continued overnight in San Francisco Bay (KTVU)",
+      "More dangerous floods were expected, two people were killed and hundreds rescued in Central Texas (NBC 5 Dallas-Fort Worth)",
+      "More than 170 migrants were rescued after a boat caught fire in the English Channel (BBC)",
+      "No overnight rescues were conducted as hopes faded in the MV Barima tragedy (News Room Guyana)",
+      "One person was dead and 15 rescued after crossing the English Channel in an overloaded boat carrying close to 100 people (The Independent)",
+      "The Guardian reported that Channel distress calls were ignored 19 times before a 2021 disaster",
+      "BBC provided details about series two of the dating reality show 'FBoy Island'"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=205",
+    "featured": true
+  },
+  {
     "id": 204,
     "title": "Norway's new king remembers 'my dear father' in first speech",
     "summary": "**Norway Enters National Mourning as King Harald V Passes; Crown Prince Haakon Crowned King Haakon VIII**",
@@ -50,7 +81,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=204",
-    "featured": true
+    "featured": false
   },
   {
     "id": 203,

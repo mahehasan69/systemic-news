@@ -1,5 +1,34 @@
 [
   {
+    "id": 215,
+    "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+    "summary": "**Catastrophic Nepal‑Tibet Floods Leave Hundreds Missing, Dozens Dead and 33 British Nationals Unaccounted for**",
+    "content": "**Catastrophic Nepal‑Tibet Floods Leave Hundreds Missing, Dozens Dead and 33 British Nationals Unaccounted for**\n\nA sudden flash flood swept the Nepal‑Tibet border on Monday after a high‑altitude glacier collapsed, unleashing a massive surge of meltwater that devastated villages, roads and hydropower facilities throughout the valley. The disaster has already claimed scores of lives, left hundreds missing and prompted an urgent international response.\n\nRescue teams in Nepal have been working around the clock. In one of the most hazardous operations, responders used controlled blasting on a steep hillside while searching for missing workers at a hydropower plant that was inundated by the floodwaters. The effort highlights the extreme terrain challenges that emergency crews face, as the torrent not only swept away homes but also destabilised critical infrastructure.\n\nA head teacher at a local school managed to evacuate roughly 900 children just minutes before floodwaters breached the school compound, a swift action that likely prevented a far higher casualty count among the youngest residents.\n\nLocal authorities confirm dozens of deaths and report that hundreds remain unaccounted for. Among the missing are 33 British nationals, including two teenagers aged 13 and 14. Their disappearance has triggered diplomatic outreach by the United Kingdom’s Foreign Office and heightened concern among families and foreign ministries.\n\nSatellite imagery released after the event shows extensive damage: swathes of farmland and road networks are submerged, and several hydropower installations that supplied power to the region have been destroyed. Scientists attribute the flash flood to the sudden release of meltwater from the collapsed glacier, which also feeds a high‑altitude lake on the Chinese side of the border.\n\nChinese officials have warned that the lake’s natural dam could fail, potentially generating a second wave of flooding along the same corridor. The warning reflects broader concerns about climate‑induced glacial instability in the Himalayas, where rapid warming has accelerated melt rates and increased the frequency of glacial‑lake outburst floods.\n\nHumanitarian agencies are scrambling to provide emergency shelter, food and medical care to displaced families, while the loss of hydropower capacity threatens longer‑term energy security for communities already reeling from the flood’s immediate impact. International partners, including the United Kingdom and China, are coordinating relief efforts. China has pledged to share real‑time data on lake levels and to assist with early‑warning systems should the lake show signs of imminent breach.\n\nIn the coming days, Nepalese rescue teams will continue to comb the floodplain using both ground searches and aerial reconnaissance to locate survivors and recover bodies. Authorities have urged residents in vulnerable valleys to remain alert and to follow any evacuation orders that may be issued if the lake’s integrity deteriorates.\n\nThe Nepal‑Tibet floods underscore how rapidly changing mountain environments can generate cascading hazards that overwhelm local capacities and spill over into the international arena. The episode serves as a stark reminder of the need for robust monitoring of glacial lakes, cross‑border emergency cooperation and sustained investment in disaster‑resilient infrastructure for communities perched on the world’s highest ridges.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-31",
+    "time": "21:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Rescuers in Nepal used blasting on a hillside while searching for missing hydropower workers.",
+      "A head teacher evacuated about 900 children minutes before floods hit a school in Nepal.",
+      "Hundreds of people are missing and scores are dead after a flash flood hit the Nepal‑Tibet border.",
+      "Thirty‑three British nationals are reported missing in Nepal following the floods.",
+      "Two of the missing British nationals are teenagers aged 13 and 14.",
+      "Scientists say a collapsed glacier likely triggered the devastating Nepal‑Tibet floods.",
+      "China warned of a high risk that a lake could breach and cause a second flood.",
+      "Satellite imagery has revealed extensive flood devastation in Nepal."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=215",
+    "featured": true
+  },
+  {
     "id": 214,
     "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
     "summary": "**Conservative Party Front‑bench Reshuffle Introduced by Kemi Badenoch**",
@@ -65,7 +94,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=214",
-    "featured": true
+    "featured": false
   },
   {
     "id": 213,

@@ -1,5 +1,80 @@
 [
   {
+    "id": 212,
+    "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+    "summary": "**U.S. Strikes on Iranian Launchers Prompt Iranian Retaliation in Jordan, Spark Regional Tensions**",
+    "content": "**U.S. Strikes on Iranian Launchers Prompt Iranian Retaliation in Jordan, Spark Regional Tensions**\n\n*Thursday, [date not specified]* – U.S. naval and air forces carried out a coordinated attack on Iranian missile launchers located on Larak Island and in the Strait of Hormuz, prompting an Iranian counter‑strike on U.S. installations in Jordan and igniting a broader flare‑up of hostilities across the Middle East, officials and regional observers said.\n\nThe operation, reported by the *South China Morning Post* and *Reuters*, targeted two launchers on Larak Island, a strategic outpost in the Persian Gulf. Simultaneously, U.S. assets engaged additional Iranian launchers in the narrow waterway of the Strait of Hormuz, a choke point through which a sizable share of global oil shipments passes. The *Guardian*, NBC News, CNBC and *The Hill* confirmed the latter strike, describing it as a precision attack intended to neutralize a perceived mine threat in the strait—a claim echoed by *Axios*.\n\nWithin hours, Iran responded by striking U.S. bases in Jordan, according to *Al Jazeera*. The retaliatory attacks marked the first direct Iranian strike on American facilities since the U.S. offensive on Larak Island. *The Hill* noted that the Thursday strike was the first U.S. attack on Iranian positions since late July, while *The Washington Post* described it as the first disclosed U.S. action against Iran in nearly a month. *The Wall Street Journal* reported that the series of engagements sparked fighting flares throughout the broader Middle East, underscoring the rapid escalation of hostilities.\n\nNo casualties or damage assessments have been released by either side, and the specific Jordanian targets were not detailed beyond the designation “U.S. bases.”\n\n### Why the incident matters\n\n1. **Strategic maritime importance** – The Strait of Hormuz remains one of the world’s most vital shipping lanes. Any disruption could reverberate through global energy markets. By stating the strike was aimed at preventing a mine threat, the United States signaled concern that Iran might seek to impede navigation, a scenario with potentially severe economic consequences.\n\n2. **Expanded theater of conflict** – Iran’s swift retaliation against U.S. installations on the Arabian Peninsula demonstrates that the confrontation is no longer confined to the Gulf, raising the specter of a wider regional confrontation.\n\n3. **Potential to inflame existing tensions** – The broader flare‑up reported by *The Wall Street Journal* suggests the episode could exacerbate ongoing proxy wars and sectarian disputes already simmering across the region.\n\n### Context and outlook\n\nIntermittent confrontations between Washington and Tehran have characterized the past year, with each side accusing the other of provocative actions. The Thursday strike, described as the first disclosed U.S. action against Iran in nearly a month, signals a shift from the relative quiet that followed the late‑July engagements. Iran’s decision to hit U.S. bases in Jordan marks a notable escalation, extending the conflict beyond the immediate Gulf zone.\n\nU.S. officials have not publicly outlined a follow‑up response, but the heightened alert status in the region indicates continued monitoring of Iranian movements and readiness to act if further threats emerge. Diplomatic channels are expected to be engaged to de‑escalate the situation, although no official statements on negotiations or cease‑fire proposals have been released. Analysts will watch for additional military activity in the coming days, particularly in the Strait of Hormuz, where shipping traffic remains vulnerable.\n\nIn sum, the twin U.S. strikes on Iranian launchers—one on Larak Island and another in the Strait of Hormuz—triggered an immediate Iranian counter‑strike on U.S. bases in Jordan and set off a broader flare‑up of hostilities across the Middle East. The episode underscores the fragility of security in a region already fraught with geopolitical rivalries and highlights the strategic importance of the Hormuz corridor. As both sides assess the fallout, the international community faces renewed pressure to prevent further escalation and to safeguard the vital maritime routes that underpin the global economy.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-31",
+    "time": "02:56",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "US forces struck two Iranian launchers on Larak Island (reported by South China Morning Post and Reuters)",
+      "US forces struck Iranian launchers in the Strait of Hormuz (reported by The Guardian, NBC News, CNBC, and The Hill)",
+      "Iran attacked US bases in Jordan after a US strike on Larak Island (reported by Al Jazeera)",
+      "The US strike was described as the first attack since late July (reported by The Hill)",
+      "The US strike was described as the first disclosed attack in nearly a month (reported by The Washington Post)",
+      "The US strike was intended to prevent a mine threat in the Strait of Hormuz (reported by Axios)",
+      "Fighting flares erupted in the Middle East after the US strike on Iranian rocket launchers (reported by The Wall Street Journal)"
+    ],
+    "timeline": [
+      {
+        "event": "US forces strike two Iranian launchers on Larak Island",
+        "source": [
+          "South China Morning Post",
+          "Reuters"
+        ]
+      },
+      {
+        "event": "US strikes Iranian launchers in the Strait of Hormuz",
+        "source": [
+          "The Guardian",
+          "NBC News",
+          "CNBC",
+          "The Hill"
+        ]
+      },
+      {
+        "event": "Iran attacks US bases in Jordan in retaliation for US strike on Larak Island",
+        "source": [
+          "Al Jazeera"
+        ]
+      },
+      {
+        "event": "Fighting flares reported across the Middle East after US strike",
+        "source": [
+          "The Wall Street Journal"
+        ]
+      },
+      {
+        "event": "US describes strike as first attack since late July",
+        "source": [
+          "The Hill"
+        ]
+      },
+      {
+        "event": "US describes strike as first disclosed attack in nearly a month",
+        "source": [
+          "The Washington Post"
+        ]
+      },
+      {
+        "event": "US claims strike was to prevent a mine threat in Hormuz",
+        "source": [
+          "Axios"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=212",
+    "featured": true
+  },
+  {
     "id": 211,
     "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
     "summary": "**Tom Tugendhat Appointed Shadow Foreign Secretary in Kemi Badenoch’s First Reshuffle**",
@@ -30,7 +105,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=211",
-    "featured": true
+    "featured": false
   },
   {
     "id": 210,

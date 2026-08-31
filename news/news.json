@@ -1,5 +1,77 @@
 [
   {
+    "id": 213,
+    "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
+    "summary": "**UK Early‑Release Scheme Triggers Political Row Over Safety and Prison Overcrowding**",
+    "content": "**UK Early‑Release Scheme Triggers Political Row Over Safety and Prison Overcrowding**\n\nPrime Minister Jeremy Burnham has unveiled revisions to the government’s early‑release scheme, a move that has sparked a sharp dispute between the ruling Labour Party and the opposition Conservatives. The new rules guarantee that the men convicted of killing Police Constable Harper will remain in custody, and Burnham has indicated that he is considering an exemption that would prevent child rapists from benefiting from the scheme.\n\nThe Conservatives have framed Labour’s proposal as a public‑safety risk. They argue that the early‑release plan could see roughly 2,500 sex offenders freed as part of an effort to ease chronic prison overcrowding. The *European Conservative* reports that Labour’s broader sentencing reforms could place as many as 6,000 prisoners on a pathway to early release, while the *Telegraph* notes that nearly 9,000 victims have been warned that attackers they know could be released under the new framework, heightening anxiety among families and advocacy groups.\n\nLabour says the reforms are a response to a mounting prison‑capacity crisis. Overcrowding, it contends, justifies accelerating the release of low‑risk inmates so that resources can be focused on more serious offenders. Critics counter that the criteria for “low‑risk” are insufficiently stringent and could jeopardise public safety. The proposed child‑rapist exemption—still under review by Burnham—highlights the tension between rehabilitation goals and calls for tougher safeguards for the most vulnerable victims.\n\nParliamentary maneuvering has already begun. The Conservatives plan to force a vote on the rapist exemption, seeking to lock in a safeguard that would keep the most serious sexual offenders out of the early‑release pipeline. In a related controversy, two Conservative MPs, Mohammad Mahmood and Andrew Streeting, have been criticised by *The Guardian* for making “cheap jokes” about the scheme, underscoring the heightened emotions surrounding the debate.\n\nA further element of the government’s criminal‑justice agenda is the forthcoming restriction‑zone scheme, slated for launch in October 2026. The initiative will create designated areas where certain offenders are subject to heightened monitoring and movement controls, intended to mitigate any perceived risk from early releases. The timing of the restriction‑zone rollout, alongside the pending vote on the rapist exemption, suggests a layered approach to balancing rehabilitation with public reassurance.\n\nVictims and their families have voiced concern that early release could erode confidence in the criminal‑justice system, especially after being warned that thousands of attackers might be freed ahead of schedule. The controversy raises broader questions about how Western democracies can manage prison overcrowding without compromising safety.\n\nParliament is expected to debate and vote on the child‑rapist exemption in the coming weeks, while the restriction‑zone scheme will be implemented in October. Labour’s early‑release reforms are scheduled for roll‑out later in 2026, contingent on the outcome of the parliamentary vote and any further amendments introduced by the opposition. The decisions made now will shape the balance between penal reform and public protection for years to come.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-31",
+    "time": "09:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Prime Minister (PM) Burnham announced changes to the early‑release scheme.",
+      "The changes mean the killers of PC Harper will remain in jail.",
+      "Conservatives warned that the scheme could still allow dangerous criminals to be released.",
+      "Burnham is reported to be considering an exemption for child rapists from the scheme.",
+      "The Conservative Party said Labour’s plan would free 2,500 sex offenders to ease prison overcrowding.",
+      "The European Conservative reported that Labour’s sentencing reforms would set 6,000 criminals for early release.",
+      "The Telegraph reported that almost 9,000 victims were warned that attackers could be freed early.",
+      "A restriction‑zone scheme for offenders is scheduled to start in October.",
+      "Tories plan to force a parliamentary vote on exempting rapists from Labour’s early‑release scheme.",
+      "MPs Mahmood and Streeting were accused by The Guardian of making “cheap jokes” about the early‑release scheme."
+    ],
+    "timeline": [
+      {
+        "event": "PM Burnham announces changes to early‑release scheme",
+        "date": "2026 (exact date not specified)"
+      },
+      {
+        "event": "Conservatives issue warning about dangerous criminals being released",
+        "date": "2026 (after announcement)"
+      },
+      {
+        "event": "Report that PC Harper’s killers will stay in jail",
+        "date": "2026 (after announcement)"
+      },
+      {
+        "event": "Discussion of possible exemption for child rapists",
+        "date": "2026 (after announcement)"
+      },
+      {
+        "event": "Labour proposes plan to free 2,500 sex offenders to reduce overcrowding",
+        "date": "2026 (proposal)"
+      },
+      {
+        "event": "Report of 6,000 criminals set for early release under Labour reforms",
+        "date": "2026 (proposal)"
+      },
+      {
+        "event": "Victims warned that almost 9,000 attackers could be freed early",
+        "date": "2026 (public warning)"
+      },
+      {
+        "event": "Restriction‑zone scheme to start",
+        "date": "October 2026"
+      },
+      {
+        "event": "Tories move to force vote on rapist exemption",
+        "date": "2026 (pending)"
+      },
+      {
+        "event": "Mahmood and Streeting accused of making cheap jokes about the scheme",
+        "date": "2026 (media report)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=213",
+    "featured": true
+  },
+  {
     "id": 212,
     "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
     "summary": "**U.S. Strikes on Iranian Launchers Prompt Iranian Retaliation in Jordan, Spark Regional Tensions**",
@@ -72,7 +144,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=212",
-    "featured": true
+    "featured": false
   },
   {
     "id": 211,

@@ -1,5 +1,73 @@
 [
   {
+    "id": 214,
+    "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+    "summary": "**Conservative Party Front‑bench Reshuffle Introduced by Kemi Badenoch**",
+    "content": "**Conservative Party Front‑bench Reshuffle Introduced by Kemi Badenoch**\n\nLondon – On Thursday, Conservative Party figure Kemi Badenoch announced a sweeping reshuffle of the opposition’s front bench, removing long‑serving shadow ministers Mel Stride and Priti Patel and installing new members in senior roles.\n\nThe party’s official channels confirmed that Andrew Griffith will become Shadow Chancellor of the Exchequer, while Tom Tugendhat will take over as Shadow Foreign Secretary, succeeding Patel. The changes were reported by the BBC, The Independent, The Guardian, LBC and other outlets.\n\n**Key departures**\n\n- **Mel Stride** – previously Shadow Chancellor of the Duchy of Lancaster and holder of several senior briefings, was dismissed from the front bench.  \n- **Priti Patel** – former Home Secretary and then Shadow Home Secretary, also lost her portfolio.  \n\nBoth exits were corroborated by multiple news sources, including the BBC, The Independent, HuffPost UK, Yahoo News UK, the Manchester Evening News, The Times and LBC.\n\n**New appointments**\n\n- **Andrew Griffith** – a backbencher with a finance background, is now tasked with challenging the government’s fiscal policy and presenting an alternative budget framework.  \n- **Tom Tugendhat** – a former army officer and ex‑chair of the Foreign Affairs Committee, assumes the foreign‑policy brief at a time of heightened diplomatic pressure for Britain.\n\n**Additional resignation**\n\nStuart Andrew, MP for Daventry, announced his resignation from a junior shadow role on the same day, citing personal reasons. His departure further reduces the number of experienced opposition figures on the front bench.\n\n**Political context**\n\nThe reshuffle occurs amid internal debate over the Conservative Party’s direction under Labour Prime Minister Sir Keir Starmer. By replacing two high‑profile right‑leaning members with technocratic figures, Badenoch appears to be steering the party toward a more centrist, policy‑focused stance, although no formal rationale beyond “a major front‑bench reshuffle” has been offered.\n\n**Implications**\n\nThe Shadow Chancellor and Shadow Foreign Secretary are pivotal in shaping the opposition’s critique of government economic and diplomatic agendas. With Griffith and Tugendhat at the helm, the Conservatives are likely to revisit positions on public spending, tax policy, NATO commitments and the UK’s relationship with the European Union. Their performance will be closely watched as the next general election approaches.\n\nBadenoch indicated that the newly formed team will convene within days to set policy priorities, coordinate parliamentary tactics and deliver “renewed accountability” and “effective opposition.” Briefing sessions for the media and the drafting of alternative policy proposals are expected to follow.\n\n**Conclusion**\n\nThe front‑bench reshuffle orchestrated by Kemi Badenoch marks a decisive re‑branding effort for the Conservative opposition. By removing veteran figures such as Mel Stride and Priti Patel, appointing Andrew Griffith and Tom Tugendhat to senior portfolios, and witnessing the resignation of Stuart Andrew, the party signals a willingness to refresh its leadership ahead of forthcoming political battles. Observers will now assess whether the new shadow cabinet can translate these personnel changes into substantive policy impact.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-08-31",
+    "time": "16:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Mel Stride was removed from his position in the Conservative Party's shadow cabinet during a major reshuffle (BBC, Independent, HuffPost UK, Yahoo News UK, Manchester Evening News, The Times).",
+      "Priti Patel was removed from her position in the Conservative Party's shadow cabinet during the same reshuffle (BBC, Independent, HuffPost UK, Yahoo News UK, Manchester Evening News, The Times, LBC).",
+      "Kemi Badenoch led the reshuffle and announced the changes (Independent, HuffPost UK, Yahoo News UK, Manchester Evening News).",
+      "Andrew Griffith was appointed as the new Shadow Chancellor of the Exchequer (The Guardian).",
+      "Tom Tugendhat was appointed as the new Shadow Foreign Secretary, replacing Priti Patel (BBC, LBC).",
+      "Stuart Andrew, MP for Daventry, resigned from the Conservative Party's shadow cabinet (BBC)."
+    ],
+    "timeline": [
+      {
+        "event": "Kemi Badenoch announces major Tory frontbench reshuffle",
+        "source": [
+          "Independent",
+          "HuffPost UK",
+          "Yahoo News UK",
+          "Manchester Evening News"
+        ]
+      },
+      {
+        "event": "Mel Stride and Priti Patel are removed from the shadow cabinet",
+        "source": [
+          "BBC",
+          "Independent",
+          "HuffPost UK",
+          "Yahoo News UK",
+          "Manchester Evening News",
+          "The Times",
+          "LBC"
+        ]
+      },
+      {
+        "event": "Andrew Griffith appointed Shadow Chancellor",
+        "source": [
+          "The Guardian"
+        ]
+      },
+      {
+        "event": "Tom Tugendhat appointed Shadow Foreign Secretary",
+        "source": [
+          "BBC",
+          "LBC"
+        ]
+      },
+      {
+        "event": "Stuart Andrew quits the Conservative shadow cabinet",
+        "source": [
+          "BBC"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=214",
+    "featured": true
+  },
+  {
     "id": 213,
     "title": "Early release scheme could see dangerous criminals released, Conservatives warn",
     "summary": "**UK Early‑Release Scheme Triggers Political Row Over Safety and Prison Overcrowding**",
@@ -69,7 +137,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=213",
-    "featured": true
+    "featured": false
   },
   {
     "id": 212,

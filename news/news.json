@@ -1,5 +1,29 @@
 [
   {
+    "id": 217,
+    "title": "Laundry rooms to be turned into cells to tackle prison overcrowding",
+    "summary": "**New Prison Cells and Laundry‑Room Conversions Aim to Ease Overcrowding**",
+    "content": "**New Prison Cells and Laundry‑Room Conversions Aim to Ease Overcrowding**\n\n*BBC and North Wales Chronicle reports – Minister assures continuity of operations*\n\nRising inmate numbers have forced prison authorities in the United Kingdom to pursue a two‑pronged strategy to relieve chronic overcrowding. According to the BBC, construction crews are already adding new cell blocks at several facilities, while the North Wales Chronicle reports that prison officials plan to convert existing laundry rooms into additional accommodation. A senior minister, who asked not to be named, said the conversions will not disrupt the day‑to‑day running of the prisons.\n\n**Construction of New Cells**\n\nThe BBC confirmed that new cells are being built at multiple sites, although it did not disclose specific locations or the total number of beds to be added. The projects are intended to address the strain on existing infrastructure, which has raised concerns about inmate welfare and staff safety. The work is underway, indicating that resources and personnel have been allocated to accelerate the build‑out.\n\n**Repurposing Laundry Facilities**\n\nIn a more unconventional move, the North Wales Chronicle revealed that prison laundry rooms—traditionally used for inmate‑managed washing services—will be reconfigured as habitable cells. The minister emphasized that the conversion will be phased so that routine activities, including inmate services and staff workflows, can continue uninterrupted. By using space already within the prison footprint, officials hope to increase capacity without the cost and environmental impact of new construction.\n\n**Why the Measures Matter**\n\nOvercrowding has been linked to heightened tensions, increased violence, and difficulties in delivering rehabilitation programmes. Expanding capacity through both new construction and space repurposing is intended to improve safety, enable more effective enforcement of protocols, and allow rehabilitation services to operate without the constraints of limited space.\n\n**Timeline and Oversight**\n\nThe BBC did not provide a definitive timetable, but the ongoing nature of the work suggests that new cells could become operational within the coming months. The North Wales Chronicle indicated that laundry‑to‑cell conversions will follow a phased approach, allowing prisons to maintain core functions while modifications are made. The minister assured that oversight mechanisms will remain in place to safeguard security and inmate welfare throughout the transition.\n\n**Outlook**\n\nThe coordinated effort to build additional cells and convert laundry facilities represents a decisive response to the persistent problem of prison overcrowding. Success will be measured by the extent to which these initiatives reduce pressure on existing spaces, improve safety for inmates and staff, and preserve the continuity of essential prison operations.",
+    "category": "🧬 Science",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-01",
+    "time": "10:36",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC reports that additional prison cells are being constructed to address overcrowding.",
+      "North Wales Chronicle reports that there are plans to convert prison laundry facilities into additional cells.",
+      "A minister (unnamed) stated that prisons will continue to operate under the laundry‑to‑cell conversion plans."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=217",
+    "featured": true
+  },
+  {
     "id": 216,
     "title": "Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur",
     "summary": "**Duane “Keffe D” Davis Convicted in 1996 Murder of Tupac Shakur**",
@@ -25,7 +49,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=216",
-    "featured": true
+    "featured": false
   },
   {
     "id": 215,

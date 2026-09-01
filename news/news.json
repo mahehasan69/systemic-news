@@ -1,5 +1,32 @@
 [
   {
+    "id": 218,
+    "title": "Keir Starmer announces he is standing down as MP",
+    "summary": "**Labour Leader Keir Starmer to Resign as MP, Prompting By‑Election in Holborn and St Pancras**",
+    "content": "**Labour Leader Keir Starmer to Resign as MP, Prompting By‑Election in Holborn and St Pancras**\n\n*London, 1 September 2026* – Keir Starmer, the leader of the Labour Party and Member of Parliament for Holborn and St Pancras, announced on Thursday that he will stand down as an MP. The decision was reported by the BBC, The Guardian, the Financial Times, The Telegraph, The Independent and rte.ie.\n\nUnder UK electoral law a vacant parliamentary seat must be filled by a by‑poll, and the Speaker’s office will set the date for the Holborn and St Pancras contest. Both The Independent and rte.ie noted that the by‑election will constitute the first political test for Prime Minister Rishi Burnham, who assumed office earlier this year.\n\nIn statements covered by The Guardian, Starmer said his resignation reflects a personal shift in focus toward world affairs. The Hindustan Times echoed this, reporting that he will concentrate on international work, though no further details on the nature of that work were provided.\n\nBurnham is scheduled to deliver his inaugural address to the House of Commons following Starmer’s departure, a move reported by The Guardian and the BBC. The Prime Minister’s first speech comes as government borrowing costs are reported to be rising, adding a fiscal dimension to the political landscape he will need to address.\n\nStarmer’s exit is unusual for a party leader who also serves as Leader of the Opposition; historically such figures retain their seats until retirement or electoral defeat. By stepping down, he joins a small group of senior politicians who have vacated their constituencies while remaining active in public life, albeit in a different capacity.\n\nThe upcoming by‑election is expected to attract national attention not only because of the high‑profile nature of the seat but also because it will be the first electoral contest overseen by Burnham’s administration. Political analysts suggest the result could provide an early gauge of public reaction to the new government’s handling of fiscal policy, especially in the context of rising borrowing costs. Campaigns are likely to focus on issues such as public spending, taxation and the United Kingdom’s role on the global stage—areas that align with Starmer’s stated interest in international affairs.\n\nCandidates from the major parties are expected to be selected in the coming weeks, and the timing of the vote will be confirmed by the Speaker’s office. Observers will watch the outcome closely as an indicator of how the electorate responds to Burnham’s leadership and to the economic pressures highlighted by the increase in borrowing costs.\n\nStarmer’s resignation marks a moment of transition in British politics: a senior opposition figure steps away from domestic parliamentary duties to pursue a broader international focus, while a newly installed Prime Minister prepares to confront fiscal headwinds and demonstrate his governing credibility through both a maiden Commons speech and a consequential by‑election. The convergence of these events is set to shape the United Kingdom’s political narrative in the months ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-01",
+    "time": "15:18",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Keir Starmer announced he is standing down as MP (BBC).",
+      "The Guardian, Financial Times, The Telegraph, The Independent and rte.ie report Starmer will stand down as MP.",
+      "Starmer's resignation triggers a by‑election (The Independent, rte.ie).",
+      "Burnham will give his first Commons address as Prime Minister after Starmer quits (The Guardian).",
+      "Burnham will address MPs for the first time as Prime Minister and government borrowing costs are rising (BBC).",
+      "The by‑election is described as the first political test for Burnham (The Independent)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=218",
+    "featured": true
+  },
+  {
     "id": 217,
     "title": "Laundry rooms to be turned into cells to tackle prison overcrowding",
     "summary": "**New Prison Cells and Laundry‑Room Conversions Aim to Ease Overcrowding**",
@@ -21,7 +48,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=217",
-    "featured": true
+    "featured": false
   },
   {
     "id": 216,

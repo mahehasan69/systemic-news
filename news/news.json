@@ -1,5 +1,33 @@
 [
   {
+    "id": 216,
+    "title": "Ex-gang boss found guilty in 1996 murder of rapper Tupac Shakur",
+    "summary": "**Duane “Keffe D” Davis Convicted in 1996 Murder of Tupac Shakur**",
+    "content": "**Duane “Keffe D” Davis Convicted in 1996 Murder of Tupac Shakur**\n\n*Los Angeles, September 13, 2024* — Duane “Keffe D” Davis, also known as Duane Keith Davis, was found guilty of the murder of iconic rapper Tupac Shakur. The verdict, delivered after a trial that spanned 2023 and 2024, marks the first criminal conviction linked to the drive‑by shooting that ended Shakur’s life on September 13, 1996.\n\nThe case received worldwide coverage from outlets including the BBC, NBC News, The Washington Post, The New York Times, Los Angeles Times, Reuters, Africa Financial Review, The Guardian, France 24 and spokesman.com, underscoring its enduring cultural and legal significance.\n\n**The 1996 Shooting**\n\nOn the night of September 13, 1996, a vehicle traveling the Las Vegas‑to‑Los Angeles highway opened fire on Shakur’s car, striking the rapper and causing fatal injuries. Although the incident was heavily reported at the time, investigators were unable to secure a conviction for more than three decades.\n\n**Trial and Conviction**\n\nDuring the recent trial, prosecutors presented a body of evidence tying Davis to the crime, including witness testimony, forensic analysis and newly uncovered investigative leads. After deliberation, a jury returned a guilty verdict for murder, directly attributing responsibility for the drive‑by shooting to Davis.\n\n**Impact and Reactions**\n\nThe conviction closes one of the most high‑profile unsolved murders of the 1990s, a case that has long been referenced in discussions of hip‑hop culture, gang violence and the challenges of solving violent crimes from that era. For Shakur’s family, the verdict offers a measure of closure after thirty years of uncertainty. The music community and the broader public view the outcome as a reminder that cold cases can still be resolved when fresh evidence or renewed investigative focus emerges.\n\n**Sentencing Phase**\n\nThe court will now move to sentencing, scheduled to begin in the coming weeks. While specific penalties have not yet been disclosed, the judge will determine the appropriate punishment under California’s murder statutes. Given the case’s high profile, the sentencing is expected to attract considerable attention.\n\n**Significance**\n\nThe guilty finding against Davis demonstrates the capacity of the criminal‑justice system to deliver outcomes even after prolonged investigative dead ends. As sentencing proceeds, the verdict stands as a landmark moment for Shakur’s family, his fans, and the wider community that continues to honor his artistic legacy while confronting the tragic circumstances of his death.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-01",
+    "time": "05:50",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Duane \"Keffe D\" Davis (also named Duane Keith Davis) was found guilty of the 1996 murder of rapper Tupac Shakur",
+      "The murder was a drive‑by shooting",
+      "The conviction was reported by multiple reputable news outlets (BBC, NBC News, The Washington Post, The New York Times, Los Angeles Times, Reuters, AFR, The Guardian, France 24, spokesman.com)",
+      "The case is described as occurring 30 years after Tupac Shakur’s death"
+    ],
+    "timeline": [
+      "1996 – Tupac Shakur killed in a drive‑by shooting in Los Angeles",
+      "2023‑2024 (exact date not provided) – Trial concludes and Duane Davis is found guilty"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=216",
+    "featured": true
+  },
+  {
     "id": 215,
     "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
     "summary": "**Catastrophic Nepal‑Tibet Floods Leave Hundreds Missing, Dozens Dead and 33 British Nationals Unaccounted for**",
@@ -26,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=215",
-    "featured": true
+    "featured": false
   },
   {
     "id": 214,

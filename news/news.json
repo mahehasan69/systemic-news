@@ -1,5 +1,41 @@
 [
   {
+    "id": 221,
+    "title": "Germany says Russia behind Leipzig airport drone attack",
+    "summary": "**Germany Accuses Russia of Drone Attack on Leipzig Airport**",
+    "content": "**Germany Accuses Russia of Drone Attack on Leipzig Airport**\n\nGerman authorities have publicly blamed Moscow for a drone incident at Leipzig Airport in Saxony, a claim echoed by major international outlets including the BBC, Deutsche Welle, CNN, The Guardian, RFE/RL, Al Jazeera, i24NEWS, Euronews, HuffPost and The New York Times. The event, which occurred on [date not provided], has triggered a formal investigation and prompted a review of security protocols at Germany’s civil aviation facilities.\n\n**Investigation**\n\nThe German government launched an inquiry shortly after the incident to determine the technical and operational origins of the unmanned aerial system that was either deployed or attempted to be deployed over the airport’s airspace. While details such as the drone’s make, flight path and payload remain undisclosed, officials have framed the episode as part of a broader Russian “hybrid” operation—a blend of conventional and unconventional tactics that can include cyber‑activities, disinformation campaigns and low‑tech weaponry aimed at destabilising target states without provoking a full‑scale military response.\n\nAttribution to Russia rests on intelligence assessments that have not been fully disclosed publicly. Nonetheless, Berlin’s repeated emphasis on a Russian link across multiple media reports suggests a coordinated messaging strategy. By situating the attack within a hybrid‑warfare context, German officials signal that they view the incident as a deliberate test of, or attempt to undermine, the security of critical infrastructure rather than an isolated act of vandalism.\n\n**Diplomatic Fallout**\n\nThe incident has added a new layer of tension to already strained German‑Russian relations, which have been marked by disputes over energy policy, military deployments and human‑rights concerns. German officials warned that the attack could lead to “potential diplomatic or retaliatory actions,” leaving open a range of possible responses—from formal protests at the United Nations to coordinated sanctions with allied nations. \n\nIn parallel, airport security is being tightened. Authorities are expanding radar coverage, enhancing surveillance, and revising emergency‑response procedures to guard against future aerial threats.\n\n**Broader Significance**\n\nTargeting a civilian transportation hub underscores how modern conflicts can unfold far from traditional battlefields. The alleged Russian operation seeks to exploit the symbolic and economic importance of air travel while probing the resilience of European security architectures. The episode highlights the increasingly blurred line between conventional warfare and covert aggression, especially as unmanned technologies enable attacks with plausible deniability.\n\n**Next Steps**\n\nGerman investigators will continue to analyse forensic evidence, interview witnesses and coordinate with allied intelligence services to corroborate the Russian attribution. Diplomatic channels remain active as Berlin prepares its next moves on the international stage. Possible responses include formal diplomatic démarches, coordinated sanctions, or a more robust defensive posture for critical infrastructure.\n\n**Conclusion**\n\nThe Leipzig Airport incident marks a notable escalation in the use of unmanned aerial systems as tools of statecraft. By publicly assigning blame to Russia and framing the event as part of a hybrid operation, German authorities have signalled both a willingness to confront the perceived threat and a commitment to safeguarding critical infrastructure. The ongoing investigation and its diplomatic reverberations are likely to shape Europe’s security policies and its approach to emerging aerial threats in the months ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-01",
+    "time": "23:40",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "German authorities publicly state that Russia is behind the drone attack at Leipzig Airport.",
+      "The incident is described as a drone attack or attempted drone attack at Leipzig Airport in Germany."
+    ],
+    "timeline": [
+      {
+        "event": "Drone attack or attempted attack at Leipzig Airport",
+        "status": "occurred"
+      },
+      {
+        "event": "German government investigation",
+        "status": "conducted"
+      },
+      {
+        "event": "Public statements blaming Russia released by multiple news outlets (BBC, DW, CNN, The Guardian, RFE/RL, Al Jazeera, i24NEWS, Euronews, HuffPost, NYT)",
+        "status": "published"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=221",
+    "featured": true
+  },
+  {
     "id": 220,
     "title": "Burnham promises more devolution and public control of essential services",
     "summary": "**Prime Minister Andy Burnham Unveils Sweeping Devolution and Public‑Ownership Agenda**",
@@ -28,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=220",
-    "featured": true
+    "featured": false
   },
   {
     "id": 219,

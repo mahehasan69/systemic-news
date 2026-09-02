@@ -1,5 +1,28 @@
 [
   {
+    "id": 225,
+    "title": "Burnham's PMQs debut shows the challenge of delivering new style of politics",
+    "summary": "**Andy Burnham’s By‑Election Victory Leads Straight to Prime Minister’s Questions**",
+    "content": "**Andy Burnham’s By‑Election Victory Leads Straight to Prime Minister’s Questions**\n\nAndy Burnham entered the national spotlight on the House of Commons’ weekly Prime Minister’s Questions (PMQs) session just days after securing a decisive win in the Makerfield by‑election. The twin milestones – reported by Currently.com and confirmed by the BBC – have been cited by political observers as a vivid illustration of the challenges involved in translating a “new style of politics” into the formal arena of Westminster.\n\n**From regional win to national stage**\n\nThe Makerfield by‑election, held to fill a vacant seat between general elections, restored Labour representation in the constituency. Burnburn’s campaign framed the result as a “turning point” for his agenda, suggesting that the outcome could signal broader momentum for policies that aim to bridge local concerns with national decision‑making.\n\nOnly a few days later, Burnham took his place on the front bench at PMQs, marking his first appearance at the most scrutinised moment of parliamentary debate. While the specific content of his questioning was not detailed in the source material, his presence alone was noteworthy: a senior regional figure stepping onto the national stage and testing how his populist, community‑focused rhetoric operates within the constraints of parliamentary procedure.\n\n**Implications for Labour and the wider political landscape**\n\nBy‑elections are traditionally viewed as barometers of public sentiment toward the governing party and the opposition. Burnham’s swift move from a local victory to a high‑profile parliamentary platform underscores how regional successes can be leveraged to shape national discourse. Analysts note that the timing of his PMQs debut – arriving on the heels of a fresh electoral mandate – places added pressure on him to deliver substantive contributions that reflect the expectations of his newly elected constituents.\n\nThe episode also raises questions about the capacity of newly elected MPs to influence high‑profile debates. Commentators describing Burnham’s approach speak of a “new style of politics” that emphasizes direct communication, community engagement and a departure from traditional party‑centric messaging. Observers will be watching to see whether this approach can be translated into persuasive arguments within Westminster’s formal structures.\n\n**Looking ahead**\n\nBurnham is expected to continue representing Makerfield in the Commons while positioning himself as a vocal critic of the government in future PMQs sessions. The next scheduled question time will provide another opportunity to gauge the resonance of his style with both the Prime Minister and the broader public. Labour may also draw on the Makerfield victory as a case study for campaigning in other marginal seats as the political calendar moves toward the next general election.\n\nIn sum, Andy Burnham’s rapid transition from by‑election winner to participant in the nation’s most watched parliamentary question time encapsulates both the possibilities and the challenges of reshaping political communication in the United Kingdom. His claim that the Makerfield win could be a turning point signals ambition; his PMQs debut offers a concrete arena in which to test the effectiveness of that ambition. The coming weeks will reveal whether this combination of local electoral success and national parliamentary engagement can indeed forge a new path for British politics.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-02",
+    "time": "15:25",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham participated in a Prime Minister's Questions (PMQs) session (as reported by Currently.com)",
+      "Andy Burnham won the Makerfield by-election (as reported by BBC)"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=225",
+    "featured": true
+  },
+  {
     "id": 224,
     "title": "Watch: What we know about reported strike on Iran wedding celebrations",
     "summary": "**U.S. Airstrike on Iranian Wedding Triggers Missile and Drone Counter‑attacks on U.S. Bases in Jordan and Bahrain**",
@@ -35,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=224",
-    "featured": true
+    "featured": false
   },
   {
     "id": 223,

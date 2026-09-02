@@ -1,5 +1,43 @@
 [
   {
+    "id": 224,
+    "title": "Watch: What we know about reported strike on Iran wedding celebrations",
+    "summary": "**U.S. Airstrike on Iranian Wedding Triggers Missile and Drone Counter‑attacks on U.S. Bases in Jordan and Bahrain**",
+    "content": "**U.S. Airstrike on Iranian Wedding Triggers Missile and Drone Counter‑attacks on U.S. Bases in Jordan and Bahrain**\n\n*September 2, 2024 – Multiple international news agencies report a rapid escalation in U.S.–Iran tensions after a U.S. airstrike hit a civilian wedding ceremony in Sirik, Iran, prompting Iranian missile and drone strikes on American installations abroad.*\n\nIn early September, United States military aircraft bombed a gathering in the coastal city of Sirik that was celebrating a wedding. Iranian officials confirmed that the target was a civilian party and reported that the strike caused civilian casualties. The United States has not released an explanation for the operation, and no official statement has been issued regarding the choice of target. Iranian state media quickly characterized the attack as a deliberate strike on a non‑military gathering and condemned it as an unjustified act of aggression.\n\nWithin hours of the Sirik bombing, Iran launched a retaliatory barrage of ballistic missiles and unmanned aerial vehicles (UAVs) against two U.S. facilities: one in Jordan and another in Bahrain. Iranian authorities described the response as proportional, though the exact number of missiles and drones deployed has not been confirmed. As of the time of reporting, there were no immediate indications of damage to the U.S. bases or casualties among American personnel.\n\nThe incidents have immediate humanitarian and strategic implications. Human‑rights groups have condemned the loss of civilian lives in Sirik, and public outrage has intensified across Iran. Strategically, the missile and drone attacks mark a shift from diplomatic protest to kinetic retaliation, raising the risk of further military confrontations in a region already fraught with tension. The operations also highlight Iran’s expanding capability to strike distant targets using both conventional missile systems and increasingly sophisticated drone technology.\n\nThe escalation occurs against a backdrop of longstanding U.S.–Iran friction, which has included sanctions, naval confrontations in the Persian Gulf, and periodic cyber and proxy conflicts. By moving from indirect pressure to direct strikes on each other’s personnel and assets, the latest actions add a new, more overt dimension to the rivalry. Analysts warn that the tit‑for‑tat pattern could destabilize neighboring states, particularly Jordan and Bahrain, which host U.S. forces while maintaining delicate diplomatic balances with Tehran.\n\nU.S. officials are expected to convene senior military and diplomatic staff to assess the situation and consider possible responses, ranging from heightened defensive postures to calibrated strikes. Tehran, meanwhile, is likely to continue diplomatic outreach to regional allies while preparing for the possibility of further hostilities. International observers anticipate increased diplomatic activity, with the United Nations and other multilateral bodies poised to mediate in order to prevent a broader conflict.\n\nThe September 2 reports underscore how a single, undisclosed U.S. airstrike on a civilian event can trigger rapid and forceful retaliation, illustrating the fragility of peace in the Middle East. Clear channels of communication and sustained diplomatic engagement will be essential to manage the crisis and avert additional loss of life.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-02",
+    "time": "11:50",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "US military conducted an airstrike that hit a wedding ceremony in Sirik, southern Iran",
+      "Iran publicly announced that the US bombed a wedding party in Sirik",
+      "Iran launched missile and drone attacks on US bases in Jordan and Bahrain following the strike",
+      "The events were reported by multiple news outlets (BBC, Al Jazeera, CBS News, etc.)"
+    ],
+    "timeline": [
+      {
+        "event": "US airstrike on wedding ceremony in Sirik, southern Iran",
+        "date": "early September 2024 (reported Sep 2, 2024)"
+      },
+      {
+        "event": "Iranian missile and drone attacks on US bases in Jordan and Bahrain",
+        "date": "shortly after the wedding strike (reported Sep 2, 2024)"
+      },
+      {
+        "event": "Media reports and statements released by various outlets",
+        "date": "Sep 2, 2024"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=224",
+    "featured": true
+  },
+  {
     "id": 223,
     "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
     "summary": "**Iran‑U.S. Escalation After Wedding‑Party Strike Raises Risk of Wider Conflict**",
@@ -28,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=223",
-    "featured": true
+    "featured": false
   },
   {
     "id": 222,

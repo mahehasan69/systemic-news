@@ -1,5 +1,36 @@
 [
   {
+    "id": 223,
+    "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+    "summary": "**Iran‑U.S. Escalation After Wedding‑Party Strike Raises Risk of Wider Conflict**",
+    "content": "**Iran‑U.S. Escalation After Wedding‑Party Strike Raises Risk of Wider Conflict**\n\n*Tehran, 2 September 2026* – A U.S. airstrike that struck a house hosting a wedding celebration in the southern Iranian province of Hormozgan has ignited a new round of reciprocal attacks between the United States and Iran, heightening fears of a broader regional confrontation.\n\n**Casualties in Hormozgan**\n\nThe strike, carried out by U.S. forces targeting what Washington described as Islamic Revolutionary Guard Corps (IRGC) units preparing to lay sea mines in the Strait of Hormuz, also hit a residential building in the coastal town of Sirik. Reports from Al Jazeera, the BBC, RTE and other outlets confirmed that at least five civilians were killed, while some sources cited a lower death toll of two. Injuries were reported in the dozens, with estimates of up to fifty people wounded. Tehran condemned the attack as an unjustified assault on civilians and vowed retaliation.\n\n**Iran’s Immediate Response**\n\nWithin hours, Iran launched a coordinated barrage of missiles and drones at U.S. installations across the Gulf region, including bases in the United Arab Emirates, Saudi Arabia and other locations. The Iranian Ministry of Foreign Affairs framed the strikes as a proportional response to the “unlawful” U.S. attack on the wedding party.\n\n**Expansion of the Retaliation**\n\nIran’s leadership subsequently announced additional attacks on facilities in Bahrain, Jordan and Iraq, alleging that a series of U.S. operations had already caused eleven Iranian deaths. Independent verification of those strikes has not yet been obtained, but the statements signal Tehran’s intent to demonstrate that any perceived aggression will be met with a wide‑ranging response.\n\n**Strategic Context**\n\nThe incident occurs against a backdrop of heightened U.S.–Iran tensions over the Strait of Hormuz, sanctions, and divergent positions on regional conflicts. The narrow waterway carries roughly one‑fifth of global oil shipments, making it a focal point for strategic competition. Washington maintains that the IRGC’s alleged plan to deploy sea mines threatened commercial navigation and justified pre‑emptive action. Iran, for its part, has repeatedly warned that attacks on its territory or interests would be met with “swift and decisive” retaliation.\n\n**Implications**\n\n1. **Domestic Pressure in Iran** – The civilian casualties from the wedding‑party strike have intensified public anger, potentially hardening Tehran’s resolve to pursue further attacks.  \n2. **U.S. Force Vulnerability** – The missile and drone launches demonstrate Iran’s capability to strike U.S. assets across the Gulf, raising concerns for the safety of American personnel and equipment stationed in the region.  \n3. **Regional Spill‑over** – The alleged attacks on Bahrain, Jordan and Iraq broaden the geographic scope of the confrontation, increasing the risk that additional states could become drawn into the hostilities.\n\n**Future Outlook**\n\nU.S. Central Command said it will continue to monitor IRGC activities and is prepared to conduct further strikes if additional threats to navigation or American forces emerge. Iranian officials have warned of “further retaliation” should the United States persist with its operations. Diplomatic channels remain open, with regional powers and international bodies urging restraint and the resumption of dialogue to prevent a spiral into open war.\n\n**Conclusion**\n\nThe episode illustrates how a single airstrike—whether intended to thwart a maritime threat or inadvertently striking a civilian gathering—can trigger a cascade of military actions with far‑reaching consequences. As both sides navigate a precarious path between deterrence and escalation, the risk of miscalculation remains high, underscoring the urgent need for clear communication and de‑escalation mechanisms to avert a broader regional conflagration.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-02",
+    "time": "06:33",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Iran launched attacks on US bases in the Middle East after reports of a US strike on a wedding party (BBC, Reuters, Kashmir Observer, Public Radio of Armenia).",
+      "The US conducted airstrikes targeting IRGC forces preparing to deploy sea mines in the Strait of Hormuz (DW News).",
+      "The US strike hit a house hosting a wedding in southern Iran’s Hormozgan province (DW News, Al Jazeera, RTE).",
+      "Iran claimed the US strike killed five people at the wedding party in Sirik (Al Jazeera, BBC, RTE).",
+      "Iran announced attacks on Bahrain, Jordan and Iraq after US strikes that killed eleven people (Al Jazeera)."
+    ],
+    "timeline": [
+      "US conducts airstrike that hits a house hosting a wedding in Sirik/Hormozgan, Iran (reported as killing 5 or 2).",
+      "Iran retaliates by launching attacks on US bases across the Middle East.",
+      "US reports targeting IRGC forces preparing sea mines in the Strait of Hormuz.",
+      "Iran claims further attacks on Bahrain, Jordan, and Iraq, stating US strikes had killed eleven people."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=223",
+    "featured": true
+  },
+  {
     "id": 222,
     "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
     "summary": "**Suspect Pleads Not Guilty as Judge Clears Path for Death‑Penalty Trial in Charlie Kirk Murder**",
@@ -60,7 +91,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=222",
-    "featured": true
+    "featured": false
   },
   {
     "id": 221,

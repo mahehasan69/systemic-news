@@ -1,5 +1,34 @@
 [
   {
+    "id": 227,
+    "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+    "summary": "**World News Round‑up: Bond‑Market Turmoil, Japan’s Double‑Threat Day, UK Student‑Loan Surge and More**",
+    "content": "**World News Round‑up: Bond‑Market Turmoil, Japan’s Double‑Threat Day, UK Student‑Loan Surge and More**\n\nA single day of headlines highlighted the convergence of financial, environmental and social pressures across the globe. From volatile bond markets unsettling world leaders to a rare gun‑and‑knife attack in Japan’s Nagano prefecture, the stories underscore the breadth of challenges facing governments and citizens alike.\n\n**Bond‑Market “Wildfire” Keeps Leaders Awake**  \nBritish journalist Faisal Islam described the current bond market as a “wildfire” that is roiling global finance and “keeping world leaders up at night.” While the precise triggers were not detailed, the rapid spread of risk has prompted calls for swift sovereign and central‑bank interventions to contain potential fallout.\n\n**Japan Faces Wildlife Intrusion and Seismic Threats**  \nPolice in Japan confirmed that a bear managed to open a window in a factory and escape, an incident that captured public imagination. On the same day, authorities placed the nation on high alert for a potentially “huge” second earthquake after lifting an earlier tsunami warning. The twin events illustrate Japan’s constant vigilance against both unexpected wildlife incursions and seismic hazards.\n\n**World Cup Fans Urged to Extend Clean‑Up Momentum**  \nJapanese women took to social media, urging supporters of the World Cup—who had gone viral for cleaning a stadium after a match—to replicate the effort at home. Their appeal taps into the tournament’s visibility to promote everyday environmental stewardship.\n\n**Echoes of the 2018‑19 U.S.–Japan Trade Dispute**  \nAnalysts noted that Japan played a role in shaping former President Donald Trump’s stance on tariffs during the 2018‑19 U.S.–Japan trade dispute. Although the mechanisms of that influence were not specified, the observation highlights Japan’s strategic position in ongoing debates over trade barriers in Washington and Tokyo.\n\n**UK Student‑Loan Debt Swells**  \nA personal account from the United Kingdom revealed that a borrower who originally received a £44,000 loan now owes £54,000. The £10,000 increase exemplifies the growing financial burden on graduates and adds a human dimension to the broader discussion on higher‑education financing and repayment policies.\n\n**Food‑Price Inflation Eases**  \nA Kantar survey reported that food‑price growth is returning to normal levels, suggesting that the inflationary pressure that drove grocery costs upward over the past year is easing. The trend offers relief to households that have faced sustained price hikes.\n\n**Rare Gun‑and‑Knife Attack in Nagano Claims Four Lives**  \nNagano prefecture was shaken by a rare combined gun and knife assault that left four people dead. The incident, unusual in a country known for low violent‑crime rates, has sparked renewed scrutiny of public‑safety protocols and weapon availability, though details about the perpetrator or motive remain undisclosed.\n\n**Looking Ahead**  \nFinancial regulators are expected to convene emergency meetings to address the bond‑market volatility highlighted by Islam. Japan’s disaster‑management agencies will maintain heightened seismic monitoring, while the Nagano tragedy is likely to prompt a review of security measures in public spaces. In the United Kingdom, policymakers may revisit student‑loan frameworks in response to mounting borrower debt, and analysts will continue to track food‑price trends for any reversal.\n\nCollectively, these events illustrate how interconnected economic anxieties, environmental challenges and social responsibilities have become. From the corridors of power to factory floors, stadiums and classrooms, the day’s stories remind leaders and citizens that vigilance, cooperation and timely policy action remain essential in navigating an increasingly complex world.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-02",
+    "time": "23:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Faisal Islam discusses a bond market wildfire that is keeping world leaders up at night.",
+      "A bear opened a window in a factory in Japan to escape, according to police.",
+      "Japan is on high alert for a possible huge second earthquake after a tsunami warning was lifted.",
+      "Women urged Japanese World Cup fans, who went viral for stadium cleanup, to clean up at home.",
+      "Japan influenced former U.S. President Donald Trump's perspective on tariffs during the trade war.",
+      "An individual reported receiving a £44,000 student loan and now owing £54,000.",
+      "A Kantar survey reports that food price rises are returning to normal.",
+      "A rare gun and knife attack in Nagano, Japan, left four people dead."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=227",
+    "featured": true
+  },
+  {
     "id": 226,
     "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
     "summary": "**Andy Burnham’s First PMQs: A Fiscal Test for the New Labour Government**",
@@ -29,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=226",
-    "featured": true
+    "featured": false
   },
   {
     "id": 225,

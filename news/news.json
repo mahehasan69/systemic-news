@@ -1,5 +1,68 @@
 [
   {
+    "id": 222,
+    "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
+    "summary": "**Suspect Pleads Not Guilty as Judge Clears Path for Death‑Penalty Trial in Charlie Kirk Murder**",
+    "content": "**Suspect Pleads Not Guilty as Judge Clears Path for Death‑Penalty Trial in Charlie Kirk Murder**\n\nA suspect in the fatal shooting of activist Charlie Kirk entered a not‑guilty plea on Tuesday, and a state judge subsequently authorized a death‑penalty trial. The decision follows a series of investigative findings that include the suspect’s movements on the day of the attack, disputed forensic evidence, and the discovery of a “sniper pad” on a nearby rooftop.\n\n**Chronology of the shooting**\n\nKirk was shot outside the venue where he was scheduled to speak. Court filings indicate that the accused was seen eating at a Chick‑fil‑A restaurant earlier that day, where he interacted with staff before changing clothes and proceeding to the location of the shooting. A former police officer later reported finding a “sniper pad” on a rooftop adjacent to the crime scene—a detail prosecutors argue ties the suspect to a pre‑planned attack.\n\n**Legal proceedings**\n\nAt a preliminary hearing, the suspect’s roommate declined to testify in person, limiting the defense’s ability to pursue that line of inquiry. Defense counsel also challenged the DNA evidence presented by prosecutors, describing the forensic results as inconclusive. Despite those challenges, prosecutors maintained that the evidence is sufficient to proceed to trial and urged the court to allow the case to move forward. The judge’s ruling permitting a death‑penalty trial underscores the seriousness of the charges, although no sentencing date has been set.\n\n**Investigation response**\n\nInvestigators described the immediate response to the shooting as “organized chaos,” noting the rapid deployment of emergency services, law‑enforcement units and forensic teams to a scene that quickly became a media focal point. The description highlights the difficulty of managing a high‑profile homicide investigation while preserving evidence for trial.\n\n**Broader implications**\n\nA death‑penalty trial is relatively rare in the jurisdiction, and the outcome could influence how politically motivated killings are prosecuted. The involvement of a well‑known activist has amplified public scrutiny of both the investigative process and the legal standards applied to capital cases.\n\n**Next steps**\n\nA death‑penalty trial is expected to be scheduled in the coming months. Additional hearings will address outstanding evidentiary issues, including the contested DNA findings and any further testimony from witnesses or experts. Both prosecution and defense have indicated they will continue filing motions as the pre‑trial phase progresses.\n\nThe developments in the Charlie Kirk murder case illustrate the intersection of forensic investigation, courtroom strategy and the potential for capital punishment in a high‑profile homicide. As the legal process moves toward trial, the case will remain a focal point for observers of criminal law and civil activism alike.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-02",
+    "time": "01:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A suspect in the murder of activist Charlie Kirk has pleaded not guilty.",
+      "A judge has cleared the way for a death penalty trial in the case.",
+      "The suspect ate at a Chick‑fil‑A restaurant and interacted with Charlie Kirk staff before the shooting.",
+      "The suspect changed clothes after eating at Chick‑fil‑A before the shooting.",
+      "Defendant's lawyers dispute the DNA evidence presented by prosecutors.",
+      "A former officer reported finding a \"sniper pad\" on a nearby rooftop after the assassination.",
+      "The suspect's roommate will not testify in person at the preliminary hearing.",
+      "Prosecutors argue the accused should stand trial.",
+      "An investigator described the initial response to the shooting as \"organized chaos\"."
+    ],
+    "timeline": [
+      {
+        "event": "Charlie Kirk shooting",
+        "date": null
+      },
+      {
+        "event": "Suspect ate at Chick‑fil‑A and interacted with staff",
+        "date": null
+      },
+      {
+        "event": "Suspect changed clothes before shooting",
+        "date": null
+      },
+      {
+        "event": "Discovery of sniper pad on rooftop (reported by former officer)",
+        "date": null
+      },
+      {
+        "event": "Preliminary hearing where roommate declined to testify",
+        "date": null
+      },
+      {
+        "event": "Judge cleared way for death‑penalty trial",
+        "date": null
+      },
+      {
+        "event": "Prosecutors argue trial should proceed",
+        "date": null
+      },
+      {
+        "event": "Investigator comments on response as organized chaos",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=222",
+    "featured": true
+  },
+  {
     "id": 221,
     "title": "Germany says Russia behind Leipzig airport drone attack",
     "summary": "**Germany Accuses Russia of Drone Attack on Leipzig Airport**",
@@ -33,7 +96,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=221",
-    "featured": true
+    "featured": false
   },
   {
     "id": 220,

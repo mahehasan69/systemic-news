@@ -1,5 +1,39 @@
 [
   {
+    "id": 232,
+    "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+    "summary": "**UK North Sea Projects Near Decision as Political and Market Pressures Mount**",
+    "content": "**UK North Sea Projects Near Decision as Political and Market Pressures Mount**\n\nLondon – The United Kingdom is poised to make two high‑profile decisions on North Sea development: the approval of the Jackdaw gas field and the outcome of the public consultation on the Rosebank oil field. Both projects have attracted intense political debate and close market scrutiny, and the forthcoming verdicts are expected to shape the country’s energy strategy, regional politics and investor confidence.\n\n**Jackdaw gas field**\n\nThe Jackdaw field, located in the UK sector of the North Sea, is reportedly set to receive formal approval within weeks, according to unnamed sources. Environmental groups and a segment of the public have consistently opposed the project, citing concerns over emissions and marine impacts. Energy Secretary Chris Burnham is said to be “minded” toward granting the licence, despite the growing opposition.\n\n**Rosebank oil field**\n\nThe Rosebank oil field is at the end of its public‑consultation phase, a step that traditionally precedes a ministerial decision. The consultation closes shortly, after which the government will announce whether the project will proceed. The timing of the Rosebank decision coincides with the anticipated Jackdaw approval, suggesting that the UK authorities may deliver a combined stance on expanding domestic oil and gas extraction.\n\n**Political landscape**\n\nPolitical positions are sharply divided. Scottish Labour leadership contenders have publicly backed new North Sea drilling, aligning with the Scottish ruling party, which also supports the contested fields. The UK government, however, has dismissed speculation that former Labour leader Ed Miliband would personally approve a new oil and gas field, calling such claims unfounded. Nonetheless, reports indicate that Miliband is prepared to endorse North Sea gas as part of a broader effort to calm volatile markets—a view echoed by London Business News, which cites a potential market‑stabilising effect from his support.\n\n**Industry and advocacy perspectives**\n\nAnalysts and interest groups have offered contrasting assessments. The ENDS Report warns of a “potential disaster scenario” should new North Sea drilling be approved, highlighting environmental and safety risks that have fueled public resistance. In contrast, consultancy Adura argues that postponing the Jackdaw and Rosebank projects would give the UK additional time to evaluate long‑term energy needs and transition pathways, suggesting that a delay could be strategically advantageous.\n\n**Market context**\n\nThe push for approvals is linked to broader government pressure to boost domestic energy supply amid global market volatility. Market participants contend that a clear commitment to new North Sea production could help stabilise prices, a rationale that appears to have influenced Miliband’s reported shift in stance. At the same time, criticism of Burnham reflects a growing constituency that questions the wisdom of expanding fossil‑fuel extraction while the UK pursues its carbon‑reduction targets.\n\n**What lies ahead**\n\nIn the coming weeks, a final decision on the Jackdaw gas field is expected, and the conclusion of the Rosebank consultation will trigger a governmental announcement on the oil field’s fate. Approval of both projects could add substantial volumes of gas and oil to the UK’s energy mix, easing supply constraints but also reigniting debate over climate commitments. Conversely, a delay or rejection would signal a pivot toward greater reliance on imports and renewable sources, while satisfying environmental advocates.\n\n**Implications**\n\nThe outcomes for Jackdaw and Rosebank will serve as a barometer for how the United Kingdom balances short‑term energy security and market stability against long‑term climate objectives. Stakeholders across the political spectrum, industry and civil society will be watching closely as the final verdicts emerge.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-03",
+    "time": "23:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jackdaw gas field is described as controversial",
+      "Approval of Jackdaw gas field is expected within weeks according to unnamed sources",
+      "Rosebank oil field is described as controversial",
+      "A public consultation on Rosebank oil field is ending",
+      "Scottish Labour leadership contenders have expressed support for approval of North Sea drilling",
+      "Adura has highlighted potential benefits of delaying the Jackdaw and Rosebank projects for the UK",
+      "Burnham is reported to be inclined (‘minded’) to approve a North Sea gas field despite pressure",
+      "Miliband is reported to be ready to back North Sea gas in a stated U‑turn to calm markets",
+      "The UK government has stated that speculation about Miliband approving a new oil and gas field is unfounded",
+      "The Scottish ruling party has publicly backed controversial new oil and gas fields"
+    ],
+    "timeline": [
+      "Consultation on Rosebank oil field is ending (date not specified)",
+      "Jackdaw gas field approval expected within weeks (exact date not provided)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=232",
+    "featured": true
+  },
+  {
     "id": 231,
     "title": "Farage senior aide filmed suggesting way to avoid donations law",
     "summary": "**Undercover Video Shows Reform UK Officials Discussing Ways to Bypass UK Foreign‑Donation Ban**",
@@ -22,7 +56,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=231",
-    "featured": true
+    "featured": false
   },
   {
     "id": 230,

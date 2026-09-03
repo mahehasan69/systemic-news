@@ -1,5 +1,25 @@
 [
   {
+    "id": 229,
+    "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+    "summary": "**Channel Smuggling Gangs Turn to “Mega‑Dinghies” Amid Tightened Patrols**",
+    "content": "**International News Round‑Up**\n\n**Channel Smuggling Gangs Turn to “Mega‑Dinghies” Amid Tightened Patrols**  \nBritish authorities say that smuggling networks operating across the English Channel have begun deploying unusually large, makeshift dinghies after a sustained crackdown has curtailed the supply of smaller vessels. The shift to “mega‑dinghies” reflects an adaptation to heightened surveillance and interdiction efforts, which have made traditional, low‑profile boats harder to obtain and operate.\n\n**Guernsey Records Hottest Summer Since Records Began**  \nMeteorological data released this week confirm that the Channel Island of Guernsey experienced its warmest summer on record. Average temperatures for the June‑August period surpassed all previous readings since systematic observations began, establishing a new climatic benchmark for the region and underscoring broader trends of rising summer heat across Western Europe.\n\n**River Severn Paddle Highlights Flood‑Risk Concerns**  \nEnvironmental activists organized a coordinated paddle along the River Severn to draw attention to flood‑risk management. Participants paddled for several hours, using the high‑visibility event to press local authorities for stronger preventative measures and improved infrastructure to mitigate the increasing frequency of severe flooding in the basin.\n\n**French Wildfires Uncover Hundreds of WWII Shells**  \nWhile battling wildfires in a small French village, fire‑fighting crews uncovered a substantial cache of World War II‑era ammunition. The discovery of hundreds of shells prompted immediate safety concerns and triggered a coordinated disposal operation involving the French Ministry of the Armed Forces and local emergency services. The find highlights the lingering legacy of wartime ordnance in rural France and the additional hazards it poses during emergency response efforts.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-03",
+    "time": "06:33",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=229",
+    "featured": true
+  },
+  {
     "id": 228,
     "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
     "summary": "**Macron and King Charles View Bayeux Tapestry in Symbolic Display of Franco‑British Ties**",
@@ -43,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=228",
-    "featured": true
+    "featured": false
   },
   {
     "id": 227,

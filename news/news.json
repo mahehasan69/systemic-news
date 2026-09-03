@@ -1,5 +1,51 @@
 [
   {
+    "id": 228,
+    "title": "King hails 'unprecedented' Bayeux Tapestry exhibition in London",
+    "summary": "**Macron and King Charles View Bayeux Tapestry in Symbolic Display of Franco‑British Ties**",
+    "content": "**Macron and King Charles View Bayeux Tapestry in Symbolic Display of Franco‑British Ties**\n\nLondon – On Tuesday, French President Emmanuel Macron and British King Charles III arrived together at the British Museum to view the Bayeux Tapestry, a rare loan that temporarily brought the historic artifact to the United Kingdom. The joint visit, highlighted by a brief appearance from a representative identified only as “Burnham” in BBC coverage, was billed as a tangible expression of the close relationship between the two nations.\n\nKing Charles described the tapestry’s loan as “unprecedented,” underscoring the rarity of such a high‑profile cultural object being transferred across borders for public display. The monarch’s comment was echoed by President Macron, and both leaders issued statements praising the “close and enduring partnership” that links the United Kingdom and France. Their remarks, reported by outlets including KMVU FOX 26, came amid broader diplomatic efforts to strengthen cooperation on trade, security and cultural exchange.\n\nThe loan itself, noted by Joe.co.uk, was presented as more than a cultural event; it was framed as a concrete demonstration of mutual trust. Arranging the temporary transfer required extensive logistical coordination, a fact illustrated by the presence of the aforementioned Burnham and the detailed timeline provided by the BBC.\n\nMedia interest was swift and wide‑ranging. NewsCord recorded coverage by at least a dozen outlets, from national broadcasters to regional stations, indicating the public’s appetite for a moment that combined political leadership with heritage preservation. The extensive reporting suggests the episode resonated beyond diplomatic circles, positioning the tapestry’s loan as a focal point for discussions on cultural diplomacy.\n\nWhile the visit was largely ceremonial, the public endorsement of UK‑France relations by both heads of state carries diplomatic weight. By linking a historic artifact with political affirmation, the leaders reinforced a narrative of partnership that could influence future bilateral initiatives, including joint research projects and coordinated responses to global challenges. The “unprecedented” nature of the loan may also set a precedent for similar cultural exchanges, potentially opening doors for other historic objects to serve as diplomatic bridges.\n\nNo additional events have been announced in connection with the tapestry’s loan, and sources indicated no scheduled follow‑up meetings or new cultural programmes. The British Museum will continue to display the Bayeux Tapestry for the duration of the loan; its subsequent destination has not been disclosed.\n\nThe episode illustrates how cultural heritage can act as a conduit for diplomatic dialogue. By convening at the British Museum to view a single, historically significant artifact, President Macron and King Charles III not only celebrated a shared past but also projected a forward‑looking partnership, reinforcing the bonds that underpin the United Kingdom’s and France’s enduring alliance.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-03",
+    "time": "01:39",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Emmanuel Macron visited the British Museum in London to view the Bayeux Tapestry.",
+      "King Charles III visited the British Museum in London to view the Bayeux Tapestry.",
+      "A person named Burnham arrived with Macron and King Charles to view the Bayeux Tapestry (BBC).",
+      "After viewing the tapestry, Macron and King Charles praised UK‑France relations (KMVU FOX 26).",
+      "King Charles described the Bayeux Tapestry loan to the British Museum as \"unprecedented\" (Joe.co.uk).",
+      "The event was reported by at least 12 different news outlets (NewsCord).",
+      "Victoria Beckham's fashion firm has become profitable (BBC).",
+      "Prince Philip lived to 99 years and visited 143 countries during his lifetime (BBC).",
+      "Prince Philip was hospitalized as a precaution at age 99 (BBC).",
+      "Tim Renkow discussed disability representation on his show \"Jerk\" (BBC).",
+      "Charlotte Crosby and her boyfriend Jake Ankers were featured in a Sunderland‑based story (BBC).",
+      "The British Museum is located in London, United Kingdom."
+    ],
+    "timeline": [
+      {
+        "event": "Macron, King Charles and Burnham arrive at the British Museum to view the Bayeux Tapestry",
+        "source": "BBC"
+      },
+      {
+        "event": "Macron and King Charles hail UK‑France ties after viewing the tapestry",
+        "source": "KMVU FOX 26"
+      },
+      {
+        "event": "King Charles calls the tapestry loan \"unprecedented\"",
+        "source": "Joe.co.uk"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=228",
+    "featured": true
+  },
+  {
     "id": 227,
     "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
     "summary": "**World News Round‑up: Bond‑Market Turmoil, Japan’s Double‑Threat Day, UK Student‑Loan Surge and More**",
@@ -26,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=227",
-    "featured": true
+    "featured": false
   },
   {
     "id": 226,

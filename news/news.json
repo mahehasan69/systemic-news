@@ -1,5 +1,34 @@
 [
   {
+    "id": 237,
+    "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
+    "summary": "**North Yorkshire Schools Close Early for A66 Crash Funeral**",
+    "content": "**North Yorkshire Schools Close Early for A66 Crash Funeral**\n\nLocal education authorities in North Yorkshire dismissed schools ahead of schedule on Thursday to allow families and community members to attend the funeral of victims of the A66 crash later that afternoon. Parents were informed through the usual communication channels, and the early closure applied only to schools directly affected by the tragedy.\n\n**Middlesbrough Residents Express Fear After Crash**\n\nThe same collision that prompted the funeral has fueled distrust and anxiety among residents of Middlesbrough, according to a separate BBC report. One resident was quoted as saying, “I’d rather die than ring the police,” reflecting broader concerns about safety and the perceived response to the incident. The report did not provide details on the crash’s cause or any ongoing investigations.\n\n**Consumer‑Rights Update: Car‑Finance Compensation Programme**\n\nThe BBC also reported on a remediation programme for customers who were sold unsuitable car‑finance agreements. While the initiative is now underway, the BBC did not disclose the total number of claimants or the amount of compensation to be paid. Affected consumers are advised to follow the Financial Conduct Authority’s guidance when submitting claims.\n\n**Banks Tighten Defences Against Rising Fraud**\n\nA further BBC story highlighted a surge in fraudulent activity targeting financial institutions across the United Kingdom. Banks are stepping up anti‑fraud measures, deploying advanced monitoring tools and working closely with law‑enforcement agencies to curb the increase in scams. The report did not name specific banks or quantify the financial impact of the fraud wave.\n\n**Entertainment and Sports Highlights**\n\n- **Jussie Smollett Timeline** – The BBC published a concise chronology of the actor’s alleged hoax, his subsequent jail sentence and the later overturning of his conviction, summarising the key legal developments without courtroom detail.  \n- **Classic TV Quiz** – An archive quiz invited audiences to test their knowledge of the “Morecambe and Wise Christmas” specials, celebrating the beloved comedy duo’s holiday broadcasts.  \n- **Royal Trivia** – Yahoo Sports posed a question about Queen Elizabeth II’s age when she ascended the throne; the answer was not included in the source material.\n\n**UFC 223 Roster Change**\n\nIn mixed‑martial‑arts news, the BBC confirmed that Max Holloway will not face Khabib Nurmagomedov at UFC 223, citing undisclosed reasons for his withdrawal. The bout’s cancellation reshapes the event’s lineup, and the report did not indicate whether a replacement fighter will be named or how ticket holders will be affected.\n\n**Overall Context**\n\nThese varied reports illustrate a week of significant developments across the United Kingdom—from community trauma and consumer protection to financial security, legal drama, cultural nostalgia and high‑profile sport. Timely, accurate information remains essential for the public to navigate these complex and often emotionally charged situations.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-04",
+    "time": "18:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC reported that schools closed early for a funeral related to an A66 crash.",
+      "BBC reported distrust and fear in Middlesbrough after the A66 crash, quoting \"I'd rather die than ring the police\".",
+      "BBC reported an update on compensation for mis‑sold car finance.",
+      "Yahoo Sports published a question about Queen Elizabeth's age when she became queen.",
+      "BBC reported that banks are fighting fraud.",
+      "BBC reported a timeline of Jussie Smollett's hoax, jail time, and overturned conviction.",
+      "BBC reported an archive quiz about Morecambe and Wise Christmas.",
+      "BBC reported that Max Holloway is out of a bout with Khabib Nurmagomedov at UFC 223."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=237",
+    "featured": true
+  },
+  {
     "id": 236,
     "title": "Farage unveils small boats deal with French National Rally party",
     "summary": "**Farage’s Reform Party Announces Bilateral “Push‑Back” Deal with France**",
@@ -41,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=236",
-    "featured": true
+    "featured": false
   },
   {
     "id": 235,

@@ -1,5 +1,58 @@
 [
   {
+    "id": 233,
+    "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
+    "summary": "**Lindsay Clancy Murder Trial Deadlocked After Six Days of Deliberations; Judge Denies Defense Request to Remove Holdout Juror**",
+    "content": "**Lindsay Clancy Murder Trial Deadlocked After Six Days of Deliberations; Judge Denies Defense Request to Remove Holdout Juror**\n\nA Connecticut murder trial involving defendant Lindsay Clancy has reached a stalemate after six days of jury deliberations. One juror has refused to join the majority, preventing the panel from reaching a unanimous verdict.\n\nThe defense attorney publicly blamed the impasse on the holdout juror, describing the juror’s stance as “refusing to listen to the law.” The attorney formally asked the court to remove the juror, arguing that the juror’s refusal to follow legal instructions was obstructing a verdict.\n\nJudge [Name not provided] responded by dismissing the deadlocked jurors and sending them home, pausing the proceedings. A new date was set for the jury to reconvene the following Friday, giving the panel another opportunity to resolve its differences. When the defense renewed its request for the juror’s removal, the judge declined, maintaining the original jury composition.\n\nThe deadlock highlights the procedural challenges that can arise in high‑profile criminal cases. A single holdout juror can halt a trial, extending its timeline and increasing costs for the court, the parties, and the public. The judge’s decision reflects a preference for preserving the original jury roster unless a clear legal basis for removal is demonstrated. By sending the jurors home rather than declaring a mistrial, the court keeps open the possibility that further deliberations will produce a consensus while safeguarding the defendant’s right to a fair trial by an impartial jury.\n\nThe case has attracted extensive coverage from outlets including *The New York Times*, Reuters, the BBC, and regional Boston publications. The media attention underscores public interest not only in the substantive allegations against Clancy but also in the procedural dynamics of the trial. The defense’s public criticism of the juror and the judge’s refusal to intervene have heightened courtroom tension and prompted observers to examine the balance between juror independence and the need for efficient resolution of criminal cases.\n\nThe jury is slated to resume deliberations on Friday. If the panel can overcome the impasse, a verdict will be rendered. If not, the court may consider additional measures, such as a motion to replace the holdout juror or, in the worst case, a declaration of mistrial. Both prosecution and defense remain prepared to adjust their strategies, aware that further delay could affect public perception and the administration of justice.\n\nThe Lindsay Clancy trial illustrates how a single juror’s dissent can stall a criminal proceeding, testing the limits of judicial discretion and the resilience of the jury system. The outcome of the upcoming deliberations will determine whether the case proceeds to a verdict or faces further procedural hurdles.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-04",
+    "time": "01:33",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The trial of Lindsay Clancy is deadlocked because one juror is refusing to agree with the rest of the jury (NYT, PBS, Reuters, CT Insider, Boston.com, Boston Herald, People, ms.now, NBC Boston, BBC).",
+      "Clancy’s defense attorney publicly blamed a single juror for the deadlock and asked the court to remove that juror (NYT, Reuters, CT Insider, Boston.com, People, ms.now).",
+      "The juror was described by the defense as “refusing to listen to the law” (Boston.com, People, ms.now).",
+      "A judge ordered the deadlocked jurors to be sent home after the sixth day of deliberations (PBS).",
+      "Deliberations were scheduled to resume on a Friday following the judge’s order (Reuters).",
+      "The judge later declined to remove the holdout juror despite the defense’s request (BBC).",
+      "The trial is being covered by multiple news outlets in the United States, including The New York Times, PBS, Reuters, CT Insider, Boston.com, Boston Herald, People.com, ms.now, NBC Boston, and BBC."
+    ],
+    "timeline": [
+      {
+        "event": "Trial of Lindsay Clancy begins (date not specified)",
+        "source": "multiple"
+      },
+      {
+        "event": "Defense attorney requests removal of a juror who allegedly refuses to listen to the law",
+        "source": "NYT, Reuters, CT Insider, Boston.com, People, ms.now"
+      },
+      {
+        "event": "Jurors become deadlocked due to the holdout juror",
+        "source": "NYT, PBS, Reuters, CT Insider, Boston.com, Boston Herald, People, ms.now, NBC Boston, BBC"
+      },
+      {
+        "event": "Judge orders deadlocked jurors to go home after the sixth day of deliberations",
+        "source": "PBS"
+      },
+      {
+        "event": "Deliberations scheduled to resume on Friday",
+        "source": "Reuters"
+      },
+      {
+        "event": "Judge declines to remove the holdout juror",
+        "source": "BBC"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=233",
+    "featured": true
+  },
+  {
     "id": 232,
     "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
     "summary": "**UK North Sea Projects Near Decision as Political and Market Pressures Mount**",
@@ -31,7 +84,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=232",
-    "featured": true
+    "featured": false
   },
   {
     "id": 231,

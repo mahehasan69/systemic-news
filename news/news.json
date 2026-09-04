@@ -1,5 +1,49 @@
 [
   {
+    "id": 236,
+    "title": "Farage unveils small boats deal with French National Rally party",
+    "summary": "**Farage’s Reform Party Announces Bilateral “Push‑Back” Deal with France**",
+    "content": "**Farage’s Reform Party Announces Bilateral “Push‑Back” Deal with France**\n\nAt a Reform Party conference this week, party founder Nigel Farage unveiled a bilateral agreement with French nationalist politician Jordan Bardello (Bardella) that would see the United Kingdom return migrants arriving in “small boats” across the Channel to France and, according to Farage, halt such crossings within 100 days. The deal was announced in the presence of a Marine Le Pen‑aligned French delegate, highlighting a new level of cooperation between hard‑line anti‑immigration forces on both sides of the Channel.\n\nThe agreement is presented as a cornerstone of Reform’s broader migration strategy, which the BBC says includes a policy framework for deporting up to 600,000 migrants. Farage described the plan as a “push‑back” approach, pledging that the party would “return small boats to France and stop them within 100 days.” The announcement follows a recent incident in which a smuggler vessel caught fire; the passengers were subsequently taken back to France, a development reported by Breitbart and cited by Reform as evidence that push‑back actions are already underway.\n\nPublic concern over the surge in Channel crossings has been rising in both the United Kingdom and France, providing fertile ground for the party’s anti‑immigration messaging. By linking its domestic agenda with a French counterpart, Reform aims to position itself as a transnational alternative to mainstream parties ahead of the next UK general election, which Al Jazeera reports the party intends to contest.\n\nPolitical analysts note that the pact represents an unusual formal collaboration between a UK fringe party and a French nationalist figure. Although the Reform Party holds no seats in Parliament, the public nature of the agreement and the involvement of a Le Pen‑aligned representative suggest an effort to lend the party’s migration stance greater legitimacy through international partnership. The 100‑day timetable would require rapid coordination between UK border agencies and French authorities, raising questions about the legal and logistical mechanisms needed to execute the proposed deportations.\n\nReform officials say the initiative will be rolled out as soon as the party’s internal processes are completed, but they have not disclosed operational details. The earlier smuggler‑boat incident indicates a willingness to employ immediate push‑back tactics. If enacted, the policy could lead to the deportation of up to 600,000 migrants, a figure that would significantly affect the asylum systems of both countries and is likely to provoke legal challenges under European and international human‑rights law.\n\nThe development underscores the growing politicisation of migration in the UK and illustrates how fringe parties can shape policy discourse through cross‑border alliances. As Reform prepares for a potential electoral contest, the anti‑immigration pact with Bardella may serve both as a rallying point for its supporters and as a flashpoint for broader debates over the United Kingdom’s obligations to asylum seekers and the limits of bilateral cooperation on border enforcement.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-04",
+    "time": "15:13",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Nigel Farage announced a deal with French politician Jordan Bardella concerning \"small boats\" at a Reform Party conference (BBC).",
+      "Farage was accompanied by a right‑wing ally of Marine Le Pen at the same event (LBC).",
+      "Farage said Reform intends to return small boats to France and stop them within 100 days (Daily Mail).",
+      "Reform Party has prepared a plan to deport up to 600,000 migrants under its migration policy (BBC).",
+      "The pact is described as aiming to \"stop the boats forever\" by sending migrants straight back to France (Daily Mail).",
+      "A smuggler boat caught fire and migrants were subsequently returned to France, indicating push‑back actions are already occurring (Breitbart)."
+    ],
+    "timeline": [
+      {
+        "event": "Reform conference where Farage unveiled the small‑boats deal",
+        "date": "2024‑??‑?? (date not given in sources)"
+      },
+      {
+        "event": "Farage signed the pact with Bardella and announced 100‑day plan to stop boats",
+        "date": "2024‑??‑??"
+      },
+      {
+        "event": "Announcement of 600,000 deportation target in Reform migration plan",
+        "date": "2024‑??‑??"
+      },
+      {
+        "event": "Smuggler boat fire and subsequent return of migrants to France",
+        "date": "2024‑??‑??"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=236",
+    "featured": true
+  },
+  {
     "id": 235,
     "title": "Chris Mason: 'This is not what Farage wanted today to look like'",
     "summary": "**Nigel Farage’s Resignation Triggers Fresh Political Debate**",
@@ -33,7 +77,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=235",
-    "featured": true
+    "featured": false
   },
   {
     "id": 234,

@@ -1,5 +1,28 @@
 [
   {
+    "id": 238,
+    "title": "Cleveland police chief proud of force but being 'let down' by funding",
+    "summary": "**Cleveland Police Chief Praises Officers While Decrying Funding Shortfalls**",
+    "content": "**Cleveland Police Chief Praises Officers While Decrying Funding Shortfalls**\n\n*CLEVELAND* — In a recent interview with the BBC, the chief of the Cleveland Police Department lauded the professionalism and dedication of his officers, calling the force “a source of pride for the city.” At the same time, he warned that chronic under‑funding is hampering the department’s ability to serve the community effectively.\n\nThe chief emphasized that, despite operating on a constrained budget, officers continue to meet community expectations. He attributed the department’s challenges directly to “insufficient funding,” which he said limits staffing levels, equipment procurement, and overall service capacity. “We’re being let down,” he added, underscoring the impact of the budget gap on daily operations.\n\nWhile the interview did not provide specific figures or outline immediate corrective actions, the chief’s remarks highlight a growing debate over municipal financing for public safety. City officials may now face pressure to reassess budget allocations to ensure the police department can maintain its current standards and address future needs.\n\nStakeholders are expected to watch forthcoming policy discussions and budget proposals closely, as any changes could reshape the financial landscape for Cleveland’s police force. The chief’s dual message—pride in his officers coupled with frustration over fiscal constraints—captures the tension between commendable police performance and the realities of limited public resources.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-04",
+    "time": "21:06",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Cleveland police chief expressed pride in the police force",
+      "Chief stated the department is being let down by funding"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=238",
+    "featured": true
+  },
+  {
     "id": 237,
     "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
     "summary": "**North Yorkshire Schools Close Early for A66 Crash Funeral**",
@@ -26,7 +49,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=237",
-    "featured": true
+    "featured": false
   },
   {
     "id": 236,

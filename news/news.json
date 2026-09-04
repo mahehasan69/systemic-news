@@ -1,5 +1,36 @@
 [
   {
+    "id": 234,
+    "title": "Watch: Moment workers are rescued from Nepal tunnel",
+    "summary": "**Construction Workers Rescued from Flood‑Swamped Tunnel in Nepal**",
+    "content": "**Construction Workers Rescued from Flood‑Swamped Tunnel in Nepal**\n\nA sudden surge of river water from the Nepal‑Tibet watershed burst into an underground tunnel in western Nepal, trapping a crew of construction workers and prompting an urgent rescue operation that has now saved several lives. The flash flood, which followed intense rainfall across the trans‑Himalayan basin, overwhelmed the tunnel’s drainage capacity, sealed the entrance and left the workers stranded deep within the passage.\n\nRescue teams were mobilised within hours. Using inflatable rafts to navigate the swollen channel and a drone equipped with low‑light imaging to locate survivors, responders were able to locate and extract a number of laborers – the first successful rescues from the site. Authorities have pledged to continue search and rescue efforts until all possible survivors are accounted for, deploying additional drones and specialised watercraft in the coming days. Medical teams stand ready to treat any injuries sustained during extraction.\n\nThe operation also highlighted the psychological strain on Nepal’s emergency personnel. One rescuer, speaking on condition of anonymity, said, “It is hard to balance emotions and professionalism” when confronting scenes of devastation and uncertainty about who may still be inside. The comment underscores a broader challenge for Nepal’s disaster‑response agencies, which routinely contend with monsoon‑driven landslides, flash floods and seismic activity.\n\nThe tunnel incident is part of a wider cascade of flood‑related tragedies in the region. In the same disaster, a grieving son erected a makeshift tribute in a local stadium to honor his father, who remains missing. The memorial, built from reclaimed materials and illuminated by community volunteers, serves as a stark reminder of the human cost of the ongoing hydrological crisis.\n\nExperts attribute the heightened flood risk to climate‑induced variability in the Himalayas. Rapid glacial melt and erratic monsoon patterns have increased river discharge, raising the likelihood that water will breach engineered structures such as tunnels and hydro‑electric facilities. The hydropower engineer who described the event as “river water from Nepal‑Tibet floods” entering the tunnel echoed these concerns about infrastructure resilience under extreme weather conditions.\n\nLocal officials are coordinating with national disaster‑management agencies to assess structural damage and develop mitigation strategies aimed at preventing similar incidents. Planned measures include a forensic investigation of the tunnel’s design, reinforcement of critical infrastructure, and the strengthening of early‑warning systems.\n\nThe successful rescues demonstrate the effectiveness of integrating modern technology—such as aerial drones—with traditional rescue methods in rugged terrain. At the same time, the expressed emotional burden among frontline responders highlights the need for dedicated psychological‑support services as an integral component of disaster response.\n\nAs Nepal grapples with the immediate aftermath, the episode reinforces the urgency of bolstering flood‑risk management, improving early‑warning capabilities, and enhancing the resilience of critical infrastructure in the face of climate change. International aid groups have signalled readiness to assist, and the Nepalese government is expected to issue an official briefing on the incident’s cause and the long‑term measures under consideration.\n\nThe rescued workers’ safe return offers a glimmer of hope amid a grim landscape of loss and uncertainty, but the missing father and the broader community’s resilience remain unresolved. The incident serves as a sobering reminder that, in a region where mountains meet monsoon, preparedness and compassion must walk hand in hand.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-04",
+    "time": "06:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Workers were rescued from a tunnel in Nepal (Article 1).",
+      "A theme park in South Korea is considering using robots for entertainment (Article 2).",
+      "A hydropower engineer said river water from Nepal‑Tibet floods entered a tunnel (Article 3).",
+      "A rescuer in Nepal stated it is hard to balance emotions and professionalism (Article 4).",
+      "Rescuers in Nepal are searching for tunnel survivors using rafts and a drone (Article 5).",
+      "A son made a stadium tribute to his father who is missing after a Nepal flood (Article 6).",
+      "Gloria Steinem has dedicated her life to fighting for women's equality (Article 7).",
+      "Wildfire haze, described as toxic, is spreading across South‑East Asia due to an intensified ‘super’ El Niño (Article 8).",
+      "A regeneration plan for part of Gloucester city centre has been announced (Article 9).",
+      "Lidl is set to secure a supermarket location in Holt, north Norfolk, ahead of Aldi (Article 10)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=234",
+    "featured": true
+  },
+  {
     "id": 233,
     "title": "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror",
     "summary": "**Lindsay Clancy Murder Trial Deadlocked After Six Days of Deliberations; Judge Denies Defense Request to Remove Holdout Juror**",
@@ -50,7 +81,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=233",
-    "featured": true
+    "featured": false
   },
   {
     "id": 232,

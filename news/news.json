@@ -1,5 +1,38 @@
 [
   {
+    "id": 247,
+    "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+    "summary": "**Nigel Farage’s “I wasn’t listening” comment fuels fresh scrutiny of donations scandal and family pressure**",
+    "content": "**Nigel Farage’s “I wasn’t listening” comment fuels fresh scrutiny of donations scandal and family pressure**\n\nFormer UKIP leader Nigel Farage has drawn renewed media attention after admitting in two separate interviews that he deliberately tuned out during a meeting focused on a donations scandal. Both *The Guardian* and the BBC reported that Farage said he “wasn’t listening” when senior party figures discussed foreign‑donor talks that were later captured by an undercover operation.\n\nThe remarks were made in the context of an ongoing investigation into the source of political contributions to Farage’s party. The meeting, described by the press as centred on a “donations scandal,” reportedly involved senior officials. In the BBC interview Farage clarified that his disengagement applied specifically to the foreign‑donor segment of the discussion, reinforcing the consistency of his denial across the two outlets.\n\nAt the same time, Farage’s relatives have entered the public arena. According to the BBC, family members have urged him to “retire and walk away” from politics, suggesting that the controversy is creating strain within his household. While the relatives did not elaborate on their reasons, their appeal adds a personal dimension to the mounting external pressure.\n\nFarage’s admission raises questions about transparency and accountability in political leadership, especially when allegations of improper funding surface. By openly acknowledging that he was not paying attention to a critical discussion, he has highlighted a potential gap between party leadership and the mechanisms meant to ensure scrutiny of donations.\n\nNo formal legal action has been reported, but the dual coverage by *The Guardian* and the BBC indicates that the story remains under active journalistic observation. Neither outlet has announced an official inquiry, yet the sustained reporting suggests that further developments may emerge as investigations continue.\n\nIn the short term, Farage’s comments have intensified calls for clarity on the donations scandal and have amplified his family’s public urging for him to step back. Observers will be watching for any response from Farage or his representatives and for additional reporting that could shed further light on the foreign‑donor talks and related funding issues.\n\n**Key takeaway:** Nigel Farage’s admission that he was not listening to discussions about a donations scandal, combined with his family’s plea for his retirement, underscores heightened scrutiny of his role in a contentious funding inquiry and illustrates how personal and political pressures can converge on a high‑profile public figure.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-05",
+    "time": "22:25",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      {
+        "fact": "Nigel Farage said he wasn’t listening during a meeting about a donations scandal",
+        "source": "The Guardian"
+      },
+      {
+        "fact": "Nigel Farage told the BBC he wasn’t listening during foreign donor talks that were filmed undercover",
+        "source": "BBC"
+      },
+      {
+        "fact": "Members of Nigel Farage’s family have expressed that he should retire and walk away",
+        "source": "BBC"
+      }
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=247",
+    "featured": true
+  },
+  {
     "id": 246,
     "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
     "summary": "**Masked Anti‑Immigration Protest Blocks Access to Port of Dover**",
@@ -31,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=246",
-    "featured": true
+    "featured": false
   },
   {
     "id": 245,

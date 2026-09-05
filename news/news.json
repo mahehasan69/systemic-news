@@ -1,5 +1,39 @@
 [
   {
+    "id": 246,
+    "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+    "summary": "**Masked Anti‑Immigration Protest Blocks Access to Port of Dover**",
+    "content": "**Masked Anti‑Immigration Protest Blocks Access to Port of Dover**\n\n*Dover, Kent –* On [date not specified], a group of masked demonstrators staged a coordinated “stop the boats” protest on the main access routes to the Port of Dover, temporarily halting traffic to the busy ferry hub. The action, reported by Al Jazeera, CNN, the BBC and the Financial Times, drew swift condemnation from the UK government.\n\n**What happened**\n\nProtesters positioned themselves along the primary roads that feed the port, preventing vehicles—including commuter cars, freight trucks and passengers bound for the English Channel—from reaching the terminal. While officials have not disclosed the exact length of the blockage, the disruption was sufficient to trigger a police response and restore normal flow.\n\n**Motivation and context**\n\nThe demonstrators, identified as anti‑immigration activists, linked their actions to the broader “stop the boats” campaign, which opposes the arrival of migrants by sea. By targeting Dover—one of the United Kingdom’s main points of entry for cross‑Channel traffic—the protesters aimed to draw attention to their opposition to current migration policies.\n\n**Government response**\n\nThe Home Office publicly denounced the protest as “unacceptable,” reaffirming the government’s commitment to maintaining public order and the rule of law. The condemnation was echoed across the same international outlets that covered the event, reinforcing the official stance.\n\n**Implications**\n\nThe incident highlights how immigration debates can spill over into direct action that disrupts critical infrastructure. Dover’s strategic importance as a gateway for both commercial freight and passenger travel makes any obstruction a matter of economic and security concern. The protest also underscores the tension between the right to demonstrate and the need to protect essential transport links.\n\n**Next steps**\n\nAuthorities are expected to pursue standard procedures: removing the protesters, filing legal complaints and launching investigations to identify participants and assess any breaches of public‑order legislation. No specific measures have been announced yet, but the government’s rapid response suggests that further legal or administrative action is likely.\n\n**Conclusion**\n\nThe masked anti‑immigration protest at the Port of Dover illustrates the potential for immigration‑related activism to impact vital transport corridors. Broad media coverage and the government’s unequivocal condemnation underscore the episode’s significance in the national conversation on migration, public safety and the protection of infrastructure.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-05",
+    "time": "20:48",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Masked protesters blocked roads leading to the Port of Dover in Kent, England.",
+      "The protest was described as anti‑immigrant and linked to a “stop the boats” campaign.",
+      "Multiple news outlets (Al Jazeera, Los Angeles Times, CNN, The Independent, The Guardian, South China Morning Post, The Times of India, Financial Times, BBC) reported the incident.",
+      "The UK government publicly condemned the protest."
+    ],
+    "timeline": [
+      {
+        "date": null,
+        "event": "Masked protesters blocked access roads to the Port of Dover."
+      },
+      {
+        "date": null,
+        "event": "UK government issued a condemnation of the protest."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=246",
+    "featured": true
+  },
+  {
     "id": 245,
     "title": "US envoys meet Putin in Moscow for Ukraine talks",
     "summary": "**Putin Orders 72‑Hour Pause in Kyiv Strikes Ahead of U.S. Envoys’ Visit for Ukraine Peace Talks**",
@@ -31,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=245",
-    "featured": true
+    "featured": false
   },
   {
     "id": 244,

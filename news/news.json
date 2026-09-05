@@ -1,5 +1,39 @@
 [
   {
+    "id": 245,
+    "title": "US envoys meet Putin in Moscow for Ukraine talks",
+    "summary": "**Putin Orders 72‑Hour Pause in Kyiv Strikes Ahead of U.S. Envoys’ Visit for Ukraine Peace Talks**",
+    "content": "**Putin Orders 72‑Hour Pause in Kyiv Strikes Ahead of U.S. Envoys’ Visit for Ukraine Peace Talks**\n\nMoscow – Russian President Vladimir Putin announced a temporary suspension of missile and artillery attacks on Ukraine’s capital Kyiv, a pause reported to last 72 hours. The cease‑fire also extends, in a less clearly defined manner, to the Russian capital Moscow, creating a brief window for diplomatic engagement.\n\nThe announcement coincided with the arrival of a senior United States delegation in Moscow on Thursday. Led by Steve Witkoff and former senior adviser Jared Kushner, the team went straight to the Kremlin for a high‑level meeting with President Putin. Representatives from Russia, Ukraine and the United States convened to revive stalled peace negotiations that have been deadlocked since the war began in February 2022. Ukrainian President Volodymyr Zelenskyy is reported to have agreed to the cease‑fire, marking a rare moment of concurrence among the three parties.\n\nDuring the Kremlin session, Putin confirmed that Russian forces would suspend offensive operations against Kyiv for three days, presenting the move as a confidence‑building measure to facilitate the talks. Kremlin statements described the pause as intended to create a “conducive environment” for the U.S. envoys’ visit. While the exact parameters of the suspension in Moscow remain ambiguous, the decision signals a willingness by the Russian leadership to temper military pressure in exchange for diplomatic progress.\n\nThe pause comes amid intensified fighting in eastern Ukraine and a series of failed cease‑fire attempts that have caused mounting civilian casualties and infrastructure damage on both sides. Since the conflict’s outset, Kyiv has endured repeated bombardments, prompting international condemnation and a cascade of sanctions aimed at curbing Russia’s war‑fighting capacity. The United States, a principal supplier of military aid to Kyiv, has simultaneously pursued diplomatic channels, most recently dispatching Witkoff and Kushner to Moscow in an effort to break the deadlock.\n\nAnalysts note that, although brief, the 72‑hour suspension carries symbolic weight. It demonstrates that Moscow can align its military posture with diplomatic overtures when faced with coordinated pressure from Washington and Kyiv. For the United States, the visit marks the first direct engagement of senior envoys with the Russian president since the war’s escalation, suggesting a renewed emphasis on high‑level negotiation alongside economic sanctions and military assistance. For Kyiv, the temporary halt offers a rare respite for civilians and a potential opening to negotiate broader security guarantees.\n\nThe next steps involve a series of follow‑up meetings between Russian and U.S. officials aimed at expanding the limited cease‑fire into a more comprehensive peace framework. Sources close to the Kremlin indicate that the 72‑hour window will be used to assess the feasibility of extending the pause, contingent on progress in the talks. Should substantive agreements emerge, the temporary truce could be lengthened or supplemented by additional de‑escalation measures, such as a broader cease‑fire covering other contested regions.\n\nIn the short term, the suspension is expected to reduce the intensity of Russian attacks on Kyiv, allowing emergency services and humanitarian actors a brief period to address the immediate fallout of recent strikes. However, the durability of the cease‑fire hinges on the outcomes of the diplomatic engagement initiated by the U.S. envoys. The international community will be watching closely to see whether this limited suspension can translate into a sustained reduction in hostilities and, ultimately, a negotiated settlement to a conflict that has reshaped European security dynamics.\n\nThe episode underscores a pivotal moment in the war’s trajectory: a rare convergence of military restraint and diplomatic outreach. Whether the 72‑hour pause proves to be merely a tactical lull or a stepping stone toward lasting peace remains to be seen, but it marks the latest instance of direct dialogue among the principal actors in a conflict that has claimed tens of thousands of lives and displaced millions.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-05",
+    "time": "18:40",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russian President Vladimir Putin announced a pause in Russian strikes on Kyiv.",
+      "The pause was announced ahead of a visit by United States envoys to Moscow.",
+      "U.S. envoys Steve Witkoff and Jared Kushner traveled to Moscow to meet Putin for Ukraine peace talks.",
+      "The meeting took place at the Kremlin.",
+      "The purpose of the talks was to revive or advance peace negotiations over the Russia‑Ukraine war.",
+      "The pause was described as lasting 72 hours in at least one report.",
+      "The talks involved representatives from Russia, Ukraine (President Volodymyr Zelenskyy is mentioned as agreeing to the pause), and the United States."
+    ],
+    "timeline": [
+      "Prior to the envoys’ arrival: Putin orders a pause in strikes on Kyiv (and possibly Moscow).",
+      "U.S. envoys (Witkoff, Kushner, and other officials) travel to Moscow.",
+      "Meeting held at the Kremlin between Putin and the U.S. envoys.",
+      "During the meeting, a 72‑hour cease‑fire on Kyiv (and possibly Moscow) is confirmed.",
+      "Subsequent reports describe the pause as being in effect while talks continue."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=245",
+    "featured": true
+  },
+  {
     "id": 244,
     "title": "US hits three Iranian oil tankers after saying its warships were targeted",
     "summary": "**U.S. Strikes Three Iranian Oil Tankers in Retaliation for IRGC Attacks on Navy Vessels**",
@@ -39,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=244",
-    "featured": true
+    "featured": false
   },
   {
     "id": 243,

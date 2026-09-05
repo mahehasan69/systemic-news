@@ -1,5 +1,31 @@
 [
   {
+    "id": 241,
+    "title": "UN votes to adopt new world map to reflect Africa's true size",
+    "summary": "**UN General Assembly Adopts Revised World Map Restoring Africa’s True Size**",
+    "content": "**UN General Assembly Adopts Revised World Map Restoring Africa’s True Size**\n\n*New York, 5 September 2026* — The United Nations General Assembly voted to adopt a revised world map that accurately depicts Africa’s relative size, a change hailed by many as a long‑overdue correction of a historic cartographic distortion. The resolution, referred to in several reports as the “Correct The Map” resolution, passed after a spirited debate on the continent’s persistent under‑representation on conventional maps.\n\n**Vote outcome**\n\nA majority of member states supported the amendment, while the United States cast the sole dissenting vote. Togo was among the nations that voted in favor, as reported by Business Insider Africa, NewsCord and other outlets. The decision was covered by a wide range of international media, including the BBC, Al Jazeera, NPR, UN News, CNN, The New York Times, CBC, Yahoo and others, underscoring the symbolic weight of the move.\n\n**Why the change matters**\n\nThe Mercator projection and similar cartographic conventions, long used in textbooks and atlases, shrink Africa’s landmass relative to Europe and North America. Advocates argued that this visual bias has contributed to misconceptions about the continent’s geographic, economic and demographic significance. By officially endorsing a map that reflects Africa’s actual dimensions, the UN seeks to provide a more accurate visual reference for policymakers, educators and the public worldwide.\n\n**Implementation**\n\nUN agencies are expected to incorporate the new representation into official publications, conference materials and digital platforms. The organization’s communications office indicated that updated graphics will appear in forthcoming reports and on the UN website, although a detailed rollout schedule has not been released. Educational ministries in member states are being encouraged to revise textbooks, curricula and teaching aids to align with the revised cartography, a shift that could reshape how future generations perceive Africa’s scale and importance.\n\n**Broader implications**\n\nBeyond the technical correction, the decision carries cultural and political significance. Accurate mapping can help counter stereotypes reinforced by distorted visuals and supports broader efforts to decolonize knowledge production and promote equitable representation within international institutions. Several NGOs have already signaled intent to adopt the new visual standard in advocacy campaigns, further amplifying its impact.\n\n**Looking ahead**\n\nThe United Nations will coordinate with its specialized agencies and member states to disseminate the revised map across its platforms. While the vote did not achieve unanimous support, the overwhelming backing from the international community signals a shared recognition of the need for more precise geographic depictions. As the new map enters official use, its influence will be measured not only in atlases but also in the evolving narratives about Africa’s place in the world.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-05",
+    "time": "06:24",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United Nations voted to adopt a new world map that shows Africa at its true relative size.",
+      "Multiple news outlets (BBC, Al Jazeera, NPR, UN News, CNN, The New York Times, Business Insider Africa, CBC, NewsCord, Yahoo) reported on the vote.",
+      "The resolution is referred to as the “Correct The Map” resolution in at least one source.",
+      "The United States voted against the resolution, according to Business Insider Africa and NewsCord.",
+      "Togo backed the resolution, according to NewsCord."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=241",
+    "featured": true
+  },
+  {
     "id": 240,
     "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
     "summary": "**BBC News Highlights Reform UK Activity and Consumer‑Protection Issues**",
@@ -28,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=240",
-    "featured": true
+    "featured": false
   },
   {
     "id": 239,

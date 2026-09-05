@@ -1,5 +1,36 @@
 [
   {
+    "id": 240,
+    "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+    "summary": "**BBC News Highlights Reform UK Activity and Consumer‑Protection Issues**",
+    "content": "**BBC News Highlights Reform UK Activity and Consumer‑Protection Issues**\n\nBBC News has published a series of recent headlines that span political proposals from Reform UK and a range of consumer‑protection guidance. The titles include:\n\n* “Nigel Farage threatens to overhaul Lords and judiciary in Reform conference speech”  \n* “Reform UK promises £80 bn of cuts to public spending”  \n* “Two Warwickshire Reform UK councillors defect to Restore Britain”  \n* Guidance on mis‑sold car finance, data‑breach verification and child trust funds  \n\nThe collection of headlines points to several recurring themes in the current UK public discourse. Reform UK appears to be positioning itself around major institutional reforms, a pledge of substantial fiscal restraint, and realignments at the local‑government level. At the same time, the BBC’s consumer‑focus pieces underscore ongoing regulatory and advocacy concerns regarding vulnerable customers, financial mis‑selling and data security.\n\nBecause the headlines do not contain the substantive details of any single event, statement or policy change, a full analysis of the developments is not possible at this stage. The specific content of Farage’s speech, the precise mechanisms of the proposed £80 bn public‑spending cuts, and the circumstances surrounding the Warwickshire councillors’ defection remain unverified in the material provided.\n\nObservers will be watching for detailed statements from Reform UK, official policy documents and any legislative action that may follow the announced proposals. Likewise, regulators and consumer‑advocacy groups are expected to release further information on the guidance concerning car‑finance mis‑selling, data‑breach checks and child trust funds.\n\nIn summary, the headlines signal a busy period for Reform UK and highlight persistent consumer‑protection issues, but the lack of detailed, verified content limits the depth of current reporting. Further updates will be provided as substantive information becomes available.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-05",
+    "time": "01:34",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC published an article titled \"Nigel Farage threatens to overhaul Lords and judiciary in Reform conference speech\" on news.google.com.",
+      "BBC published an article titled \"Mis-sold car finance compensation update\" on news.google.com.",
+      "BBC published an article titled \"Reform UK promises £80bn of cuts to public spending\" on news.google.com.",
+      "BBC published an article titled \"How can I check my data has been included in a breach?\" on news.google.com.",
+      "BBC published an article titled \"How Reform UK leader Karl Johnson wants to change Wakefield\" on news.google.com.",
+      "BBC published an article titled \"Farage says £5m gift spending details 'not public's business'\" on news.google.com.",
+      "BBC published an article titled \"Check a Child Trust Fund\" on news.google.com.",
+      "BBC published an article titled \"Protecting Vulnerable Customers\" on news.google.com.",
+      "BBC published an article titled \"Recipe Title\" on news.google.com.",
+      "BBC published an article titled \"Two Warwickshire Reform UK councillors defect to Restore Britain\" on news.google.com."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=240",
+    "featured": true
+  },
+  {
     "id": 239,
     "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
     "summary": "**Judge Declares Mistrial in Lindsay Clancy Murder Trial After Jury Deadlock**",
@@ -32,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=239",
-    "featured": true
+    "featured": false
   },
   {
     "id": 238,

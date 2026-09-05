@@ -1,5 +1,47 @@
 [
   {
+    "id": 244,
+    "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+    "summary": "**U.S. Strikes Three Iranian Oil Tankers in Retaliation for IRGC Attacks on Navy Vessels**",
+    "content": "**U.S. Strikes Three Iranian Oil Tankers in Retaliation for IRGC Attacks on Navy Vessels**\n\n*Washington, D.C.* – The United States announced that its forces launched missile strikes against three Iranian oil tankers on Thursday, describing the action as a direct response to a series of attacks by Iran’s Islamic Revolutionary Guard Corps (IRGC) on U.S. Navy warships in the Persian Gulf.\n\nThe operation was confirmed by U.S. Central Command (CENTCOM) and the Department of Defense (DoD) and was reported by a wide array of news outlets, including the BBC, NBC News, the Associated Press, Reuters, The Washington Post, The New York Times, the South China Morning Post, the Washington Times and WTHI‑TV.\n\n**Background to the strikes**\n\nEarlier in the day, Iranian forces engaged U.S. naval vessels operating in the strategically vital waterway. While the exact timing of those attacks was not disclosed, multiple sources described them as “attacks on U.S. warships.” Washington characterized the Iranian actions as hostile maritime activity that threatened the safety of American forces and the principle of freedom of navigation.\n\n**Target selection**\n\nAccording to The Washington Post, one of the three tankers hit by U.S. missiles was operating near Kharg Island, Iran’s principal oil‑export hub. U.S. officials said the strikes were aimed at Iran’s “shadow network” of maritime operations—a term used by The New York Times to denote covert logistics that support the IRGC’s naval capabilities. The DoD emphasized that the strikes were intended to deter further aggression and to protect commercial shipping in the Gulf.\n\n**Immediate impact**\n\nThe missiles either destroyed or caused significant damage to the three tankers, though the precise extent of the damage was not detailed in the available reports. Analysts expect a short‑term disruption to Iran’s oil‑transport logistics, given the importance of tanker traffic to the country’s export economy. The Persian Gulf already handles a high volume of commercial shipping, and any interruption could reverberate through global oil markets, although no concrete market data were provided.\n\n**Escalation of U.S.–Iran tensions**\n\nThe incident marks a sharp escalation in a relationship that has been strained by a series of maritime confrontations over recent months. Reuters and other outlets reported that the IRGC’s earlier attacks signaled Tehran’s willingness to challenge the U.S. naval presence in the region. In response, CENTCOM reiterated Washington’s policy of responding forcefully to perceived threats against its forces.\n\n**Looking ahead**\n\nBoth governments are expected to issue diplomatic statements in the coming days. Iranian officials are likely to protest the strikes as violations of international law and attacks on civilian shipping, while the United States is expected to reaffirm the operation as a defensive measure. The episode raises the prospect of further military actions if either side perceives additional provocations, a scenario that could draw in regional allies and complicate broader security dynamics in the Gulf.\n\nInternational observers, including maritime‑monitoring agencies, have indicated they will increase surveillance of Gulf shipping lanes to assess any further escalation and to safeguard commercial vessels. The heightened attention reflects concerns that the confrontation could spill over into wider disruptions of trade routes that are critical to global energy supplies.\n\n**Conclusion**\n\nThe U.S. strikes on three Iranian oil tankers represent a calculated retaliation for IRGC attacks on American warships, underscoring Washington’s willingness to employ kinetic force to protect its maritime interests. The episode adds a new layer of volatility to an already tense U.S.–Iran relationship and highlights the Persian Gulf’s continued role as a flashpoint for naval power projection and energy security.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-05",
+    "time": "16:21",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United States military conducted strikes on three Iranian oil tankers.",
+      "The strikes were reported by multiple news outlets (BBC, NBC News, AP News, Reuters, The Washington Post, The New York Times, South China Morning Post, Washington Times, WTHI-TV).",
+      "The United States cited Iranian targeting of US Navy warships as the reason for the strikes.",
+      "One of the tankers was reported to be near Kharg Island, Iran.",
+      "The United States Central Command (CENTCOM) and the Department of Defense publicly announced the operation."
+    ],
+    "timeline": [
+      {
+        "event": "Iranian forces (IRGC) attacked US Navy warships",
+        "source": "Various (BBC, NBC, AP, Reuters)",
+        "date": "Not specified in articles"
+      },
+      {
+        "event": "US military launched strikes on three Iranian oil tankers",
+        "source": "All listed sources",
+        "date": "Not specified in articles"
+      },
+      {
+        "event": "US statement that one tanker was near Kharg Island",
+        "source": "The Washington Post",
+        "date": "Not specified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=244",
+    "featured": true
+  },
+  {
     "id": 243,
     "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
     "summary": "**Reform UK’s internal crisis deepens as donations controversy erupts and Nigel Farage downplays aides’ remarks**",
@@ -44,7 +86,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=243",
-    "featured": true
+    "featured": false
   },
   {
     "id": 242,

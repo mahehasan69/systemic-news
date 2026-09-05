@@ -1,5 +1,36 @@
 [
   {
+    "id": 242,
+    "title": "Reform promises to increase tax-free personal allowance to £15,000",
+    "summary": "**Reform UK Unveils £80 billion Spending Cut Coupled with £15,000 Tax‑Free Personal Allowance**",
+    "content": "**Reform UK Unveils £80 billion Spending Cut Coupled with £15,000 Tax‑Free Personal Allowance**\n\nReform UK has announced a two‑part fiscal package that would raise the tax‑free personal allowance from the current £12,570 to £15,000 and reduce public‑sector spending by £80 billion. The proposals, reported by the BBC, The Independent, City AM, LBC and London Business News, represent the party’s most ambitious attempt to reshape the United Kingdom’s tax and spending framework ahead of the forthcoming local and general elections.\n\n**Key elements of the plan**\n\n* **Personal‑allowance increase** – Under Reform UK’s proposal, individuals earning up to £15,000 a year would pay no income tax, a rise of £2,430 over the existing threshold. The party argues that the change would boost disposable income for low‑earning households and, by lowering the tax burden, stimulate employment.\n\n* **£80 billion spending reduction** – Reform UK says the same fiscal space can be created by cutting public‑sector expenditure by £80 billion. The party frames the cuts as a necessary re‑balancing of the public purse that would allow continued funding for social‑care services without introducing new taxes.\n\n**Political backing and context**\n\nConservative MP Robert Jenrick has publicly endorsed the personal‑allowance increase and used the platform to urge council leader Burnham to rule out any tax rises to fund social care. Within Reform‑led councils, officials have defended the broader agenda of tax cuts and spending reductions, a stance highlighted in a BBC report on local policy under the party’s leadership.\n\nParty leader Richard Offord has pledged to “scrap the existing tax system” and to create a simpler, lower‑tax regime that he says will drive job creation. The £80 billion cut is presented as the fiscal counterpart to the allowance increase, intended to preserve social‑care funding while avoiding higher levies.\n\n**Potential impact**\n\nIf enacted, the allowance increase would eliminate income‑tax liability for earners up to £15,000, directly raising disposable income for many low‑paid workers. The spending cuts, however, could affect a wide range of public services; the party has not detailed which programmes would bear the reductions. Reform‑controlled councils may also adjust local tax policies, including council‑tax rates, to align with the national pledge, potentially affecting households across their jurisdictions.\n\n**Next steps**\n\nNo implementation timetable has been disclosed. The party is expected to move toward detailed legislative drafting, parliamentary debate and possibly a public consultation on the proposed spending cuts. Observers will be watching how Reform‑led councils respond, particularly on council‑tax decisions, and whether the fiscal package can translate into electoral gains.\n\n**Outlook**\n\nReform UK’s dual pledge—raising the tax‑free personal allowance to £15,000 while trimming £80 billion from public spending—marks a bold re‑orientation of UK fiscal policy. The plan aims to ease the tax burden on low‑income earners, stimulate employment and fund social care without new taxes. Its success will depend on navigating legislative hurdles, managing the social impact of spending reductions and convincing voters that the trade‑offs are worthwhile.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-05",
+    "time": "10:59",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Reform UK announced a pledge to raise the tax‑free personal allowance to £15,000",
+      "The pledge is reported by BBC, The Independent, City AM, LBC and London Business News",
+      "Robert Jenrick, a Conservative MP, publicly supports the £15,000 allowance increase",
+      "Reform UK also announced £80 billion of cuts to public spending (BBC)",
+      "Offord pledged to scrap the existing tax system and boost jobs under Reform (BBC)",
+      "Councils led by Reform UK are defending tax rises and cuts (BBC article on Tice)",
+      "Robert Jenrick urged council leader Burnham to rule out tax rises to fund social care (BBC)"
+    ],
+    "timeline": [
+      "Announcement date not provided in the articles",
+      "Implementation timeline not specified"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=242",
+    "featured": true
+  },
+  {
     "id": 241,
     "title": "UN votes to adopt new world map to reflect Africa's true size",
     "summary": "**UN General Assembly Adopts Revised World Map Restoring Africa’s True Size**",
@@ -23,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=241",
-    "featured": true
+    "featured": false
   },
   {
     "id": 240,

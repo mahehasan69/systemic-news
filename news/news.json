@@ -1,5 +1,34 @@
 [
   {
+    "id": 253,
+    "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+    "summary": "**Jaguar Land Rover to Cut Jobs as Government Engages on Regional Impact; Coventry Rolls Out Transport and Cultural Initiatives**",
+    "content": "**Jaguar Land Rover to Cut Jobs as Government Engages on Regional Impact; Coventry Rolls Out Transport and Cultural Initiatives**\n\nJaguar Land Rover (JLR) has confirmed that it will proceed with a restructuring programme that will eliminate thousands of jobs. The announcement has triggered a series of high‑level meetings with senior government officials. A senior minister is slated to meet directly with JLR chief executive to discuss the cuts, while the Business Secretary will hold a separate session with the company’s senior leadership in the coming weeks. Both meetings are intended to give policymakers a clear view of the potential impact on employment and on the regional economies that depend on the automaker.\n\nThe job‑reduction plan comes at a moment when the UK automotive sector is attracting fresh foreign investment. A Chinese car manufacturer has announced the establishment of a research centre in the United Kingdom, signalling confidence in the country’s engineering talent and its role in future vehicle development. Although the research centre is unrelated to JLR’s restructuring, its presence adds a new dimension to the industry’s employment outlook, offering possibilities for skill transfer and collaboration that could partially offset the announced job losses.\n\n### Coventry’s Parallel Developments\n\nCoventry, a city with deep automotive roots, is simultaneously preparing a suite of community and sporting initiatives.\n\n* **Sporting support:** At the CBS Arena, a minute’s applause was observed in honour of a lifelong Coventry City fan, underscoring the city’s strong connection to its football club. In anticipation of Coventry City’s return to the Premier League, local authorities have outlined a new bus service designed to improve transport links for supporters and reduce match‑day congestion. The service is expected to be operational before the club’s first home fixture in the top flight.\n\n* **Cultural expansion:** The city will launch its first community literary festival, bringing together writers, readers and local organisations to celebrate literature and promote diverse voices. Organisers describe the festival as a catalyst for Coventry’s creative economy, complementing the sporting and transport projects already announced.\n\n* **Public safety:** In a separate legal development, a Coventry man was sentenced to prison for a series of knifepoint robberies across the city. The conviction highlights ongoing concerns about public safety, particularly as larger crowds are expected at upcoming football matches and cultural events.\n\n### Outlook\n\nThe forthcoming meetings between government officials and JLR executives are likely to explore mitigation strategies for the anticipated job losses, including possible retraining schemes and support for affected workers. The new bus service will be monitored for its effectiveness in handling increased match‑day traffic, while the literary festival proceeds on its planned timetable, offering a new cultural fixture for residents and visitors alike.\n\nThe Chinese car maker’s research centre is slated to begin operations later this year, potentially creating high‑skill jobs that could help balance the sector’s overall employment picture.\n\nTogether, the corporate restructuring at JLR, the government’s engagement, and Coventry’s proactive transport and cultural programmes illustrate how the United Kingdom is navigating industrial change while striving to maintain community cohesion and economic vitality. The outcomes of the upcoming discussions and the success of Coventry’s initiatives will serve as key indicators of the nation’s ability to balance industrial transition with social and cultural resilience.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-06",
+    "time": "18:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jaguar Land Rover confirmed planned job cuts.",
+      "A minister will meet the Jaguar Land Rover boss as thousands of job cuts are expected.",
+      "The Business Secretary will meet Jaguar Land Rover bosses amid job cut reports.",
+      "A minute's applause was given for a lifelong Coventry City fan at CBS Arena.",
+      "A Chinese car giant will set up a research centre in the United Kingdom.",
+      "A Coventry man was jailed for knifepoint robberies across the city.",
+      "A new bus service boost is planned for Coventry City's return to the Premier League.",
+      "Coventry will host its first community literary festival."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=253",
+    "featured": true
+  },
+  {
     "id": 252,
     "title": "German far-right set for big win in eastern state - exit polls",
     "summary": "**AfD Takes Lead in Saxony‑Anhalt State Election as Germany Blames Russia for Leipzig Drone Attack**",
@@ -49,7 +78,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=252",
-    "featured": true
+    "featured": false
   },
   {
     "id": 251,

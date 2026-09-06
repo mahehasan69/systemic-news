@@ -1,5 +1,35 @@
 [
   {
+    "id": 250,
+    "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+    "summary": "**Egyptian Court Sentences TV Presenter and Businessman to Death for Drug Trafficking**",
+    "content": "**Egyptian Court Sentences TV Presenter and Businessman to Death for Drug Trafficking**\n\nAn Egyptian court has sentenced television presenter Sarah Khalifa and businessman Duraid Abdul Latif Al‑Samarrai to death for drug‑trafficking offenses. The verdict, which mandates execution by hanging, represents the harshest penalty available under Egyptian law.\n\nThe rulings were issued without a specified execution date. Both defendants received identical sentences, indicating that the court regarded their alleged roles in the trafficking operation as equally serious.\n\nUnder Egyptian legal procedure, death sentences trigger a mandatory appeals process. Khalifa and Al‑Samarrai retain the right to challenge the verdicts before higher courts. Should their appeals be rejected, the executions will be carried out by hanging as ordered by the trial court.\n\nThe case highlights the Egyptian judiciary’s willingness to apply capital punishment in drug‑related crimes. While details of the trafficking network have not been disclosed, the convictions demonstrate the courts’ readiness to pursue the maximum penalties for those found guilty.\n\nThe next phase will involve the filing of appeals by the two defendants. The outcomes of those appeals will determine whether the death sentences are upheld, modified, or overturned, and will set the timeline for any potential executions.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-06",
+    "time": "09:47",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Sarah Khalifa, a TV presenter in Egypt, was sentenced to death for a drug‑related crime.",
+      "Duraid Abdul Latif Al‑Samarrai was also sentenced to death in the same case.",
+      "The sentences were handed down by an Egyptian court.",
+      "The death penalty is to be carried out by hanging."
+    ],
+    "timeline": [
+      {
+        "event": "Sentencing announced",
+        "date": "Not specified in the articles"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=250",
+    "featured": true
+  },
+  {
     "id": 249,
     "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
     "summary": "**U.S. Envoys Hold Lengthy Talks with Putin in Moscow, Plan Follow‑Up in Kyiv**",
@@ -37,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=249",
-    "featured": true
+    "featured": false
   },
   {
     "id": 248,

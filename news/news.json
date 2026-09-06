@@ -1,5 +1,37 @@
 [
   {
+    "id": 255,
+    "title": "Amazon cargo plane crashes in US while landing at Miami airport",
+    "summary": "**Amazon Cargo Plane Overruns Miami Runway, Killing Five**",
+    "content": "**Amazon Cargo Plane Overruns Miami Runway, Killing Five**\n\nA cargo aircraft operated by Amazon Air overran the runway at Miami International Airport (MIA) on Tuesday, striking several vehicles on the active strip. The impact killed at least five people and injured a comparable number, prompting an immediate emergency response and a temporary shutdown of the affected runway segment.\n\nAccording to reports from The New York Times, NBC, Reuters, The Guardian, The Washington Post, CBS and NPR, the plane touched down but failed to decelerate within the available runway length. It breached the runway’s end, collided with parked and moving vehicles, and came to a halt after a violent impact. Emergency crews arrived within minutes, treating the injured and transporting them to nearby hospitals.\n\nThe runway closure lasted several hours, disrupting scheduled commercial flights and cargo operations at one of the nation’s busiest airports. Airline officials rerouted inbound traffic to alternate runways while ground crews cleared debris, assessed structural damage and worked to restore safe operating conditions.\n\nThe Federal Aviation Administration (FAA) issued an immediate safety bulletin, and the National Transportation Safety Board (NTSB) dispatched investigators to collect evidence and interview witnesses. Preliminary information points to the runway overrun as the primary cause, though investigators have not yet determined whether weather, pilot performance, mechanical issues or other factors contributed. The NTSB’s investigation will reconstruct the sequence of events, examine flight‑data recorders, evaluate runway surface conditions, braking performance and any interference from the struck vehicles. Concurrently, the FAA has launched a review of MIA’s runway procedures to assess whether existing safety protocols require amendment.\n\nThe accident carries significant implications for the aviation industry and Amazon’s logistics network. Amazon relies heavily on its air‑cargo fleet to meet rapid‑delivery expectations, and the high‑profile crash raises questions about operational safety standards, crew training and the integration of cargo operations within busy commercial airports. The loss of life and injuries also highlight public‑safety risks inherent in mixed‑use runway environments where cargo aircraft, passenger flights and ground vehicles operate concurrently. Regulators may consider stricter segregation of cargo‑plane movements from civilian traffic, and the incident could prompt legal actions from victims’ families or affected businesses seeking compensation.\n\nIn the coming days, the NTSB is expected to release an interim report outlining initial findings, while the FAA will issue recommendations aimed at preventing similar overruns. Amazon has pledged full cooperation with federal investigators and has temporarily suspended cargo operations at MIA pending the outcome of safety assessments. Airport authorities are working to resume normal flight schedules as swiftly as possible, though the extent of runway repairs and vehicle clearance may prolong disruptions.\n\nThe tragedy underscores the critical importance of runway‑safety management at high‑traffic hubs, where margins for error are narrow. As investigations progress, stakeholders across the aviation sector will be watching closely for lessons that can improve landing protocols, vehicle positioning on active runways and overall risk‑mitigation strategies, with the goal of preventing another loss of life.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-06",
+    "time": "22:31",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A cargo plane operated by Amazon overran the runway at Miami International Airport during landing.",
+      "The aircraft struck multiple vehicles on the runway.",
+      "At least five people were killed, as reported by NYT, NBC, Reuters, The Guardian, The Washington Post, and CBS.",
+      "At least five people were injured, reported by CBS and implied by NPR's reference to \"multiple patients\".",
+      "The incident occurred at Miami International Airport in Miami, Florida, United States."
+    ],
+    "timeline": [
+      "Cargo plane approaches Miami International Airport for landing.",
+      "During landing the aircraft overruns/overshoots the runway.",
+      "The plane strikes multiple vehicles on the runway.",
+      "The aircraft comes to rest, resulting in a crash.",
+      "Emergency responders arrive; casualties are reported."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=255",
+    "featured": true
+  },
+  {
     "id": 254,
     "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
     "summary": "**Anak Krakatau Eruption Forces Closure of Eight Indonesian Airports, Strands 170,000 Passengers**",
@@ -39,7 +71,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=254",
-    "featured": true
+    "featured": false
   },
   {
     "id": 253,

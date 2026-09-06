@@ -1,5 +1,45 @@
 [
   {
+    "id": 249,
+    "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+    "summary": "**U.S. Envoys Hold Lengthy Talks with Putin in Moscow, Plan Follow‑Up in Kyiv**",
+    "content": "**U.S. Envoys Hold Lengthy Talks with Putin in Moscow, Plan Follow‑Up in Kyiv**\n\nWashington sent senior officials John Witkoff and Jared Kushner to Moscow this week for a three‑hour meeting with President Vladimir Putin, aimed at reopening diplomatic pathways toward ending the war in Ukraine.  According to the Kyiv Independent, the discussions focused on the conflict’s trajectory and possible steps that could lead to a cease‑fire.\n\nThe Kremlin described the encounter as “extremely frank” and “useful,” but acknowledged that no immediate breakthrough was achieved.  TRT World relayed the Kremlin’s assessment, noting that while the tone was candid, the parties left without a concrete agreement.  The White House, citing The Guardian, said the envoys used the session to outline “next steps” for ending the war.\n\nFollowing the Moscow talks, the U.S. delegation is scheduled to travel to Kyiv to continue the peace push.  CNN confirmed that the envoys will meet with Ukrainian officials, including President Volodymyr Zelenskyy’s administration, underscoring Washington’s strategy of maintaining direct contact with both sides of the conflict.\n\nThe meeting comes against the backdrop of a war that began in February 2022 and has generated a humanitarian crisis across Europe.  Since the outset, the United States has combined sanctions, military aid to Kyiv, and diplomatic outreach to Moscow.  This latest engagement signals a renewed emphasis on direct diplomacy, a shift from earlier periods when talks between Washington and Moscow were limited.\n\nAlthough the Kremlin’s “useful” label suggests a willingness to keep channels open, the absence of a breakthrough highlights the entrenched obstacles that have long hampered peace initiatives.  Core issues—territorial control, security guarantees, and the status of occupied regions—remain unresolved, and deep‑seated mistrust continues to shape the conflict’s dynamics.\n\nIn Kyiv, the U.S. team is expected to refine a roadmap for negotiations that could be presented to Moscow in subsequent rounds.  Observers will watch for any signs of flexibility from either side and for the possible involvement of other international mediators.\n\nIn sum, the Moscow meeting represents a modest but notable step in Washington’s broader diplomatic campaign to re‑ignite peace talks.  While the dialogue was deemed constructive, the lack of a definitive agreement underscores the complexity of ending a war that has reshaped European security.  The upcoming Kyiv engagement will test whether the “useful” discussions in Moscow can be translated into actionable proposals that move the conflict toward a negotiated resolution.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-06",
+    "time": "05:14",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "U.S. envoys met Russian President Vladimir Putin in Moscow.",
+      "The meetings were described as discussions about the Russia‑Ukraine war and possible peace steps.",
+      "The envoys included senior figures identified as John Witkoff and Jared Kushner.",
+      "The talks lasted over three hours according to The Kyiv Independent.",
+      "The Kremlin said the talks were \"useful\" but noted there was no sign of a breakthrough.",
+      "The Kremlin described the talks as \"extremely frank\" (TRT World).",
+      "The White House said the envoys discussed \"next steps\" for ending the war (The Guardian).",
+      "After the Moscow meeting, the envoys were reported to travel to Kyiv to continue the peace push (CNN)."
+    ],
+    "timeline": [
+      {
+        "event": "US envoys meet Putin in Moscow",
+        "location": "Moscow, Russia",
+        "date": null
+      },
+      {
+        "event": "Envoys travel to Kyiv for further peace efforts",
+        "location": "Kyiv, Ukraine",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=249",
+    "featured": true
+  },
+  {
     "id": 248,
     "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
     "summary": "**Hotter, Stormier Skies Threaten Aviation; AFP Photographer Wins Top Prize for Madagascar Protest Coverage**",
@@ -20,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=248",
-    "featured": true
+    "featured": false
   },
   {
     "id": 247,

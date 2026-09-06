@@ -1,5 +1,31 @@
 [
   {
+    "id": 251,
+    "title": "Police slow to respond to Dover protest, says council boss",
+    "summary": "**Police Criticised for Delayed Response as Masked Protesters Block Dover Port Roads**",
+    "content": "**Police Criticised for Delayed Response as Masked Protesters Block Dover Port Roads**\n\nA council leader has accused the police of a sluggish reaction to a high‑profile anti‑immigration demonstration that shut down the main access routes to the United Kingdom’s busiest ferry terminal in Dover. The protest, organised under the “stop the boats” banner, saw a convoy of masked demonstrators block the primary arteries feeding the Port of Dover, halting vehicular traffic and disrupting the flow of goods and passengers.\n\nPolice units arrived only after the demonstrators had already occupied the roads, a delay that, according to local officials, amplified the impact on port operations. Port authorities confirmed that the blockage interfered with scheduled ferry services, though they declined to disclose the resulting economic loss. The episode has sparked a debate over law‑enforcement readiness for large‑scale civil actions that target critical infrastructure, with critics warning that a slow response could embolden future protests while supporters argue the police acted proportionately to a peaceful, albeit disruptive, demonstration.\n\nThe Port of Dover handles a substantial share of the United Kingdom’s cross‑channel trade, so any interruption can ripple through supply chains, affecting retailers, manufacturers and ultimately consumers. In response, Dover officials say they will review police deployment and response times and will revisit contingency plans, including tighter coordination with security services and alternative routing strategies.\n\n**Darlington Residents Rally to Save a Mature Tree**\n\nWhile Dover’s streets were blocked, a separate mobilisation unfolded in Darlington. Residents gathered in the town centre to oppose a development proposal that would require the removal of a long‑standing mature tree. The rally, organised by local community groups, did not involve road blockades or confrontations with police, but it highlighted the tension between urban expansion and the preservation of green spaces.\n\nThe council responsible for the development has not yet approved the plan, and the public outcry may prompt a reconsideration or modification of the project. Officials are expected to hold a public consultation to address the community’s objections, and environmental groups have pledged to monitor the planning process closely. Further demonstrations are possible if the tree’s fate remains uncertain.\n\n**Broader Context**\n\nBoth incidents reflect distinct yet overlapping currents of public sentiment. The Dover protest is part of a surge in anti‑immigration activism across parts of the UK, fuelled by recent media coverage of migrant crossings in the English Channel. The Darlington rally taps into a longstanding tradition of community activism aimed at safeguarding local heritage and natural assets.\n\nAuthorities in both locations now face pressure to demonstrate responsive governance. In Dover, the focus will be on ensuring that police can balance the right to protest with the need to protect essential infrastructure. In Darlington, the emphasis will be on integrating citizen input into planning decisions and preserving environmental assets.\n\nThe outcomes of these reviews and consultations will shape public confidence in the ability of government bodies to balance security, economic stability and community values.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-06",
+    "time": "13:13",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A council boss said police were slow to respond to a protest in Dover.",
+      "Masked men blocked roads to the UK’s Dover port in an anti‑immigration protest.",
+      "Police response to the Dover protest was reported as slow.",
+      "Residents of Darlington rallied to protect a tree from development.",
+      "Disruption occurred at the Port of Dover due to a \"stop the boats\" protest."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=251",
+    "featured": true
+  },
+  {
     "id": 250,
     "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
     "summary": "**Egyptian Court Sentences TV Presenter and Businessman to Death for Drug Trafficking**",
@@ -27,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=250",
-    "featured": true
+    "featured": false
   },
   {
     "id": 249,

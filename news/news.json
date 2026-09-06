@@ -1,5 +1,47 @@
 [
   {
+    "id": 254,
+    "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+    "summary": "**Anak Krakatau Eruption Forces Closure of Eight Indonesian Airports, Strands 170,000 Passengers**",
+    "content": "**Anak Krakatau Eruption Forces Closure of Eight Indonesian Airports, Strands 170,000 Passengers**\n\nJakarta — An eruption of the Anak Krakatau volcano on [date not specified] prompted Indonesian aviation authorities to shut down eight airports across the archipelago, leaving an estimated 170,000 travelers stranded and triggering the cancellation of hundreds of flights.\n\n**Immediate safety measures**\n\nWithin minutes of the eruption, the Directorate General of Civil Aviation ordered the immediate closure of the eight airports to protect passengers, crew and aircraft from volcanic ash fallout. The closures, which affected both domestic and international facilities in several provinces, were enacted without prior notice, halting all inbound and outbound operations.\n\n**Impact on air travel**\n\nAirlines quickly announced widespread cancellations, citing the ash cloud and airport shutdowns as the primary reasons. The scale of the disruptions reflects the importance of the affected airports to Indonesia’s air network, which connects more than 17,000 islands and underpins both economic activity and personal travel. Many of the stranded passengers were forced to remain in terminals or seek alternative ground transport while airlines worked to re‑book them and process refunds.\n\n**Vulnerability of the aviation system**\n\nThe incident highlights the susceptibility of Indonesia’s air transport infrastructure to natural hazards. Volcanic ash can damage aircraft engines and impair visibility, prompting pre‑emptive closures to safeguard flight safety. Authorities emphasized that any resumption of operations will depend on assessments of ash concentration, runway conditions and overall air‑space safety.\n\n**Outlook**\n\nNo timetable has been announced for reopening the closed airports. Government officials said they will continue to monitor Anak Krakatau for further activity and coordinate with airlines to minimize passenger inconvenience. The episode underscores the need for robust disaster‑response mechanisms to protect critical infrastructure from sudden geological events.",
+    "category": "🧬 Science",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-06",
+    "time": "20:55",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Anak Krakatau volcano erupted in Indonesia",
+      "Eight Indonesian airports were closed following the eruption",
+      "Approximately 170,000 passengers were stranded as a result of the airport closures",
+      "Hundreds of flights were cancelled due to the volcanic eruption"
+    ],
+    "timeline": [
+      {
+        "event": "Eruption of Anak Krakatau volcano",
+        "date": null
+      },
+      {
+        "event": "Closure of eight Indonesian airports",
+        "date": null
+      },
+      {
+        "event": "Stranding of roughly 170,000 passengers",
+        "date": null
+      },
+      {
+        "event": "Cancellation of hundreds of flights",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=254",
+    "featured": true
+  },
+  {
     "id": 253,
     "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
     "summary": "**Jaguar Land Rover to Cut Jobs as Government Engages on Regional Impact; Coventry Rolls Out Transport and Cultural Initiatives**",
@@ -26,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=253",
-    "featured": true
+    "featured": false
   },
   {
     "id": 252,

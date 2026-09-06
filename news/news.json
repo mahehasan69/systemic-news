@@ -1,5 +1,57 @@
 [
   {
+    "id": 252,
+    "title": "German far-right set for big win in eastern state - exit polls",
+    "summary": "**AfD Takes Lead in Saxony‑Anhalt State Election as Germany Blames Russia for Leipzig Drone Attack**",
+    "content": "**AfD Takes Lead in Saxony‑Anhalt State Election as Germany Blames Russia for Leipzig Drone Attack**\n\nThe far‑right Alternative für Deutschland (AfD) emerged with a decisive advantage in the recent Saxony‑Anhalt state election, while the federal government simultaneously attributed a drone strike at Leipzig Airport to Russia. Both developments are reshaping Germany’s domestic political landscape and its security posture toward Moscow.\n\n**Election Results**\n\nExit polls released shortly after voting placed the AfD ahead of all competitors, a finding confirmed by early vote counts. Deutsche Welle described the margin as a “huge lead,” and the BBC’s analysis called it a “big win” for the far‑right in an eastern state. The Guardian and Yahoo News UK highlighted the historic nature of the outcome, noting that the AfD appears poised to win its first state election. Business Day, iNFOnews.ca and PBS reported similar figures, while Axios quoted the party’s statement that the result constitutes a “historic” victory. Le Monde added that, although the Christian Democratic Union (CDU) led nationally by Friedrich Merz remains ahead, the AfD made significant gains in the regional contest.\n\nThe election in Saxony‑Anhalt—part of Germany’s former East—was watched as a barometer of the AfD’s expanding appeal beyond its traditional strongholds. Analysts attribute the surge to the party’s emphasis on immigration control, law‑and‑order policies, and criticism of the European Union, themes that resonate with voters facing economic challenges and demographic change.\n\n**Leipzig Drone Attack**\n\nAt the same time, German officials announced that a drone attack on Leipzig Airport, which damaged infrastructure and disrupted operations, was attributable to Russia. The BBC reported the attribution, and Berlin framed the incident as part of a broader pattern of hostile actions targeting European critical infrastructure. The claim adds a new dimension to already strained Berlin‑Moscow relations, which have been tense since Russia’s invasion of Ukraine and the subsequent EU sanctions.\n\n**Implications**\n\nDomestically, an AfD‑led government in Saxony‑Anhalt could shift policy toward stricter immigration controls, increased funding for law enforcement, and a more skeptical stance on EU fiscal rules. Such a shift would test the coalition dynamics at the federal level, where the CDU/CSU and the Social Democratic Party (SPD) have traditionally governed together.\n\nInternationally, the accusation against Russia may prompt a coordinated NATO response, potentially leading to heightened security measures, diplomatic protests, or additional sanctions. Berlin is expected to outline further diplomatic and security actions, including increased air‑space monitoring and engagement with EU partners on collective defence.\n\n**Next Steps**\n\nState authorities will now move toward official certification of the election results, a process that involves verification of all ballots and a formal announcement by the electoral commission. Once confirmed, coalition talks will determine whether the AfD can govern alone, form a partnership, or remain in opposition.\n\nSimultaneously, the federal government is likely to detail its response to the Leipzig incident, which could involve tighter air‑space controls and renewed dialogue with NATO allies.\n\n**Outlook**\n\nThe convergence of a historic AfD victory in Saxony‑Anhalt and Germany’s direct accusation against Russia underscores a period of heightened political and security volatility. While the final election outcome and the full scope of Berlin’s response to the drone attack remain to be formalised, the events signal a potential realignment of power in Germany’s eastern states and a sharpening of the country’s stance toward Moscow. The coming weeks will reveal how these parallel tracks—domestic political change and international security concerns—shape Germany’s trajectory in the months ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-06",
+    "time": "16:32",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Multiple news outlets (DW, The Guardian, BBC, Yahoo News UK, Business Day, iNFOnews.ca, PBS, Axios) reported that the far‑right Alternative für Deutschland (AfD) is ahead or set to win a state election in an eastern German state (Saxony‑Anhalt).",
+      "DW reported a \"huge lead\" for AfD in Saxony‑Anhalt.",
+      "The Guardian predicted a big win for AfD in a crucial German state election.",
+      "BBC exit polls indicated the German far‑right is set for a big win in an eastern state.",
+      "Yahoo News UK cited exit polls showing a historic win for AfD in a crucial German state election.",
+      "Business Day and iNFOnews.ca reported exit polls suggesting a big lead for AfD in a regional election.",
+      "PBS reported that exit polls and partial counts show the AfD set to win its first state election.",
+      "Axios reported that AfD claimed a \"historic\" election win in an eastern state.",
+      "Le Monde reported that Friedrich Merz's party (CDU) leads while the far‑right makes gains in a German state election.",
+      "BBC reported that Germany says Russia is behind a drone attack at Leipzig airport."
+    ],
+    "timeline": [
+      {
+        "event": "State election held in an eastern German state (Saxony‑Anhalt).",
+        "date": "Not specified in the articles."
+      },
+      {
+        "event": "Exit polls released showing AfD ahead.",
+        "date": "Not specified; reported shortly after voting."
+      },
+      {
+        "event": "Partial vote counts released confirming AfD lead.",
+        "date": "Not specified."
+      },
+      {
+        "event": "AfD publicly claims a historic election win.",
+        "date": "Not specified."
+      },
+      {
+        "event": "Germany publicly attributes Leipzig airport drone attack to Russia.",
+        "date": "Not specified."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=252",
+    "featured": true
+  },
+  {
     "id": 251,
     "title": "Police slow to respond to Dover protest, says council boss",
     "summary": "**Police Criticised for Delayed Response as Masked Protesters Block Dover Port Roads**",
@@ -23,7 +75,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=251",
-    "featured": true
+    "featured": false
   },
   {
     "id": 250,

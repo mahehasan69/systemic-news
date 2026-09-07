@@ -1,5 +1,29 @@
 [
   {
+    "id": 256,
+    "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+    "summary": "**£150 million fund for northern firms announced**",
+    "content": "**£150 million fund for northern firms announced**\n\nLondon – The UK government has announced a £150 million fund designed to accelerate growth for businesses in northern England. The financing package forms part of a wider strategy to boost economic activity in the region and narrow the long‑standing north‑south disparity.\n\nThe fund will be directed toward high‑growth sectors identified as priority areas for the north, including technology, quantum research and defence. Money will be channelled to firms operating in key city‑regions such as Manchester, Liverpool and Yorkshire, with the aim of creating new jobs and attracting further private‑sector investment in local infrastructure.\n\nThe £150 million allocation sits within a broader fiscal framework that also comprises:\n\n* A £1.7 billion “Northern Growth” programme.  \n* A £95 million city‑centre package for the Liverpool City Region.  \n* The £45 billion Northern Powerhouse Rail project, which will improve connectivity between major northern hubs.\n\nTogether, these initiatives seek to upgrade transport links, revitalise urban cores and create a more favourable environment for innovative industries. While the rail project focuses on connectivity, the Liverpool city‑centre package targets regeneration and commercial activity in the city’s central districts.\n\nGovernment officials say the fund responds to the aim of stimulating economic growth in the north and reducing regional disparity. By concentrating on technology and research‑intensive sectors, the programme builds on existing strengths: Manchester’s digital ecosystem, Liverpool’s maritime and defence heritage, and Yorkshire’s manufacturing base. Expected outcomes include skilled employment, expanded quantum‑technology research capacity, and a stronger defence supply chain anchored in the north.\n\nThe Chancellor is set to unveil the detailed growth plan for the £150 million fund in the coming days, outlining eligibility criteria, disbursement mechanisms and implementation timelines. In parallel, the Treasury has indicated that further announcements will follow under the “Renewal of Britain” programme, which will complement the fund by enhancing connectivity and logistics across the region.\n\nAnalysts caution that the fund’s success will depend on its ability to attract co‑investment from private capital and to deliver measurable economic impact within a relatively short horizon. If the targeted support for technology, quantum research and defence materialises, the fund could act as a catalyst for a broader transformation of the northern economy, reinforcing the objectives of the Northern Growth push and the Northern Powerhouse agenda.\n\nThe announcement marks a significant step in the government’s ongoing commitment to rebalance the UK’s economic geography. By allocating dedicated resources to northern firms and aligning the fund with larger infrastructure and regeneration programmes, policymakers aim to create a virtuous cycle of investment, innovation and employment that could reshape the north’s economic landscape for years to come.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-07",
+    "time": "00:24",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A fund of £150 million has been announced to support firms in northern England.",
+      "The fund is intended to boost economic growth in the north.",
+      "Separate investment programmes include a £1.7 billion Northern Growth push, a £95 million Liverpool City Region city‑centre package, and a £45 billion Northern Powerhouse Rail project."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=256",
+    "featured": true
+  },
+  {
     "id": 255,
     "title": "Amazon cargo plane crashes in US while landing at Miami airport",
     "summary": "**Amazon Cargo Plane Overruns Miami Runway, Killing Five**",
@@ -29,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=255",
-    "featured": true
+    "featured": false
   },
   {
     "id": 254,

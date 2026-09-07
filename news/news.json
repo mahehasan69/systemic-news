@@ -1,5 +1,43 @@
 [
   {
+    "id": 257,
+    "title": "Protesters block roads in Portsmouth after 140 migrants rescued",
+    "summary": "**Portsmouth protests erupt after rescue of 140 migrants, culminating in police‑protester clashes**",
+    "content": "**Portsmouth protests erupt after rescue of 140 migrants, culminating in police‑protester clashes**\n\nPortsmouth, England – A rescue operation that saved 140 migrants from a small boat off the city’s coast triggered a rapid escalation of public disorder on Thursday, culminating in violent confrontations between far‑right demonstrators and police after a larger vessel – described by media outlets as a “mega‑dinghy” – entered local waters.\n\n**Rescue and initial road blockades**\n\nThe operation, reported by the BBC, saw authorities bring the 140 migrants ashore safely. Within minutes, a group of demonstrators blocked several major thoroughfares in Portsmouth, halting traffic and prompting an immediate police response. The road blockages marked the first visible public reaction to the arrival.\n\n**Far‑right mobilisation**\n\nAccording to The Guardian, the blockage was soon amplified by hundreds of far‑right activists who converged on the city centre. Identified by their affiliation with right‑wing movements, the protesters organised a larger demonstration that turned the spontaneous obstruction into a coordinated protest, reflecting heightened community tension over immigration and border‑control issues.\n\n**Arrival of a second vessel and clashes**\n\nLater in the day, a second craft – a larger “mega‑dinghy” – arrived in Portsmouth’s harbour, as reported by Yahoo. Its presence sparked direct confrontations between the demonstrators and police officers tasked with maintaining order. The clashes involved physical altercations and the deployment of police tactics to disperse the crowd, underscoring the volatility of the situation once a second migrant arrival was perceived as an escalating threat.\n\n**Impact on the city**\n\nThe day’s events left Portsmouth’s road network disrupted, police forces engaged in repeated confrontations, and a sizable far‑right gathering recorded in the city centre. Local emergency services were stretched as they managed both the humanitarian rescue and the ensuing civil unrest.\n\n**Broader context and outlook**\n\nWhile the protesters’ specific motivations were not detailed beyond their far‑right affiliation, the incidents illustrate a growing pattern of tension in the United Kingdom over maritime migrant arrivals. Each new vessel appears capable of prompting fresh waves of protest, placing additional strain on local authorities.\n\nPolice officials have indicated that they will continue to monitor the situation and prepare for further demonstrations should additional migrant boats arrive. No immediate policy changes have been announced, but the repeated clashes suggest that law‑enforcement agencies may need to allocate more resources to both maritime rescue operations and crowd‑control measures. Community leaders and political representatives are likely to face increased pressure to address public concerns over immigration policy and the management of migrant arrivals.\n\n**Key takeaway**\n\nThe rescue of 140 migrants and the subsequent arrival of a larger “mega‑dinghy” have turned Portsmouth into a flashpoint for far‑right activism, resulting in significant public disorder and direct police‑protester confrontations. The episode highlights the challenges coastal cities face in balancing humanitarian obligations with the need to maintain public order amid sharply divided political sentiment.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-07",
+    "time": "05:22",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      {
+        "statement": "Protesters blocked roads in Portsmouth after 140 migrants were rescued.",
+        "source": "BBC"
+      },
+      {
+        "statement": "Hundreds of far‑right protesters descended on Portsmouth after a small boat arrived.",
+        "source": "The Guardian"
+      },
+      {
+        "statement": "Protesters clashed with police after a mega‑dinghy arrived in Portsmouth.",
+        "source": "Yahoo"
+      }
+    ],
+    "timeline": [
+      "Rescue of 140 migrants (BBC).",
+      "Road block by protesters in Portsmouth (BBC).",
+      "Arrival of a small boat, prompting hundreds of far‑right protesters to descend on Portsmouth (The Guardian).",
+      "Arrival of a mega‑dinghy, leading to clashes between protesters and police (Yahoo)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=257",
+    "featured": true
+  },
+  {
     "id": 256,
     "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
     "summary": "**£150 million fund for northern firms announced**",
@@ -21,7 +59,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=256",
-    "featured": true
+    "featured": false
   },
   {
     "id": 255,

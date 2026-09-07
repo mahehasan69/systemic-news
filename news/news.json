@@ -1,5 +1,35 @@
 [
   {
+    "id": 259,
+    "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+    "summary": "**Anti‑migrant demonstrations in Dover and Portsmouth spark police injuries and ministerial rebuke**",
+    "content": "**Anti‑migrant demonstrations in Dover and Portsmouth spark police injuries and ministerial rebuke**\n\n*Port cities in southern England saw “stop the boats” protests this week that disrupted operations, injured officers and prompted condemnation from a senior government minister.*\n\n**Dover**\n\nA group of demonstrators gathered at the Port of Dover to oppose the arrival of migrant vessels. The protest halted cargo handling and passenger services for several hours, creating a temporary reduction in the port’s operational capacity. Police on the scene said officers followed established protocols, allowing the demonstration to proceed while preventing escalation. No arrests were reported, but the incident highlighted the vulnerability of a key trade hub to civil unrest.\n\n**Portsmouth**\n\nIn Portsmouth, activists drove a small boat resembling those used by migrants onto a city road, using it to block traffic. The blockade caused significant congestion, delayed commuters and impeded emergency‑service routes. During the confrontation several police officers were injured. A UK minister described the disorder as “unacceptable” and called for swift accountability, signalling heightened governmental scrutiny of such actions.\n\n**Organiser**\n\nDanny Thomas, identified by multiple news outlets as a coordinator of the “stop the boats” campaign, has been linked to both the Dover and Portsmouth events. While the full extent of his involvement remains under investigation, authorities confirmed his role in organising the demonstrations that have gained traction across the south of England.\n\n**Context and impact**\n\nThe BBC has published a detailed account of the migrant boat that arrived in Portsmouth, tracing its journey from departure to its arrival on British shores. The coverage underscores the logistical challenges faced by authorities in managing irregular migration and illustrates why protestors view the issue as a pressing threat.\n\nThe immediate consequences of the protests were tangible. In Dover, the temporary suspension of port activities affected trade flows; in Portsmouth, road blockages delayed both commuters and emergency services. Injuries to police officers have raised concerns about officer safety during public disorder.\n\n**Official response**\n\nPolice leadership and government officials have issued statements emphasizing a commitment to uphold public order while respecting the right to protest. Investigations into the injuries sustained by officers are ongoing, and any unlawful conduct will be pursued under existing legislation.\n\n**Outlook**\n\nLaw‑enforcement agencies continue to monitor ports and public spaces for further unrest. The BBC and other media outlets are expected to report on any subsequent actions linked to the “stop the boats” movement. Local councils, port authorities and migrant‑advocacy groups remain engaged in discussions aimed at preventing future disruptions while addressing the underlying concerns that have driven the protests.\n\nThe Dover and Portsmouth demonstrations demonstrate how anti‑migrant sentiment can translate into direct action that impacts critical infrastructure, prompting responses at multiple levels of government and reigniting debate over the United Kingdom’s migration policy.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-07",
+    "time": "23:06",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Anti‑migrant protests took place in Dover, England.",
+      "Anti‑migrant protests took place in Portsmouth, England.",
+      "Danny Thomas is identified as an organiser of anti‑migrant protests.",
+      "Police publicly defended their response to a protest at the Port of Dover.",
+      "A small‑boat protest occurred in Portsmouth and was reported by the BBC.",
+      "Protesters blocking roads in Portsmouth used anti‑migrant boats as part of their demonstration.",
+      "A UK minister publicly condemned disorder at the Portsmouth protest after police officers were injured.",
+      "The Port of Dover experienced disruption due to a \"stop the boats\" protest.",
+      "BBC published information about the journey of the migrant boat that arrived in Portsmouth."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=259",
+    "featured": true
+  },
+  {
     "id": 258,
     "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
     "summary": "**Anti‑migrant protests in Portsmouth and Dover turn violent, draw government condemnation**",
@@ -73,7 +103,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=258",
-    "featured": true
+    "featured": false
   },
   {
     "id": 257,

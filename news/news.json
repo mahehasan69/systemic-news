@@ -1,5 +1,53 @@
 [
   {
+    "id": 262,
+    "title": "UK imposes ban on goods from Israeli settlements in occupied West Bank",
+    "summary": "**UK, France and Canada Join Dozen Nations in Banning West Bank Settlement Products**",
+    "content": "**UK, France and Canada Join Dozen Nations in Banning West Bank Settlement Products**\n\nLondon – The United Kingdom announced a ban on the import of goods produced in Israeli settlements in the occupied West Bank, describing the settlement activity as “ethnic cleansing.” The move, part of a broader sanctions package aimed at entities that profit from or support the settlements, was made alongside similar measures announced by France and Canada. With these three additions, a total of twelve countries now impose trade restrictions on settlement‑linked products.\n\nThe UK government said the ban targets any product that can be traced to the settlements, effectively removing those items from the British market. The accompanying sanctions will apply to businesses and individuals deemed to be facilitating the production, export or financial backing of settlement‑related commerce. While the specific companies affected have not been disclosed, officials said the measures are intended to create economic disincentives for further settlement expansion.\n\nFrance and Canada echoed the United Kingdom’s approach, each introducing parallel bans or sanctions on West Bank settlement goods. The coordinated action has been reported by a range of international outlets, including *The New York Times*, *The Guardian*, *Bloomberg*, *Al Jazeera*, *ABC News*, *South China Morning Post*, *Anadolu Ajansı*, *NewsCord* and *Ynetnews*.\n\nBritish officials linked the “ethnic cleansing” label to longstanding concerns about settlement construction, which they say leads to land expropriation, restrictions on movement, limited access to resources and demographic shifts that disadvantage Palestinian communities. International bodies have repeatedly classified the settlements as violating the Fourth Geneva Convention, which prohibits an occupying power from transferring its civilian population into occupied territory.\n\nIsrael has warned that it may respond with reciprocal measures that could affect bilateral trade, diplomatic engagement or security cooperation with the sanctioning states. The prospect of retaliation underscores the heightened tension that a unified bloc of twelve countries can generate.\n\nThe United Kingdom and its partners said they will monitor Israel’s response closely and are prepared to deepen coordination if needed. The sanctions are intended to pressure Israel to alter its settlement policy, which many view as an obstacle to a two‑state solution. Whether the measures will curb settlement expansion or trigger further diplomatic friction remains to be seen.\n\nIn sum, the UK‑led trade ban and sanctions mark a significant shift among a group of Western democracies toward Israeli settlement activity in the West Bank. By targeting the economic lifelines of the settlements and framing the issue as a breach of fundamental human rights, the coalition aims to compel policy change, while the ultimate impact will depend on Israel’s reaction and the durability of the coordinated effort.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-08",
+    "time": "15:28",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United Kingdom announced a ban on goods originating from Israeli settlements in the West Bank",
+      "The UK government described Israeli settlers in parts of the West Bank as engaging in \"ethnic cleansing\"",
+      "The UK announced sanctions targeting illegal Israeli settlements in the occupied West Bank",
+      "France and Canada joined the United Kingdom in imposing trade bans or sanctions on goods from Israeli West Bank settlements",
+      "A total of twelve countries announced sanctions against West Bank settlements",
+      "Multiple news outlets (The New York Times, ABC News, Al Jazeera, South China Morning Post, The Guardian, Bloomberg, Anadolu Ajansı, NewsCord, Ynetnews) reported on the UK‑led trade ban and sanctions"
+    ],
+    "timeline": [
+      {
+        "event": "UK accuses Israeli settlers of \"ethnic cleansing\" and announces trade ban",
+        "date": "not specified"
+      },
+      {
+        "event": "UK government bans goods from Israeli settlements in the West Bank",
+        "date": "not specified"
+      },
+      {
+        "event": "UK announces sanctions on illegal Israeli settlements",
+        "date": "not specified"
+      },
+      {
+        "event": "France and Canada join UK in imposing trade bans/sanctions",
+        "date": "not specified"
+      },
+      {
+        "event": "Twelve countries collectively announce sanctions against West Bank settlements; Israel threatens response",
+        "date": "not specified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=262",
+    "featured": true
+  },
+  {
     "id": 261,
     "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
     "summary": "**King Charles Confirms Prince Harry and Meghan Remain Non‑Working Royals; Couple Says They Were “Surprised”**",
@@ -60,7 +108,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=261",
-    "featured": true
+    "featured": false
   },
   {
     "id": 260,

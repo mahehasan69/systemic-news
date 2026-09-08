@@ -1,5 +1,30 @@
 [
   {
+    "id": 264,
+    "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+    "summary": "**Widespread Flight Disruptions Hit the United Kingdom, India, the Netherlands and the United States**",
+    "content": "**Widespread Flight Disruptions Hit the United Kingdom, India, the Netherlands and the United States**\n\nA combination of air‑traffic‑control failures, a technical glitch and severe winter weather has triggered a wave of cancellations and delays across four major aviation markets, officials and airlines said on Thursday.\n\n**United Kingdom – ATC System Failure**  \nA sudden malfunction in the United Kingdom’s air‑traffic‑control (ATC) system forced several airports to suspend normal operations. The outage, reported by the BBC, iPaper and the Manchester Evening News, affected both domestic and international services, leaving passengers in long queues and uncertain about departure times. Airlines have been scrambling to re‑schedule affected flights.\n\n**India – Glitch at Delhi Airport**  \nAt Delhi’s Indira Gandhi International Airport, a software glitch crippled the airport’s ATC system, halting arrivals and departures for several hours. Reuters and the Times of India confirmed that the problem was eventually resolved, but not before causing significant disruption to an already congested schedule. The incident highlighted the fragility of the digital infrastructure that underpins modern air travel.\n\n**Netherlands – Severe Winter Storm at Schiphol**  \nAmsterdam’s Schiphol Airport faced a different challenge: a severe winter storm that brought heavy snow and strong winds. Aviation24.be and the NL Times reported that the weather forced the cancellation or delay of hundreds of flights, creating “chaos” on the tarmac and in the terminals. De‑icing crews and ground staff struggled to keep runways clear, sharply reducing the airport’s operational capacity.\n\n**United States – Impact of Federal Government Shutdown**  \nIn the United States, a federal government shutdown is directly affecting air travel. Transportation Secretary Pete Duffy told CNBC that the shutdown would reduce commercial flights to a “trickle” and that cancellations are likely to rise as the shutdown persists. The shutdown hampers the Federal Aviation Administration’s ability to staff essential services, from air‑traffic controllers to security personnel.\n\n**Combined Effect**  \nThe four distinct causes—ATC failure in the UK, a system glitch in Delhi, extreme weather in Amsterdam and a political impasse in the US—have produced a sharp contraction in global flight capacity. Airlines report a surge in cancellations and extensive delays that ripple through connecting flights, cargo operations and passenger itineraries. Airport staff in each region have described the situation as “operational disruption” and “airport chaos,” underscoring the strain on resources and the inconvenience to travellers.\n\n**Why It Matters**  \n\n* **Systemic vulnerability** – The incidents demonstrate how a single technical failure can cascade across an entire network, while extreme weather continues to test the resilience of even the most advanced airports.  \n* **Political risk** – The US shutdown shows how political decisions can have immediate, tangible effects on critical infrastructure, potentially jeopardising safety and efficiency.  \n* **Economic impact** – Airlines face revenue losses, passengers incur additional costs, and ancillary businesses such as hotels and ground‑transport services suffer from reduced demand.\n\n**Outlook**  \nThe New York Times warned that further airport disruptions could arise later in the week if the UK’s technical issues are not fully resolved, potentially affecting other European hubs. The NL Times cautioned that ongoing adverse weather may force Schiphol to cancel additional flights in the coming days. In the United States, CNBC reported that air travel will remain constrained for as long as the government shutdown continues, with no clear timeline for resolution.\n\n**Key Takeaway**  \nA confluence of technical, climatic and political factors can rapidly destabilise the global air‑travel system, affecting millions of passengers and the broader economy. Industry stakeholders are now focused on restoring normal operations, mitigating further delays and preparing contingency plans for any additional shocks that may arise in the coming week.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-08",
+    "time": "22:06",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Air traffic control technical failure disrupted flights at UK airports, causing cancellations and delays (BBC, iPaper, Manchester Evening News).",
+      "A technical glitch in the air traffic system at Delhi airport affected hundreds of flights and was later reported as resolved (Reuters, Times of India).",
+      "Severe winter weather, including snow and wind, disrupted operations at Amsterdam Schiphol, leading to hundreds of flight cancellations or delays (Aviation24.be, NL Times).",
+      "The US government shutdown led Transportation Secretary Duffy to warn that air travel would be reduced to a trickle with worsening cancellations (CNBC)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=264",
+    "featured": true
+  },
+  {
     "id": 263,
     "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
     "summary": "**UK, France and Canada Impose Trade Ban on West Bank Settlement Products, Prompting Diplomatic Row**",
@@ -29,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=263",
-    "featured": true
+    "featured": false
   },
   {
     "id": 262,

@@ -1,5 +1,68 @@
 [
   {
+    "id": 261,
+    "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals",
+    "summary": "**King Charles Confirms Prince Harry and Meghan Remain Non‑Working Royals; Couple Says They Were “Surprised”**",
+    "content": "**King Charles Confirms Prince Harry and Meghan Remain Non‑Working Royals; Couple Says They Were “Surprised”**\n\n*London, late March 2024* – King Charles III has sent a formal letter to Prince Harry and Meghan Markle reiterating that the Duke and Duchess of Sussex will continue to be classified as non‑working members of the British royal family. The correspondence, reported by NBC News, the BBC, The Independent, News.com.au and The Royalist, confirmed that Harry does not retain the style “His Royal Highness” (HRH) and that the couple is not slated to resume official royal duties.\n\nHarry and Meghan publicly described the letter as a surprise, indicating that they had expected a different tone from the monarch after months of public debate over their status. Their reaction underscores lingering uncertainty about their future role within the royal institution.\n\nThe letter arrived as the Sussexes recently returned to the United Kingdom following an announcement that they would relocate to the country. Their visit suggests a continued engagement with Britain despite their non‑working designation. At the same time, Prince Harry’s privacy lawsuit against the media has escalated, with legal costs reported by the BBC to have risen to as much as £34.5 million. While the lawsuit is separate from the status issue, it adds to the broader narrative of the couple navigating a complex relationship with both the Crown and the press.\n\nNo detailed rationale accompanied the king’s decision. Sources close to the palace say the move reflects a broader strategy to preserve the existing structure of the monarchy, but official explanations have not been provided. By keeping Harry and Meghan outside the circle of salaried, duty‑bound royals, the palace maintains a clear distinction between working members who receive public funding and those who operate independently.\n\nThe clarification removes lingering ambiguity for the public. It confirms that Prince Harry will continue to be addressed without the HRH style, a symbolic marker of his standing within the institution. Analysts note that this may reshape perceptions of the couple’s charitable work and public appearances, which will now be viewed as initiatives undertaken as private citizens rather than extensions of the monarchy.\n\nLooking ahead, the Sussexes are expected to pursue their charitable endeavors and public engagements on a private‑citizen basis. Their recent UK arrival hints at a willingness to maintain a presence in the country, albeit outside the formal royal framework. Meanwhile, Harry’s privacy case proceeds, with its substantial legal costs highlighting the high stakes involved.\n\nIn sum, King Charles’s letter provides a definitive statement: Prince Harry and Meghan remain non‑working royals, without entitlement to the HRH style, and are unlikely to resume official duties. Their expressed surprise reflects the ongoing tension between personal expectations and institutional decisions, a dynamic that will continue to shape public discourse and the practical realities of their future engagements.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-08",
+    "time": "11:50",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "King Charles III sent a letter to Prince Harry and Meghan Markle stating they remain non-working royals.",
+      "Prince Harry and Meghan Markle said they were surprised by the letter.",
+      "The letter rules out the couple returning as working royals.",
+      "The letter indicates Prince Harry is still not entitled to the style HRH (His Royal Highness).",
+      "Multiple news outlets (NBC News, BBC, The Independent, News.com.au, The Royalist) reported the same content."
+    ],
+    "timeline": [
+      {
+        "event": "King Charles III sends letter to Harry and Meghan",
+        "date": "unspecified (reported in late March 2024)",
+        "source": [
+          "NBC News",
+          "BBC",
+          "The Independent",
+          "News.com.au",
+          "The Royalist"
+        ]
+      },
+      {
+        "event": "Harry and Meghan publicly express surprise at the letter",
+        "date": "unspecified (same reporting period)",
+        "source": [
+          "NBC News",
+          "BBC",
+          "The Independent",
+          "News.com.au",
+          "The Royalist"
+        ]
+      },
+      {
+        "event": "Prince Harry and Meghan land in the United Kingdom days after announcing a move",
+        "date": "unspecified (reported in article 8)",
+        "source": [
+          "BBC"
+        ]
+      },
+      {
+        "event": "Legal bill for Prince Harry’s privacy case reaches up to £34.5 million",
+        "date": "unspecified (reported in article 10)",
+        "source": [
+          "BBC"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=261",
+    "featured": true
+  },
+  {
     "id": 260,
     "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
     "summary": "**Rising Tensions Across the Middle East Threaten Schools, Humanitarian Aid and Regional Stability**",
@@ -28,7 +91,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=260",
-    "featured": true
+    "featured": false
   },
   {
     "id": 259,

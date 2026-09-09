@@ -1,5 +1,43 @@
 [
   {
+    "id": 267,
+    "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+    "summary": "**Brent Crude Breaks $100‑Barrel Barrier Amid Gulf Tensions**",
+    "content": "**Brent Crude Breaks $100‑Barrel Barrier Amid Gulf Tensions**\n\n*September 2024 –* Brent crude surged past the $100‑a‑barrel mark in September, reaching a level not seen since July of the same year. The price jump was reported simultaneously by a range of outlets, including the BBC, The Wall Street Journal, The Guardian, the Financial Times, The Independent, BreakingNews.ie and dailynews.lk.\n\n**Geopolitical catalysts**\n\nAnalysts attribute the rally to two converging developments in the Gulf of Oman and the Strait of Hormuz. In early September, U.S. forces carried out targeted strikes against tankers identified as Iranian‑linked. Within days, Houthi rebels intensified attacks on commercial vessels navigating the narrow Gulf corridors. Both actions heightened concerns over the continuity of oil supplies through a chokepoint that handles roughly one‑fifth of global oil shipments.\n\nThe U.S. strikes signaled Washington’s willingness to confront perceived maritime threats, prompting traders to reassess supply risk in the world’s most critical oil‑export region. Simultaneously, the escalation of Houthi assaults amplified market anxiety, leading to a swift re‑pricing of risk that pushed Brent above the psychological $100 threshold.\n\n**Recent price dynamics**\n\nAfter slipping below $100 per barrel in July, Brent remained under that level for several weeks. The combination of the U.S. strikes and Houthi attacks reversed the dip, with market data showing Brent climbing back above $100 within days of the September incidents.\n\n**Broader context**\n\nThe price movement occurs against a backdrop of widening tension between Tehran and Washington. Since the summer, diplomatic channels have frayed, and both sides have engaged in a series of retaliatory measures that have raised the specter of a wider regional conflict. The July dip reflected a temporary easing of those tensions; the September surge underscores how quickly geopolitical flashpoints can translate into commodity‑price shocks.\n\n**Cross‑market repercussions**\n\nThe Brent rally also reverberated across other asset classes. Rising oil prices placed downward pressure on Bitcoin, which tested a key support level around $78,300 as investors shifted capital toward more traditional safe‑havens amid heightened uncertainty. The episode highlights the interconnected nature of modern finance, where a spike in a single commodity can ripple through digital currencies, equities and sovereign‑debt markets.\n\n**Outlook**\n\nTraders and policymakers are bracing for further volatility. Analysts warn that any additional U.S. strikes or Houthi attacks could trigger another round of price spikes, while a de‑escalation could see Brent retreat toward pre‑September levels. Security forces are expected to maintain heightened surveillance of Gulf shipping lanes, and market participants will monitor official statements from Washington, Tehran and Houthi leadership for signals of either escalation or restraint.\n\n**Conclusion**\n\nThe crossing of the $100‑a‑barrel line serves as a stark reminder that geopolitical turbulence in the Gulf remains a decisive factor for global oil markets. As the United States and Iran navigate an increasingly fraught relationship and Houthi militants continue targeting maritime traffic, the risk premium embedded in Brent is likely to stay elevated. Market observers will watch closely for any shift in the security environment, aware that even modest changes in Gulf stability can reverberate through energy prices, financial markets and the broader global economy.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-09",
+    "time": "10:13",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Brent crude price reached $100 per barrel, the first time since July 2024.",
+      "The price increase was reported by multiple reputable news outlets (BBC, WSJ, The Guardian, Financial Times, The Independent, BreakingNews.ie, dailynews.lk).",
+      "US military strikes on Iranian-linked tankers were cited as a trigger in several reports.",
+      "Houthi attacks on shipping in the Gulf/Strait of Hormuz were mentioned as contributing factors."
+    ],
+    "timeline": [
+      {
+        "event": "Oil price fell below $100 after July 2024",
+        "date": "July 2024"
+      },
+      {
+        "event": "U.S. conducted strikes on Iranian‑linked tankers and Houthi attacks intensified in the Gulf/Strait of Hormuz",
+        "date": "Early September 2024 (exact date not provided)"
+      },
+      {
+        "event": "Brent crude price rose above $100 per barrel",
+        "date": "September 2024 (reported across all sources)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=267",
+    "featured": true
+  },
+  {
     "id": 266,
     "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
     "summary": "**British‑Israeli Relations Hit Decades‑Low as the UK Moves Toward a West Bank Trade Embargo**",
@@ -28,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=266",
-    "featured": true
+    "featured": false
   },
   {
     "id": 265,

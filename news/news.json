@@ -1,5 +1,48 @@
 [
   {
+    "id": 271,
+    "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+    "summary": "**Spanish Intelligence Warned Morocco of Mass Migrant Attempt Ahead of Ceuta Surge**",
+    "content": "**Spanish Intelligence Warned Morocco of Mass Migrant Attempt Ahead of Ceuta Surge**\n\n*Madrid’s National Intelligence Centre (CNI) alerted Moroccan authorities the day before a coordinated influx of thousands of migrants into the Spanish enclave of Ceuta in early May 2024. The warning, now confirmed by declassified documents and reported by Reuters, the Washington Post, the New York Times, the BBC, Sky News and The Straits Times, underscores persistent challenges in European border management and the diplomatic strain such events can create between Spain and Morocco.*\n\n**Advance warning and the May 2024 crossing**\n\nDeclassified CNI files show that the agency transmitted a formal alert to Moroccan officials “the day before” the crossing. Although the exact date of the transmission is not disclosed, the timing indicates that Spanish intelligence had prior knowledge of a “coordinated plan” by migrant networks—likely facilitated by smuggling operations—to breach Ceuta’s border at a predetermined moment.\n\nDespite the advance notice, the plan materialised in early May 2024. Thousands of migrants surged across the frontier, temporarily overwhelming the enclave’s border defenses. Spanish security forces responded swiftly, but the incident exposed gaps in the translation of intelligence into pre‑emptive operational measures and sparked heightened diplomatic tension between Madrid and Rabat.\n\n**Declassification and media verification**\n\nThe warning documents were made public in May 2024 after a series of media investigations. Reuters first reported the existence of the intelligence exchange; subsequent coverage by other major outlets corroborated the authenticity of the files. The records reveal that the CNI’s assessment was based on intelligence indicating a concerted effort among migrant groups to overwhelm the border, prompting the agency to use established channels to inform Morocco, a key partner in managing irregular migration across the Strait of Gibraltar.\n\n**Implications for EU border policy**\n\nCeuta, a Spanish autonomous city on the North African coast, serves as an external border of the European Union. Any breach therefore carries continental significance. The early‑May surge strained local resources, highlighted vulnerabilities in intelligence‑border coordination, and revived debate within the EU about the adequacy of current migration policies. Member states are expected to address the incident in upcoming migration‑policy forums, with particular focus on the role of North‑African partners such as Morocco in early detection and interdiction.\n\n**Spain’s response and forthcoming reviews**\n\nIn the aftermath, Spanish authorities announced a comprehensive review of intelligence‑sharing protocols related to migration threats. Officials are examining why the CNI warning did not translate into a pre‑emptive deployment of resources that might have mitigated the scale of the crossing. At the EU level, discussions will likely centre on strengthening cooperation mechanisms and ensuring that alerts are acted upon more effectively.\n\nLegal scholars have noted that the public release of classified material may trigger inquiries into the declassification process, potentially leading to judicial scrutiny of the agencies involved.\n\n**Conclusion**\n\nThe Ceuta breach illustrates the complex interplay between intelligence, migration management and international diplomacy. While the CNI’s forewarning confirms that Spanish agencies were aware of a looming threat, the subsequent influx of migrants reveals shortcomings in operational response and cross‑border coordination. As Spain refines its intelligence framework and the EU contemplates policy adjustments, the episode serves as a cautionary example of how quickly coordinated migration attempts can overwhelm even well‑monitored borders.\n\n**Key takeaway:** The early‑May 2024 mass crossing into Ceuta occurred despite a documented CNI warning to Morocco, highlighting the need for tighter integration of intelligence alerts with on‑the‑ground border actions and prompting both national and EU‑wide reviews of migration and security strategies.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-09",
+    "time": "23:35",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Spain's National Intelligence Centre (CNI) issued warnings about plans to breach the Ceuta border",
+      "The warnings were issued before a large‑scale migrant crossing that resulted in thousands entering Ceuta",
+      "The warnings were communicated to Moroccan authorities as indicated by declassified documents",
+      "The declassified documents were reported by multiple reputable news outlets (Reuters, Washington Post, New York Times, BBC, Sky News, The Straits Times)",
+      "The crossing involved a mass influx of migrants into the Spanish enclave of Ceuta"
+    ],
+    "timeline": [
+      {
+        "event": "CNI warning issued to Moroccan authorities",
+        "date": "unknown (reported as day before crossing)"
+      },
+      {
+        "event": "Mass migrant crossing into Ceuta",
+        "date": "unknown (early May 2024)"
+      },
+      {
+        "event": "Declassification and publication of warning documents",
+        "date": "2024-05-?? (date of Reuters article)"
+      },
+      {
+        "event": "Media reports published",
+        "date": "2024-05-??"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=271",
+    "featured": true
+  },
+  {
     "id": 270,
     "title": "Air traffic failure was avoidable, says transport secretary",
     "summary": "**UK Air‑Traffic Control Glitch Triggers Massive Flight Cancellations and Delays**",
@@ -33,7 +76,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=270",
-    "featured": true
+    "featured": false
   },
   {
     "id": 269,

@@ -1,5 +1,33 @@
 [
   {
+    "id": 269,
+    "title": "Police launch criminal investigation into Reform UK donations",
+    "summary": "**Metropolitan Police Launch Criminal Probe into Reform UK Over Alleged Campaign‑Finance Breaches**",
+    "content": "**Metropolitan Police Launch Criminal Probe into Reform UK Over Alleged Campaign‑Finance Breaches**\n\nLondon – The Metropolitan Police Service (Met) has opened a criminal investigation into the political party Reform UK after an undercover documentary alleged that the party accepted donations in violation of UK campaign‑finance regulations. The police confirmed the inquiry on the same day the documentary’s claims were made public, signalling a rapid response to the allegations.\n\nThe covertly produced film, described by the Met as an “undercover documentary/sting,” suggests that Reform UK may have contravened rules governing the solicitation, recording and reporting of political contributions. Those rules are designed to ensure transparency, prevent undue influence and maintain public confidence in the electoral process.\n\nThe investigation has been reported by a wide range of outlets, including *The Independent*, *Anadolu Ajansı*, CNN, the BBC, AOL, ABC News, *Politics Home*, WION, UA.NEWS and *The Times*. All confirm that the Metropolitan Police Service is leading the probe, underscoring the national and international interest in the case.\n\nUnder UK law, all registered political parties are subject to strict campaign‑finance requirements. Breaches can include illegal acceptance of donations, failure to disclose contributions or other financial irregularities. When such allegations arise, law‑enforcement agencies have the authority to open criminal investigations and, if warranted, refer cases to the Crown Prosecution Service for possible prosecution.\n\nThe Met has said investigators will examine the documentary’s evidence, interview relevant individuals and scrutinise Reform UK’s financial records to determine whether there is sufficient basis for criminal charges. If the police gather enough proof, the matter could proceed to court; if not, the inquiry may be closed without further action.\n\nThe probe carries implications beyond the immediate legal outcome for Reform UK. Enforcement of campaign‑finance law is a cornerstone of electoral integrity, and perceived lapses can erode public trust in the political system. Media scrutiny—both domestic and international—highlights the broader demand for transparent and compliant political funding.\n\nAs the investigation continues, law‑enforcement officials are likely to seek corroborating material from donors, party officials and financial institutions. Observers will be watching for updates that could clarify the extent of any alleged breaches and shape the ongoing debate over political financing in the United Kingdom.\n\nBy launching a criminal investigation promptly after the documentary’s release, the Metropolitan Police Service has reaffirmed that political parties must operate within the law and that alleged infractions will be subject to thorough scrutiny. The outcome will determine whether Reform UK faces legal repercussions and will contribute to the wider conversation about transparency and accountability in British politics.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-09",
+    "time": "18:05",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "UK police have opened a criminal investigation into the political party Reform UK.",
+      "The investigation follows an undercover documentary/sting that alleged the party broke campaign‑finance law.",
+      "Multiple news outlets (The Independent, Anadolu Ajansı, CNN, BBC, AOL, ABC News, Politics Home, WION, UA.NEWS, The Times) reported the launch of the investigation.",
+      "The Metropolitan Police Service (Met) is the policing body conducting the inquiry."
+    ],
+    "timeline": {
+      "investigation_announced": null,
+      "reporting_dates": null
+    },
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=269",
+    "featured": true
+  },
+  {
     "id": 268,
     "title": "National security can't come at expense of social security, Burnham says",
     "summary": "**Andy Burnham warns that defence spending must not erode the UK’s welfare state**",
@@ -28,7 +56,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=268",
-    "featured": true
+    "featured": false
   },
   {
     "id": 267,

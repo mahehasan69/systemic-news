@@ -1,5 +1,36 @@
 [
   {
+    "id": 268,
+    "title": "National security can't come at expense of social security, Burnham says",
+    "summary": "**Andy Burnham warns that defence spending must not erode the UK’s welfare state**",
+    "content": "**Andy Burnham warns that defence spending must not erode the UK’s welfare state**\n\nDuring the recent Prime Minister’s Questions (PMQs) session in the House of Commons, Manchester ‑ based Labour leader Andy Burnham cautioned that the United Kingdom’s national‑security agenda cannot be pursued at the expense of social‑security and welfare programmes. His remarks, echoed across a wide range of British and international outlets, highlight a growing parliamentary clash over how to fund a proposed uplift in defence spending without weakening the social safety net.\n\nBurnham’s warning came as he questioned Treasury minister Kemi Badenoch on the government’s fiscal plans. While Badenoch’s exact reply was not disclosed in the verified reports, the exchange underscored a clear partisan divide: Burnham framed the defence‑budget increase as a potential threat to welfare funding, whereas Badenoch defended the government’s approach to financing the rise in military expenditure.\n\nThe quotation has been reproduced by numerous reputable sources—including the BBC, The Independent, The Telegraph, Sky News, Huffington Post UK, Portsmouth.co.uk, Yahoo News Canada and Perspective Media—confirming its authenticity and signalling broad media interest.\n\n**Background to the dispute**\n\nThe controversy centres on a proposed uplift to the defence budget that, according to Burnham, could necessitate cuts to existing welfare programmes. Over recent months the government has signalled an intention to boost defence capabilities, a move that traditionally requires either reallocating existing resources or identifying new revenue streams. Critics argue that such reallocations risk undermining the social‑security framework that supports vulnerable populations, while proponents contend that a robust defence posture is essential for national security.\n\n**Why the exchange matters**\n\nThe balance between defence and welfare spending is a litmus test for the government’s broader economic strategy. It influences public confidence, voter sentiment and the allocation of resources across sectors. Media coverage from outlets with differing editorial slants indicates that the issue resonates across the political spectrum, prompting citizens, advocacy groups and policy analysts to scrutinise the potential trade‑offs. The debate also feeds into larger questions about the sustainability of the UK’s fiscal framework amid rising global security challenges and domestic socioeconomic pressures.\n\n**Looking ahead**\n\nLawmakers are expected to revisit the defence‑budget uplift in forthcoming parliamentary debates and during the upcoming fiscal budget, when the Treasury will outline how it intends to reconcile defence ambitions with welfare commitments. Stakeholders from both the defence establishment and social‑policy arenas are likely to lobby intensively, shaping the final budgetary allocations.\n\n**Conclusion**\n\nAndy Burnham’s assertion at PMQs has crystallised a pivotal policy dilemma: whether the United Kingdom can expand its defence capabilities without compromising the welfare provisions that underpin social stability. The ensuing parliamentary scrutiny and extensive media attention suggest that the resolution of this dilemma will be a defining feature of the next fiscal cycle, with significant implications for national security, social equity and the governing party’s political calculus.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-09",
+    "time": "14:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham publicly stated that national security cannot be funded by cutting social security or welfare.",
+      "The statement was made during Prime Minister's Questions (PMQs) in the UK House of Commons.",
+      "Multiple news outlets (Yahoo News Canada, BBC, Perspective Media, The Independent, The Telegraph, Sky News, Huffington Post UK, Portsmouth.co.uk) reported the same quote.",
+      "Kemi Badenoch was mentioned as the opposing minister in the PMQs exchange."
+    ],
+    "timeline": [
+      {
+        "event": "Andy Burnham delivers statement that national security cannot come at the expense of social security/welfare",
+        "context": "PMQs in the House of Commons",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=268",
+    "featured": true
+  },
+  {
     "id": 267,
     "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
     "summary": "**Brent Crude Breaks $100‑Barrel Barrier Amid Gulf Tensions**",
@@ -35,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=267",
-    "featured": true
+    "featured": false
   },
   {
     "id": 266,

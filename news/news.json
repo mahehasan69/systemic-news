@@ -1,5 +1,38 @@
 [
   {
+    "id": 265,
+    "title": "US destroys five Iranian tankers, Iran retaliates with attacks on Jordan",
+    "summary": "**U.S. Strikes Destroy Five Iranian Oil Tankers After Missile Attack on Warship; Iran Responds with Missiles Toward Jordan**",
+    "content": "**U.S. Strikes Destroy Five Iranian Oil Tankers After Missile Attack on Warship; Iran Responds with Missiles Toward Jordan**\n\nWashington announced that U.S. forces sank five Iranian oil tankers in a retaliatory strike that followed a missile attack on a U.S. warship. Iran responded by launching a barrage of missiles at Jordan, claiming that the U.S. operation killed four civilians attending a wedding. The rapid escalation pushed crude‑oil benchmarks up roughly $1 per barrel in early trading and heightened diplomatic tensions across the Gulf.\n\nThe chain of events began when Iranian forces fired missiles at a U.S. warship operating in the Persian Gulf. Within hours, U.S. naval units located and destroyed five Iranian tankers, a move the Pentagon described as a direct response to the earlier attack and a measure to protect maritime security. U.S. officials confirmed the sinkings and said no civilian casualties had been verified.\n\nIn what Tehran termed a reciprocal act, Iran launched missiles toward Jordan later the same day. Explosions were also reported near Kharg Island, Iran’s principal oil‑export hub. Iranian officials warned neighboring Gulf states Kuwait and Bahrain of possible further action and alleged that the U.S. strike on the tankers had killed four civilians at a wedding. The United States rejected the allegation, stating that no civilian deaths had been confirmed.\n\nThe incident immediately affected energy markets. By early trade, West Texas Intermediate and other benchmarks rose about $1 per barrel as traders weighed the risk of disrupted shipments from the Persian Gulf, a region that supplies a substantial share of global petroleum. The reported explosions near Kharg Island added to concerns about potential supply constraints.\n\nThe flare‑up occurs against a backdrop of long‑standing U.S.–Iran friction, which has periodically manifested in naval confrontations and reciprocal sanctions. Iran’s threats toward Kuwait and Bahrain underscore the broader regional dimension of the dispute, given both countries’ close security ties with Washington. International observers have called for transparent investigations into the alleged civilian deaths and for an assessment of compliance with humanitarian law.\n\nAnalysts note three key implications. First, the targeting of oil tankers raises the risk of wider disruptions to global energy markets, already reflected in the modest price increase. Second, the missile exchange involving Jordan signals a possible widening of the conflict beyond the direct U.S.–Iran confrontation. Third, heightened threats toward Kuwait and Bahrain could complicate existing security arrangements and affect the cohesion of the Gulf Cooperation Council.\n\nU.S. officials said they are reviewing additional military or diplomatic options in response to Iran’s missile launches against Jordan. Tehran, meanwhile, indicated it may continue to target regional adversaries if it perceives further U.S. actions as hostile. Both sides are expected to issue further statements, and international bodies may seek to investigate the reported civilian casualties at the alleged wedding site.\n\nThe swift succession of missile attacks, the destruction of five Iranian tankers, and the resulting market ripple illustrate a volatile moment in Gulf security. The episode demonstrates how quickly localized confrontations can expand into broader regional disputes, with tangible impacts on global oil supplies and diplomatic relations. Ongoing monitoring of military movements, official communications and market responses will be essential to determine whether the situation stabilizes or escalates further.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-09",
+    "time": "00:46",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United States destroyed five Iranian oil tankers.",
+      "The US action followed missile attacks on a US warship.",
+      "Iran launched missile attacks targeting Jordan.",
+      "Explosions were reported near Iran's Kharg Island.",
+      "Oil prices rose by approximately $1 in early trade after the missile launches."
+    ],
+    "timeline": [
+      "Missile attacks on a US warship (date not specified).",
+      "US destroys five Iranian oil tankers (subsequent to the warship attack).",
+      "Iran launches missile barrage at Jordan.",
+      "Oil markets react; crude price jumps $1.",
+      "Iran issues statements threatening Kuwait and Bahrain.",
+      "Iran alleges US strike killed four civilians at a wedding; US denies."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=265",
+    "featured": true
+  },
+  {
     "id": 264,
     "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
     "summary": "**Widespread Flight Disruptions Hit the United Kingdom, India, the Netherlands and the United States**",
@@ -22,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=264",
-    "featured": true
+    "featured": false
   },
   {
     "id": 263,

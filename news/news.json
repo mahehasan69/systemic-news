@@ -1,5 +1,35 @@
 [
   {
+    "id": 275,
+    "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+    "summary": "**Oil Prices Top $105 a Barrel, Triggering Global Market Turbulence**",
+    "content": "**Oil Prices Top $105 a Barrel, Triggering Global Market Turbulence**\n\nCrude oil surged past $105 a barrel this week, marking the first breach of the $100‑per‑barrel threshold since July. The rally, reported by the BBC, The Guardian and Antigua News, coincided with escalating tensions in the Middle East, a series of U.S. and Houthi strikes, and lingering inflation concerns. The spike has reverberated through bond, equity and currency markets, and pushed United Kingdom borrowing costs to their highest level in 19 years.\n\n**Drivers of the Price Spike**\n\nThe benchmark price climbed to $100 a barrel early in the week, a level not seen since the summer, before accelerating to $105 a barrel within days. Analysts attribute the upward trajectory to heightened geopolitical risk in the Middle East, where recent military actions have raised fears of a broader conflict. At the same time, broader inflationary pressures have amplified concerns that higher energy costs could feed into consumer price indices worldwide.\n\n**Impact on Financial Markets**\n\n*Bond markets* – The Guardian noted a renewed global bond sell‑off as investors demanded higher yields to compensate for the added risk. In the United Kingdom, sovereign‑bond yields rose to a peak not observed since the early 2000s, driving borrowing costs to a 19‑year high, as highlighted by This is Money.\n\n*Equity markets* – The technology‑heavy Nasdaq Composite fell more than 2 % on the day oil prices spiked, according to the Korean newspaper 조선일보. The decline spread to other major indices, underscoring the sensitivity of equity valuations to energy‑price shocks.\n\n*Currency and borrowing costs* – Higher oil prices have fed directly into inflation calculations, prompting central banks to contemplate tighter monetary policy. The United Kingdom’s benchmark rates now reflect the same pressure, illustrating how quickly an energy shock can translate into fiscal strain.\n\n**Diplomatic Developments**\n\nThe BBC reported tentative progress in talks concerning the strategic Hormuz Strait, a vital chokepoint for global oil shipments, suggesting a possible de‑escalation pathway. However, the same outlet noted that a recent meeting between former U.S. President Donald Trump and Iranian officials produced no concrete agreement, and that Iran claimed the United States had responded to its latest peace proposal. These mixed signals have yet to alleviate market anxieties.\n\n**Outlook**\n\nAnalysts will be watching three key variables closely:\n\n1. **Hormuz Strait dynamics** – Any resolution could ease shipping risks and temper oil prices.  \n2. **U.S.–Iran diplomatic engagement** – Further dialogue may reduce geopolitical uncertainty.  \n3. **Oil price trajectory** – Continued volatility in the Middle East could keep crude elevated, sustaining pressure on inflation and borrowing costs.\n\nIf diplomatic breakthroughs materialize, they could curb the rally in oil and provide relief to bond and equity markets. Absent such progress, investors are likely to remain cautious, adjusting exposure to energy‑sensitive assets while monitoring policy responses from central banks and fiscal authorities.\n\n**Conclusion**\n\nThe breach of $105 a barrel has acted as a catalyst for a broader financial upheaval, linking Middle‑East geopolitical tensions to higher borrowing costs in the United Kingdom, a renewed bond sell‑off and notable equity declines. The episode highlights how swiftly energy price shocks can cascade through the global economy, influencing inflation expectations, monetary policy and investor sentiment. The coming weeks will reveal whether diplomatic advances can dampen the turbulence or whether market stress will intensify.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-10",
+    "time": "18:46",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Oil price reached $100 a barrel for the first time since July, reported by BBC",
+      "Oil price passed $100 a barrel again, reported by The Guardian",
+      "Oil price surged past $105 a barrel, reported by Antigua News",
+      "UK borrowing costs hit a 19‑year high, reported by This is Money",
+      "Global bond sell‑off resumed as oil prices rose, reported by The Guardian",
+      "Nasdaq fell more than 2% as oil prices surged, reported by 조선일보",
+      "Positive talks on the Hormuz Strait reported by BBC",
+      "No deal announced after a Trump meeting on Iran, reported by BBC",
+      "Iran said the US responded to its latest peace proposal, reported by BBC"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=275",
+    "featured": true
+  },
+  {
     "id": 274,
     "title": "Trump says every adult American would get $5,000 if Republicans win midterm elections",
     "summary": "**Trump Promises $5,000 “Dividend” for Every Adult American if GOP Wins 2026 Midterms**",
@@ -45,7 +75,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=274",
-    "featured": true
+    "featured": false
   },
   {
     "id": 273,

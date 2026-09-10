@@ -1,5 +1,68 @@
 [
   {
+    "id": 276,
+    "title": "Use all powers necessary on anti-migrant protests, home secretary tells police",
+    "summary": "**UK Tightens Security Measures Amid Anti‑Migrant Protests in Southern England**",
+    "content": "**UK Tightens Security Measures Amid Anti‑Migrant Protests in Southern England**\n\nLondon – The government and law‑enforcement agencies have announced a series of heightened security actions in response to a wave of anti‑migrant demonstrations that have swept across the south of England.\n\nThe Home Secretary has directed police forces to use “all powers necessary” to manage the protests, a directive reported by both Yahoo and the BBC. The instruction follows a series of confrontations involving far‑right groups opposed to the United Kingdom’s migration policy and the recent increase in small‑boat arrivals.\n\nLabour MP Shabana Mahmood has publicly urged police to curb the demonstrations, calling on officers to deploy their full statutory powers, including the authority to arrest individuals wearing balaclavas. Her comments, covered by The Guardian and the Telegraph, reflect growing parliamentary pressure to address what officials describe as a threat to public order and community safety.\n\nPolice investigations have intensified after disorder in Portsmouth turned violent. The BBC reported that officers are actively seeking to identify participants, a task that follows the identification of Danny Thomas as an organiser of anti‑migrant protests. In a related development, Norfolk Police disclosed that it has paid out £2.2 million in compensation to officers injured during public‑order incidents, underscoring the physical toll on law‑enforcement personnel.\n\nCoastal security agencies are also revising their protocols. The Royal National Lifeboat Institution (RNLI) announced a review of security arrangements at its Dover and Portsmouth stations after protests, according to the BBC. The review aims to protect lifeboat crews and facilities from potential disruptions linked to anti‑migration activism. At the same time, the BBC highlighted the upcoming deployment of facial‑recognition technology at a major festival, a measure that could be extended to other public events where protest activity is anticipated.\n\nThe surge in anti‑migrant sentiment has been traced to far‑right groups capitalising on public opposition to the government’s migration policy and the ongoing small‑boat arrivals. Data compiled by the BBC’s migration tracker show a steady rise in net migration, visa applications, asylum claims and the number of small‑boat crossings, providing a statistical backdrop to the heightened debate.\n\nThe new approach carries several implications. By authorising the use of full legal powers, the Home Office signals a willingness to prioritise order over protest freedoms in cases deemed a security risk. Ongoing identification efforts in Portsmouth could lead to a series of arrests, while the RNLI’s security review may result in reinforced barriers, increased staffing and revised emergency‑response plans at vulnerable coastal sites. The introduction of facial‑recognition technology at festivals points to a broader trend toward surveillance‑based crowd management, raising questions about privacy and civil liberties.\n\nLooking ahead, authorities expect concrete actions: potential arrests of identified protesters in Portsmouth as investigations conclude; implementation of enhanced security measures at RNLI stations in Dover and Portsmouth; and a possible rollout of facial‑recognition systems at future public gatherings.\n\nThe situation marks a pivotal moment in the United Kingdom’s handling of migration‑related dissent. Balancing the right to protest with the imperative to maintain public safety remains contentious, and the outcomes of these enforcement strategies are likely to shape the national conversation on immigration policy and civil order for months to come.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-10",
+    "time": "21:17",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Home Secretary told police to use all powers necessary on anti‑migrant protests (reported by Yahoo and BBC).",
+      "Labour MP Shabana Mahmood urged police to curb far‑right anti‑migrant protests (The Guardian).",
+      "Shabana Mahmood said police must use powers to arrest balaclava‑clad protesters (Telegraph).",
+      "Police are seeking to identify protesters behind disorder in Portsmouth related to anti‑migrant demonstrations (BBC).",
+      "RNLI is reviewing security after protests in Dover and Portsmouth (BBC).",
+      "Danny Thomas is identified as an organiser of anti‑migrant protests (BBC).",
+      "Norfolk Police spent £2.2 million on payouts to injured officers (BBC).",
+      "Facial‑recognition technology will be used at a festival (BBC).",
+      "The BBC provides a data tracker on UK net migration, visas, asylum and small‑boat arrivals (BBC)."
+    ],
+    "timeline": [
+      {
+        "event": "Home Secretary advises police to use all powers on anti‑migrant protests",
+        "source": "Yahoo, BBC"
+      },
+      {
+        "event": "Shabana Mahmood urges police to curb far‑right anti‑migrant protests",
+        "source": "The Guardian"
+      },
+      {
+        "event": "Mahmood calls for powers to arrest balaclava protesters",
+        "source": "Telegraph"
+      },
+      {
+        "event": "Police seek identification of Portsmouth anti‑migrant disorder participants",
+        "source": "BBC"
+      },
+      {
+        "event": "RNLI reviews security after protests in Dover and Portsmouth",
+        "source": "BBC"
+      },
+      {
+        "event": "BBC publishes tracker of UK migration numbers",
+        "source": "BBC"
+      },
+      {
+        "event": "Norfolk Police reports £2.2 m payouts to injured officers",
+        "source": "BBC"
+      },
+      {
+        "event": "Facial‑recognition tech announced for a festival",
+        "source": "BBC"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=276",
+    "featured": true
+  },
+  {
     "id": 275,
     "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
     "summary": "**Oil Prices Top $105 a Barrel, Triggering Global Market Turbulence**",
@@ -27,7 +90,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=275",
-    "featured": true
+    "featured": false
   },
   {
     "id": 274,

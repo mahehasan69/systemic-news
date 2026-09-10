@@ -1,5 +1,68 @@
 [
   {
+    "id": 273,
+    "title": "England's mayors to be given power to introduce tourist tax",
+    "summary": "**Tourist Tax Proposals and New Powers for English Mayors Set to Reshape Local Funding**",
+    "content": "**Tourist Tax Proposals and New Powers for English Mayors Set to Reshape Local Funding**\n\nLondon – The UK government is preparing to introduce a tourist tax in England, a policy first announced in the recent King’s Speech and now being fleshed out for implementation. The proposal grants English mayors the authority to levy a charge on overnight stays, a move that Labour says will generate a dedicated revenue stream for city growth and infrastructure projects.\n\n**Legislative background**\n\nThe rollout began with BBC reports that a tourist tax would be outlined, followed by the formal mention of the measure in the King’s Speech, as noted by the *Manchester Evening News*. Subsequent BBC coverage confirmed that new powers have been granted to English mayors, allowing them to introduce the levy without awaiting further parliamentary approval. SME Magazine highlighted that these powers enable mayors to act swiftly, while the government’s website, Gov.uk, now provides guidance describing the tax as a charge on overnight trips intended to fund local development.\n\n**Labour’s position**\n\nLabour has made clear that any revenue raised would be earmarked for urban development and public services. According to *The Independent*, the party views the tax as a sustainable financing model that reduces reliance on central grants and gives local leaders the resources to invest in transport, cultural venues and other growth‑oriented initiatives. The levy is presented as a modest contribution from visitors, with the expectation that improved infrastructure will deliver economic benefits that outweigh the cost of the fee.\n\n**Local opposition**\n\nNot all authorities share the enthusiasm. Somerset Council, reported by *burnham‑on‑sea.com*, has ruled out introducing a “holiday tax,” arguing that additional charges could deter visitors and harm local businesses. The council’s stance reflects broader concerns from operators across the country, who fear that extra fees may suppress tourism demand. This opposition underscores a potential tension between the government’s revenue‑raising objectives and the commercial interests of regions that depend heavily on visitor spending.\n\n**Implications for travelers**\n\nTravelers may soon encounter the new charge. *Afar.com* notes that visitors to England could face a tourist tax, although the exact amount and start date have not yet been confirmed. *Prestige Online – Singapore* has reported on the anticipated launch timeline and possible cost structures, indicating that detailed guidance is expected in the coming weeks. Once the guidance is published, each local authority will decide whether to adopt the levy using the powers granted by recent legislation.\n\n**Next steps**\n\nThe government’s next phase involves issuing comprehensive implementation guidance that will outline administrative procedures, reporting requirements and compliance mechanisms for mayors who choose to introduce the tax. After the guidance is released, individual mayoral authorities will assess the proposal against local economic conditions and stakeholder feedback before making a decision. The speed and breadth of adoption will determine how quickly the new revenue stream becomes operational across England’s cities and towns.\n\n**Outlook**\n\nThe tourist tax proposal represents a significant shift in how English localities may fund growth initiatives, giving mayors direct authority to collect fees from overnight visitors. While the policy promises additional resources for urban development, it also faces pushback from business groups wary of potential declines in tourism. The forthcoming government guidance and the subsequent decisions of individual mayors will shape the balance between fiscal ambition and the preservation of England’s appeal as a tourist destination.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-10",
+    "time": "06:44",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Plans for a tourist tax in England are to be outlined (BBC).",
+      "A new tourist tax was outlined in the King’s Speech (Manchester Evening News).",
+      "English mayors will receive new powers to levy tourist taxes (BBC).",
+      "Somerset Council has ruled out introducing a ‘holiday tax’ for tourists, citing business concerns (burnham‑on‑sea.com).",
+      "Labour announced a tourist tax intended to boost England’s cities (The Independent).",
+      "A levy on overnight trips is proposed to help mayors invest in local growth (gov.uk).",
+      "Mayors in England have been given powers to introduce a tourist tax (SME Magazine).",
+      "There is reporting on when the UK’s new tourist tax will start and its possible cost (Prestige Online – Singapore).",
+      "Visitors to England may face new fees related to the tourist tax (afar.com)."
+    ],
+    "timeline": [
+      {
+        "event": "Tourist tax plans to be outlined for England",
+        "source": "BBC"
+      },
+      {
+        "event": "Tourist tax outlined in the King’s Speech",
+        "source": "Manchester Evening News"
+      },
+      {
+        "event": "Mayors granted new powers to levy tourist taxes",
+        "source": "BBC"
+      },
+      {
+        "event": "Somerset Council decides not to introduce a holiday tax",
+        "source": "burnham‑on‑sea.com"
+      },
+      {
+        "event": "Labour announces tourist tax to boost cities",
+        "source": "The Independent"
+      },
+      {
+        "event": "Gov.uk publishes guidance on levy for overnight trips to fund local growth",
+        "source": "gov.uk"
+      },
+      {
+        "event": "SME Magazine reports mayors given powers to introduce tax",
+        "source": "SME Magazine"
+      },
+      {
+        "event": "Prestige Online reports on start date and cost of the new tax",
+        "source": "Prestige Online – Singapore"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=273",
+    "featured": true
+  },
+  {
     "id": 272,
     "title": "Iran war will not end until after November US elections, says Trump",
     "summary": "**Trump says Iran conflict and rising fuel costs will persist until after U.S. midterms**",
@@ -23,7 +86,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=272",
-    "featured": true
+    "featured": false
   },
   {
     "id": 271,

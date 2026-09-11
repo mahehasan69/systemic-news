@@ -1,5 +1,45 @@
 [
   {
+    "id": 283,
+    "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+    "summary": "**Nationwide Commemorations Mark 25 Years Since 9/11**",
+    "content": "**Nationwide Commemorations Mark 25 Years Since 9/11**\n\nOn September 11, 2026, the United States observed the 25th anniversary of the September 11, 2001 terrorist attacks with a series of ceremonies, televised tributes and political statements that were reported by a wide range of domestic and international news outlets. From the Pentagon to the Flight 93 National Memorial, the events combined solemn remembrance of the victims with reflections on the attacks’ continuing political resonance.\n\n**Pentagon ceremony**\n\nThe most prominent ceremony took place at the Pentagon, where former President Donald Trump appeared alongside an individual identified only as Hegseth. The gathering was highlighted in a Department of War release and subsequently covered by multiple media organizations. During the event, Trump declared, “the United States will never forget 9/11.” The *Times of Israel* and the *Times of India* reproduced the remark, while *The Washington Post* linked it to Trump’s longstanding hard‑line stance toward Iran, suggesting the anniversary was used to reinforce a tough policy on Tehran.\n\n**State and local observances**\n\nState and local governments organized their own programs. In Massachusetts, public broadcasters coordinated moments of silence, educational panels and veteran gatherings, a series of events reported by WGBH. PBS aired a video of the Flight 93 memorial ceremony in Shanksville, Pennsylvania, showing speakers, wreath‑laying and reflections from victims’ families. The broadcast provided a visual record of the solemn observances at the site and underscored the personal dimension of the tragedy.\n\n**International coverage**\n\nInternational media documented the breadth of the U.S. response. The British Broadcasting Corporation (BBC) reported that America marked the anniversary with “nationwide ceremonies and moments of reflection.” Germany’s Deutsche Welle noted the “nationwide commemoration of 25 years since the 9/11 terror attack.” Yahoo’s news feed offered a concise summary, and a syndicated article on news.google.com aggregated reports from multiple outlets, illustrating global interest in how the United States continues to remember the attacks.\n\n**Political significance**\n\nBeyond remembrance, the 2026 commemorations highlighted how 9/11 remains a reference point in contemporary policy debates. Trump’s remarks at the Pentagon were interpreted by *The Washington Post* as an effort to frame U.S. posture toward Iran within the moral narrative of 9/11, indicating that the anniversary still shapes diplomatic rhetoric. This linkage underscores the enduring impact of the attacks on American foreign policy and domestic political discourse.\n\n**No new initiatives announced**\n\nThe day did not produce major new initiatives or legislative actions, and organizers have not announced further events beyond the scheduled memorial services. The focus remained on honoring the victims, supporting survivors and reaffirming a collective resolve to remember September 11, 2001.\n\n**Looking forward**\n\nThe 25th‑year observances serve as a reminder that, while the nation has moved forward, the memory of 9/11 continues to inform public sentiment and policy. As documented by outlets ranging from PBS to the *Times of Israel*, the ceremonies combined solemn tribute with a reaffirmation of national values, ensuring that the lessons of the past remain part of the ongoing public conversation.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-11",
+    "time": "23:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Americans marked the 25th anniversary of the September 11, 2001 attacks (PBS).",
+      "Former President Donald Trump and a person named Hegseth commemorated the 25th anniversary of 9/11 at the Pentagon (U.S. Department of War).",
+      "Massachusetts held events to mark the 25th anniversary of the 9/11 attacks (WGBH).",
+      "BBC reported that America marked the 25th anniversary of the 9/11 attacks.",
+      "Deutsche Welle reported that the US commemorated 25 years since the 9/11 terror attack.",
+      "The Washington Post published an article linking Trump’s remarks at the Pentagon about 9/11 to his stance on the Iran war.",
+      "The Times of Israel reported that Trump said the US will never forget 9/11 as a justification for the Iran war.",
+      "Yahoo reported that the US marked 25 years since the 9/11 terrorist attacks.",
+      "The Times of India reported that Trump commemorated the 25th anniversary of the 9/11 terrorist attacks.",
+      "PBS aired a video of the Flight 93 memorial ceremony featuring speakers and wreath‑laying on the 25th anniversary."
+    ],
+    "timeline": [
+      {
+        "event": "September 11 terrorist attacks",
+        "date": "2001-09-11"
+      },
+      {
+        "event": "25th anniversary commemorations",
+        "date": "2026-09-11"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=283",
+    "featured": true
+  },
+  {
     "id": 282,
     "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
     "summary": "**Oil Export Challenges Mount as Houthi Advances and Geopolitical Tensions Converge**",
@@ -29,7 +69,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=282",
-    "featured": true
+    "featured": false
   },
   {
     "id": 281,

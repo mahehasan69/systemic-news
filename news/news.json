@@ -1,5 +1,37 @@
 [
   {
+    "id": 282,
+    "title": "Saudi Oil Exports Face Heightened Threats After Attacks on Pipeline",
+    "summary": "**Oil Export Challenges Mount as Houthi Advances and Geopolitical Tensions Converge**",
+    "content": "**Oil Export Challenges Mount as Houthi Advances and Geopolitical Tensions Converge**\n\nOil markets are confronting a tightening of export routes and a squeeze on Saudi supply that is pushing Brent crude toward the $110‑a‑barrel level. Gulf tankers, already operating with a reduced set of viable pathways, now deem several key waters unsafe. A series of hostile actions—including Houthi gains in Yemen, US‑Iranian tanker attacks in the Strait of Hormuz and a drone strike in Egypt—has amplified concerns over the Strait of Hormuz, the Red Sea and the Suez Canal.\n\nThe immediate trigger was the Houthi capture of the Yemeni port of Mocha, reported by **PRESS Insider**. The seizure places the rebel group within striking distance of the Bab al‑Mandab strait, a critical chokepoint for oil flowing from the Gulf to global markets, and deepens what analysts describe as a “Saudi oil squeeze.” At the same time, US‑Iranian tanker attacks in the Strait of Hormuz have escalated, prompting **Markets.com** to note that oil prices are hovering near $100 per barrel as supply through the narrow waterway becomes increasingly precarious. Iran’s own threats to disrupt Red Sea shipping, cited by **CNBC**, add another layer of vulnerability, further constricting the routes Gulf exporters can safely use.\n\nThese developments have forced Gulf carriers to curtail their traditional export corridors. **The New York Times** documented that Gulf tankers now consider several maritime zones unsafe, limiting their ability to navigate the Red Sea and the Gulf of Aden. In response, Saudi Arabia has taken the unusual step of boosting crude shipments from the Yanbu terminal, according to **Modern Diplomacy**, in an effort to offset the heightened risk to its primary export lanes. The move has been accompanied by a notable opacity in Saudi export data; **Egypt Oil & Gas** observed that the kingdom’s crude export reporting has “gone dark,” a trend linked directly to the rising Houthi threat.\n\nThe price impact is already evident. Brent crude touched $110 a barrel, a level highlighted by **PRESS Insider**, while **The Economic Times** described the re‑emergence of $100‑plus price scenarios as a “nightmare” for consumers and economies alike. The pressure reflects not only the immediate supply constraints but also the limited capacity of regional pipelines to substitute for the Strait of Hormuz. A report from **fairobserver.com** underscored that Middle Eastern pipelines cannot fully replace Hormuz for oil transport, leaving the global market heavily dependent on maritime routes that are now under siege.\n\nSecurity concerns extend beyond the Gulf. A drone strike targeting infrastructure in Egypt, covered by **Al‑Monitor**, has heightened anxieties about the safety of oil shipments transiting the Suez Canal, a vital artery for European and Asian refineries. The combined effect of these threats is a tightening of Saudi export capacity, a reduction in safe export routes for Gulf tankers, and a broader perception of fragility in the oil supply chain. Market participants now view the situation as increasingly sensitive to geopolitical shocks, with price volatility likely to persist as long as the underlying tensions remain unresolved.\n\nLooking ahead, analysts anticipate that the confluence of Houthi territorial advances, ongoing US‑Iran tanker confrontations, Iranian Red Sea threats and the Egyptian drone incident will continue to shape oil logistics. Saudi Arabia may further adjust its export strategy—potentially expanding output from alternative terminals or exploring new overland routes—but the limited pipeline capacity highlighted by **fairobserver.com** suggests such measures will only partially mitigate the risk. Oil traders are expected to monitor the security environment closely, with price forecasts hovering around the $100‑$110 benchmark as an indicator of market stress.\n\nThe key takeaway is clear: the oil market is navigating a multi‑front security crisis that is compressing export options, inflating prices and eroding transparency in supply data. Until the flashpoints in the Strait of Hormuz, the Red Sea and the Suez Canal are stabilized, the industry—and the economies that depend on it—must contend with a heightened risk environment that could sustain elevated crude prices for the foreseeable future.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-11",
+    "time": "21:24",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Gulf tankers have limited export routes and consider certain waters unsafe (NYT).",
+      "Houthi forces have advanced in Yemen, raising concerns about a key shipping choke point (ABC News).",
+      "Houthi captured the port of Mocha, tightening the Saudi oil squeeze (PRESS Insider).",
+      "Brent crude price reached $110 (PRESS Insider).",
+      "Middle Eastern pipelines cannot fully replace the Strait of Hormuz for oil transport (fairobserver.com).",
+      "Oil price scenarios around $100 are re‑emerging, described as a nightmare (The Economic Times).",
+      "Oil price is near $100 as US‑Iran tanker attacks threaten supply through the Strait of Hormuz (Markets.com).",
+      "A drone strike in Egypt has raised security concerns for Suez Canal oil exports (Al‑Monitor).",
+      "Saudi Arabia increased oil exports from Yanbu in response to growing Houthi threats (Modern Diplomacy).",
+      "Iran has threatened a Red Sea choke point, creating vulnerability for the oil market (CNBC).",
+      "Saudi crude export data has become opaque ('go dark') as Houthi threats rise (Egypt Oil & Gas)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=282",
+    "featured": true
+  },
+  {
     "id": 281,
     "title": "UK government rejects 'kill switch' idea for dangerous AI",
     "summary": "**UK Government Rejects AI “Kill‑Switch” Proposal; NVIDIA Reaffirms Products Contain No Hidden Controls**",
@@ -31,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=281",
-    "featured": true
+    "featured": false
   },
   {
     "id": 280,

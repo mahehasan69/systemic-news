@@ -1,5 +1,35 @@
 [
   {
+    "id": 279,
+    "title": "Legalised dying bill for England and Wales faces new vote in Commons",
+    "summary": "**Assisted‑Dying Bill Returns to the Commons for a Crucial Vote**",
+    "content": "**Assisted‑Dying Bill Returns to the Commons for a Crucial Vote**\n\nLondon – A bill that would legalise assisted dying in England and Wales is set to be debated again in the House of Commons, where MPs will cast their first formal votes since the measure’s re‑introduction earlier this session. The legislation seeks to create a regulated framework allowing terminally ill patients with a sustained wish to die to request medical assistance in ending their lives.\n\nPrime Minister Rishi Sunak has announced he will abstain from the upcoming vote, a decision reported by *The Independent* that highlights the political sensitivity of the issue and the split within both the governing party and the opposition. Despite the Prime Minister’s neutrality, an unnamed Member of Parliament has publicly expressed confidence that the Commons will ultimately support the proposal.\n\nThe bill’s progress has been marked by intense parliamentary debate. Television channel TVC News has described the discussions as “fervent,” with lawmakers confronting ethical, medical and autonomy‑related arguments. The debate has been amplified by personal stories, such as a Welsh patient who has waited six years for an operation—a case cited by the BBC to illustrate the broader challenges of end‑of‑life care in the UK, even though it is not directly linked to the assisted‑dying legislation.\n\nIf enacted, the bill would overturn the current prohibition on assisted suicide, introducing a statutory pathway for eligible individuals—typically those with a terminal diagnosis and a clear, enduring desire to die—to obtain medical assistance. Proponents argue that the change would bring the law in line with shifting public attitudes toward personal choice at the end of life. Opponents warn of potential pressure on vulnerable patients and raise concerns about the moral responsibilities of healthcare professionals.\n\nImplementation would require detailed guidance for clinicians, the establishment of oversight mechanisms to prevent abuse, and a reassessment of existing NHS ethical frameworks. The legislation is also likely to trigger judicial reviews and could influence parallel debates in Scotland and Northern Ireland, where separate legal jurisdictions apply.\n\nThe forthcoming Commons vote is the decisive step before the bill can move to the House of Lords for further scrutiny. A majority in favour would send the proposal to the Lords, where it may face amendments or delays. A defeat would halt the current push, at least for the remainder of the parliamentary session, and would shape the political narrative surrounding the Prime Minister’s abstention and the government’s stance on personal liberty and healthcare reform.\n\nThe assisted‑dying bill thus stands at a crossroads of legal, ethical and medical considerations. Its fate in the Commons will not only determine the immediate future of the legislation but also signal Parliament’s willingness to confront one of the most profound questions facing modern society.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-11",
+    "time": "06:41",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A bill to legalise assisted dying in England and Wales is scheduled for a new vote in the House of Commons (BBC).",
+      "An MP expressed confidence that the Commons will vote in favour of the assisted dying bill despite the Prime Minister choosing to abstain (The Independent).",
+      "The assisted dying bill is generating heated debate within Parliament (TVC News).",
+      "A patient in Wales has reportedly waited six years for an operation (BBC)."
+    ],
+    "timeline": [
+      "Bill introduced (date not provided).",
+      "Heated debate in Parliament reported (date not provided).",
+      "MP confidence statement reported (date not provided).",
+      "New vote scheduled in the Commons (date not provided)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=279",
+    "featured": true
+  },
+  {
     "id": 278,
     "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
     "summary": "**Spies, Strategies and Missed Opportunities: How the Lessons of 9/11 Are Still Being Learned**",
@@ -27,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=278",
-    "featured": true
+    "featured": false
   },
   {
     "id": 277,

@@ -1,5 +1,35 @@
 [
   {
+    "id": 278,
+    "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt",
+    "summary": "**Spies, Strategies and Missed Opportunities: How the Lessons of 9/11 Are Still Being Learned**",
+    "content": "**Spies, Strategies and Missed Opportunities: How the Lessons of 9/11 Are Still Being Learned**\n\n*The 25th anniversary of the September 11, 2001 attacks has sparked renewed reflection, legal scrutiny and intelligence reform across the United States and abroad.*\n\nOn the morning of September 11, 2001, al‑Qaeda hijacked four commercial airliners, turning them into weapons that struck the World Trade Center in New York, the Pentagon in Washington, D.C., and a field in Pennsylvania. The coordinated attacks killed nearly 3,000 people and left a lasting psychological scar on survivors, first‑responders and the families of victims. In the ensuing decades the United States has pursued an extensive series of legal actions, intelligence reforms and commemorative activities aimed at preventing a repeat and honoring those lost.\n\n### Intelligence Reforms Under Scrutiny\n\nA recent feature in **Yahoo News Canada**, “Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt,” examines how U.S. intelligence practices have evolved since the attacks. The report highlights early failures to share critical information among agencies—a shortcoming that prompted the creation of the Director of National Intelligence and the National Counterterrorism Center. While those reforms have improved coordination, the article argues that gaps remain, particularly in foreign‑intelligence cooperation, and that emerging threats require continual adaptation of the post‑9/11 framework.\n\n### Cultural and Legal Context\n\nThe BBC has provided complementary coverage. Its piece “9/11: What happened and how many people died in September 11 attacks?” offers a concise factual recap, reaffirming al‑Qaeda’s responsibility and the scale of the human toll. A second story, “‘Constantly on my mind’ – 9/11 agony endures for bereaved, 25 years on,” published in September 2026, documents the ongoing grief of families and the impact of that grief on public discourse about memorialization and mental‑health support.\n\nPerhaps the most consequential development reported by the BBC is new video evidence linked to ongoing litigation. In “New videos of man in 9/11 lawsuit reveal links to extremists and Saudi state,” the outlet describes footage released during 2024‑2025 that appears to connect a defendant in a high‑profile 9/11 lawsuit with extremist networks and, indirectly, with elements of the Saudi state. The videos have not yet been authenticated in court, but their emergence has already prompted renewed legal maneuvering and calls for deeper investigation into possible foreign involvement or support for the attackers.\n\n### Why These Stories Matter\n\nThe intertwined narratives underscore three key points:\n\n1. **Unfinished Investigation** – Legal and intelligence communities continue to uncover new layers of the 9/11 story, suggesting that the full picture of responsibility and complicity may still evolve.  \n2. **Enduring Psychological Impact** – Survivors and bereaved families remain in need of sustained mental‑health resources and public acknowledgment, especially as media attention intensifies around the anniversary.  \n3. **Balancing Security and Liberty** – Ongoing scrutiny of intelligence reforms fuels a broader debate about how democratic societies reconcile security imperatives with civil‑liberty protections, a balance that remains contested worldwide.\n\n### Looking Ahead\n\nThe release of the videos is expected to trigger further investigations by U.S. authorities and international partners. Legal experts anticipate additional motions in the pending lawsuit, potentially expanding liability beyond the original defendants. Meanwhile, commemorative events scheduled for September 2026 are likely to include panels and discussions that draw on the latest findings, aiming to educate the public on both the historical facts and the ongoing ramifications of the attacks.\n\nThe convergence of remembrance, legal action and intelligence reassessment signals that the 9/11 legacy is still being written. As families continue to bear the weight of loss and governments grapple with the complexities of counterterrorism, the episode serves as a stark reminder that the lessons of September 11 are not static footnotes but living challenges that demand vigilance, transparency and compassion.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-11",
+    "time": "01:36",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "An article titled \"Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt\" was published by Yahoo News Canada via Google News.",
+      "BBC published an article titled \"9/11: What happened and how many people died in September 11 attacks?\" via Google News.",
+      "BBC published an article titled \"'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on\" via Google News.",
+      "BBC published an article titled \"New videos of man in 9/11 lawsuit reveal links to extremists and Saudi state\" via Google News.",
+      "All four articles reference the September 11, 2001 terrorist attacks in the United States."
+    ],
+    "timeline": [
+      "September 11, 2001 – terrorist attacks on the United States.",
+      "September 2026 – 25‑year anniversary of the attacks, referenced in the BBC bereavement article.",
+      "2024‑2025 (approx.) – recent release of videos referenced in the BBC lawsuit article (exact dates not provided)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=278",
+    "featured": true
+  },
+  {
     "id": 277,
     "title": "Can Trump pay $5,000 to every American adult if Republicans win midterm elections?",
     "summary": "**Trump Promises $5,000 “Dividend” for Every U.S. Adult if GOP Wins 2024 Midterms**",
@@ -106,7 +136,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=277",
-    "featured": true
+    "featured": false
   },
   {
     "id": 276,

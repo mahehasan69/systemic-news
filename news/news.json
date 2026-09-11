@@ -1,5 +1,39 @@
 [
   {
+    "id": 281,
+    "title": "UK government rejects 'kill switch' idea for dangerous AI",
+    "summary": "**UK Government Rejects AI “Kill‑Switch” Proposal; NVIDIA Reaffirms Products Contain No Hidden Controls**",
+    "content": "**UK Government Rejects AI “Kill‑Switch” Proposal; NVIDIA Reaffirms Products Contain No Hidden Controls**\n\nThe United Kingdom’s government has formally dismissed a proposal to introduce a “kill switch” for artificial‑intelligence systems deemed dangerous, according to a BBC report. The statement, which does not carry a specific date, confirms that policymakers are not pursuing a technical back‑stop that would allow an AI system to be shut down remotely or automatically in the event of hazardous behaviour.\n\nIn a separate communication, NVIDIA – a leading supplier of graphics‑processing units and AI hardware – reiterated that its products are built without hidden control mechanisms. In an undated blog post titled “No Backdoors. No Kill Switches. No Spyware,” the company asserted that its hardware and software contain no backdoors, no kill‑switch functionality and no spyware components. The post was issued as a direct response to concerns about covert or involuntary control features in AI‑related technologies.\n\nBoth disclosures were identified through a news‑aggregation search on news.google.com, which linked the two narratives under a combined headline referencing the UK government’s stance and NVIDIA’s product assurances. The BBC article focuses exclusively on the governmental decision, while the NVIDIA blog entry provides the corporation’s perspective on product integrity and security. Neither source includes additional commentary, dates, or follow‑up actions.\n\nThe absence of a kill‑switch policy from the United Kingdom’s regulatory agenda indicates that the government does not intend to mandate a universal shutdown capability for AI systems that might pose a risk. Likewise, NVIDIA’s declaration that its offerings lack any built‑in kill‑switch or backdoor suggests that the company’s hardware is designed without such mechanisms, aligning its product design with a non‑interventionist approach.\n\nNo further details have been released regarding the timing of the UK decision, the specific policy discussions that led to the rejection, or any alternative safety measures under consideration. Similarly, NVIDIA’s blog post does not elaborate on the technical architecture that ensures the absence of backdoors or kill switches, nor does it reference any regulatory requirements that prompted the clarification.\n\nStakeholders—including regulators, technology firms and civil‑society groups—are expected to monitor these positions as policy debates and industry statements concerning AI safety mechanisms continue. Until additional information emerges, the public record consists solely of the UK government’s refusal to adopt a kill‑switch approach and NVIDIA’s affirmation that its product line is free from covert control elements.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-11",
+    "time": "15:19",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      {
+        "source": "BBC",
+        "statement": "The UK government has rejected the idea of a 'kill switch' for dangerous AI."
+      },
+      {
+        "source": "NVIDIA Blog",
+        "statement": "NVIDIA states that its products have no backdoors, no kill switches, and no spyware."
+      }
+    ],
+    "timeline": [
+      {
+        "event": "UK government rejects kill switch idea",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=281",
+    "featured": true
+  },
+  {
     "id": 280,
     "title": "AI boom helps drive surprise UK growth in July",
     "summary": "**AI Boom Drives Unexpected UK Growth in July, BBC Reports**",
@@ -30,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=280",
-    "featured": true
+    "featured": false
   },
   {
     "id": 279,

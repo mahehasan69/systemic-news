@@ -1,5 +1,33 @@
 [
   {
+    "id": 288,
+    "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+    "summary": "**Anthropic CEO Calls for AI Development Pause Amid Growing Safety Concerns**",
+    "content": "**Anthropic CEO Calls for AI Development Pause Amid Growing Safety Concerns**\n\nAnthropic chief executive Dario Amodei has publicly urged the artificial‑intelligence industry to slow the rapid rollout of ever larger models. Speaking to the BBC, the Wall Street Journal and the South China Morning Post, Amodei argued that a reduced pace would give regulators, researchers and the public the time needed to evaluate safety implications.\n\nHis appeal reflects a widening alarm within the AI community. In a BBC interview, an Anthropic researcher estimated that there is “more than a 10 % chance that AI could kill all humans” if current development trajectories continue unchecked. OpenAI’s chief scientist echoed the sentiment, warning that “no one is prepared for the consequences of AI.” The concern is not merely theoretical: the Wall Street Journal reported that a senior Anthropic researcher resigned, citing “out‑of‑control” AI fears, underscoring internal unease at leading labs.\n\nAmodei reiterated the need for restraint in a separate interview with Michael West Media, and NDTV quoted him urging AI firms to temper the release of new models. The convergence of these messages highlights a broader apprehension about superintelligence and the perceived lack of robust control mechanisms.\n\nThe debate is sharpening in the public sphere. While some industry voices remain optimistic—BBC coverage cited a UK chip‑manufacturing chief who claimed AI would cure cancer within our lifetime—other commentators stress caution. Media outlets across North America, Europe and Asia have amplified coverage of AI safety, and public calls for a moratorium on new model releases have intensified. The Anthropic resignation adds a human dimension to abstract risk calculations, illustrating that insiders are willing to leave when they feel safety safeguards are insufficient.\n\nLooking ahead, analysts anticipate coordinated discussions among major AI firms to establish voluntary guidelines on model size, training data and deployment timelines. At the same time, governments are expected to consider policy proposals that could formalize safety standards, potentially leading to new legislation or dedicated oversight bodies. Observers warn that further resignations or public statements from AI researchers are likely if the gap between development speed and safety measures widens.\n\nThe episode marks a pivotal moment for artificial intelligence. Amodei’s appeal, reinforced by internal dissent and external expert warnings, signals that the sector may soon face a collective decision on the appropriate pace of advancement. Whether the industry adopts a slower, more cautious trajectory or continues its current acceleration will shape both the future of technology and the broader societal risks and benefits it entails.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-12",
+    "time": "17:30",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Dario Amodei, boss of Anthropic, called for AI development to slow down (BBC, WSJ, South China Morning Post, Yahoo News Canada)",
+      "Anthropic CEO urged AI firms to slow development (Michael West Media)",
+      "Anthropic researcher said there is more than a 10% chance AI could kill all humans (BBC)",
+      "OpenAI chief scientist warned no one is prepared for consequences of AI (BBC)",
+      "A boss of a UK chip giant claimed AI will cure cancer in our lifetime (BBC)",
+      "An Anthropic researcher quit over ‘out-of‑control’ AI fears (Wall Street Journal)",
+      "Anthropic CEO called for slowing development of AI models (NDTV)"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=288",
+    "featured": true
+  },
+  {
     "id": 287,
     "title": "Reform receives second £36m donation in two days as crypto investor matches record",
     "summary": "**Reform UK Receives £72 million in Two Consecutive £36 million Gifts from Cryptocurrency Billionaire Ben Delo**",
@@ -30,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=287",
-    "featured": true
+    "featured": false
   },
   {
     "id": 286,

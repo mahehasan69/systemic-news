@@ -1,5 +1,31 @@
 [
   {
+    "id": 286,
+    "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
+    "summary": "**BBC News Maps the Spectrum of Contemporary UK Politics**",
+    "content": "**BBC News Maps the Spectrum of Contemporary UK Politics**\n\nBBC News has published a series of pieces that together portray a cross‑section of modern British political life, ranging from intra‑party rivalries and legal accountability to community support for veterans and the ceremonial end of a premiership.\n\n**Conservative factionalism resurfaces**  \nThe article “Burnham and Badenoch revive red versus blue politics as Reform land ‘gobsmacking’ donation” examines the renewed partisan contest between senior Conservatives Mark Burnham and Grant Badenoch. It highlights a sizeable donation to the Reform Party—described by the outlet as “gobsmacking”—and argues that the contribution has sharpened the traditional colour‑coded rivalry that frames UK electoral battles.\n\n**Strategic planning behind a potential leadership bid**  \nIn “Henry Zeffman: How Burnham got ready to govern with four key moments mapped out,” journalist Henry Zeffman outlines four pivotal steps Burnham has taken in preparation for a possible leadership role. The analysis offers insight into the calculated blueprint that could shape his approach to governing.\n\n**Legal scrutiny of party conduct**  \n“Ex‑Tory campaign chief pleads guilty over election bet” shifts focus to accountability. The piece reports that a former Conservative campaign director admitted guilt in a betting scheme linked to an election, detailing the plea and its implications for party discipline and electoral integrity while refraining from naming the individual.\n\n**Community support for veterans**  \n“The Rochdale café where veterans ‘can be listened to and understood’” moves beyond Westminster to spotlight a local café that provides a listening space for military veterans. The feature underscores the social role such venues play in offering emotional support and fostering dialogue for those who have served.\n\n**Honours at the end of a premiership**  \nFinally, “Rishi Sunak’s resignation honours list – in full” publishes the complete roster of individuals slated to receive honours following Sunak’s resignation as prime minister. The list offers transparency into the customary recognitions granted at the close of a government’s term.\n\nTaken together, these articles illustrate the breadth of BBC News’ coverage of UK politics—from high‑level party maneuvering and legal scrutiny to grassroots community initiatives and the ceremonial aspects of governmental transition—providing readers with a multifaceted view of the forces shaping contemporary British public life.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-12",
+    "time": "11:19",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC published an article titled 'Burnham and Badenoch revive red versus blue politics as Reform land \"gobsmacking\" donation'.",
+      "BBC published an article titled 'Henry Zeffman: How Burnham got ready to govern with four key moments mapped out'.",
+      "BBC published an article titled 'Ex-Tory campaign chief pleads guilty over election bet'.",
+      "BBC published an article titled 'The Rochdale cafe where veterans \"can be listened to and understood\"'.",
+      "BBC published an article titled 'Rishi Sunak's resignation honours list - in full'."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=286",
+    "featured": true
+  },
+  {
     "id": 285,
     "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
     "summary": "**Saudi Arabia Closes Key East‑West Oil Pipeline After Drone Strike from Iraq**",
@@ -22,7 +48,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=285",
-    "featured": true
+    "featured": false
   },
   {
     "id": 284,

@@ -1,5 +1,30 @@
 [
   {
+    "id": 285,
+    "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+    "summary": "**Saudi Arabia Closes Key East‑West Oil Pipeline After Drone Strike from Iraq**",
+    "content": "**Saudi Arabia Closes Key East‑West Oil Pipeline After Drone Strike from Iraq**\n\nRiyadh shut the East‑West crude pipeline on Thursday after a drone attack launched from Iraqi territory ignited multiple fires at the facility. Saudi authorities confirmed the strike, describing it as the latest in a series of cross‑border assaults on Gulf energy infrastructure.\n\nUnmanned aerial vehicles took off from Iraq, entered Saudi airspace and struck the pipeline, setting off several blazes. Emergency crews moved quickly to contain the fires, and operators halted oil flow to prevent further damage and protect downstream installations.\n\nThe East‑West line is a strategic Hormuz bypass that links Saudi production hubs with export terminals on the Persian Gulf’s western coast. By routing crude around the Strait of Hormuz, the pipeline allows the kingdom to move petroleum products without traversing the narrow waterway that handles a large share of global oil shipments. Its closure removes a vital conduit for Saudi exports and could force shipments onto longer or more congested routes, although the precise impact on export volumes has not yet been quantified.\n\nThe incident highlights the growing security challenges facing the Gulf’s energy sector. Drone and missile strikes have become increasingly common tools for actors seeking to exert pressure or signal dissent, and the use of launch points in neighboring Iraq adds a cross‑border dimension to the threat landscape. Saudi officials warned that the attack raises concerns about the vulnerability of other critical infrastructure in the region.\n\nIn response, Saudi authorities said the pipeline will undergo a thorough inspection and repair before any decision on reopening is made. Restoration efforts will focus on extinguishing the remaining fires, assessing structural damage and implementing any necessary safety upgrades. At the same time, security forces remain on high alert for additional drone or missile attacks that could delay repairs or require further protective measures.\n\nThe episode underscores the susceptibility of high‑value energy assets to low‑cost, high‑impact weapons such as drones. As Saudi Arabia works to bring the East‑West line back online, the strike is expected to prompt a reassessment of security protocols for similar facilities and reinforce the strategic importance of maintaining diversified export routes capable of withstanding sudden disruptions.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-12",
+    "time": "06:37",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Saudi Arabia closed a key oil pipeline after a drone attack.",
+      "The drone attack was launched from Iraq.",
+      "The pipeline is an East‑West line that serves as a crucial Hormuz bypass for Saudi oil.",
+      "The attack triggered fires at the pipeline site."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=285",
+    "featured": true
+  },
+  {
     "id": 284,
     "title": "Reform receives record £36m donation from crypto billionaire",
     "summary": "**Record £36 million Gift Boosts Reform UK Ahead of Local Elections**",
@@ -20,7 +45,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=284",
-    "featured": true
+    "featured": false
   },
   {
     "id": 283,

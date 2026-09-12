@@ -1,5 +1,38 @@
 [
   {
+    "id": 289,
+    "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
+    "summary": "**Former U.S. President Donald Trump Praises Irish Unification During Dublin Golf Stop, Prompting Unionist Backlash**",
+    "content": "**Former U.S. President Donald Trump Praises Irish Unification During Dublin Golf Stop, Prompting Unionist Backlash**\n\n*Dublin, 12 September 2026* – While attending a scheduled golf tournament in Ireland, former President Donald Trump used a press briefing on the sidelines to voice strong support for a united Ireland. Describing the prospect as “fantastic,” “inevitable” and “a very cool thing,” Trump said he would “love” to see the island become a single nation.\n\nThe comments, made in Dublin where Trump’s entourage had arrived for the event, immediately drew condemnation from pro‑British unionist groups. These organisations, which advocate for Northern Ireland’s continued political union with the United Kingdom, characterised Trump’s remarks as unwelcome interference in Irish domestic affairs. Their swift rebuke highlighted the sensitivity of the constitutional question and set the stage for a broader political debate that quickly spilled into the media.\n\nInternational news outlets amplified the story, noting the rarity of a former U.S. president weighing in on the island’s constitutional future. Coverage described the episode as a “major political row” in Dublin, underscoring the intensity of the reaction among politicians, community leaders and the public. The heightened attention has also placed the golf tournament—originally the sole focus of Trump’s visit—under increased scrutiny.\n\nIrish unification, the potential merger of the Republic of Ireland and Northern Ireland into a single sovereign state, has been a recurring theme in Irish and British politics for decades. While the issue is routinely debated in diplomatic and legislative circles, Trump’s public endorsement adds an unexpected external dimension. The unionist response illustrates the deep divisions that persist on the island, and the rapid media amplification demonstrates how statements from high‑profile foreign figures can reshape public discourse.\n\nAt present, no further remarks have been issued by Trump or by Irish officials. The tournament is set to proceed as planned, providing the backdrop for any subsequent developments. Unionist leaders have signalled their intention to continue opposing external endorsements of unification, whereas supporters of a united Ireland may view Trump’s comments as a morale boost.\n\nThe incident is likely to remain a focal point in both Irish domestic politics and international coverage until the tournament concludes and formal responses are recorded. It underscores how external commentary can intersect with deeply rooted national issues and may influence how future foreign figures address the island’s constitutional questions.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-12",
+    "time": "19:45",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump said Irish unification would be “fantastic”.",
+      "Donald Trump said he would “love” to see a united Ireland.",
+      "Donald Trump said a united Ireland is “inevitable” and “a very cool thing”.",
+      "Trump made these statements while visiting Ireland for a golf tournament.",
+      "Trump visited Dublin, Ireland.",
+      "Pro‑British unionists publicly rejected Trump’s call for a united Ireland.",
+      "Trump’s remarks sparked a political row in Dublin."
+    ],
+    "timeline": [
+      {
+        "event": "Donald Trump visits Ireland for a golf tournament and makes statements on Irish unification",
+        "date": "unspecified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=289",
+    "featured": true
+  },
+  {
     "id": 288,
     "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
     "summary": "**Anthropic CEO Calls for AI Development Pause Amid Growing Safety Concerns**",
@@ -25,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=288",
-    "featured": true
+    "featured": false
   },
   {
     "id": 287,

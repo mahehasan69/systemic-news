@@ -1,5 +1,38 @@
 [
   {
+    "id": 287,
+    "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+    "summary": "**Reform UK Receives £72 million in Two Consecutive £36 million Gifts from Cryptocurrency Billionaire Ben Delo**",
+    "content": "**Reform UK Receives £72 million in Two Consecutive £36 million Gifts from Cryptocurrency Billionaire Ben Delo**\n\nReform UK has been bolstered by a total of £72 million in donations from a single source over a two‑day period. The contributions, each worth £36 million, were made by cryptocurrency entrepreneur Ben Delo, a billionaire whose wealth derives from digital‑currency ventures.\n\nThe first £36 million donation was recorded on “Day 1,” although the exact date has not been disclosed in the available reports. A second, identical contribution followed on “Day 2,” completing the rapid succession of large gifts. Both donations were reported as separate events, and each was attributed to Delo.\n\nThe size and timing of the gifts were confirmed by the BBC, which identified Delo as a “cryptocurrency billionaire.” The same figures and timeline have been echoed by several other outlets, including AOL.com, LBC and The Telegraph, lending further credibility to the reports.\n\nThe scale of the donations is notable. A single donor contributing £72 million to a political party within a fortnight is an uncommon occurrence in UK political financing, prompting widespread media attention and raising questions about the impact of such funding on the party’s activities.\n\nAt present, Reform UK has not issued a public statement regarding the donations, and Delo has not responded to media inquiries. Details about how the party intends to allocate the funds, or whether any conditions are attached, remain undisclosed.\n\nFuture coverage will focus on any statements from Reform UK, potential regulatory scrutiny, and the broader implications for political funding in the United Kingdom.",
+    "category": "₿ Crypto",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-12",
+    "time": "14:29",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A second donation of £36 million was made to Reform UK within a two‑day period.",
+      "The donor is identified as a cryptocurrency billionaire, named Ben Delo in a BBC article.",
+      "Multiple outlets (BBC, AOL.com, LBC, The Telegraph) report the same donation amount and timeframe."
+    ],
+    "timeline": [
+      {
+        "event": "First £36 million donation to Reform UK",
+        "timeframe": "Day 1 (date not specified)"
+      },
+      {
+        "event": "Second £36 million donation to Reform UK",
+        "timeframe": "Day 2 (within two days of the first donation)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=287",
+    "featured": true
+  },
+  {
     "id": 286,
     "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donation",
     "summary": "**BBC News Maps the Spectrum of Contemporary UK Politics**",
@@ -23,7 +56,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=286",
-    "featured": true
+    "featured": false
   },
   {
     "id": 285,

@@ -1,5 +1,34 @@
 [
   {
+    "id": 293,
+    "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
+    "summary": "**One dead, 102 rescued as search continues for 140 missing passengers on Java Sea ferry**",
+    "content": "**One dead, 102 rescued as search continues for 140 missing passengers on Java Sea ferry**\n\nA ferry carrying 243 passengers and crew disappeared while traversing the Java Sea, a major maritime route linking Java and Bali. Indonesian rescue teams have confirmed one fatality and have brought 102 survivors to safety. The whereabouts of the remaining 140 passengers are still unknown, and a large‑scale search operation remains underway.\n\nThe vessel was reported missing amid “rough seas,” a condition cited by *BusinessToday* as a possible factor in the loss of contact. Shortly after the disappearance was reported, boats and helicopters were dispatched to the area. Rescue crews retrieved the 102 survivors from the water and transferred them to nearby ports for medical evaluation. The single confirmed death was recovered during the same operation.\n\nThe National Search and Rescue Agency (Badan SAR Nasional) is coordinating the ongoing effort, deploying additional vessels and aerial assets to sweep the waters around the ferry’s last known position. Officials have urged families of the missing to remain patient as the search continues.\n\nA formal investigation has been launched to determine the precise cause of the incident. Authorities will examine weather conditions, vessel maintenance records, and compliance with safety regulations. The probe is expected to produce a detailed report that could lead to stricter enforcement of vessel inspections and enhanced weather‑monitoring protocols for inter‑island ferries.\n\nThe incident highlights the vulnerability of Indonesia’s heavily relied‑upon maritime transport network. While the confirmed loss of life is limited to a single individual, the large number of passengers still unaccounted for has raised concerns about existing safety procedures and emergency response capabilities.\n\nAuthorities have pledged to sustain the search until all missing passengers are accounted for. Families are being kept informed of progress, and community support networks have mobilized to assist those affected. The outcome of the investigation is likely to shape future policies on ferry safety and emergency preparedness, aiming to prevent similar tragedies in Indonesia’s busy sea lanes.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-13",
+    "time": "06:52",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The ferry was reported missing in the Java Sea off Indonesia",
+      "The ferry was carrying 243 people on board",
+      "One person was confirmed dead",
+      "102 people were rescued"
+    ],
+    "timeline": [
+      "Ferry reported missing in the Java Sea (date not provided in sources)",
+      "Rescue operations recovered 102 survivors and one deceased person",
+      "Search continued for the remaining passengers"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=293",
+    "featured": true
+  },
+  {
     "id": 292,
     "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
     "summary": "**Anthropic Employees Warn of AI Risks, Call for Industry Slowdown**",
@@ -21,7 +50,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=292",
-    "featured": true
+    "featured": false
   },
   {
     "id": 291,

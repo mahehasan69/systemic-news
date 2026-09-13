@@ -1,5 +1,72 @@
 [
   {
+    "id": 298,
+    "title": "Zverev caps transformational year with US Open triumph",
+    "summary": "**Alexander Zverev Wins Second Grand Slam at the US Open**",
+    "content": "**Alexander Zverev Wins Second Grand Slam at the US Open**\n\nGerman star Alexander Zverev captured his second Grand Slam title on the hard courts of New York, defeating American rising talent Ben Shelton in a five‑set thriller to claim the 2026 US Open crown. In the aftermath, tennis legend Rod Laver sent a personal congratulatory message, lauding Zverev’s composure and tactical acumen throughout the match. During the post‑match interview, Zverev questioned whether the Arthur Ashe Stadium crowd had been fair to him during the contest—a remark that quickly spread across social media and sports commentary.\n\n**USA Women’s Basketball Secures Fifth Straight World Cup**\n\nAcross the Atlantic, the United States women’s basketball team added a fifth consecutive FIBA World Cup title to its résumé, cementing a decade‑long dominance that began in 2016. The 2026 victory marked the team’s uninterrupted run of major international tournament wins over the past ten years, a feat celebrated by USA Basketball officials and fans alike as a testament to the program’s depth and continuity.\n\n**Emerging Talents on the ATP and WTA Tours**\n\nBritain’s Arthur Fery advanced to the semi‑finals of the Winston‑Salem Open after a straight‑sets win over Serbia’s Aleksandar Kovacevic. The victory underscores Fery’s growing presence on the ATP circuit and sets up a potential clash with higher‑ranked opponents in the next round.\n\nAt Wimbledon, British teenager Katie Swan recorded a notable triumph on the iconic SW19 courts. Having previously contemplated retirement, Swan’s 2026 win adds a compelling chapter to her career and highlights the resilience required to thrive under the pressures of elite competition.\n\n**BBC’s Cultural Initiatives and Sports Analysis**\n\nThe BBC launched a “Free wills month” campaign in 2026, delivering a series of multimedia pieces and community events designed to spark public discourse on personal autonomy and decision‑making in contemporary society. In a separate interview, comedian and writer David Mitchell explored the enduring appeal of “cosy crime” fiction, describing the genre as a comforting escape that blends mystery with familiar, often domestic, settings.\n\nIn sports broadcasting, the BBC provided an in‑depth statistical breakdown and talking points ahead of the high‑profile Arsenal versus Manchester United match. The analysis highlighted key player metrics, tactical trends and historical head‑to‑head data, offering viewers a comprehensive framework for understanding the stakes of the encounter and exemplifying the broadcaster’s commitment to data‑driven insight alongside traditional commentary.\n\n**Looking Ahead**\n\nZverev’s US Open triumph positions him as a favorite heading into the upcoming ATP Masters events, where he will look to build on his Grand Slam success. The USA women’s basketball squad will turn its focus to the next Olympic cycle, aiming to extend its record of consecutive titles. Arthur Fery’s semi‑final at Winston‑Salem and Katie Swan’s Wimbledon campaign will be closely monitored for signs of future breakthroughs. The BBC’s “Free wills month” will continue through the remainder of the year, with additional programming slated to deepen public engagement on personal autonomy. Finally, the Arsenal‑Manchester United fixture later this season promises another data‑rich narrative for fans and commentators alike.\n\n**Summary**\n\nThe year 2026 has delivered a blend of historic achievements, emerging storylines and cultural initiatives that illustrate the dynamic interplay between sport, media and society. From Zverev’s hard‑earned Grand Slam victory to the USA women’s basketball team’s unprecedented fifth straight World Cup, these verified milestones serve as touchstones for a year marked by both continuity and change.",
+    "category": "⚽ Sports",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-13",
+    "time": "23:44",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Alexander Zverev defeated Ben Shelton in the US Open 2026 final, earning his second Grand Slam title.",
+      "Rod Laver sent a message to Alexander Zverev after Zverev won the US Open.",
+      "Alexander Zverev commented on whether the US Open crowd were fair to him during the final against Ben Shelton.",
+      "The United States women's basketball team claimed its fifth consecutive World Cup title.",
+      "Arthur Fery beat Aleksandar Kovacevic at the Winston‑Salem Open to reach the semi‑finals.",
+      "Katie Swan won a match at Wimbledon 2026 on the SW19 courts after having considered retirement.",
+      "BBC promoted a \"Free wills month\" campaign.",
+      "David Mitchell discussed public affection for \"cosy crime\" in an interview.",
+      "BBC provided key stats and talking points for an Arsenal vs Manchester United match."
+    ],
+    "timeline": [
+      {
+        "event": "US Open 2026 final – Alexander Zverev vs Ben Shelton",
+        "date": "2026"
+      },
+      {
+        "event": "Rod Laver sends message to Zverev after US Open win",
+        "date": "2026"
+      },
+      {
+        "event": "Zverev gives verdict on US Open crowd fairness",
+        "date": "2026"
+      },
+      {
+        "event": "Winston‑Salem Open – Arthur Fery reaches semi‑finals",
+        "date": "2026"
+      },
+      {
+        "event": "Women's Basketball World Cup – USA wins fifth title",
+        "date": "2026"
+      },
+      {
+        "event": "Wimbledon 2026 – Katie Swan victory on SW19",
+        "date": "2026"
+      },
+      {
+        "event": "Free wills month campaign launch",
+        "date": "2026"
+      },
+      {
+        "event": "David Mitchell interview on cosy crime",
+        "date": "2026"
+      },
+      {
+        "event": "Arsenal vs Manchester United match analysis",
+        "date": "2026"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=298",
+    "featured": true
+  },
+  {
     "id": 297,
     "title": "'Culture shift' needed in how UK does business, PM urges",
     "summary": "**UK Political and Economic Claims Involving Labour Leader Andy Burnburn: An Overview**",
@@ -79,7 +146,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=297",
-    "featured": true
+    "featured": false
   },
   {
     "id": 296,

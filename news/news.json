@@ -1,5 +1,32 @@
 [
   {
+    "id": 295,
+    "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through",
+    "summary": "**Russian Fire Strikes Train Near Poland‑Ukraine Border as Boris Johnson Visits**",
+    "content": "**Russian Fire Strikes Train Near Poland‑Ukraine Border as Boris Johnson Visits**\n\nA train traveling through the border region between Poland and Ukraine was hit by Russian fire on a day when former British prime minister Boris Johnson and a delegation of European officials were in the area. The incident, reported by the BBC, Euronews, *Der Spiegel* (UA.NEWS), *The Telegraph*, *Daily Kos* and *Наша Ніва*, underscores the growing risk to civilian infrastructure in zones adjacent to the war in Ukraine.\n\nThe strike occurred shortly after Johnson and the European officials completed a visit to the Poland‑Ukraine frontier. While the exact date of the trip has not been disclosed, multiple sources confirm that the train was hit “shortly thereafter” by a Russian weapon system described as either a drone or artillery. The attack damaged the rolling stock; authorities have not confirmed any injuries, fatalities, or the full extent of service disruption.\n\nThe presence of high‑profile political figures has drawn renewed attention to security along the EU’s eastern flank. The Poland‑Ukraine border is a critical conduit for humanitarian aid and commercial traffic supporting Ukraine’s war effort, and it has repeatedly been the scene of cross‑border incidents involving Russian forces. Targeting a train—vital for both passengers and freight—highlights the vulnerability of transport corridors that lie close to active combat zones.\n\nSince Russia’s invasion of Ukraine in February 2022, Russian forces have used drones and artillery to strike infrastructure in neighboring states, a pattern that aligns with the tactics reported in this incident. The Russian government has not claimed responsibility for the train strike, but the method fits a broader strategy aimed at disrupting supply lines and pressuring NATO members.\n\nIn the immediate aftermath, Polish authorities began assessing damage to the train and the surrounding rail network. Preliminary reports suggest that service on the affected line may be temporarily suspended while repairs are carried out, though officials have not provided a timeline for restoration. Security services are investigating the weapon used and any possible breaches of international law.\n\nThe episode is likely to prompt emergency discussions within the European Union’s foreign policy apparatus and among NATO partners about regional stability and the safety of political missions near the front line. It also raises questions about travel protocols for officials operating in conflict‑adjacent areas.\n\nThe incident serves as a stark reminder that the spill‑over effects of the Ukraine war continue to threaten civilian infrastructure beyond Ukraine’s borders. Rail lines remain a lifeline for humanitarian aid and economic activity; any disruption carries significant consequences for surrounding communities and for the broader effort to support Ukraine.\n\n**Key takeaway:** The Russian strike on a train near the Poland‑Ukraine border, occurring while Boris Johnson and European officials were nearby, highlights the persistent danger to civilian transport routes in conflict‑adjacent zones and may lead to heightened security measures for political delegations operating in the region.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-13",
+    "time": "16:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A train was struck/attacked by Russian forces near the Poland‑Ukraine border region.",
+      "Boris Johnson and European officials were in the vicinity of the border at the time of the strike."
+    ],
+    "timeline": [
+      "Boris Johnson and European officials traveled through the Poland/Ukraine border area (date not specified).",
+      "Shortly thereafter, a train in the same region was struck by Russian forces (reported by multiple outlets).",
+      "News reports published by BBC, euronews.com, Spiegel (UA.NEWS), The Telegraph, Daily Kos, and Наша Ніва (dates not provided)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=295",
+    "featured": true
+  },
+  {
     "id": 294,
     "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
     "summary": "**Reform UK’s Record Crypto Donations Spark Debate Over Political‑Funding Rules**",
@@ -28,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=294",
-    "featured": true
+    "featured": false
   },
   {
     "id": 293,

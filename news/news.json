@@ -1,5 +1,29 @@
 [
   {
+    "id": 292,
+    "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+    "summary": "**Anthropic Employees Warn of AI Risks, Call for Industry Slowdown**",
+    "content": "**Anthropic Employees Warn of AI Risks, Call for Industry Slowdown**\n\n*Former researchers and CEO Dario Amodei say the rapid pace of artificial‑intelligence development could threaten humanity, urging a more cautious approach.*\n\nA growing chorus of concern is emerging from within Anthropic, the AI startup founded in 2021 by former OpenAI executives. In recent interviews with the BBC, an ex‑Anthropic researcher said employees are “genuinely frightened” for the future of the species, while CEO Dario Amodei publicly called for a deliberate slowdown in the field. An AI‑safety researcher who recently left the company added that “the world is in peril,” underscoring the depth of the alarm.\n\nThe statements follow a series of internal departures. The safety researcher’s resignation note cited an inability to reconcile Anthropic’s rapid product rollout with the escalating risks posed by increasingly powerful language models. In a separate interview, the former employee described a workplace atmosphere in which “the anxiety is palpable,” noting that many colleagues share a sense of dread about the societal impact of the technology they are building.\n\nAnthropic has long marketed itself as a “human‑centered” AI developer, but the internal dissent highlights a tension between commercial ambition and safety stewardship. According to the BBC, the fear is not confined to a fringe group; it appears widespread among staff tasked with designing and testing large‑scale models. The researcher’s warning that “the world is in peril” reflects a belief that unchecked advancement could outpace existing governance frameworks, potentially leading to outcomes ranging from misinformation amplification to broader systemic disruptions.\n\nThe internal alarm arrives amid a global debate over AI governance. Policymakers in the United States, Europe and Asia have recently convened to discuss regulatory approaches, and several technology firms have pledged to adopt “responsible AI” principles. Anthropic’s public acknowledgment of the need for a slowdown adds an insider perspective to those discussions and may influence the industry’s trajectory, encouraging other companies to reassess timelines for deploying next‑generation models.\n\nAnthropic has not yet disclosed a concrete plan for decelerating its research pipeline or for implementing new safety protocols. However, the public comments from both the former researcher and Amodei suggest that internal reviews are under way. Industry observers anticipate that the company could align its development schedule with emerging regulatory guidelines, potentially pausing high‑risk projects while increasing investment in safety‑focused research.\n\nThe episode marks a rare convergence of internal dissent and executive advocacy for restraint. As AI systems become ever more capable, the balance between innovation and safety is likely to shape not only the fortunes of individual firms but also the broader societal impact of the technology. The coming weeks will reveal whether Anthropic’s call for a slowdown translates into concrete policy changes and whether the wider AI community will heed the warning that “the world is in peril.”",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-13",
+    "time": "01:33",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "An ex-Anthropic researcher told the BBC that AI staff are \"genuinely frightened\" for humanity's future.",
+      "Dario Amodei, the boss of Anthropic, called for AI development to be slowed down, as reported by the BBC.",
+      "An Anthropic AI safety researcher quit and warned that the \"world is in peril\", according to a BBC article."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=292",
+    "featured": true
+  },
+  {
     "id": 291,
     "title": "Will the Thirlwall report change the debate about Lucy Letby?",
     "summary": "**Renewed Calls for Accountability in England’s Neonatal Services as Lucy Letby Retrial Bid and NHS Scrutiny Intensify**",
@@ -60,7 +84,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=291",
-    "featured": true
+    "featured": false
   },
   {
     "id": 290,

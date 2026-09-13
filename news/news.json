@@ -1,5 +1,36 @@
 [
   {
+    "id": 294,
+    "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+    "summary": "**Reform UK’s Record Crypto Donations Spark Debate Over Political‑Funding Rules**",
+    "content": "**Reform UK’s Record Crypto Donations Spark Debate Over Political‑Funding Rules**\n\nReform UK, the right‑leaning think‑tank, has disclosed that it received a total of **£108 million** in donations from cryptocurrency investors in less than a week – a development that has ignited a fresh political controversy over the adequacy of the United Kingdom’s rules on party financing.\n\n**Two large tranches**\n\nThe first tranche, announced by the BBC and the *Evening Standard*, amounted to **£72 million** from a group of crypto investors. Within 48 hours a second donation of **£36 million** arrived from a single crypto billionaire, matching the organisation’s previous record contribution. The combined inflow makes the donations the largest ever recorded for a UK political entity.\n\n**Legal compliance affirmed**\n\nConservative minister for housing and planning **Robert Jenrick** responded that the gifts are “entirely in line with the law,” a view echoed by the *Evening Standard*. Under current legislation, political parties may accept unlimited sums provided the donor’s identity is disclosed and the money is transferred through a UK‑based bank account.\n\n**Labour’s call for limits**\n\nLabour deputy leader **Angela Rayner** seized on the revelations, warning that “you can’t buy your way into democracy.” In remarks reported by *The Independent*, Rayner suggested that a new legislative measure could be introduced to cap large political donations. *The Guardian* later noted that her comments implied the £72 million could fall within the scope of a forthcoming bill aimed at limiting the size of contributions.\n\n**Crypto wealth meets political finance**\n\nThe episode sits at the intersection of two broader trends: the rapid accumulation of wealth among cryptocurrency investors and the long‑standing scrutiny of political funding in the UK. While existing rules impose transparency requirements, crypto assets can be transferred quickly and with limited traceability, exposing potential gaps in oversight. Reform UK’s acceptance of the crypto‑derived gifts highlights how emerging financial channels may bypass traditional monitoring mechanisms.\n\n**Stakeholder positions**\n\n- **Government side** – Jenrick and supporters argue that the current framework already covers the donations and that tightening the rules could deter legitimate support.\n- **Opposition side** – Rayner and other critics contend that the sheer magnitude of the gifts creates an uneven playing field and erodes public confidence in the democratic process.\n\nThe issue has already prompted media commentary and parliamentary questioning, suggesting it will remain on the legislative agenda.\n\n**Prospects for reform**\n\nRayner’s suggestion of a cap has revived discussion of a new bill that would set upper limits on political contributions, potentially extending to assets transferred via cryptocurrency. No formal proposal has been tabled, and the timing of any legislation remains uncertain. However, the rapid succession of the two record‑breaking donations has accelerated calls for reform, and observers expect a formal debate in the next parliamentary session.\n\n**Conclusion**\n\nWhile the £108 million in crypto‑derived donations to Reform UK are legally permissible under existing statutes, the public outcry underscores a growing demand for clearer limits on the influence of newly wealthy crypto investors. The outcome of any forthcoming legislative initiative will test whether the UK’s political‑financing framework can adapt to an evolving financial landscape while preserving equitable and transparent democratic participation.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-13",
+    "time": "12:24",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Reform UK received £72 million in donations, reported across multiple news outlets.",
+      "Robert Jenrick stated the donations are entirely in line with the law.",
+      "Angela Rayner criticized the donations, saying you can't buy your way into democracy.",
+      "Reform received a second £36 million donation within two days, matching a record.",
+      "Reform received a record £36 million donation from a crypto billionaire.",
+      "Rayner suggested a new bill could cap such donations.",
+      "The Independent reported Rayner hinted at a donations cap after the £72m donations.",
+      "The Guardian reported that the £72m donations may be caught by a new bill, according to Rayner.",
+      "The Evening Standard reported Jenrick's statement about legality.",
+      "The BBC reported the £72m donations and also the second £36m donation."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=294",
+    "featured": true
+  },
+  {
     "id": 293,
     "title": "One dead, 102 rescued from Indonesian ferry that went missing in Java Sea",
     "summary": "**One dead, 102 rescued as search continues for 140 missing passengers on Java Sea ferry**",
@@ -26,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=293",
-    "featured": true
+    "featured": false
   },
   {
     "id": 292,

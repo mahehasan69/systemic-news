@@ -1,5 +1,36 @@
 [
   {
+    "id": 303,
+    "title": "Macklemore dropped from Ed Sheeran tour after 'Free Palestine' speech",
+    "summary": "**Macklemore Removed from Ed Sheeran’s U.S. Tour After “Free Palestine” Comment**",
+    "content": "**Macklemore Removed from Ed Sheeran’s U.S. Tour After “Free Palestine” Comment**\n\nMacklemore, the Grammy‑winning hip‑hop artist, has been taken off the remainder of Ed Sheeran’s United States tour following an on‑stage statement that included the phrase “Free Palestine.” The decision, reported by The Guardian, BBC, Variety and Rolling Stone, has sparked a wider debate about political expression at live music events.\n\nThe rapper had been serving as an opening act for Sheeran, performing before large, diverse audiences in multiple cities. During one concert, he paused his set to voice support for the Palestinian cause, explicitly saying, “Free Palestine.” The remark prompted an immediate reaction from concertgoers and quickly entered the news cycle.\n\nWithin days, Ed Sheeran’s management announced that Macklemore would no longer appear on any upcoming dates of the tour. The removal was attributed to a combination of factors. Critics argued that political messages have no place in a music concert, while reports indicated that external pressure—specifically from billionaire sports‑team owner Robert Kraft—was applied to Sheeran’s team. The convergence of public backlash and alleged outside influence created a climate in which the tour’s organizers felt compelled to act.\n\nIn a public statement, Macklemore defended his stance and emphasized his personal connection to Sheeran, describing the British singer‑songwriter as “a brother.” He reiterated his commitment to the cause he had voiced, while offering no details about future engagements.\n\nThe episode highlights the tension between artistic freedom and commercial considerations in the entertainment industry. By removing an opening act over a political remark, the tour’s management signaled a willingness to prioritize audience expectations and sponsor sensitivities over a performer’s right to express personal viewpoints on stage. Musicians, promoters and advocacy groups are now debating the boundaries of free speech in live performances and the potential repercussions for artists who address contentious geopolitical issues.\n\nObservers expect further comments from Ed Sheeran or his representatives clarifying the rationale behind the decision. Macklemore’s future engagements—whether on stage or in public discourse—remain uncertain as he navigates the fallout. The incident may also influence how other touring acts approach political statements, potentially leading to more cautious setlists or, conversely, a pushback against perceived censorship.\n\nThe case underscores the delicate balance large‑scale tours must strike between providing a platform for artistic expression and managing the commercial realities of a diverse, often politically charged audience. As the music industry continues to grapple with these issues, the Macklemore‑Sheeran episode serves as a high‑profile example of how a single on‑stage comment can reshape a touring schedule and ignite a nationwide conversation.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-14",
+    "time": "22:50",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Macklemore was removed from Ed Sheeran's US tour after delivering an on‑stage statement that included the phrase “Free Palestine”.",
+      "Multiple news outlets (The Guardian, BBC, Variety, FOX 13 Seattle, Page Six, The Independent, Rolling Stone, etc.) reported the removal.",
+      "The incident generated public backlash.",
+      "Macklemore publicly responded, describing Ed Sheeran as a brother."
+    ],
+    "timeline": [
+      "Macklemore performed as an opening act on Ed Sheeran's US tour.",
+      "During a show, Macklemore made an on‑stage statement saying “Free Palestine”.",
+      "The statement sparked backlash from audiences and media.",
+      "Within days, Ed Sheeran's team removed Macklemore from the remainder of the tour.",
+      "Macklemore issued a public response, calling Ed Sheeran a brother."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=303",
+    "featured": true
+  },
+  {
     "id": 302,
     "title": "Man admits drugging and raping wife over 20 years",
     "summary": "**British Man Pleads Guilty to Drugging and Raping Wife Over Two Decades**",
@@ -32,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=302",
-    "featured": true
+    "featured": false
   },
   {
     "id": 301,

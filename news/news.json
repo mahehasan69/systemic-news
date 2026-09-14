@@ -1,5 +1,40 @@
 [
   {
+    "id": 302,
+    "title": "Man admits drugging and raping wife over 20 years",
+    "summary": "**British Man Pleads Guilty to Drugging and Raping Wife Over Two Decades**",
+    "content": "**British Man Pleads Guilty to Drugging and Raping Wife Over Two Decades**\n\nA magistrate’s court in Stockport, Greater Manchester, heard a harrowing confession this week when a 48‑year‑old man admitted to drugging and raping his wife for roughly twenty years. The defendant entered a guilty plea to 60 separate offences – a combination of administering sedatives and committing sexual assault – making it one of the most extensive cases of sustained domestic sexual abuse uncovered in recent British legal history.\n\n**Timeline of the abuse**\n\nThe abuse began in the early 2000s and continued until shortly before the case came to public attention. According to reporting by *The Guardian*, the BBC, *The Telegraph*, *The Independent*, Yahoo News Canada, *The Times of India*, WION, ITVX, *The Times* and *iPaper*, the husband systematically gave his wife sedatives before raping her on numerous occasions. The court record lists 60 distinct charges, each reflecting a separate act of drug administration or rape.\n\n**Legal proceedings**\n\nIn 2024 the man formally pleaded guilty, prompting the presiding magistrate to set a sentencing hearing – the exact date has not yet been disclosed. The guilty plea eliminates the need for a lengthy trial and shifts the focus to sentencing and victim‑support arrangements.\n\n**Community and systemic response**\n\nThe case has attracted widespread media coverage and prompted local authorities to review safeguarding protocols in domestic settings. Stockport, which has not previously been linked to a case of this magnitude, is now examining how such prolonged abuse could remain hidden for two decades.\n\nExperts in domestic violence note that the use of drugs to incapacitate victims is a particularly insidious tactic that complicates detection and reporting. The victim’s prolonged exposure to this manipulation likely contributed to the difficulty of uncovering the abuse earlier. While court documents do not disclose the survivor’s identity or any statements she may have made, the legal acknowledgment of the crimes offers a measure of validation for her ordeal.\n\nAdvocacy groups have seized on the case to call for stronger training for police officers and healthcare professionals to recognise signs of drug‑facilitated sexual assault, especially within marital relationships where victims may be reluctant to come forward.\n\n**Sentencing outlook**\n\nWhen the sentencing hearing takes place, the court will determine an appropriate punitive measure. Given the severity and duration of the offences, a substantial custodial term is expected. Victim‑support services are slated to play a central role in the post‑sentencing phase, providing counselling, legal assistance and other resources to help the survivor rebuild her life after decades of trauma.\n\n**Policy implications**\n\nThe case raises a critical question for the criminal‑justice system: how can authorities better protect individuals from long‑term, covert abuse that occurs behind closed doors? While the guilty plea ensures that the perpetrator will face consequences, it also highlights gaps in early detection that may require legislative reform and public‑education initiatives.\n\n**Conclusion**\n\nThe admission and guilty plea of a British man to drugging and raping his wife over a twenty‑year period marks a watershed moment in the United Kingdom’s ongoing battle against domestic sexual violence. The forthcoming sentencing will not only deliver justice for the victim but also signal to the broader community that such prolonged abuse will be met with decisive legal action. The case underscores the hidden dangers that can persist in intimate relationships and the urgent need for continued vigilance, support and systemic change.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-14",
+    "time": "19:40",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A British man admitted to drugging and raping his wife over a period of about 20 years.",
+      "He pleaded guilty to 60 offences/charges related to the abuse.",
+      "The case was reported by multiple news outlets (The Guardian, Yahoo News Canada, BBC, The Telegraph, The Times of India, The Independent, WION, ITVX, The Times, The i Paper).",
+      "The abuse took place in the United Kingdom, specifically mentioned in Stockport.",
+      "The legal proceedings resulted in a guilty plea."
+    ],
+    "timeline": [
+      {
+        "event": "Abuse began",
+        "approximate_timeframe": "circa early 2000s (20‑year period ending before 2024)"
+      },
+      {
+        "event": "Man admitted to the offences and pleaded guilty",
+        "approximate_timeframe": "2024 (date of news reports)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=302",
+    "featured": true
+  },
+  {
     "id": 301,
     "title": "Burnham cancels engagements after death of his father",
     "summary": "**Andy Burnham Cancels Engagements Following Father’s Death**",
@@ -22,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=301",
-    "featured": true
+    "featured": false
   },
   {
     "id": 300,

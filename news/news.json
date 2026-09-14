@@ -1,5 +1,25 @@
 [
   {
+    "id": 299,
+    "title": "Will record donations to Reform go down as a moment of political change?",
+    "summary": "**BBC investigations reveal mounting controversy over Reform UK’s funding and internal discipline**",
+    "content": "**BBC investigations reveal mounting controversy over Reform UK’s funding and internal discipline**\n\nA series of BBC reports has thrust Reform UK – the right‑leaning party founded by former Conservative MP Nigel Farage – into the national spotlight. The investigations focus on large cryptocurrency‑related donations, alleged attempts to skirt the United Kingdom’s political‑funding rules, an internal disciplinary episode, and safety concerns raised by an MP’s family.\n\n**Crypto donations and transparency concerns**\n\nThe BBC’s first report highlighted that Reform UK has received “large” contributions from cryptocurrency sources. While the party has not disclosed the exact amounts, the size of the gifts has prompted questions about compliance with the Political Parties, Elections and Referendums Act 2000, which requires full transparency of political financing. Investigators suggest that the use of digital assets could make it easier to conceal donor identities and that some contributions may have been structured to evade existing donation limits. Reform UK has neither confirmed nor denied these allegations.\n\n**Internal disciplinary action**\n\nFurther reporting uncovered an internal disciplinary measure taken by the party’s leadership. A senior commentator – whose name was not released – was suspended pending a review and subsequently resigned after making public statements about Reform UK’s fundraising practices that the leadership deemed “inconsistent with party policy.” The episode underscores growing tension within the party as it seeks to balance a controversial fundraising model with its public image.\n\n**Safety concerns for an MP’s family**\n\nThe controversy also acquired a personal dimension when an MP from Reform UK reported that his family had received threats. The party alerted law‑enforcement authorities, but the police chief overseeing the investigation faced criticism for his handling of the case. Observers questioned whether the response was proportionate to the alleged risk, adding another layer to the public debate surrounding the party’s activities.\n\n**Broader implications**\n\nThe cumulative effect of these developments has intensified media scrutiny and sparked a wider discussion about the transparency of political donations in the UK. Reform UK’s increasing reliance on digital assets is being examined as a test case for how current legislation can adapt to emerging financial technologies. Critics argue that the party’s approach could erode confidence in the electoral system, while supporters contend that cryptocurrency donations are a legitimate, modern source of political support.\n\nWatchdog groups and opposition parties have called for stricter oversight and clearer guidance on crypto contributions. The reports suggest that the Electoral Commission – the body responsible for enforcing political‑funding rules – is likely to launch further inquiries. Reform UK may be required to disclose detailed information about its cryptocurrency income and demonstrate how it meets donor‑identification requirements.\n\n**Looking ahead**\n\nIn addition to potential regulatory scrutiny, the internal disciplinary episode indicates that Reform UK will continue to review its communications policies and the conduct of its representatives. The handling of the MP’s safety concerns may also be subject to an independent review, given the criticism directed at the police chief.\n\n**Conclusion**\n\nThe BBC’s investigations have placed Reform UK at the centre of a multifaceted controversy that intertwines financial transparency, internal governance and personal safety. The situation illustrates the challenges political parties face as they navigate new fundraising landscapes while adhering to established legal frameworks. As the Electoral Commission’s possible actions loom and internal reforms are debated, the party’s ability to restore public trust will depend on adopting clearer, more accountable donation practices and addressing the concerns of its members and the broader electorate.",
+    "category": "₿ Crypto",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-14",
+    "time": "01:53",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=299",
+    "featured": true
+  },
+  {
     "id": 298,
     "title": "Zverev caps transformational year with US Open triumph",
     "summary": "**Alexander Zverev Wins Second Grand Slam at the US Open**",
@@ -64,7 +84,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=298",
-    "featured": true
+    "featured": false
   },
   {
     "id": 297,

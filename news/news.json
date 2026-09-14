@@ -1,5 +1,30 @@
 [
   {
+    "id": 301,
+    "title": "Burnham cancels engagements after death of his father",
+    "summary": "**Andy Burnham Cancels Engagements Following Father’s Death**",
+    "content": "**Andy Burnham Cancels Engagements Following Father’s Death**\n\nManchester – Labour leader Andy Burnham has withdrawn from a series of scheduled public duties after the death of his father, Roy Burnham, an 86‑year‑old who had been living with Alzheimer’s disease. Family sources confirmed Roy Burnham’s passing, noting that the progressive neurodegenerative disorder had contributed to his declining health. While the exact date of death has not been released, the timing of Burnham’s cancellations suggests the loss occurred within the past 48 hours.\n\nIn accordance with standard practice for public officials coping with bereavement, Burnham promptly notified his office and the organizers of his upcoming commitments that he would be unavailable for at least two days. The cancelled engagements span a range of events slated for the coming days, although the specific nature of those appearances has not been disclosed.\n\nThe sudden change has required event hosts, colleagues and members of the public who expected Burnham’s participation to adjust their plans, in some cases securing alternative speakers or representatives. Although the disruption is limited to a short window, it highlights the logistical challenges that arise when a high‑profile figure withdraws on short notice.\n\nRoy Burnham’s battle with Alzheimer’s also underscores a broader public‑health issue. Alzheimer’s disease remains one of the leading causes of dementia worldwide, affecting millions of older adults and imposing significant emotional and caregiving burdens on families. The Burnham family’s experience reflects the personal toll of the illness and adds a human dimension to ongoing discussions about research funding, support services and caregiver assistance.\n\nAndy Burnham is expected to resume his public responsibilities once the immediate period of mourning has passed. No official statement has yet outlined a revised schedule, but standard protocol suggests that postponed engagements will be rescheduled at the earliest convenience of all parties involved. Observers will watch for updates from his office regarding his return to duties and any longer‑term adjustments to his calendar.\n\nThe episode serves as a reminder that public figures, despite their demanding roles, are subject to the same personal losses as anyone else. Burnham’s decision to cancel engagements reflects both respect for his family and acknowledgment of the emotional weight carried by those coping with the death of a loved one after a prolonged illness such as Alzheimer’s.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-14",
+    "time": "14:30",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham cancelled scheduled engagements following the death of his father.",
+      "His father's name was Roy Burnham.",
+      "Roy Burnham was 86 years old at the time of his death.",
+      "Roy Burnham suffered from Alzheimer’s disease."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=301",
+    "featured": true
+  },
+  {
     "id": 300,
     "title": "Watch: Why Russian strike on train could be sign of escalation",
     "summary": "**Russian Strikes Near the Ukraine‑Poland Border Heighten Escalation Fears Across Europe**",
@@ -60,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=300",
-    "featured": true
+    "featured": false
   },
   {
     "id": 299,

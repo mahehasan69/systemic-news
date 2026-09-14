@@ -1,5 +1,68 @@
 [
   {
+    "id": 300,
+    "title": "Watch: Why Russian strike on train could be sign of escalation",
+    "summary": "**Russian Strikes Near the Ukraine‑Poland Border Heighten Escalation Fears Across Europe**",
+    "content": "**Russian Strikes Near the Ukraine‑Poland Border Heighten Escalation Fears Across Europe**\n\nA Russian missile strike that hit a Ukrainian passenger train close to the Ukraine‑Poland border on Tuesday has sharpened concerns that Moscow is preparing a broader escalation of the war. The train, travelling on a line that runs parallel to the contested frontier, was struck just after a delegation of senior European officials, led by former British prime minister Boris Johnson, departed the platform. Eyewitnesses said the impact caused extensive damage to the rolling stock and halted rail services in the region; casualty figures have not yet been released.\n\nThe attack follows a series of recent incidents that have raised alarm in Warsaw and Brussels. Earlier this week a Russian strike demolished the apartment of a Ukrainian tennis player, and a drone narrowly missed Johnson as he left the same station. Russian officials have denied involvement in the drone incident, but Western governments have collectively accused Moscow of escalating the conflict.\n\nPolish prime minister Donald Tusk warned that “very intensive actions” from Russia are likely in the coming months. His assessment echoed remarks from the CIA director, who, during a recent visit to Moscow, identified a critical “seven‑to‑eight‑month window” in which Russia could intensify its campaign. The United Kingdom’s top security adviser added that a hard European winter might be leveraged to increase pressure on President Vladimir Putin, suggesting that seasonal conditions are factored into Moscow’s strategic calculations.\n\nIntelligence reports indicate that Russian forces are now deploying new jet‑powered drones that outpace Ukraine’s air‑defence systems. Defense analysts say daily launches of these unmanned platforms have already been linked to the train strike and the near‑miss drone attack on Johnson. While Russia denies direct involvement, the pattern of attacks points to an expanding reach of its offensive beyond the battlefield.\n\nThe heightened activity occurs against the backdrop of Ukraine’s 2024 incursion into Russian‑held territory, an operation that left hundreds of people unaccounted for. Russian authorities are now seeking answers about the missing individuals, adding a humanitarian dimension to an already volatile security environment.\n\nEuropean leaders view the developments as a test of NATO’s resolve. The proximity of the strikes to the Polish border has prompted Warsaw to reinforce border defenses and increase surveillance along key transport corridors. In Brussels, officials reiterated the alliance’s commitment to collective defence while urging diplomatic channels to de‑escalate the situation before winter exacerbates humanitarian and logistical challenges.\n\nPolish authorities are preparing for the “very intensive actions” Tusk warned about, including heightened readiness of border troops and the possible activation of additional air‑defence assets. The identified seven‑to‑eight‑month window suggests Moscow may schedule a series of operations designed to exploit seasonal vulnerabilities, making the coming months a focal point for NATO’s strategic planning. The United Kingdom’s security establishment is monitoring the situation closely, with the prospect of a harsh winter likely to shape diplomatic outreach and intelligence sharing with allies.\n\nThe recent Russian strikes near the Ukraine‑Poland border represent more than isolated incidents; they form part of a coordinated effort that blends kinetic attacks, advanced drone warfare and psychological pressure on European capitals. As the conflict enters a phase where winter conditions could be weaponised, the alliance’s ability to respond swiftly and cohesively will be critical in preventing further escalation and safeguarding the security of the continent.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-14",
+    "time": "07:17",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A Russian strike hit a train near the Ukraine‑Poland border (Article 1).",
+      "Europe faces a hard winter that could be used to keep pressure on Vladimir Putin, according to the UK Prime Minister's top security adviser (Article 2).",
+      "Polish Prime Minister Donald Tusk warned that \"very intensive actions\" from Russia are expected in the next months after recent strikes near the Polish border (Article 3).",
+      "Former UK Prime Minister Boris Johnson narrowly escaped a drone attack; Russia was accused of escalation (Article 4).",
+      "A Ukrainian tennis player's apartment was destroyed by a Russian strike (Article 5).",
+      "A Russian strike hit a Ukrainian train shortly after Boris Johnson and other top European officials left the station (Article 6).",
+      "After a visit by the CIA Director to Moscow, Polish Prime Minister Donald Tusk said Russia is preparing to escalate the war and identified a critical window of seven to eight months (Article 7).",
+      "Russia is deploying new jet‑powered drones that are outpacing Ukraine's air defences, with daily launches reported (Article 8).",
+      "Russians are seeking answers about hundreds of people missing after Ukraine's 2024 incursion (Article 10)."
+    ],
+    "timeline": [
+      {
+        "event": "Russian strike on train near Ukraine‑Poland border",
+        "source": "Article 1"
+      },
+      {
+        "event": "Boris Johnson and top European officials depart station",
+        "source": "Article 6"
+      },
+      {
+        "event": "Russian strike hits Ukrainian train shortly after departure",
+        "source": "Article 6"
+      },
+      {
+        "event": "Drone attack narrowly missed Boris Johnson",
+        "source": "Article 4"
+      },
+      {
+        "event": "Polish PM Donald Tusk warns of \"very intensive actions\" from Russia",
+        "source": "Article 3"
+      },
+      {
+        "event": "Polish PM cites a 7‑8 month critical window after CIA Director's Moscow visit",
+        "source": "Article 7"
+      },
+      {
+        "event": "Russia deploys new jet‑powered drones with daily launches",
+        "source": "Article 8"
+      },
+      {
+        "event": "Russians seek answers about hundreds missing after Ukraine's 2024 incursion",
+        "source": "Article 10"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=300",
+    "featured": true
+  },
+  {
     "id": 299,
     "title": "Will record donations to Reform go down as a moment of political change?",
     "summary": "**BBC investigations reveal mounting controversy over Reform UK’s funding and internal discipline**",
@@ -17,7 +80,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=299",
-    "featured": true
+    "featured": false
   },
   {
     "id": 298,

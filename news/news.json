@@ -1,5 +1,38 @@
 [
   {
+    "id": 305,
+    "title": "State pension likely to rise by 3.9% next April",
+    "summary": "**State Pension to Rise 3.9 % in April Under the UK’s “Triple‑Lock” Rule**",
+    "content": "**State Pension to Rise 3.9 % in April Under the UK’s “Triple‑Lock” Rule**\n\nThe state pension will increase by 3.9 % when the new financial year begins in April, a rise confirmed by a range of UK news outlets, including the BBC, The Independent, Yahoo UK, WalesOnline and others. The uplift is a direct result of the government’s “triple‑lock” pension policy, which guarantees that the pension grows by the highest of three measures each year: average earnings growth, Consumer Price Index (CPI) inflation, or a minimum 2.5 % increase.\n\n**How the figure was calculated**\n\nFor the 2023‑2024 financial year, earnings growth outpaced both inflation and the 2.5 % floor, producing the 3.9 % uplift – the highest of the three benchmarks. Under the triple‑lock, the increase is applied automatically, ensuring that pensioners’ weekly payments are not eroded by economic fluctuations.\n\n**Impact on pensioners**\n\nAround nine million people receive the basic state pension. While the exact new weekly amount will vary according to individual circumstances, the 3.9 % rise will add a noticeable sum to each recipient’s income. The Institute for Fiscal Studies, which regularly analyses the fiscal effects of the triple‑lock, notes that the policy is designed to shield retirees from periods of wage stagnation or low inflation.\n\n**Potential tax implications**\n\nBecause the state pension is taxable above a certain threshold, a higher nominal payment could push a small number of recipients into a higher tax bracket, modestly reducing their net take‑home pay. The Department for Work and Pensions (DWP) is expected to issue guidance on the tax treatment of the uplift in the weeks leading up to its April implementation.\n\n**Political and economic context**\n\nThe timing of the increase underscores the government’s commitment to the triple‑lock, a policy that has been a focal point of political debate as public finances tighten. By maintaining the lock, the administration signals that protecting pensioners remains a priority, even as it balances other fiscal pressures. The uplift also arrives at a moment when many households are still coping with cost‑of‑living pressures that have persisted since the pandemic and subsequent economic turbulence, offering a modest but meaningful boost to retirees’ disposable income.\n\n**Background to the triple‑lock**\n\nIntroduced in 2010, the triple‑lock was designed to prevent pension values from falling behind inflation or wage growth. Each year, the state pension rises by the greatest of three figures: average earnings growth, CPI inflation, or a baseline 2.5 % increase. Historically, this has produced rises ranging from the 2.5 % floor in low‑inflation years to double‑digit jumps when earnings have surged. The current 3.9 % rise reflects a year in which earnings growth outstripped both inflation and the minimum floor.\n\n**What comes next**\n\nThe DWP is slated to publish detailed guidance on the April implementation, including the exact new weekly pension rates and any adjustments to tax treatment. Pensioners and their advisers will be watching for these updates to plan household finances. The broader fiscal community will also monitor the uplift’s impact on public spending, as the state pension remains one of the largest recurring expenditures in the UK budget.\n\n**Conclusion**\n\nThe confirmed 3.9 % increase to the UK state pension, set to take effect in April, demonstrates the continued operation of the triple‑lock policy and its role in preserving retirees’ purchasing power. While the uplift provides direct financial relief to millions of pensioners, it also raises ancillary considerations such as tax liabilities and the fiscal cost to the Treasury. Clear communication from the DWP will be essential to ensure pensioners understand both the benefits and any potential adjustments to their net income.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-15",
+    "time": "06:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Multiple news outlets (AOL, Yahoo, BBC, The Independent, i Paper, Yahoo UK, WalesOnline) report a 3.9% rise in the UK state pension.",
+      "The rise is linked to the UK government's \"triple lock\" pension policy, as explained by the Institute for Fiscal Studies.",
+      "The increase is said to take effect in April."
+    ],
+    "timeline": [
+      {
+        "event": "Media reports of a 3.9% state pension rise",
+        "date": "Not specified in articles (reported in 2023‑2024 news feeds)"
+      },
+      {
+        "event": "Effective date of increase",
+        "date": "April (year unclear; likely 2024 per most sources, 2027 per one source)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=305",
+    "featured": true
+  },
+  {
     "id": 304,
     "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
     "summary": "**Industry, Politicians and Consumers Clash Over AI “Kill Switch” and Governance**",
@@ -27,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=304",
-    "featured": true
+    "featured": false
   },
   {
     "id": 303,

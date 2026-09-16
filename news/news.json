@@ -1,5 +1,37 @@
 [
   {
+    "id": 313,
+    "title": "Body found in search for missing three-year-old Noah Woods",
+    "summary": "**Body Recovered in Search for 3‑Year‑Old Noah Woods Ends Multi‑Day Operation in Suffolk**",
+    "content": "**Body Recovered in Search for 3‑Year‑Old Noah Woods Ends Multi‑Day Operation in Suffolk**\n\nSuffolk Police announced on Saturday that a body recovered from a lake near a local playground was that of three‑year‑old Noah Woods, who vanished three days earlier. The discovery, confirmed by a coalition of national outlets—including the BBC, The Guardian, The Times, Sky News, The Independent, Channel 4, Yahoo, ITVX and the East Anglian Daily Times—brings an intensive missing‑person search to a close and signals the start of a criminal investigation.\n\n**Disappearance and Immediate Response**  \nNoah Woods was reported missing on a Saturday morning after failing to return home from a playground in the Suffolk countryside. Within hours, Suffolk Police launched a coordinated search, deploying specialist divers to examine nearby water bodies and mobilising a large volunteer response. By the following day, hundreds of community members were combing fields, woods and waterways while police divers focused on the lake adjacent to the playground.\n\n**Discovery of the Body**  \nOn the third day of the operation, divers recovered a body from the lake. Police have not released details about the condition of the remains or the circumstances of the death, stating that a formal investigation will determine the cause and any contributing factors. The recovery ends the active rescue phase and shifts the focus to a criminal inquiry.\n\n**Scale of the Search Effort**  \nThe operation highlighted the community’s deep concern for child safety and the protocols that guide missing‑child investigations in the United Kingdom. Suffolk Police routinely enlist trained divers when water features are present near a disappearance site and call upon local volunteers to broaden the search perimeter. In this case, the involvement of hundreds of volunteers—who supplied equipment, manpower and a visible presence—underscored the collective urgency felt by residents.\n\n**Impact and Next Steps**  \nThe tragedy underscores the importance of rapid, coordinated action when a child goes missing and serves as a reminder of the hazards posed by nearby water bodies. It also brings to light the emotional toll on families and communities when a search ends in loss rather than reunion. By publicly confirming the recovery, news outlets have provided closure to a community that has been closely following the case.\n\nPolice have announced that a full investigation will now commence. Detectives will analyse forensic evidence from the lake, interview witnesses and review any surveillance footage from the playground and surrounding area. The Woods family has been notified and will receive support from police liaison officers as funeral arrangements are made. Authorities have pledged to issue further updates as the investigation progresses and have urged anyone with additional information to come forward.\n\nThe recovery of Noah Woods’ body marks a painful conclusion to the search but initiates a new phase aimed at understanding how the tragedy occurred and ensuring accountability. The coordinated effort by Suffolk Police, specialist divers and a broad volunteer base demonstrates the mechanisms in place to respond swiftly to missing‑child incidents, reinforcing the message that such disappearances are met with immediate, comprehensive action.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-16",
+    "time": "20:31",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A three‑year‑old boy named Noah Woods was reported missing.",
+      "A body was found during the search for Noah Woods.",
+      "Police divers were involved in the search.",
+      "Hundreds of volunteers participated in the search effort.",
+      "The search took place in Suffolk, England.",
+      "The discovery was reported by multiple news outlets (BBC, The Guardian, The Times, Sky News, The Independent, Channel 4, Yahoo, ITVX, East Anglian Daily Times)."
+    ],
+    "timeline": [
+      "Noah Woods, age 3, went missing from a playground in Suffolk.",
+      "Search operation launched involving police divers and hundreds of volunteers.",
+      "During the search, a body was discovered (reported as being in a lake by several outlets).",
+      "News outlets published reports of the discovery."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=313",
+    "featured": true
+  },
+  {
     "id": 312,
     "title": "EU chief backs plan for Canada to become 'associate member'",
     "summary": "**EU Faces a Confluence of Security, Climate, Health and Media Challenges**",
@@ -28,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=312",
-    "featured": true
+    "featured": false
   },
   {
     "id": 311,

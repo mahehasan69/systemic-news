@@ -1,5 +1,29 @@
 [
   {
+    "id": 314,
+    "title": "US interest rates raised for first time in three years",
+    "summary": "**Federal Reserve Raises Interest Rates for First Time in Three Years, Unanimous FOMC Vote**",
+    "content": "**Federal Reserve Raises Interest Rates for First Time in Three Years, Unanimous FOMC Vote**\n\nThe Federal Reserve announced on Thursday that it has increased its target interest rate for the first time since 2023, ending a three‑year period of steady rates. The move was approved unanimously by the Federal Open Market Committee (FOMC), signaling a broad consensus among policymakers that the economy can absorb tighter monetary conditions.\n\n**Why the hike was deemed necessary**\n\nFed officials cited persistent inflation that remains above the central bank’s 2 percent target as the primary catalyst for the decision. In recent weeks, former President Donald Trump publicly urged the Fed to act against rising prices, adding a political dimension that heightened the urgency of the policy shift. While the exact size of the increase was not disclosed, the unanimity of the vote underscores the committee’s assessment that the risks of allowing inflation to continue outweigh concerns about slowing growth.\n\n**Immediate impact on borrowers and businesses**\n\nThe rate increase will raise borrowing costs across a range of credit products, including mortgages, auto loans and credit‑card balances. Lenders typically pass higher policy rates on to borrowers, so monthly payments on variable‑rate loans are expected to climb, and new loan applicants will face steeper interest charges. For businesses, the cost of financing capital expenditures and operating cash flow will rise, prompting many firms to reassess investment plans and expansion strategies.\n\n**Broader economic implications**\n\nHigher borrowing costs tend to curb consumer spending, a major component of U.S. GDP, and can dampen the housing market by making mortgages less affordable. For companies, increased financing expenses may compress profit margins and influence hiring decisions. The Fed’s action reflects its dual mandate to achieve price stability while supporting maximum employment, acknowledging that unchecked inflation erodes real wages and savings, whereas overly restrictive policy could impede growth.\n\n**Future policy outlook**\n\nFed officials indicated that this hike could be the first of a series of adjustments if inflationary pressures remain entrenched. Market participants will be watching forthcoming Fed communications for clues about the timing and magnitude of any additional moves, as well as for updates to the central bank’s outlook on economic growth and labor markets.\n\n**What borrowers and businesses should consider**\n\n- **Consumers:** Review loan terms and consider locking in fixed‑rate options where available to mitigate the impact of rising rates.\n- **Financial institutions:** Expected to revise pricing models in line with the new policy rate, which may lead to higher credit‑card interest rates on existing balances.\n- **Businesses:** Firms with variable‑rate debt should incorporate higher financing costs into budgeting and capital‑allocation decisions.\n\nThe unanimous decision to raise rates after a three‑year hiatus marks a pivotal moment in U.S. monetary policy. By confronting persistent inflation and responding to heightened political pressure, the Federal Reserve has set a new trajectory for borrowing costs, consumer behavior and business investment. As the central bank hints at further hikes, stakeholders across the economy will be closely monitoring the pace and impact of the tightening cycle.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-16",
+    "time": "23:20",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Federal Reserve (Fed) delivered a rate hike, the first in years.",
+      "The vote on the rate hike was unanimous.",
+      "It is the first rate increase since 2023, i.e., the first in over three years."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=314",
+    "featured": true
+  },
+  {
     "id": 313,
     "title": "Body found in search for missing three-year-old Noah Woods",
     "summary": "**Body Recovered in Search for 3‑Year‑Old Noah Woods Ends Multi‑Day Operation in Suffolk**",
@@ -29,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=313",
-    "featured": true
+    "featured": false
   },
   {
     "id": 312,

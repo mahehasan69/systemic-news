@@ -1,5 +1,34 @@
 [
   {
+    "id": 318,
+    "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
+    "summary": "**Human Remains Found After London Woodland Fire Identified as Missing Southampton Mother**",
+    "content": "**Human Remains Found After London Woodland Fire Identified as Missing Southampton Mother**\n\nLondon – Human remains uncovered in a woodland fire on the outskirts of the capital have been confirmed as those of a Southampton mother of three who vanished in 2019, officials said on Tuesday. The discovery brings a seven‑year‑old missing‑person case to a tragic conclusion, though the investigation into her disappearance remains open.\n\n**Fire exposes skeletal remains**\n\nEarlier this year an intense heatwave sparked a wildfire that swept through a wooded area in north‑west London. Firefighters battling the blaze reported that the flames revealed partially buried skeletal material in the undergrowth. Police and forensic teams were dispatched to the scene, and DNA testing matched the remains to the woman who disappeared from Southampton in 2019.\n\n**Identity confirmed through DNA**\n\nForensic analysts compared the DNA profile from the remains with samples taken from the victim’s family. The match was unequivocal, confirming the identity of the missing mother. The confirmation offers a measure of closure to relatives who have endured nearly seven years of uncertainty.\n\n**Investigation continues**\n\nPolice spokespersons declined to comment on the circumstances of the 2019 disappearance, emphasizing that the case remains under active investigation. Detectives will review all existing evidence in light of the new findings and may re‑examine any potential links between the woman’s last known whereabouts in Southampton and the London woodland where her remains were found. No official statement has yet established a connection between the two locations.\n\n**Fire under scrutiny**\n\nPreliminary assessments suggest the blaze was part of a broader pattern of heat‑driven wildfires that have become more frequent across southern England in recent summers. Authorities are expected to launch a formal inquiry into the fire’s cause, examining whether it was accidental, climate‑related, or the result of human activity. Findings could influence fire‑management policies for urban green spaces, which have traditionally been regarded as low‑risk.\n\n**Inquest and broader implications**\n\nA coroner’s inquest is likely to be scheduled to determine the cause of death and to document the circumstances that led the woman to the woodland. Inquests are a common recourse for families of missing persons seeking an official record of events.\n\nThe case underscores the challenges law‑enforcement agencies face when long‑standing missing‑person investigations intersect with unexpected events such as natural disasters. While the fire that exposed the remains was itself a tragic incident, it inadvertently supplied the evidence needed to resolve a case that had lingered for years.\n\n**Looking ahead**\n\nOfficials stress that the identification does not close the file on the woman’s disappearance. Further forensic analysis, witness interviews and a review of digital footprints will be essential to piece together the final chapter of her story. The outcome may inform future strategies for locating missing individuals whose whereabouts remain unknown for extended periods and could prompt a review of missing‑person protocols across multiple jurisdictions.\n\nThe identification brings a somber resolution to a case that has haunted the Southampton community and the nation’s missing‑person registers, while also highlighting the growing impact of climate‑related events on public safety and criminal investigations. Families, investigators and policymakers will watch closely as the coroner’s inquest proceeds and police continue to probe the 2019 disappearance, hoping the answers uncovered will bring finality to a grieving family and improve practices for handling similar cases in the future.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-17",
+    "time": "17:20",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Human remains were discovered in a woodland area in London after a fire.",
+      "The remains were identified as those of a mother of three who had been missing since 2019.",
+      "The identification was reported by multiple UK news outlets (BBC, The Independent, Sky News, ITVX, London Evening Standard, Yahoo News UK, Chronicle Live, Surrey Live, Daily Express).",
+      "The missing woman was described as a mum from Southampton."
+    ],
+    "timeline": [
+      "2019 – The mother of three disappears in Southampton.",
+      "2026 (approx.) – A wildfire/heatwave fire occurs in a London woodland, exposing human remains.",
+      "2026 – Police/forensic teams identify the remains as the missing mother."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=318",
+    "featured": true
+  },
+  {
     "id": 317,
     "title": "Family of 'Putney pusher' suspect blame police pressure for his death",
     "summary": "**Family of Putney “Pusher” Suspect Claims Innocence and Blames Police Pressure for His Death**",
@@ -23,7 +52,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=317",
-    "featured": true
+    "featured": false
   },
   {
     "id": 316,

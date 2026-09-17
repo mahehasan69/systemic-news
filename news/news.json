@@ -1,5 +1,58 @@
 [
   {
+    "id": 315,
+    "title": "'Grief can colour memory': Palace responds after Earl Spencer's claim in Diana book",
+    "summary": "**Earl of Wessex’s Memoir Revives Controversial Claim About Prince Charles’s Remarks on Princess Diana; Palace and King Cite Grief‑Affected Memory**",
+    "content": "**Earl of Wessex’s Memoir Revives Controversial Claim About Prince Charles’s Remarks on Princess Diana; Palace and King Cite Grief‑Affected Memory**\n\n*London, 17 September 2026* – A memoir published in June 2024 by Prince Edward, Earl of Wessex, has reignited a long‑standing controversy surrounding the late Princess Diana. In the book, the Earl alleges that Prince Charles – now King Charles III – told him, “We’ll forget her soon enough,” referring to Diana after her death. The claim has been met with swift denials from Buckingham Palace and a public comment from the king, both emphasizing that grief can distort recollection of past conversations.\n\n**Memoir’s allegation**\n\nThe memoir, the first major work by a senior royal to focus specifically on Diana’s life and legacy, recounts a private exchange in which Charles purportedly expressed a dismissive attitude toward the public mourning of his former wife. The alleged quotation quickly became the centerpiece of a media surge, with the BBC, *The Guardian*, *The Independent*, Sky News and Yahoo News Canada reporting on the allegation within days of the book’s release.\n\n**Official response**\n\nBuckingham Palace issued a statement asserting that “grief can colour memory” and suggesting that the Earl’s recollection may have been affected by the emotional turmoil that followed Diana’s death. The palace’s remarks were echoed in *The Times*, which reported that King Charles himself said grief had coloured the Earl’s claims. According to the newspaper, the monarch’s comment was intended to contextualise the memoir’s contentious passage rather than to endorse its accuracy.\n\nRoyal‑focused outlets added further commentary. A Substack publication described the king’s reaction as “furious,” indicating that the allegation struck a personal nerve. Later in the month, *The Nightly* reported that King Charles reiterated the palace’s position, emphasizing that the passage should be viewed through the lens of grief‑induced memory distortion. No direct quotation from the king was provided in those reports.\n\n**Broader implications**\n\nThe dispute has sparked a public debate about the reliability of personal memoirs that touch on recent royal history. Critics argue that, if accurate, the passage would cast a stark light on the royal family’s handling of Diana’s death and the subsequent public outcry. Supporters of the memoir contend that it offers a candid, if uncomfortable, glimpse into the private dynamics of the household during a period of intense scrutiny.\n\nLegal and contractual considerations have also entered the conversation. While no formal legal challenge has been announced, observers note that a review of the memoir’s content could be forthcoming to determine whether the alleged quote breaches confidentiality agreements or constitutes defamation of the king. Such a review would set a precedent for future royal publications.\n\n**Looking ahead**\n\nFurther clarification from King Charles or Buckingham Palace is anticipated. The palace may issue additional statements, or the king could address the matter in a formal audience or public address. Media outlets are expected to continue analysing the memoir’s claims, and legal experts are likely to weigh in on the ramifications for publishing standards within the royal context.\n\n**Conclusion**\n\nThe release of Earl Spencer’s memoir has reopened a painful chapter of recent royal history, prompting an immediate rebuttal from the palace that attributes the disputed statement to the distortions of grief. The episode underscores the enduring sensitivity surrounding Princess Diana’s legacy, the complexities of personal memory in the public sphere, and the ongoing negotiation of the monarchy’s image in a media‑driven age.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-17",
+    "time": "01:57",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Prince Edward, Earl of Wessex, published a memoir about Princess Diana.",
+      "The memoir contains a claim that Prince Charles said \"We'll forget her soon enough\" regarding Diana.",
+      "Buckingham Palace issued a statement saying grief can colour memory and that the claim may be affected by grief.",
+      "The Times reported that King Charles said grief has coloured Earl Spencer’s claims.",
+      "Multiple UK media outlets (BBC, The Guardian, The Independent, Sky News, Yahoo News Canada) reported on the claim and the palace’s response.",
+      "The Royalist Substack article noted that King Charles reacted furiously to the allegation.",
+      "The Nightly article reported that King Charles later broke his silence on the claim."
+    ],
+    "timeline": [
+      {
+        "event": "Earl Spencer memoir published containing alleged Charles quote",
+        "date": "2024-06-??"
+      },
+      {
+        "event": "Media outlets (BBC, Guardian, Independent, Sky News, Yahoo News Canada) report on the claim",
+        "date": "2024-06-??"
+      },
+      {
+        "event": "Buckingham Palace releases statement about grief affecting memory",
+        "date": "2024-06-??"
+      },
+      {
+        "event": "The Times publishes King Charles comment that grief has coloured the claims",
+        "date": "2024-06-??"
+      },
+      {
+        "event": "The Royalist Substack reports King Charles reacting furiously",
+        "date": "2024-06-??"
+      },
+      {
+        "event": "The Nightly reports King Charles breaking his silence on the claim",
+        "date": "2024-06-??"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=315",
+    "featured": true
+  },
+  {
     "id": 314,
     "title": "US interest rates raised for first time in three years",
     "summary": "**Federal Reserve Raises Interest Rates for First Time in Three Years, Unanimous FOMC Vote**",
@@ -21,7 +74,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=314",
-    "featured": true
+    "featured": false
   },
   {
     "id": 313,

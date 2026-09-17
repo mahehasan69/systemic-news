@@ -1,5 +1,60 @@
 [
   {
+    "id": 320,
+    "title": "Interest rates held but Bank signals rise if energy prices stay high",
+    "summary": "**Global Central Banks Hold Rates Amid Mixed Inflation Signals, but Future Hikes Loom**",
+    "content": "**Global Central Banks Hold Rates Amid Mixed Inflation Signals, but Future Hikes Loom**\n\n*London, Washington, Ottawa, Seoul –* The United Kingdom, United States, Canada and South Korea all left their policy rates unchanged at their most recent meetings. Yet divergent inflation trends and rising energy costs have prompted several of the banks to warn that tighter policy could return later this year.\n\n**United Kingdom**\n\nThe Bank of England kept its benchmark interest rate steady and cautioned that a sustained rise in energy prices could force a future increase. Inflation held at 2.8 percent, buoyed by slower food‑price growth but offset by a sharp jump in transport costs. Analysts traced the transport uptick to higher petrol and diesel prices, which have become a key driver of overall price pressures.\n\n**United States**\n\nThe Federal Reserve also opted to maintain its policy rates. Nonetheless, a number of Fed officials signaled that the current stance is likely temporary, noting that higher rates may be needed if inflation remains above the 2 percent target. The decision came amid data showing price growth still above target, though not yet low enough to justify easing. Market expectations have already shifted, leaving many borrowers who hoped for falling mortgage rates disappointed.\n\n**Canada**\n\nThe Bank of Canada left its key policy rate at 2.25 percent, underscoring a cautious outlook. While the hold reflects uncertainty about the inflation trajectory, the central bank said it remains ready to adjust rates should economic conditions evolve. The decision adds to a broader pattern of major central banks pausing while they assess lingering inflationary pressures.\n\n**South Korea**\n\nThe Bank of Korea took a more forward‑looking tone, indicating that interest‑rate hikes are imminent. The signal reflects concerns that domestic price pressures could intensify, especially if global energy costs stay high. By flagging upcoming tightening, the Korean central bank joins the Fed in preparing for a possible policy shift later in the year.\n\n**Energy Prices as a Common Thread**\n\nEnergy markets are shaping inflation dynamics across all four economies. In the United Kingdom, rising petrol and diesel prices have directly fed into higher transport costs, offsetting the moderating effect of slower food‑price growth. The Bank of England’s warning that persistent high energy costs could compel a rate rise mirrors the Fed’s view that energy‑driven inflation risks may trigger future tightening. South Korea’s outlook is similarly anchored to the prospect of sustained global energy price pressures.\n\n**Implications for Borrowers and Markets**\n\nThe coordinated holds have immediate consequences for borrowers, investors and the broader economy. In the United States, home‑loan seekers face a market where expectations of falling mortgage rates have not materialised, potentially dampening housing demand. In the United Kingdom, the interplay between fuel‑price spikes and overall inflation suggests consumer purchasing power may remain under strain despite modest headline inflation. Prospective rate hikes in the United States and South Korea could affect capital flows, exchange rates and corporate financing costs, while Canada’s open‑ended stance leaves its future path dependent on evolving domestic and global conditions.\n\n**Outlook**\n\nThe Federal Reserve is expected to consider rate increases later in 2024 if inflation does not ease further. The Bank of Korea appears poised to act in the near term, whereas the Bank of Canada has left its next move contingent on forthcoming data. Market participants will be watching upcoming releases on energy prices, food costs and core inflation to gauge whether the current pause is a brief intermission or the start of a longer period of policy stability.\n\n**Conclusion**\n\nCentral banks in four major economies have collectively chosen to hold rates steady while acknowledging that persistent energy‑price pressures could reignite the need for tighter monetary policy. The divergent signals—steady rates now, possible hikes later—highlight the delicate balance policymakers face as they navigate inflationary risks without stifling growth. The next few months will reveal whether today’s cautious stance can hold, or if warning signs will translate into a new round of rate increases.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-17",
+    "time": "23:11",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A central bank held interest rates steady and signaled possible future rises if energy prices remain high (Article 1).",
+      "Petrol and diesel price increases contributed to higher UK inflation (Article 2).",
+      "The Federal Reserve kept policy rates unchanged; some officials anticipate higher rates later (Article 4).",
+      "The Federal Reserve kept rates steady amid elevated inflation, with future hikes considered more likely (Article 6).",
+      "Borrowers who expected mortgage rates to fall are now disappointed (Article 5).",
+      "The Bank of Korea indicated that interest‑rate hikes are imminent (Article 8).",
+      "The Bank of Canada kept its key policy rate at 2.25% and warned that future decisions are uncertain (Article 9).",
+      "UK inflation remained at 2.8% as slower food‑price growth offset rising transport costs (Article 10)."
+    ],
+    "timeline": [
+      {
+        "event": "Bank of Canada rate decision",
+        "date": "2024-??-?? (date not provided)",
+        "source": "Article 9"
+      },
+      {
+        "event": "UK inflation report at 2.8%",
+        "date": "2024-??-?? (date not provided)",
+        "source": "Article 10"
+      },
+      {
+        "event": "Fed rate hold and future‑hike outlook",
+        "date": "2024-??-?? (date not provided)",
+        "source": "Articles 4,6"
+      },
+      {
+        "event": "Bank of Korea signals upcoming hikes",
+        "date": "2024-??-?? (date not provided)",
+        "source": "Article 8"
+      },
+      {
+        "event": "Energy‑price‑linked rate‑rise signal",
+        "date": "2024-??-?? (date not provided)",
+        "source": "Article 1"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=320",
+    "featured": true
+  },
+  {
     "id": 319,
     "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
     "summary": "**Earl Spencer alleges King Charles sounded “giddily elated” after Princess Diana’s death**",
@@ -35,7 +90,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=319",
-    "featured": true
+    "featured": false
   },
   {
     "id": 318,

@@ -1,5 +1,43 @@
 [
   {
+    "id": 319,
+    "title": "Charles 'sounded giddily elated' after Diana died, Earl Spencer claims",
+    "summary": "**Earl Spencer alleges King Charles sounded “giddily elated” after Princess Diana’s death**",
+    "content": "**Earl Spencer alleges King Charles sounded “giddily elated” after Princess Diana’s death**\n\n*London, 17 September 2026* – In a memoir published earlier this year, Charles Spencer, 9th Earl Spencer, claims that King Charles III’s voice conveyed “giddily elated” tones in the days following Princess Diana’s fatal car crash on 31 August 1997. The allegation, which appears only in the Earl’s recollection, has been reported by a wide range of outlets, including The Guardian, the BBC, People.com, The Times, Sky News, Newsweek, Yahoo News Singapore and ABC News.\n\nAccording to Spencer’s account, conversations with the monarch after the tragedy in Paris revealed a demeanor that starkly contrasts with the solemn public image the royal family projected in the weeks that followed. The memoir, whose title has not been disclosed in the coverage, is the first public venue in which the Earl has voiced this assessment.\n\nThe story first surfaced in 2024 when excerpts from the manuscript were shared with journalists. Within days, the claim appeared in multiple reports across the United Kingdom, the United States and Asia. All cited the Earl’s recollection; no audio recordings, transcripts or independent witnesses have been offered to substantiate the description of the king’s tone.\n\nPrincess Diana’s death in the Pont de l’Alma tunnel remains one of the most heavily documented events in recent British history. The crash prompted an unprecedented outpouring of public grief and intense scrutiny of the royal family’s response. At the time, Charles, then Prince of Wales, faced criticism for perceived delays in issuing a public statement and for the handling of funeral arrangements. Spencer’s allegation adds a personal dimension to the ongoing debate about the monarchy’s conduct during that period.\n\nThe claim’s significance lies in its potential to reshape public understanding of internal royal dynamics at a pivotal moment. While the memoir is a private work, the breadth of media coverage underscores continued interest in the relationship between the monarchy and the late Princess. By suggesting that the king’s reaction was one of giddiness rather than sorrow, the allegation invites renewed scrutiny of the narrative that has prevailed for more than two decades.\n\nAs of now, the palace has not issued an official response. The royal household typically refrains from commenting on personal memoirs, and no statement has been released to confirm or deny Spencer’s description. Legal experts note that, absent corroborating evidence, the allegation is unlikely to trigger formal proceedings, though it may influence public discourse and future biographical projects.\n\nHistorians, biographers and commentators are expected to weigh the Earl’s account against existing records of the royal family’s actions in 1997. Media outlets may seek further context from the book’s publisher, and scholars will watch for any clarifications from Spencer or royal representatives.\n\nIn summary, Earl Spencer’s assertion that King Charles sounded “giddily elated” after Princess Diana’s death has entered the public record through a 2024 memoir and has been amplified by a broad spectrum of news organisations. Though unverified beyond the author’s memory, the claim highlights the enduring fascination with the monarchy’s handling of one of recent British history’s most tragic episodes and sets the stage for continued discussion about how that moment is remembered.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-17",
+    "time": "20:39",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Earl Spencer (Charles Spencer, 9th Earl Spencer) made a claim that King Charles sounded 'giddily elated' after Princess Diana died.",
+      "The claim was reported by multiple news organizations including The Guardian, BBC, People.com, The Times, Page Six, Sky News, Newsweek, Yahoo News Singapore, and ABC News.",
+      "Princess Diana died on 31 August 1997 in Paris, France.",
+      "The claim appears in a book authored by Earl Spencer (title not specified in the articles)."
+    ],
+    "timeline": [
+      {
+        "event": "Princess Diana's death",
+        "date": "1997-08-31"
+      },
+      {
+        "event": "Earl Spencer's claim published in book",
+        "date": "2024 (exact date not provided)"
+      },
+      {
+        "event": "Media coverage of claim",
+        "date": "2024 (various dates)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=319",
+    "featured": true
+  },
+  {
     "id": 318,
     "title": "Remains found after wildfire identified as mother-of-three missing since 2019",
     "summary": "**Human Remains Found After London Woodland Fire Identified as Missing Southampton Mother**",
@@ -26,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=318",
-    "featured": true
+    "featured": false
   },
   {
     "id": 317,

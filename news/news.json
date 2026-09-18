@@ -1,5 +1,39 @@
 [
   {
+    "id": 322,
+    "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+    "summary": "**MI5 admits evidence in neo‑Nazi informant case was based on false statements**",
+    "content": "**MI5 admits evidence in neo‑Nazi informant case was based on false statements**\n\nMI5 has formally acknowledged that evidence it supplied in a high‑profile neo‑Nazi informant case was founded on false statements, prompting an agency apology and raising fresh concerns about the integrity of Britain’s intelligence and judicial processes.\n\nThe admission follows an inquiry that concluded MI5 deliberately misled three separate courts about the case. Senior MI5 official **Cooper** described the false evidence as a “serious failing.” The falsehoods were presented during proceedings that examined the conduct of a neo‑Nazi informant who was later found to have abused women while the agency protected his identity.\n\nCourt documents show that MI5 relied heavily on the informant’s testimony, prioritising source protection over factual accuracy. Internal vetting procedures failed to verify the statements before they were handed to the judiciary, and the agency also misled the UK intelligence watchdog, compounding the breach of procedural standards.\n\nThe repercussions are wide‑ranging. By allowing false evidence to shape the trial, the integrity of the judicial outcome was compromised, raising the spectre of a miscarriage of justice for both victims and the accused. The continued abuse of women by the informant while the false evidence was in play underscores the human cost of the agency’s missteps. Public confidence in MI5 and the broader intelligence‑oversight framework has been eroded, prompting calls for greater transparency and accountability.\n\nLegal experts note that the High Court is now hearing allegations that MI5 “deliberately and repeatedly” lied, a charge that could lead to remedial actions. Further hearings are scheduled to determine the appropriate response, and there is growing pressure for a parliamentary or independent inquiry into MI5’s evidence‑handling practices. Potential disciplinary measures or legal action against the officials responsible are also being considered.\n\nThe episode serves as a stark reminder that safeguarding national security must not come at the expense of truth and due process. As the High Court deliberates on next steps, the case is likely to shape future protocols for handling informants, reinforcing the need for rigorous verification before intelligence is presented in court.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-18",
+    "time": "11:55",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "MI5 acknowledged that evidence it provided in a neo‑Nazi informant case was based on false statements (BBC, The Guardian, Yahoo News NZ).",
+      "An inquiry found MI5 lied to three separate courts about the case (thecanary.co).",
+      "MI5 issued an apology for providing false evidence (The Guardian).",
+      "The case involves a neo‑Nazi informant/agent who abused women (BBC).",
+      "The High Court heard allegations that MI5 deliberately and repeatedly lied (BBC).",
+      "MI5 misled the UK intelligence watchdog about the case (BBC).",
+      "Senior MI5 official identified as Cooper described the false evidence as a \"serious failing\" (BBC)."
+    ],
+    "timeline": [
+      "MI5 provided evidence in the neo‑Nazi informant case (date not specified).",
+      "Subsequent court proceedings revealed inconsistencies (date not specified).",
+      "Inquiry concluded MI5 lied to three courts (date not specified).",
+      "MI5 publicly apologized and admitted the evidence was based on lies (date not specified).",
+      "High Court hearing where MI5 was accused of deliberate repeated lies (date not specified)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=322",
+    "featured": true
+  },
+  {
     "id": 321,
     "title": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
     "summary": "**Breast‑Surgery and Related Health News – United Kingdom and United States**",
@@ -23,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=321",
-    "featured": true
+    "featured": false
   },
   {
     "id": 320,

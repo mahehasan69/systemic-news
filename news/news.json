@@ -1,5 +1,33 @@
 [
   {
+    "id": 325,
+    "title": "Trump says he is banning CNN and Politico from White House",
+    "summary": "Donald Trump announced that he intends to bar three major news organizations—CNN, MSNBC (which he referred to as “MS NOW”), and Politico—from the White House. The former president made the remarks publicly, and the statement was quickly echoed by a wide range of U.S. outlets, including the Washington Post, Axios, Politico, CNN, CNBC, The Guardian, AP News, NBC News, Reuters, CBS News, BBC, Variety, The Hill, FOX 5 New York, the Los Angeles Times, CNN Business, and KGW. All of those sources confirm that Trump named the three outlets and framed the proposed ban as a response to what he described as unsatisfactory coverage of his administration.",
+    "content": "Donald Trump announced that he intends to bar three major news organizations—CNN, MSNBC (which he referred to as “MS NOW”), and Politico—from the White House. The former president made the remarks publicly, and the statement was quickly echoed by a wide range of U.S. outlets, including the Washington Post, Axios, Politico, CNN, CNBC, The Guardian, AP News, NBC News, Reuters, CBS News, BBC, Variety, The Hill, FOX 5 New York, the Los Angeles Times, CNN Business, and KGW. All of those sources confirm that Trump named the three outlets and framed the proposed ban as a response to what he described as unsatisfactory coverage of his administration.\n\nTrump’s dissatisfaction with the reporting from CNN, MSNBC, and Politico appears to be the primary catalyst for the suggestion. In his comments he argued that the outlets’ coverage had been consistently negative and said he was considering barring their reporters from White House briefings and events. Although he no longer holds executive authority, his remarks have generated extensive media coverage and reignited a public conversation about the role of the press in a democratic society.\n\nReactions across the media landscape have been swift. Reporters and editors at the targeted organizations condemned the proposal as an affront to the First Amendment and a dangerous precedent for political leaders seeking to silence critical voices. Legal scholars and former officials noted that a former president lacks the legal power to unilaterally restrict access to the White House, which is governed by the incumbent administration. Nonetheless, the statement raises questions about whether a former president can leverage personal influence or informal channels to affect media access.\n\nThe broader significance of Trump’s declaration lies in its impact on the ongoing debate over press freedom in the United States. The nation has long prided itself on a robust, independent press, and any perceived attempt—whether real or symbolic—to curtail that independence typically provokes vigorous public and institutional scrutiny. The episode also underscores the heightened polarization between political figures and news organizations, a dynamic that has intensified in recent years.\n\nLooking ahead, the current White House is expected to respond, either by reaffirming existing media‑access policies or by addressing the political implications of a former president’s public threats to the press. Legal experts anticipate that the discussion could expand to include the boundaries of a former president’s ability to influence media operations, potentially prompting congressional hearings or policy reviews. Meanwhile, the targeted outlets are likely to continue covering the story, emphasizing the importance of maintaining open channels of communication between the government and the press.\n\nIn sum, Trump’s call to ban CNN, MSNBC, and Politico from the White House has amplified an already contentious debate about media access, political retaliation, and the resilience of democratic institutions. While he lacks formal authority to enforce such a ban, his statements have already reshaped the conversation, prompting immediate media reaction and longer‑term considerations about the safeguards that protect a free press in the United States.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-18",
+    "time": "21:20",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump publicly stated that he intends to ban CNN, MSNBC (referred to as MS NOW), and Politico from the White House.",
+      "The statement was reported by multiple news outlets (Washington Post, Axios, Politico, CNN, CNBC, The Guardian, AP News, NBC News, Reuters, CBS News, BBC, MS NOW, Variety, The Hill, FOX 5 New York, Los Angeles Times, CNN Business, KGW).",
+      "All reports agree that the comment was made by Trump and that the three media outlets were named."
+    ],
+    "timeline": {
+      "statement_date": null,
+      "media_coverage_start": null,
+      "latest_report_date": null
+    },
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=325",
+    "featured": true
+  },
+  {
     "id": 324,
     "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
     "summary": "**Earl Spencer’s Claims Ignite New Royal Controversy**",
@@ -36,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=324",
-    "featured": true
+    "featured": false
   },
   {
     "id": 323,

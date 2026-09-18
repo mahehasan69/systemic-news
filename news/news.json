@@ -1,5 +1,32 @@
 [
   {
+    "id": 323,
+    "title": "Flight chaos caused by software defect in space of a millisecond, report says",
+    "summary": "**Software Glitch, Not Human Error, Triggers Six‑Hour Flight Chaos Across UK Airports**",
+    "content": "**Software Glitch, Not Human Error, Triggers Six‑Hour Flight Chaos Across UK Airports**\n\nA brief software defect in the United Kingdom’s air‑traffic‑control (ATC) system caused a cascade of cancellations and delays that left hundreds of thousands of passengers stranded and thousands of flights delayed nationwide. The fault, which lasted only a fraction of a second, crippled the network for roughly six hours, according to a report released by the UK ATC authority, NATS.\n\n**What happened**\n\nThe malfunction originated from a single, millisecond‑long error in the ATC software that coordinates take‑offs, landings and routing for commercial and private aircraft. When the glitch struck, the system failed to process critical flight‑plan data. As a safety precaution, controllers halted departures and arrivals, grounding thousands of flights at major hubs including London Heathrow, Gatwick, Manchester and Birmingham. By the time the issue was resolved, a substantial portion of the day’s schedule had been disrupted, with widespread cancellations and extensive delays reported across the country.\n\n**Investigation findings**\n\nNATS’ investigation concluded that the outage was purely technical. No human error, procedural breach or incorrect action by air‑traffic controllers contributed to the incident. The agency emphasized that all operational staff followed established protocols in response to the anomaly and that the defect was confined to the software layer of the system. Normal operations resumed after the six‑hour window, allowing scheduled services to restart and delayed aircraft to be reintegrated into the network.\n\n**Implications for aviation**\n\nThe incident underscores the critical role of digital infrastructure in modern aviation. Air‑traffic management relies on complex, real‑time software to sequence thousands of aircraft, manage air‑space capacity and maintain separation standards. Even a defect lasting a single millisecond can cascade through the system, forcing controllers to adopt conservative measures that prioritize safety over throughput. The event highlights the vulnerability of heavily automated environments to minute coding errors and reinforces the need for rigorous testing, continuous monitoring and rapid‑response mechanisms within ATC systems.\n\nBeyond passenger inconvenience, the six‑hour shutdown carried broader economic repercussions. The cancellation of thousands of flights translated into lost revenue for airlines, additional staffing costs for re‑booking and accommodation, and ripple effects for businesses dependent on timely cargo and personnel movement. While the report did not quantify the financial impact, the scale of affected passengers and flights suggests a significant short‑term hit to the UK’s aviation sector and related industries.\n\n**Corrective actions**\n\nIn response, NATS has outlined a series of remedial steps:\n\n* A comprehensive review of the software codebase.  \n* Implementation of additional safeguards to detect and isolate similar defects in real time.  \n* An audit of existing testing procedures to ensure that sub‑millisecond anomalies are captured before deployment.  \n* Sharing of findings with international counterparts, recognizing the interconnected nature of global air‑traffic management.\n\n**Looking ahead**\n\nThe episode serves as a stark reminder that, while human operators remain the final line of defence, the reliability of underlying technology is paramount to maintaining the smooth flow of air travel. As airlines and regulators work to fortify their digital systems, passengers can expect that lessons learned from this event will translate into more robust safeguards, reducing the likelihood of comparable disruptions in the future.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-18",
+    "time": "15:17",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A software defect/glitch caused widespread flight disruptions in the United Kingdom.",
+      "The defect occurred within a millisecond.",
+      "The disruption affected hundreds of thousands of passengers and thousands of flights.",
+      "The disruption lasted several hours (approximately six hours).",
+      "The cause was identified as a software issue, not human error or incorrect actions.",
+      "The report was issued by the UK air traffic control body."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=323",
+    "featured": true
+  },
+  {
     "id": 322,
     "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
     "summary": "**MI5 admits evidence in neo‑Nazi informant case was based on false statements**",
@@ -31,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=322",
-    "featured": true
+    "featured": false
   },
   {
     "id": 321,

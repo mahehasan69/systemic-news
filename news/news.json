@@ -1,5 +1,44 @@
 [
   {
+    "id": 324,
+    "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
+    "summary": "**Earl Spencer’s Claims Ignite New Royal Controversy**",
+    "content": "**Earl Spencer’s Claims Ignite New Royal Controversy**\n\nLondon – A fresh wave of media attention has focused on the British royal family after Earl Spencer, the brother of the late Princess Diana, alleged that King Charles III “hissed” at him during a conversation about Diana’s death. The accusation, made in connection with a forthcoming memoir, has sparked a public “war of words” between the duke of Cambridge’s brother‑in‑law and the monarch.\n\n**The book and the allegation**\n\nSpencer’s memoir, set for publication later this year, contains a series of assertions about Charles’s behaviour in the months following Diana’s death in 1997. In a recent interview with the BBC, Spencer defended the book’s content, stating, “I’m telling the truth.” According to *The Times*, Spencer claims that during a private discussion about Diana’s passing, Charles “hissed” at him. The BBC, referencing the same dispute, described the ensuing exchange as a “war of words” between the king – occasionally dubbed the “Giddy King” in some coverage – and the earl. The *Daily Express* reported that when confronted with what it called Charles’s “furious” statement, Spencer replied with a terse seven‑word answer, though the exact wording was not disclosed.\n\n**Manuscript theft adds a security dimension**\n\nComplicating matters, an unreleased copy of Spencer’s manuscript was reportedly stolen while in the Netherlands, a development first reported by the BBC. Details of the theft remain limited, but the loss of a pre‑publication version has raised concerns about security and the potential for further leaks. Legal experts suggest that the incident could prompt investigations, although no official actions have been announced.\n\n**Royal events provide a backdrop**\n\nThe dispute emerges against a backdrop of high‑profile royal engagements that have kept the monarchy in the public eye. Earlier this year, King Charles III and Queen Camilla were greeted by thousands of spectators at the annual Trooping the Colour ceremony, underscoring the institution’s continued popularity. During the same period, Prince William, speaking after the Queen’s procession, recalled how the event evoked memories of his mother’s funeral, linking the present ceremony to the lingering emotional resonance of Diana’s death.\n\n**Public and media reaction**\n\nCommentators note that Spencer’s claims strike a chord because they touch on the enduring fascination with Diana’s legacy and perceived tensions within the royal household. Media coverage has centred on the alleged “hissing” incident and the stolen manuscript, prompting a broader debate over the credibility of the memoir’s assertions. Some outlets have questioned the evidentiary basis of Spencer’s statements, while others have emphasized the author’s right to present personal recollections.\n\n**Potential next steps**\n\nNo official response from the palace has been confirmed, but the pattern of a “war of words” suggests that further statements—whether through interviews or press releases—could appear as the book approaches publication. The manuscript theft may also trigger formal investigations, though no concrete measures have been disclosed. Meanwhile, the royal calendar continues with upcoming engagements, including future Trooping the Colour ceremonies, which will provide additional opportunities for public observation of the monarchy’s standing.\n\n**Conclusion**\n\nEarl Spencer’s allegations have reignited scrutiny of Prince Charles’s conduct after Diana’s death, turning a private family dispute into a headline‑making saga that intertwines literary controversy, an alleged manuscript theft, and the public’s ongoing fascination with the royal family’s history. The episode illustrates how new revelations—whether substantiated or contested—can swiftly reshape public discourse around the institution, reinforcing the monarchy’s enduring relevance in contemporary British society.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-18",
+    "time": "18:41",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Earl Spencer said Prince Charles \"hissed\" at him over Diana's death (The Times).",
+      "Earl Spencer defended his book claims about Charles in a BBC interview, stating \"I'm telling the truth\" (BBC).",
+      "BBC reported a \"war of words\" between Prince Charles (referred to as \"Giddy King\") and Earl Spencer over the book (BBC).",
+      "BBC reported that an unreleased copy of Earl Spencer's book was stolen in the Netherlands (BBC).",
+      "Daily Express reported that Earl Spencer gave a seven‑word reply when confronted with Prince Charles's \"furious\" statement (Daily Express).",
+      "BBC reported that King Charles III and Queen Camilla were cheered by thousands at Trooping the Colour (BBC).",
+      "BBC reported that Prince William said the Queen's procession brought back memories of Princess Diana's funeral (BBC).",
+      "BBC published a story about DVLA scams (BBC).",
+      "BBC published a story about Ed Sheeran's baby doppelganger (BBC).",
+      "BBC published a story about using AI to complain (BBC)."
+    ],
+    "timeline": [
+      "Earl Spencer's interview with BBC (date not specified).",
+      "The Times article reporting Charles \"hissed\" at Earl Spencer (date not specified).",
+      "BBC article on \"war of words\" over the book (date not specified).",
+      "BBC article on the theft of the unreleased manuscript in the Netherlands (date not specified).",
+      "Daily Express article on the seven‑word reply (date not specified).",
+      "BBC coverage of Trooping the Colour (date not specified).",
+      "BBC coverage of Prince William recalling Diana during the Queen's procession (date not specified)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=324",
+    "featured": true
+  },
+  {
     "id": 323,
     "title": "Flight chaos caused by software defect in space of a millisecond, report says",
     "summary": "**Software Glitch, Not Human Error, Triggers Six‑Hour Flight Chaos Across UK Airports**",
@@ -24,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=323",
-    "featured": true
+    "featured": false
   },
   {
     "id": 322,

@@ -1,5 +1,31 @@
 [
   {
+    "id": 321,
+    "title": "Twenty women had breasts removed unnecessarily during cancer treatment, NHS trust admits",
+    "summary": "**Breast‑Surgery and Related Health News – United Kingdom and United States**",
+    "content": "**Breast‑Surgery and Related Health News – United Kingdom and United States**\n\nRecent investigations and legal actions have exposed serious shortcomings in breast‑cancer diagnostics and treatment in the United Kingdom, while parallel scrutiny is unfolding in the United States over breast‑implant safety and hormone‑based menopause drugs.\n\n**Unnecessary Mastectomies in the NHS**\n\nA National Health Service (NHS) trust has confirmed that 20 women underwent mastectomies that were not medically justified. The admission follows the wider findings of the Ian Paterson inquiry, which identified more than 1,000 patients who received unnecessary breast surgery after misdiagnoses or clinical errors. One high‑profile case involved a mother who was given chemotherapy and a double mastectomy before later being told that her cancer diagnosis was incorrect.\n\nThe revelations have triggered a police investigation into the surgeon responsible for many of the procedures. The practitioner now faces a medical‑practitioners tribunal that could impose professional sanctions, including the loss of his licence.\n\n**Titanium Marker Concerns**\n\nSeparate investigations are examining the safety of titanium markers placed during breast biopsies. Some clinicians suspect that the markers may contribute to diagnostic inaccuracies, although definitive conclusions are still pending. The inquiry highlights the broader challenge of ensuring that every component of breast‑cancer screening and treatment is both safe and reliable.\n\n**Lawsuits Over Breast‑Implant Safety**\n\nIn the United States, a group of women has filed lawsuits alleging that breast implants are linked to cancer and that manufacturers failed to provide adequate warnings about potential carcinogenic risks. While the scientific community continues to evaluate the alleged association, the litigation is intensifying scrutiny of implant safety and could reshape product‑liability standards for medical devices. The cases may also prompt stricter pre‑market testing and more robust post‑market surveillance.\n\n**FDA Review of Menopause‑Drug Warning**\n\nThe U.S. Food and Drug Administration (FDA) is reassessing a longstanding warning on hormone‑based menopause drugs. Activist Robert F. Kennedy Jr. has argued that the risk warnings are overstated. A decision to modify the label could expand access for millions of women who rely on hormone therapy, but it would also raise questions about long‑term safety.\n\n**Impact and Outlook**\n\nWomen who have undergone unnecessary mastectomies report lasting physical injury and psychological distress, prompting calls for comprehensive compensation schemes and reforms to diagnostic protocols. The surgeon under police investigation faces the prospect of losing his medical licence, a development that could reinforce accountability mechanisms for clinicians who deviate from accepted standards of care.\n\nKey proceedings that will shape women’s health in the coming months include:\n\n* Ongoing court cases that will determine whether breast‑implant manufacturers must issue additional warnings or face financial penalties.  \n* The FDA’s regulatory decision on the menopause‑drug warning, expected later this year.  \n* The medical‑practitioners tribunal’s examination of the surgeon’s conduct.  \n* Public‑health debates in the United Kingdom about the appropriate age for cervical‑cancer screening, highlighted in recent BBC coverage.\n\nThe convergence of misdiagnoses, legal challenges, and regulatory reviews underscores a critical need for heightened vigilance in women’s health care. Accurate diagnosis, transparent risk communication, and rigorous oversight of medical devices and drugs are essential to restore public confidence and protect patients from avoidable harm. As investigations proceed and courts render decisions, the outcomes are likely to influence policy, clinical practice, and patient‑advocacy efforts for years to come.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-18",
+    "time": "06:46",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A NHS trust admitted that twenty women had breasts removed unnecessarily.",
+      "More than 1,000 patients were found to have undergone needless operations in the Ian Paterson inquiry.",
+      "Women have initiated legal action alleging a link between breast implants and cancer.",
+      "A mother received chemotherapy and a double mastectomy before being told her cancer diagnosis was incorrect.",
+      "A surgeon is under police investigation and faces a medical practitioners tribunal."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=321",
+    "featured": true
+  },
+  {
     "id": 320,
     "title": "Interest rates held but Bank signals rise if energy prices stay high",
     "summary": "**Global Central Banks Hold Rates Amid Mixed Inflation Signals, but Future Hikes Loom**",
@@ -52,7 +78,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=320",
-    "featured": true
+    "featured": false
   },
   {
     "id": 319,

@@ -1,5 +1,48 @@
 [
   {
+    "id": 332,
+    "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
+    "summary": "**Folkestone Grand Burstin Hotel fire treated as suspicious; police say deliberately started**",
+    "content": "**Folkestone Grand Burstin Hotel fire treated as suspicious; police say deliberately started**\n\nA blaze erupted at the Grand Burstin Hotel in Folkestone, Kent, prompting the evacuation of hundreds of guests and prompting police to label the incident as a deliberate act of arson. While the exact time of the fire remains unconfirmed, authorities have confirmed that the fire was intentionally set and have launched a full‑scale investigation to identify those responsible.\n\nEmergency services responded swiftly after the fire was reported at the historic hotel, which sits on the town’s seafront and serves as a popular accommodation for tourists and business travelers alike. Police arrived on the scene shortly after the alarm was raised and immediately began treating the incident as suspicious. Their preliminary assessment, released to the public, stated unequivocally that the blaze was deliberately ignited, moving the case from a routine fire investigation to a criminal inquiry.\n\nThe evacuation effort involved the orderly removal of approximately 280 guests from the building, according to official statements. Hotel staff, supported by fire crews, guided occupants to safety, and no injuries have been reported. The swift coordination between hotel personnel and emergency responders is credited with preventing potential casualties in what could have become a far more tragic event. The fire also caused damage to the hotel’s interior, though the extent of structural harm has not yet been quantified.\n\nPolice have not disclosed any suspect information at this stage, but they have confirmed that a dedicated investigative team is working to trace the origin of the fire and gather forensic evidence. The investigation will likely involve analysis of fire patterns, examination of surveillance footage, and interviews with hotel staff and guests. Authorities have urged anyone with information to come forward, emphasizing the seriousness with which they are treating the alleged arson.\n\nThe incident arrives at a time when fire safety and security remain high priorities for the hospitality sector across the United Kingdom. Hotels, especially those located in coastal towns that attract large numbers of visitors, are required to adhere to stringent fire safety regulations, including regular inspections and the maintenance of fire detection and suppression systems. A deliberate fire not only threatens lives but also undermines public confidence in the safety of such establishments. The Grand Burstin Hotel, a fixture of Folkestone’s tourism landscape, now faces the prospect of extensive repairs and possible temporary closure, which could have ripple effects on local employment and the town’s economy.\n\nLocal officials have indicated that, pending the outcome of the police investigation, the hotel will undergo a thorough fire safety review. This may involve inspections by the Kent Fire and Rescue Service and compliance checks by the local council’s building control department. Should the building be deemed unsafe for occupancy, reconstruction or significant refurbishment could be required before guests are allowed to return. The incident also underscores the need for heightened vigilance against arson, a crime that, while relatively rare, can have devastating consequences for communities and businesses alike.\n\nAs the investigation proceeds, police have pledged regular updates to keep the public informed. The focus now shifts to identifying the individual or individuals responsible for setting the blaze, securing any forensic evidence, and ensuring that the Grand Burstin Hotel can be restored to a safe, operational state. For the hundreds of guests who were displaced, the immediate concern is securing alternative accommodation, a task being coordinated by the hotel’s management in conjunction with local tourism authorities.\n\nThe Grand Burstin Hotel fire serves as a stark reminder of the vulnerabilities that public venues face from intentional wrongdoing. While the swift evacuation prevented injuries, the incident highlights the importance of robust emergency response protocols and the ongoing need for vigilance against arson. The outcome of the police investigation will not only determine accountability but also shape future security measures for hotels throughout the region.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-19",
+    "time": "19:40",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A fire broke out at the Grand Burstin Hotel in Folkestone, Kent, England, United Kingdom.",
+      "Police are treating the fire as suspicious.",
+      "Police have stated the fire was deliberately started.",
+      "Hundreds of guests were evacuated from the hotel.",
+      "One report specifies that 280 guests were evacuated."
+    ],
+    "timeline": [
+      {
+        "event": "Fire reported at Grand Burstin Hotel, Folkestone",
+        "date": "unknown"
+      },
+      {
+        "event": "Police arrive and begin investigation, label fire as suspicious",
+        "date": "unknown"
+      },
+      {
+        "event": "Police statement that fire was deliberately started",
+        "date": "unknown"
+      },
+      {
+        "event": "Evacuation of guests (hundreds/280) from the hotel",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=332",
+    "featured": true
+  },
+  {
     "id": 331,
     "title": "Journalists report being denied White House access after Trump bans some outlets",
     "summary": "**Trump Bars CNN, MS NOW and Politico from White House Press Activities**",
@@ -25,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=331",
-    "featured": true
+    "featured": false
   },
   {
     "id": 330,

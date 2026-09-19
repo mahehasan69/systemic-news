@@ -1,5 +1,38 @@
 [
   {
+    "id": 330,
+    "title": "CNN and MS NOW Reporters Barred From White House After Trump Announces Ban",
+    "summary": "**President Trump Bans Three News Outlets From White House Press Access**",
+    "content": "**President Trump Bans Three News Outlets From White House Press Access**\n\nWashington — President Donald Trump announced an immediate ban on three news organizations—CNN, MS NOW and Politico—from White House coverage. The following day, White House staff turned away reporters from the three outlets, confirming that the restriction was being enforced in practice.\n\nThe ban, declared effective without delay, bars the affected journalists from the White House press pool, the credentialed group that provides daily coverage of the president’s activities. While the administration did not provide a detailed rationale, Trump indicated that the move was intended to limit the presence of outlets he considers hostile. All three organizations have previously published critical reporting on the president.\n\nThe decision marks a rare, direct limitation of press access by a sitting president. Historically, presidents have exercised discretion in granting or revoking credentials, but outright bans of entire news organizations are uncommon. Legal scholars and media watchdogs note that the White House may set credentialing standards, yet those standards must conform to constitutional protections for a free press. The ban therefore raises questions about whether the administration’s action infringes on First Amendment rights.\n\nImmediate consequences include a narrower range of news sources reporting from the executive residence. With CNN, MS NOW and Politico excluded, the diversity of perspectives available to the public is reduced. The move also sets a precedent that could influence how future administrations manage press relations amid heightened partisan tensions.\n\nLegal challenges and congressional scrutiny are expected. Attorneys for the barred outlets are likely to argue that the restriction violates constitutional guarantees of press freedom, while lawmakers may seek hearings to examine the White House’s credentialing policies. In response, the administration could revise its press‑credential procedures to clarify access criteria or address concerns raised by the media and the public.\n\nThe episode underscores the delicate balance between a president’s control over the White House press environment and the press’s role in holding the executive branch accountable. As legal and legislative actions unfold, the outcome will shape the future of presidential‑media relations and define the limits of an administration’s authority to determine which news organizations may report from the nation’s most visible political stage.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-19",
+    "time": "14:55",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump announced a ban on CNN, MS NOW and Politico from the White House.",
+      "Journalists from CNN, MS NOW and Politico were denied entry to the White House grounds after the announcement.",
+      "The ban was described as effective immediately in multiple reports."
+    ],
+    "timeline": [
+      {
+        "event": "Trump announces ban on CNN, MS NOW and Politico",
+        "date": "unspecified (reported in multiple news articles shortly after announcement)"
+      },
+      {
+        "event": "CNN, MS NOW, and Politico journalists denied White House access",
+        "date": "the day following the announced ban (as reported by MS NOW and other outlets)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=330",
+    "featured": true
+  },
+  {
     "id": 329,
     "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
     "summary": "**Series of Women’s Murders Shocks Ekurhuleni and Kempton Park**",
@@ -34,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=329",
-    "featured": true
+    "featured": false
   },
   {
     "id": 328,

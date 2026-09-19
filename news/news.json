@@ -1,5 +1,40 @@
 [
   {
+    "id": 333,
+    "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+    "summary": "**Houthi Missile and Drone Strikes Target Riyadh and Yanbu, Prompting Interception and Regional Diplomatic Calls**",
+    "content": "**Houthi Missile and Drone Strikes Target Riyadh and Yanbu, Prompting Interception and Regional Diplomatic Calls**\n\n*Riyadh, 19 September 2026* – Yemen’s Houthi rebels launched a coordinated series of attacks on Thursday, claiming missile and drone strikes against Saudi Arabia’s capital, Riyadh, and the Red Sea port city of Yanbu. Saudi authorities intercepted a ballistic missile aimed at Riyadh, but a fuel depot adjacent to King Khalid International Airport was set ablaze, producing a visible plume of smoke over the city. The incidents have revived regional tensions and elicited a public appeal from Iran for an end to the Saudi‑Yemen war.\n\n**Riyadh attack**\n\nThe first sign of the assault was reported by the BBC, which noted smoke rising near King Khalid International Airport. The Wall Street Journal later confirmed that a fuel depot at the airport was on fire, attributing the blaze to the missile strike. Saudi public broadcaster PBS announced that the Houthi‑launched ballistic missile was intercepted before reaching its intended target in the capital. A statement from the Saudi‑led coalition, cited by Yahoo, corroborated the interception and acknowledged the Houthi launch.\n\n**Yanbu claims**\n\nIn parallel, the Houthi movement said it had struck Saudi infrastructure in Yanbu, targeting the port and nearby oil facilities with missiles and unmanned aerial systems. Deutsche Welle and Kurdistan 24 reported the rebels’ claims, though independent verification of damage in Yanbu remains pending.\n\n**Iran’s diplomatic overture**\n\nFollowing the Riyadh incident, Iranian officials publicly called for an end to the protracted Saudi‑Yemen conflict, according to Iran International. The statement, issued shortly after the missile interception, signals Tehran’s willingness to engage diplomatically even as the Houthi forces—aligned with Iran—continue cross‑border attacks.\n\n**Implications for regional security**\n\nThe launch of a ballistic missile toward Riyadh demonstrates the Houthis’ capacity to strike deep within Saudi territory, challenging the kingdom’s air‑defence posture and exposing the vulnerability of logistical hubs that support both civilian and military operations. While the fire at the Riyadh fuel depot was contained, the incident underscores the risk to critical infrastructure. The claimed attacks on Yanbu, a key oil‑export hub, highlight the potential for disruptions to global energy markets should such strikes materialise.\n\nNo casualties have been reported in this round of attacks, but the visible smoke over Riyadh and the burning depot serve as stark reminders of the conflict’s capacity to affect civilian life and economic activity.\n\n**Outlook**\n\nSaudi officials are expected to reinforce air‑defence readiness around major urban centres and critical facilities, and the coalition may intensify retaliatory operations against Houthi positions in Yemen. Iran’s expressed willingness to broker a cease‑fire could open diplomatic channels, but the immediate priority for Riyadh remains preventing further missile and drone incursions. International observers will be monitoring the frequency and scale of future attacks, as well as any concrete steps toward a negotiated settlement.\n\nThe Houthi‑claimed missile and drone strikes on Riyadh and Yanbu reaffirm the volatile nature of the Saudi‑Yemen front. The intercepted ballistic missile, the ensuing fuel‑depot fire, and Iran’s call for peace illustrate the complex interplay of military action and diplomatic overtures that will shape the conflict’s trajectory and its impact on regional stability.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-19",
+    "time": "21:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Yemen's Houthi rebels claimed to have launched missile and drone attacks on Saudi capital Riyadh.",
+      "Saudi Arabia publicly confirmed that Houthis attempted to attack Riyadh with a ballistic missile (PBS).",
+      "Saudi‑led coalition reported that Houthis fired a ballistic missile at Riyadh (Yahoo).",
+      "Smoke was observed rising near Riyadh airport during the incident (BBC).",
+      "A fuel depot at Riyadh airport burned following the incident (WSJ).",
+      "Houthis also claimed strikes on Yanbu port and oil facilities (DW, Kurdistan24).",
+      "Iran International reported that Iran expressed a desire to end the Saudi‑Yemen war after the Riyadh airport incident."
+    ],
+    "timeline": [
+      "Smoke observed near Riyadh airport (BBC).",
+      "Fuel depot at Riyadh airport burns (WSJ).",
+      "Saudi Arabia confirms Houthi ballistic missile attempt on Riyadh (PBS).",
+      "Saudi‑led coalition states Houthis fired a ballistic missile at Riyadh (Yahoo).",
+      "Houthis claim missile and drone attacks on Riyadh and Yanbu facilities (DW, Kurdistan24, Jerusalem Post, Anadolu Ajansı).",
+      "Iran says it wants the Saudi‑Yemen war to end after the Riyadh airport incident (Iran International)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=333",
+    "featured": true
+  },
+  {
     "id": 332,
     "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
     "summary": "**Folkestone Grand Burstin Hotel fire treated as suspicious; police say deliberately started**",
@@ -40,7 +75,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=332",
-    "featured": true
+    "featured": false
   },
   {
     "id": 331,

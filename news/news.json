@@ -1,5 +1,42 @@
 [
   {
+    "id": 329,
+    "title": "'How many more bodies?' Grief and fear in South Africa as nine women found dead in two months",
+    "summary": "**Series of Women’s Murders Shocks Ekurhuleni and Kempton Park**",
+    "content": "**Series of Women’s Murders Shocks Ekurhuleni and Kempton Park**\n\nA string of killings has left the Ekurhuleni municipality and the neighbouring suburb of Kempton Park reeling. Over the course of a few weeks, nine women were found dead, prompting national outrage, a statement of sympathy from President Cyril Ramaphosa and an intensive police investigation.\n\nThe first bodies were discovered in Ekurhuleni; the exact date of the initial find has not been disclosed. As investigators worked through the area, eight victims were confirmed, sparking community protests and demands for answers from local authorities. A ninth victim was later located in Dawn Park, a public green space in Kempton Park, bringing the confirmed death toll to nine. The scale of the tragedy has been reported by the BBC, CTV News, local outlet explain.co.za and news24.\n\nAmong those killed was Tsontso Moselakgomo, a well‑known local runner. His death added a high‑profile dimension to the case and prompted tributes from fellow South African athletes. Another victim, Itumeleng Kekana, left a grieving family that publicly expressed its heartbreak as additional bodies continued to surface.\n\nPresident Cyril Ramaphosa issued a brief statement extending condolences to the families of the victims, signalling that the murders have attracted national attention. Residents have organised protests, vigils and community meetings, calling for transparent updates from the South African Police Service (SAPS) and for swift action to bring the perpetrator(s) to justice.\n\nThe pattern of female victims has heightened concerns about women’s safety in the region and has intensified scrutiny of gender‑based violence in South Africa. Police have not released information about possible suspects or motives, focusing instead on forensic analysis and other investigative work. Authorities say they are pursuing all leads and will keep the public informed as the investigation progresses.\n\nIn the coming weeks, community vigils and town‑hall gatherings are expected to continue, providing a space for mourning and for residents to press for further information. The nine confirmed deaths underscore the urgent need for effective protection of women and for decisive law‑enforcement action to restore confidence in public safety.",
+    "category": "🧬 Science",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-19",
+    "time": "11:41",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A series of murders of women has been reported in Ekurhuleni and Kempton Park, South Africa.",
+      "At least nine women have been found dead according to BBC, CTV News and explain.co.za.",
+      "The ninth woman's body was discovered in Dawn Park, Kempton Park.",
+      "President Cyril Ramaphosa publicly expressed condolences to the grieving families.",
+      "South African police are conducting an investigation into the killings.",
+      "Residents of Ekurhuleni have demanded answers from authorities.",
+      "Runner Tsontso Moselakgomo was slain in Kempton Park and was later honoured by fellow South African runners.",
+      "Itumeleng Kekana’s family expressed heartbreak as more women’s bodies were discovered."
+    ],
+    "timeline": [
+      "Initial discovery of multiple women’s bodies in Ekurhuleni (date not specified).",
+      "Reports emerge that eight women have been found dead.",
+      "President Cyril Ramaphosa issues a statement of condolence (date not specified).",
+      "Community protests and demands for answers in Ekurhuleni.",
+      "Ninth woman's body discovered in Dawn Park, Kempton Park.",
+      "Media outlets (BBC, CTV, news24) report nine victims.",
+      "Runner Tsontso Moselakgomo’s death is reported and later honoured by fellow runners."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=329",
+    "featured": true
+  },
+  {
     "id": 328,
     "title": "Billionaire Man United owner says he has lost confidence in the UK",
     "summary": "**UK Business Climate Under Scrutiny as High‑Profile Events Unfold**",
@@ -28,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=328",
-    "featured": true
+    "featured": false
   },
   {
     "id": 327,

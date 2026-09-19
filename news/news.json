@@ -1,5 +1,33 @@
 [
   {
+    "id": 331,
+    "title": "Journalists report being denied White House access after Trump bans some outlets",
+    "summary": "**Trump Bars CNN, MS NOW and Politico from White House Press Activities**",
+    "content": "**Trump Bars CNN, MS NOW and Politico from White House Press Activities**\n\nPresident Donald Trump announced a sweeping ban that bars three major news organizations—CNN, MS NOW and Politico—from White House press activities. The declaration, made in a public statement, marked a decisive step by the administration to restrict access for outlets it deems undesirable.\n\nWithin 24 hours, reporters from the three outlets arrived at the White House to cover routine briefings and were turned away, confirming that the ban is being enforced immediately. The denial was reported by a wide range of media outlets, including CNN, NBC News, CNBC, Politico, The Guardian, ABC News, the Free Speech Center, Axios and NPR. Each source corroborated that journalists from the targeted organizations were prevented from entering White House grounds, effectively ending their ability to attend briefings, press conferences and other on‑site events.\n\n**Scope and Rationale**\n\nNo further details about the ban’s scope—such as whether it applies to digital correspondents, satellite feeds or off‑site interviews—have been released. The administration also has not provided a specific rationale for targeting these particular organizations, leaving the motive for the decision unconfirmed in the available reports.\n\n**Implications for Press Access**\n\nThe White House press pool has traditionally granted credentialed journalists access to briefings and events, a practice viewed as essential to transparent governance. By excluding CNN, MS NOW and Politico, the Trump administration is altering that long‑standing arrangement and raising questions about how the White House will disseminate information to the public. The breadth of coverage by other news organizations suggests that the ban itself has become a news story, potentially amplifying the very coverage the administration sought to limit.\n\n**Background**\n\nThe decision follows a pattern of friction between the Trump administration and certain media outlets. While the specific cause for this latest ban is not detailed in the reports, it aligns with previous instances in which the president has publicly criticized news organizations he considers hostile. This ban is notable for its formal restriction of physical access to the White House—a step beyond verbal criticism that directly impacts the logistical capacity of the targeted outlets to gather news on the ground.\n\n**Looking Ahead**\n\nThe affected news organizations are expected to rely on secondary sources, remote briefings or official statements to continue covering the presidency. Legal challenges may also arise; media groups and press‑freedom advocates could argue that the ban infringes upon constitutional protections for a free press. The Free Speech Center, among the outlets reporting the incident, has highlighted the potential for broader implications for journalistic access nationwide.\n\nWhether the administration will extend the ban to additional outlets or modify its policy in response to public and legal pressure remains uncertain.\n\n**Conclusion**\n\nPresident Trump’s decision to bar CNN, MS NOW and Politico from White House premises marks a decisive shift in the administration’s media policy. The immediate denial of entry, confirmed by multiple independent news sources, underscores the ban’s enforceability. While the precise motivations behind the move have not been disclosed, its impact on press operations and the broader discourse on media freedom is already evident. The coming weeks will reveal how the excluded outlets adapt, whether legal avenues are pursued, and how the White House will manage its communications strategy without the participation of three prominent news organizations.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-19",
+    "time": "17:33",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump announced a ban on CNN, MS NOW, and Politico from the White House.",
+      "Journalists from CNN, MS NOW, and Politico were denied entry to the White House after the ban.",
+      "The denial of entry occurred the day after Trump announced the ban (as indicated by the MS NOW article title).",
+      "Multiple news outlets (CNN, NBC News, CNBC, Politico, The Guardian, ABC News, Free Speech Center, Axios, NPR) reported the same event."
+    ],
+    "timeline": [
+      "Trump announces a ban on CNN, MS NOW, and Politico from White House press activities.",
+      "The following day, journalists from those outlets attempt to enter the White House and are denied access."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=331",
+    "featured": true
+  },
+  {
     "id": 330,
     "title": "CNN and MS NOW Reporters Barred From White House After Trump Announces Ban",
     "summary": "**President Trump Bans Three News Outlets From White House Press Access**",
@@ -30,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=330",
-    "featured": true
+    "featured": false
   },
   {
     "id": 329,

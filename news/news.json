@@ -1,5 +1,36 @@
 [
   {
+    "id": 327,
+    "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+    "summary": "**BBC Week in Review: Royal Controversy, U.S. Political Rhetoric, Cultural Milestones and a Landmark Indian Bail Decision**",
+    "content": "**BBC Week in Review: Royal Controversy, U.S. Political Rhetoric, Cultural Milestones and a Landmark Indian Bail Decision**\n\n*London, 19 September 2026* – A series of BBC reports this week highlighted a wide‑ranging set of stories that underscore the public’s continuing fascination with the British monarchy, the scrutiny of political discourse, the endurance of cultural icons and the complexities of international justice.\n\n**Royal family dispute**\n\nIn a new interview, Edward Spencer, 7th Earl Spencer and brother of the late Princess Diana, claimed that Prince Charles “went ballistic” during a telephone conversation after Diana’s death. Spencer described the monarch’s reaction as an “astonishing outburst” and reiterated his belief that the book he has authored presents “the truth.” The allegations, which form part of Spencer’s latest memoir, have reignited a long‑standing row within the royal household and prompted renewed media focus on how the family handled the tragedy that reshaped the monarchy.\n\n**Former U.S. president’s media remarks**\n\nSeparately, former President Donald Trump told the BBC that a recent ban on several news outlets was “because they’re fake news.” His comment adds another layer to the ongoing debate over press freedom and the labeling of media sources, reflecting broader tensions between political leaders and the news industry in the United States.\n\n**Cultural headlines**\n\n- *Kennedy Center finances*: The Washington‑based performing‑arts venue faces the prospect of losing “hundreds of millions of dollars,” according to BBC coverage. The centre’s leadership is expected to address the financial outlook publicly in the coming weeks.\n\n- *Diana’s “revenge dress”*: The iconic black silk gown that Diana wore to the 1994 Harrods party resurfaced at an auction, reminding the public of the princess’s lasting influence on fashion. Details of the buyer and proceeds will be disclosed after the sale.\n\n- *Tribute to rapper Sway*: British YouTuber and rapper KSI led a series of tributes to fellow rapper Sway, who died at 44. The outpouring of respect from the UK hip‑hop community highlights Sway’s impact on the genre.\n\n**Legal development in India**\n\nThe BBC reported that a Sikh activist, detained for nine years without trial, was granted bail by an Indian court. Supporters hailed the decision as a significant step for due‑process rights and as a potential precedent for other long‑detained individuals.\n\n**Why the stories matter**\n\n- The Spencer‑Charles exchange revives public scrutiny of how the royal family has managed personal loss and the narrative surrounding Diana’s legacy.\n- Trump’s “fake news” remark feeds into a global conversation about the role of media in democratic societies and the consequences of delegitimising news outlets.\n- The Kennedy Center’s financial concerns illustrate the vulnerability of cultural institutions amid shifting funding landscapes.\n- The auction of Diana’s dress and the tribute to Sway demonstrate how personal artifacts and artistic contributions continue to shape collective memory.\n- The activist’s bail underscores ongoing challenges within India’s legal system regarding pre‑trial detention, human‑rights standards and judicial reform.\n\n**Looking ahead**\n\nThe royal controversy is likely to prompt further statements from Buckingham Palace and additional media inquiries into Spencer’s book. In the United States, Trump’s comments may influence legislative or regulatory discussions about media classification. The Kennedy Center is expected to release a detailed financial plan, while the proceeds from Diana’s dress auction will be announced after the sale concludes. The music community will continue to honour Sway through performances and charitable initiatives, and the Indian bail decision may encourage further legal challenges to prolonged detention.\n\nCollectively, these BBC reports illustrate how personal narratives, political discourse, cultural heritage and legal battles intersect in the public sphere, each shaping perception and policy in its own arena. The breadth of topics covered this week reaffirms the enduring relevance of historic figures and contemporary issues, reminding audiences that the past and present continually inform one another.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-19",
+    "time": "01:49",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Earl Spencer said Prince Charles \"went ballistic\" in a phone call after Diana's death (BBC)",
+      "Royal row intensifies after fresh claims in Diana's brother's book (BBC)",
+      "Prince Charles \"went ballistic\" in a phone call after Diana's death, according to her brother (BBC)",
+      "Former President Donald Trump said a ban on some news outlets is \"because they're fake news\" (BBC)",
+      "The King had an \"astonishing outburst\" and expressed \"heartbreak\" after the search for missing Noah (BBC)",
+      "Earl Spencer stated \"I'm telling the truth\" while defending Diana book claims about Charles in a BBC interview (BBC)",
+      "Diana's \"revenge dress\" is back in the spotlight at an auction (BBC)",
+      "The Kennedy Center is questioned for potentially losing \"hundreds of millions of dollars\" (BBC)",
+      "KSI led tributes to rapper Sway, who died aged 44 (BBC)",
+      "A Sikh activist was granted bail nine years after being detained in India (BBC)"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=327",
+    "featured": true
+  },
+  {
     "id": 326,
     "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
     "summary": "**U.S.–Denmark Security Deal Resolves Greenland Tariff Standoff**",
@@ -35,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=326",
-    "featured": true
+    "featured": false
   },
   {
     "id": 325,

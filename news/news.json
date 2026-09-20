@@ -1,5 +1,37 @@
 [
   {
+    "id": 339,
+    "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+    "summary": "**German CDU Leader Friedrich Merz Calls State‑Election Loss a “Disaster” and Vows to Remain at the Helm**",
+    "content": "**German CDU Leader Friedrich Merz Calls State‑Election Loss a “Disaster” and Vows to Remain at the Helm**\n\nGerman Chancellor Friedrich Merz described Thursday’s state election as a “disaster” for his Christian Democratic Union (CDU) and announced that he will continue as party chairman despite the party’s historic defeat. In a televised address, Merz pledged to press ahead with a programme of reforms, signalling that the setback will trigger a strategic reassessment rather than a leadership change within the centre‑right bloc.\n\nThe vote, held in an unnamed German state, produced the CDU’s worst result since the founding of the Federal Republic in 1949. Merz called the outcome a “historic defeat,” noting a sharp drop in the party’s vote share and erosion of support across its traditional strongholds. While the CDU’s decline dominated headlines, the right‑wing Alternative for Germany (AfD) recorded notable gains, securing a second state‑level victory and adding another region to its list of electoral successes.\n\nIn his remarks, Merz emphasized continuity, stating that he will stay on as party chairman and guide the CDU through the coming months. He committed to “push forward with reforms,” although he did not specify which policy areas would be targeted. By refusing to step down, Merz aims to project stability and reassure party members that a single electoral setback will not destabilise the CDU. The decision also reflects a calculation that a leadership change could deepen internal divisions at a time when the party must regroup.\n\nThe loss marks a stark departure from the CDU’s post‑war dominance. Since the first federal election in 1949, the party has been a cornerstone of German politics, frequently leading coalition governments and shaping economic and foreign policy. The recent defeat therefore signals not only a loss of voter confidence in one state but also raises questions about the party’s relevance on the national stage ahead of the next federal election. Analysts observe that the CDU’s traditional base appears to be fragmenting, with some voters turning to newer right‑wing alternatives such as the AfD.\n\nThe AfD’s gains are significant in this context. By securing a second state victory, the party is consolidating its position as the primary challenger to the CDU in several regions. This momentum could translate into greater leverage in state legislatures and influence national debates on immigration, security and economic policy. Meanwhile, the CDU faces pressure to reassess its platform, messaging and candidate selection in order to stem the erosion of its support base.\n\nLooking ahead, the CDU is expected to outline a concrete reform agenda in the weeks following Merz’s announcement. Party officials have indicated that policy proposals will be drafted and debated internally before being presented to the public. The reforms are likely to focus on restoring voter trust, modernising party structures and addressing the issues that contributed to the recent loss of support. Simultaneously, the AfD is poised to capitalise on its electoral gains, preparing for upcoming campaigns in other states and positioning itself as a viable alternative to the traditional centre‑right.\n\nThe episode underscores that even long‑standing political institutions are vulnerable to rapid shifts in public sentiment. Merz’s decision to stay on and his commitment to reform suggest that the CDU intends to confront the challenges head‑on rather than retreat. Whether the party can translate this resolve into a revitalised electoral strategy will be a key factor shaping Germany’s political landscape in the run‑up to the next federal election.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-20",
+    "time": "19:08",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Friedrich Merz said the recent German state election was a 'disaster' for his party.",
+      "Merz announced he will remain in his position despite the defeat.",
+      "He pledged to press ahead with reforms after the election loss.",
+      "The election result was described as a historic defeat for the CDU, the worst since 1949.",
+      "The Alternative for Germany (AfD) recorded gains, described as a second election win and winning in another state."
+    ],
+    "timeline": [
+      "State election held in Germany (date not specified).",
+      "Merz publicly labels the result a 'disaster' for the CDU.",
+      "He announces he will stay in office and continue leading the party.",
+      "Merz commits to pushing forward with reforms.",
+      "AfD reports gains, including a second election win and victories in another state."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=339",
+    "featured": true
+  },
+  {
     "id": 338,
     "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
     "summary": "**Earl Spencer Defends Claims About King Charles Amid Renewed Scrutiny of Harry and Meghan**",
@@ -28,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=338",
-    "featured": true
+    "featured": false
   },
   {
     "id": 337,

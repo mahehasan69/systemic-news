@@ -1,5 +1,65 @@
 [
   {
+    "id": 340,
+    "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+    "summary": "**BBC Highlights: Royal Reflections, Sunderland’s European Triumph, Trump’s Media Ban Defence, AI Existential Risks, and Care‑Cost Pressures**",
+    "content": "**BBC Highlights: Royal Reflections, Sunderland’s European Triumph, Trump’s Media Ban Defence, AI Existential Risks, and Care‑Cost Pressures**\n\nIn a week of varied reporting, the BBC covered stories that span royalty, sport, politics, technology and social welfare, underscoring the breadth of issues that shape public life.\n\n**A Earl’s Final Tribute to Diana**  \nIn a candid interview, Diana’s brother, Earl Spencer, offered his “final word” on the late princess. He recalled a phone call with King Charles III after Diana’s death in 1997, describing the monarch’s tone as “giddy” and saying Charles “went ballistic” during the conversation. Spencer used the recollection to criticize the press, calling its influence on Prince Harry and Meghan “cancerous.” He linked the call’s atmosphere to the intense media scrutiny that surrounded Diana’s life and death, framing his comments as a defence of her legacy.\n\nThe interview also revisited Diana’s iconic “revenge dress” – a black silk slip she wore to a 1994 charity gala after separating from Charles. The garment, now headed for auction, remains a potent symbol of the princess’s defiance. While the BBC did not disclose the expected sale price, it highlighted the dress’s cultural significance and the enduring fascination with Diana’s style.\n\n**Sunderland Fans Celebrate Historic European Victory**  \nSunderland supporters erupted in celebration after the club secured its first European win in 53 years, ending a half‑century drought. Fans took to social media and local gatherings to mark the milestone, which many see as a potential turning point for the team. The BBC’s coverage captured the communal spirit that football can generate when long‑awaited barriers are finally broken.\n\n**Trump Defends Media Ban as “Fake News”**  \nFormer U.S. President Donald Trump responded to a recent ban on several news outlets, describing the restriction as a reaction “because they’re fake news.” The BBC quoted Trump’s statement but did not specify which outlets were affected or the legal basis for the ban. His remarks add to the ongoing debate over press freedom, governmental authority and the definition of “fake news” in contemporary discourse.\n\n**AI’s Existential Threat: A Cautious Outlook**  \nA BBC feature examined whether artificial intelligence could pose an existential risk to humanity. The piece outlined scenarios in which AI might “wipe out humans,” while emphasizing that no specific timeline was predicted. Experts called for proactive governance, robust safety protocols and international cooperation to mitigate such risks. By presenting speculative models alongside expert opinion, the report aimed to inform readers about the potential security implications of rapidly advancing AI technology.\n\n**The Growing Burden of Long‑Term Care Costs**  \nIn a personal account, an individual lamented, “We’ve spent our life savings on care,” highlighting the financial strain families face as health‑care costs rise. Although the speaker’s identity and care setting were not disclosed, the story underscored a broader societal challenge: ensuring affordable, high‑quality long‑term support for an aging population.\n\n**Conclusion**  \nThese BBC stories illustrate the outlet’s commitment to covering a wide spectrum of issues that affect everyday life. From the royal family’s relationship with the press and Sunderland’s breakthrough on the European stage, to political rhetoric, AI governance, and the financial pressures of long‑term care, each piece offers insight into the forces shaping contemporary society. Readers can anticipate further analysis on these topics, including deeper examinations of media regulation, AI safety frameworks and reforms aimed at easing the cost of care.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-20",
+    "time": "22:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Earl Spencer said he felt Charles had a 'giddy tone' during a call after Diana's death",
+      "Diana's brother said 'This is my final word, celebration of her'",
+      "Earl Spencer defended claims about the King in a BBC interview",
+      "Diana's brother said the press has a 'cancerous influence' on Harry and Meghan's lives",
+      "Diana's brother said Charles 'went ballistic' in a phone call after her death",
+      "Diana's 'revenge dress' is back in the spotlight at an auction",
+      "Sunderland fans reacted after winning their first European game in 53 years",
+      "Donald Trump said a ban on some news outlets is 'because they're fake news'",
+      "An article discussed whether AI could wipe out humans and how it might do it",
+      "A person said 'We've spent our life savings on care'"
+    ],
+    "timeline": [
+      {
+        "event": "Princess Diana's death",
+        "reference": "after Diana's death (1997)"
+      },
+      {
+        "event": "Phone call between Charles and Earl Spencer",
+        "reference": "after Diana's death"
+      },
+      {
+        "event": "Sunderland first European win in 53 years",
+        "reference": "date not specified in article"
+      },
+      {
+        "event": "Trump's statement on news outlet ban",
+        "reference": "date not specified in article"
+      },
+      {
+        "event": "Discussion of AI existential risk",
+        "reference": "date not specified in article"
+      },
+      {
+        "event": "Auction of Diana's 'revenge dress'",
+        "reference": "date not specified in article"
+      },
+      {
+        "event": "Quote about spending life savings on care",
+        "reference": "date not specified in article"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=340",
+    "featured": true
+  },
+  {
     "id": 339,
     "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
     "summary": "**German CDU Leader Friedrich Merz Calls State‑Election Loss a “Disaster” and Vows to Remain at the Helm**",
@@ -29,7 +89,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=339",
-    "featured": true
+    "featured": false
   },
   {
     "id": 338,

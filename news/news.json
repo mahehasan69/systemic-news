@@ -1,5 +1,46 @@
 [
   {
+    "id": 336,
+    "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
+    "summary": "**Earl Spencer likens press scrutiny of Harry and Meghan to Diana’s experience, reviving debate over the monarchy’s media relationship**",
+    "content": "**Earl Spencer likens press scrutiny of Harry and Meghan to Diana’s experience, reviving debate over the monarchy’s media relationship**\n\nLondon – In a series of recent interviews, Earl Spencer, the late Princess Diana’s brother, said the treatment of Prince Harry and Meghan Markle by the British press “echoes” the relentless coverage that surrounded Diana in the 1990s. His comments, given to the BBC and quoted by Metro, The Bury Times and Hello Magazine, have reignited discussion about the royal family’s fraught relationship with the media and have drawn fresh attention to Spencer’s newly released biography of Diana.\n\nSpencer’s remarks come amid a wave of BBC reporting that situates his perspective within a broader historical context. One article, titled “Charles ‘sounded giddily elated’ after Diana died, Earl Spencer claims,” cites the duke’s allegation that the late king reacted with inappropriate glee to his former wife’s death. Another feature, “Earl Spencer’s Diana book opens old wounds royals would rather forget,” notes that Spencer’s biography, published in 2024, revisits the princess’s life and the monarchy’s media strategy.\n\nThe comparison is rooted in a timeline that many observers see as strikingly parallel. Diana died in a car crash in Paris on 31 August 1997, an event that dominated headlines and prompted the royal household to overhaul its media approach. More than two decades later, Spencer argues that the same “historical relationship” between the royals and the press persists, with Harry and Meghan now facing a level of scrutiny he describes as reminiscent of Diana’s experience.\n\nAccording to Spencer, the similarity stems from an entrenched royal attitude toward media relations that has changed little since the 1990s. By drawing a direct line between Diana’s ordeal and the Sussexes’ current challenges, he suggests that the monarchy has failed to learn from past missteps. Commentators have echoed this view, noting that the pattern of aggressive coverage has simply shifted its focus rather than softened.\n\nSpencer’s observations have sparked renewed public debate about the ethical responsibilities of the press when covering high‑profile individuals, particularly members of the royal family. Critics argue that sensationalist reporting can exacerbate personal distress and undermine public trust, while defenders of a free press caution against imposing undue restrictions on journalistic freedom.\n\nThe duke’s comments also serve to amplify interest in his biography, which the BBC describes as a work that “opens old wounds royals would rather forget.” The book, released earlier this year, offers an intimate portrait of Diana drawn from Spencer’s personal recollections and previously unpublished material. Early sales figures and media coverage indicate strong reader appetite for a fresh perspective on the princess’s legacy, and journalists are already mining the text for excerpts that shed light on the royal household’s internal dynamics.\n\nLooking ahead, analysts expect the biography to continue influencing the conversation around the monarchy’s media strategy. As outlets publish further excerpts and conduct follow‑up interviews with Spencer, the book is likely to shape both popular and scholarly narratives about Diana’s life and the institution she married into. Simultaneously, commentary on the Sussexes’ relationship with the press is expected to persist, with Spencer’s comparison providing a benchmark for evaluating whether contemporary media practices have evolved or merely redirected their focus.\n\nIn sum, Earl Spencer’s assertion that the press treatment of Prince Harry and Meghan Markle mirrors that of Princess Diana has become a catalyst for renewed scrutiny of the royal family’s historic media approach. By linking past and present, Spencer underscores enduring challenges in the monarchy‑press relationship while simultaneously boosting visibility for his biography. The ensuing dialogue promises to keep royal media coverage at the forefront of public discourse in the months ahead.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-20",
+    "time": "07:09",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Earl Spencer told the BBC that the media treatment of Prince Harry and Meghan Markle \"echoes\" what happened to Princess Diana.",
+      "The same claim was reported by Metro.co.uk, The Bury Times, and HelloMagazine.",
+      "BBC published an article titled \"Charles 'sounded giddily elated' after Diana died, Earl Spencer claims\" referencing Earl Spencer's statements about Charles' reaction to Diana's death.",
+      "BBC published an article titled \"Earl Spencer's Diana book opens old wounds royals would rather forget\" indicating that Earl Spencer has authored a book about Diana."
+    ],
+    "timeline": [
+      {
+        "event": "Princess Diana's death",
+        "date": "1997-08-31",
+        "description": "Princess Diana died in a car crash in Paris."
+      },
+      {
+        "event": "Earl Spencer's public comments about Harry and Meghan",
+        "date": "2024 (exact date not provided in articles)",
+        "description": "Earl Spencer made statements to the BBC and other media outlets that the press treatment of the Sussexes mirrors that of Princess Diana."
+      },
+      {
+        "event": "Publication of Earl Spencer's Diana book",
+        "date": "2024 (exact date not provided)",
+        "description": "BBC reported that Earl Spencer's book about Princess Diana has been released, reopening discussions about the royal family."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=336",
+    "featured": true
+  },
+  {
     "id": 335,
     "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
     "summary": "**Ed Sheeran Apologizes onstage in Philadelphia, Condemns Gaza Conflict**",
@@ -51,7 +92,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=335",
-    "featured": true
+    "featured": false
   },
   {
     "id": 334,

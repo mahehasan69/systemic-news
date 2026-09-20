@@ -1,5 +1,77 @@
 [
   {
+    "id": 337,
+    "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
+    "summary": "**Earl Spencer’s BBC Interviews Rekindle Royal Feud Over Media Coverage**",
+    "content": "**Earl Spencer’s BBC Interviews Rekindle Royal Feud Over Media Coverage**\n\nA series of recent BBC interviews with Earl Spencer, the late Princess Diana’s brother, have revived a long‑standing dispute between the Spencer family and the British royal household. In the interviews, Spencer likened the media scrutiny faced by Prince Harry and Meghan Markle to the relentless press attention that surrounded Diana after her marriage, describing the press as having a “cancerous influence” on the Sussex couple’s lives.\n\nSpencer also asserted that King Charles “went ballistic” in a phone call after Diana’s death, a claim he reiterated while defending controversial passages in his new biography of Diana. “I’m telling the truth,” he said, insisting that his account is based on fact.\n\nThe palace responded swiftly. Senior royal officials publicly challenged Spencer’s allegations, labeling the biography’s content “misleading” and “unsubstantiated.” The exchange has been described as a “war of words,” underscoring an ongoing struggle over the family’s narrative and the monarchy’s public image.\n\n**Related Royal Developments**\n\n* **Diana’s “revenge dress” up for auction** – The black silk gown Diana wore to a 1994 charity gala after her televised interview with Martin Bashir resurfaced at auction. The dress, long seen as a symbol of her defiance against intrusive press coverage, is expected to fetch a substantial sum, though the final price has yet to be announced.\n\n* **Sussex children’s school transition** – Representatives for Harry and Meghan confirmed that their two children will transfer to schools in the United Kingdom at the start of the next academic term. The move signals a deeper integration into British society despite the couple’s continued separation from senior royal duties.\n\n* **Harry’s community engagement in Birmingham** – During a recent visit to Birmingham, Harry joined local pupils for a pickleball session. The modest event attracted considerable local media coverage and highlighted the prince’s effort to connect with the public through grassroots activities.\n\n* **Broader media criticism** – A comment from former U.S. President Donald Trump, who described a ban on certain news outlets as being “because they’re fake news,” was cited in the BBC reports to illustrate the wider climate of media criticism surrounding the Spencer‑palace dispute.\n\n**Implications**\n\nThe renewed feud revives public debate about the press’s role in shaping the lives of high‑profile individuals—a conversation that intensified after Diana’s death and has persisted through Harry and Meghan’s own media battles. The palace’s defensive stance and Spencer’s insistence on “telling the truth” risk further eroding the monarchy’s carefully curated image, as internal disagreements become fodder for international headlines.\n\nThe auction of Diana’s dress and the Sussex children’s school change serve as tangible reminders that Diana’s legacy continues to influence contemporary royal affairs.\n\n**Looking Ahead**\n\nThe royal household is expected to issue additional statements addressing Spencer’s claims, while the auction house will announce the final hammer price for Diana’s dress in the coming weeks. Observers will watch closely to see whether the monarchy can contain the narrative or if Spencer’s revelations will prompt a broader reassessment of the institution’s relationship with the media.\n\nThe BBC’s series of reports therefore spotlights a multifaceted conflict that intertwines personal grievances, historical legacy, and contemporary media dynamics, illustrating a royal institution navigating past wounds while confronting present‑day challenges.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-20",
+    "time": "12:41",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Earl Spencer told the BBC that Harry and Meghan's media treatment echoes what happened to Diana",
+      "Diana's brother said the press has \"cancerous influence\" on Harry and Meghan's lives",
+      "Diana's brother said Charles \"went ballistic\" in a phone call after Diana's death",
+      "Earl Spencer said \"I'm telling the truth\" and defended claims about Charles in his Diana book during a BBC interview",
+      "The Palace is in a war of words with Earl Spencer over claims in his Diana book",
+      "A royal row intensified after fresh claims appeared in Diana's brother's book",
+      "Diana's \"revenge dress\" is back in the spotlight at an auction",
+      "Harry and Meghan's children will change school in the United Kingdom",
+      "Prince Harry played pickleball with pupils in Birmingham",
+      "Donald Trump said a ban on some news outlets is \"because they're fake news\""
+    ],
+    "timeline": [
+      {
+        "event": "Earl Spencer compares Harry and Meghan's media treatment to Diana's experience",
+        "source": "Article 1"
+      },
+      {
+        "event": "Diana's brother labels press influence on Harry and Meghan as \"cancerous\"",
+        "source": "Article 2"
+      },
+      {
+        "event": "Diana's brother claims Charles \"went ballistic\" after Diana's death",
+        "source": "Article 3"
+      },
+      {
+        "event": "Earl Spencer defends his Diana book claims about Charles in a BBC interview",
+        "source": "Article 4"
+      },
+      {
+        "event": "The Palace engages in a war of words with Earl Spencer over his book claims",
+        "source": "Article 5"
+      },
+      {
+        "event": "Royal row intensifies following fresh claims in Earl Spencer's book",
+        "source": "Article 6"
+      },
+      {
+        "event": "Diana's \"revenge dress\" featured at an auction",
+        "source": "Article 7"
+      },
+      {
+        "event": "Harry and Meghan's children to change school in the UK",
+        "source": "Article 8"
+      },
+      {
+        "event": "Prince Harry plays pickleball with Birmingham pupils",
+        "source": "Article 9"
+      },
+      {
+        "event": "Donald Trump says ban on some news outlets is because they're \"fake news\"",
+        "source": "Article 10"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=337",
+    "featured": true
+  },
+  {
     "id": 336,
     "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
     "summary": "**Earl Spencer likens press scrutiny of Harry and Meghan to Diana’s experience, reviving debate over the monarchy’s media relationship**",
@@ -38,7 +110,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=336",
-    "featured": true
+    "featured": false
   },
   {
     "id": 335,

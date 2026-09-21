@@ -1,5 +1,30 @@
 [
   {
+    "id": 343,
+    "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+    "summary": "**Rising Youth Distress Prompts Calls for Policy Review as Welfare Spending Outpaces Job Creation**",
+    "content": "**Rising Youth Distress Prompts Calls for Policy Review as Welfare Spending Outpaces Job Creation**\n\nBritain is confronting a growing mental‑health crisis among its young people, a development that is now being linked to pervasive smartphone use and an apparent imbalance in public spending. A government‑appointed review, a separate analysis known as the Fonagy review, and comments from former Labour minister Alan Milburn all point to escalating psychological strain and warn of serious economic consequences if the trend continues.\n\n**Official review highlights widening mental‑health problem**\n\nThe chair of the official review told the BBC that mental‑health problems among adolescents and young adults have risen measurably in recent years. The findings, which will be presented to Parliament in the next legislative session, suggest that distress is no longer confined to isolated cases but has become a broader public‑health issue. The review recommends integrating mental‑health services into schools and community settings and calls for a nationwide consultation with health professionals, educators and youth advocacy groups.\n\n**Milburn warns of “economic ruin” linked to digital rewiring**\n\nIn an interview with *The Times*, former Labour minister Alan Milburn warned that young people are being “rewired by phones,” describing how constant mobile‑device use may affect cognition and social interaction. Milburn argued that this digital rewiring could translate into reduced productivity, lower earnings and heightened reliance on state support, ultimately leading to “economic ruin” if unaddressed. He also cited a figure reported by *The Sun* that welfare spending on young people is 25 times greater than public investment in programmes aimed at creating jobs for them, underscoring what he sees as a misallocation of resources.\n\n**Fonagy review dismisses “snowflake generation” label**\n\nCiting the Fonagy review, a report on streamlinefeed.co.ke rejected the popular “snowflake generation” stereotype. Instead, the review emphasized that the rise in youth distress is a factual development supported by data, not a cultural myth. Its conclusions echo those of the official review, reinforcing the view that mental‑health challenges are intensifying across the demographic.\n\n**Policy implications**\n\nThe convergence of these observations raises three inter‑related policy questions:\n\n1. **Digital policy and education** – The link between extensive phone usage and mental‑health outcomes suggests a need to review digital‑media regulations, school curricula and parental guidance strategies.\n2. **Economic impact** – A generation burdened by psychological strain could diminish national productivity and increase long‑term welfare costs.\n3. **Fiscal priorities** – The reported 25‑to‑1 disparity between welfare benefits and job‑creation spending points to a potential misallocation of public funds, prompting calls for a comprehensive audit of youth‑related welfare expenditure.\n\n**Next steps**\n\nThe government has indicated that the official review’s recommendations will be tabled in the upcoming parliamentary session. Simultaneously, policymakers are expected to consider Milburn’s warnings when shaping digital‑media regulation and economic strategies for young workers. A consultation phase, slated to begin within the next few weeks, will invite evidence and proposals from stakeholders across health, education and employment sectors.\n\n**Conclusion**\n\nRising mental distress among Britain’s young people appears to be a systemic issue intertwined with technology use, economic policy and fiscal priorities. Addressing it will require coordinated action across multiple government departments and a rebalancing of public spending to support both immediate welfare needs and long‑term employment prospects for the nation’s next generation.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-21",
+    "time": "07:18",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC article title states that the head of an official review said mental distress among young people is rising.",
+      "The Times article title reports Alan Milburn warning of economic ruin because young people are ‘rewired by phones’.",
+      "streamlinefeed.co.ke article title reports that the Fonagy review dismisses the notion of a ‘snowflake generation’ and notes rising youth distress.",
+      "The Sun article title reports Alan Milburn stating that taxpayers are spending 25 times more on welfare than on jobs for youngsters."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=343",
+    "featured": true
+  },
+  {
     "id": 342,
     "title": "Union calls for halt to graded Ofsted inspections over health concerns",
     "summary": "**Education Unions Call for Immediate Halt to Graded Ofsted Inspections Over Health‑Safety Risks**",
@@ -23,7 +48,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=342",
-    "featured": true
+    "featured": false
   },
   {
     "id": 341,

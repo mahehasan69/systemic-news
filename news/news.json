@@ -1,5 +1,62 @@
 [
   {
+    "id": 344,
+    "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+    "summary": "**Escalation of Yemen Conflict Drives Mass Displacement, Sea Evacuations and Houthi Seizure of Red Sea Islands**",
+    "content": "**Escalation of Yemen Conflict Drives Mass Displacement, Sea Evacuations and Houthi Seizure of Red Sea Islands**\n\nYemen’s western coast is experiencing an unprecedented humanitarian outflow as fighting between Houthi rebels and Saudi‑backed forces intensifies. More than 100,000 civilians have been forced from their homes, and thousands are attempting perilous sea crossings toward Djibouti after the Houthis captured two strategic islands in the Red Sea. The surge in hostilities has also triggered a series of missile and drone exchanges, including attacks on Saudi Arabia’s capital, Riyadh, and retaliatory Saudi airstrikes on Yemeni territory.\n\n### Recent Military Escalation  \n\nThe latest round of violence began with coordinated Houthi missile and drone barrages aimed at Riyadh, following Saudi interception of a ballistic missile. In response, Saudi Arabia launched airstrikes across Yemen, a move described by India Today as part of a broader effort to curb Houthi attacks that threaten Gulf oil‑supply routes. The exchange has heightened security alerts throughout Saudi Arabia, according to Al Jazeera, and drawn international attention to the vulnerability of Red Sea shipping lanes.\n\n### Humanitarian Fallout  \n\nUNHCR figures cited by The Jerusalem Post place the number of displaced persons along Yemen’s western shoreline at over 100,000; the Times of India gives a slightly higher estimate of 112,000 (1.12 lakh). Continuous bombardment and the loss of essential services have driven many families to the sea as their only escape route. Reports from the BBC, Reuters, WTVB, U.S. News and the Times of India confirm that thousands of Yemenis have boarded small boats, braving the Red Sea’s treacherous conditions. Some have reached Djibouti, while others remain adrift, awaiting rescue or a safe harbor.\n\n### Strategic Capture of Red Sea Islands  \n\nPBS reported that the Houthis seized two islands in the Red Sea, giving them a foothold that could further disrupt maritime traffic and pressure the already strained Gulf oil supply chain. The capture follows a pattern of Houthi actions designed to leverage geographic assets against Saudi air superiority. Saudi Arabia’s subsequent airstrikes, highlighted by India Today, aim to neutralize any Houthi gains that could jeopardize regional energy flows.\n\n### Wider Implications  \n\nThe escalation matters on several fronts:\n\n1. **Civilian Impact** – Mass displacement stretches the capacity of humanitarian agencies already operating in a fragile environment.  \n2. **Maritime Threat** – Boat evacuations and the islands’ seizure pose a direct risk to international shipping, a lifeline for global oil markets.  \n3. **Regional Security** – Heightened alerts in Saudi Arabia reflect broader anxiety that the conflict could spill over, destabilizing neighboring states and prompting wider military involvement.\n\n### Outlook  \n\nThe United Nations and aid organizations anticipate continued displacement and sea‑based evacuations as long as hostilities persist. Analysts expect further missile and drone exchanges, given the established pattern of retaliation. International bodies are likely to increase monitoring of Red Sea shipping security to safeguard commercial vessels and mitigate disruptions to oil supplies. The humanitarian community is urging the creation of expanded evacuation corridors and safe ports of entry, while diplomatic channels remain engaged in attempts to de‑escalate the fighting.\n\n### Conclusion  \n\nThe latest surge in Yemen’s conflict has transformed a primarily land‑based war into a multi‑dimensional crisis, combining mass civilian displacement, dangerous sea migrations, and strategic territorial grabs. The convergence of these factors deepens the humanitarian emergency, threatens regional stability and jeopardizes global energy markets. Sustained international attention and coordinated response will be essential to prevent further loss of life and to preserve the security of vital maritime routes.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-21",
+    "time": "14:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Yemenis are fleeing across the Red Sea by boat as the war between Houthis and Saudi‑backed forces intensifies (BBC, Reuters, WTVB, U.S. News).",
+      "Saudis and Houthis have exchanged strikes, including missile and drone attacks on Riyadh (NewsCord).",
+      "UNHCR reports more than 100,000 people displaced by Houthi fighting along Yemen’s west coast (The Jerusalem Post).",
+      "The Times of India reports 112,000 (1.12 lakh) people displaced and thousands fleeing to Djibouti.",
+      "Saudi airstrikes have hit Yemen in response to Houthi attacks that threaten Gulf oil supplies (India Today).",
+      "Houthi forces seized two strategic islands in the Red Sea (PBS).",
+      "Houthi attacks have triggered security alerts in Saudi Arabia (Al Jazeera)."
+    ],
+    "timeline": [
+      {
+        "event": "Houthis seize two strategic Red Sea islands",
+        "source": "PBS"
+      },
+      {
+        "event": "Escalation of fighting between Houthis and Saudi‑backed forces; exchange of strikes",
+        "source": "Reuters, U.S. News"
+      },
+      {
+        "event": "Houthis launch missiles and drones at Riyadh after Saudi interception of a ballistic missile",
+        "source": "NewsCord"
+      },
+      {
+        "event": "Saudi airstrikes hit Yemen in retaliation",
+        "source": "India Today"
+      },
+      {
+        "event": "Mass displacement of civilians; >100,000 reported displaced, 112,000 according to Times of India",
+        "source": "The Jerusalem Post, The Times of India"
+      },
+      {
+        "event": "Thousands of Yemenis flee by boat across the Red Sea, some reaching Djibouti",
+        "source": "BBC, Reuters, WTVB, U.S. News, The Times of India"
+      },
+      {
+        "event": "Houthi attacks trigger security alerts in Saudi Arabia",
+        "source": "Al Jazeera"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=344",
+    "featured": true
+  },
+  {
     "id": 343,
     "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
     "summary": "**Rising Youth Distress Prompts Calls for Policy Review as Welfare Spending Outpaces Job Creation**",
@@ -22,7 +79,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=343",
-    "featured": true
+    "featured": false
   },
   {
     "id": 342,

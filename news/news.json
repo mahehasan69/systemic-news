@@ -1,5 +1,36 @@
 [
   {
+    "id": 345,
+    "title": "Airlines criticise air traffic control as second glitch causes more disruption",
+    "summary": "**Airlines Decry Repeated Air‑Traffic Control Failures After Two Glitches in One Month**",
+    "content": "**Airlines Decry Repeated Air‑Traffic Control Failures After Two Glitches in One Month**\n\nAirlines across the country have launched a coordinated outcry against the national air‑traffic control (ATC) system following a second technical glitch this month that compounded earlier disruptions. The incidents have triggered widespread flight cancellations, stranded thousands of passengers and revived public anxiety about the reliability of the nation’s aviation infrastructure.\n\nThe first malfunction—occurring earlier in the month—forced a cascade of delays and cancellations across several carriers. A second failure struck the ATC network later in the same month, again halting normal operations. Sky News reported that the latest outage added further cancellations, intensifying frustration among airline executives who had already voiced concern after the initial incident.\n\nRepresentatives from multiple airlines described the ATC authority’s performance as a “technical failure” that jeopardised passenger itineraries and the broader schedule integrity of the industry. Their criticism was echoed in reports from Yahoo, the BBC and Yahoo News Canada, which highlighted a growing sense of fury among operators. The BBC noted that the repeated nature of the glitches raises questions about the robustness of the underlying technology and the adequacy of contingency planning within the ATC framework.\n\nThe immediate impact has been stark. Airlines have been forced to re‑book or refund tickets, airport operations have struggled to maintain precise sequencing of arrivals and departures, and public confidence in the safety and reliability of air travel has been shaken. While the exact number of cancelled flights has not been disclosed, the pattern of disruptions suggests a systemic vulnerability with potential economic repercussions if left unaddressed.\n\nAir‑traffic control is the backbone of modern aviation, coordinating the safe movement of aircraft in the sky and on the ground. When its technical infrastructure falters, the ripple effects extend beyond airlines to passengers, airport staff and ancillary service providers. Repeated failures risk eroding trust in the institutions tasked with safeguarding the nation’s airspace—a concern regulators and policymakers are likely to take seriously.\n\nIn response, aviation authorities are expected to launch investigations into the root causes of the ATC malfunctions, although no formal inquiry has been confirmed at the time of reporting. Industry analysts anticipate that a thorough review will examine both hardware and software components of the control system, as well as emergency‑response protocols and communication procedures with airlines. Findings could prompt technology upgrades, revisions to operational procedures, or legislative action aimed at strengthening oversight of critical aviation infrastructure.\n\nFor airlines, the immediate priority is to restore normal flight schedules and mitigate the financial fallout from the cancellations. Many carriers have pledged to work closely with the ATC authority to develop more resilient contingency plans and are lobbying for transparent reporting on the causes and corrective measures associated with the glitches. Passengers are urged to stay informed through airline communications and to consider flexible travel arrangements until the ATC system’s reliability can be assured.\n\nThe series of ATC technical failures underscores a pressing need for robust, fail‑safe systems in an industry where safety and punctuality are paramount. As investigations proceed, the aviation community will be watching closely to see whether corrective actions can restore confidence and prevent a recurrence of the disruptions that have already rattled airlines and travelers alike.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-21",
+    "time": "19:48",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Airlines criticized air traffic control after a second glitch caused additional disruption (Yahoo, BBC, Yahoo News Canada).",
+      "A second air traffic control glitch occurred within the same month (Yahoo News Canada).",
+      "Repeated air traffic control failures have been reported (BBC).",
+      "Airlines expressed fury after another technical glitch cancelled flights (Sky News).",
+      "A 17‑year‑old boy was found dead in a suspected strangling incident (Nilepost).",
+      "An airline boss described feeling 'total numbness' after the 9/11 attacks (BBC)."
+    ],
+    "timeline": [
+      "First glitch (date unspecified) – caused disruption.",
+      "Second glitch (same month) – caused additional disruption.",
+      "Subsequent glitch reported by Sky News – led to flight cancellations."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=345",
+    "featured": true
+  },
+  {
     "id": 344,
     "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
     "summary": "**Escalation of Yemen Conflict Drives Mass Displacement, Sea Evacuations and Houthi Seizure of Red Sea Islands**",
@@ -54,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=344",
-    "featured": true
+    "featured": false
   },
   {
     "id": 343,

@@ -1,5 +1,39 @@
 [
   {
+    "id": 348,
+    "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+    "summary": "**Greater Manchester Mayor Andy Burnham to Meet Former U.S. President Donald Trump at United Nations**",
+    "content": "**Greater Manchester Mayor Andy Burnham to Meet Former U.S. President Donald Trump at United Nations**\n\nAndy Burnham, the mayor of Greater Manchester, will travel to New York next week for a face‑to‑face meeting with former U.S. President Donald Trump at the United Nations headquarters. The encounter, confirmed by several news outlets, marks the first direct contact between the two politicians.\n\nThe trip was reported by *Internazionale* and *The Straits Times*, which noted that Burnham is crossing the Atlantic specifically for the New York engagement. The venue – the United Nations building – was identified by PBS and *The Independent*. While the precise agenda has not been disclosed, the diplomatic setting suggests the discussion could extend beyond personal rapport to broader UK‑US issues.\n\nIn the days leading up to the meeting, Burnham signalled a conciliatory tone. A week before the talks, the BBC quoted him as saying he expects to find “common ground” with Trump. A minister later echoed that sentiment, dismissing Burnham’s earlier criticism of Trump as “not a barrier to a strong relationship,” according to *Yahoo News UK*. Burnham himself qualified his prior remarks in an interview with *HuffPost UK*, noting that “Everyone says things as politicians,” and characterising the criticism as routine political discourse rather than a substantive obstacle.\n\nThe timing of the meeting coincides with Burnham’s public praise of a recent Greenland deal, a development reported by the BBC that may serve as a collaborative benchmark for the dialogue. Analysts view the encounter as part of a broader effort to reinforce UK‑US ties, which traditionally rest on shared security, trade and cultural links. By engaging directly with a former American president, Burnham aims to demonstrate a pragmatic approach that moves beyond past political sparring.\n\nStakeholders are watching the talks for signs of future policy coordination. A successful dialogue could enhance the United Kingdom’s diplomatic standing and open channels for cooperation on trade, climate policy and other trans‑Atlantic priorities. Conversely, the heightened media focus on Burnham’s political positioning – highlighted in recent coverage – suggests the meeting will also be scrutinised for its impact on his domestic standing.\n\nBurnham is currently preparing for upcoming negotiations on social‑care reform with the Conservative and Liberal Democrat parties, a process reported by the BBC. Observers note that the outcome of the UN meeting could influence the tone of those talks, either by bolstering Burnham’s image as a bridge‑builder or by exposing lingering partisan divides.\n\nIn sum, the scheduled United Nations meeting represents a calculated diplomatic overture by the Greater Manchester mayor. By seeking common ground with Donald Trump, Burnham hopes to transcend earlier criticism and reinforce the UK‑US partnership. While the substance of the discussions remains undisclosed, the convergence of travel logistics, public statements and official endorsements points to a concerted effort to deepen trans‑Atlantic cooperation. The encounter will be judged both on its immediate diplomatic yield and on its influence on Burnham’s forthcoming domestic agenda, particularly the looming social‑care negotiations.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-22",
+    "time": "06:55",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham expects to find common ground with Donald Trump in their first meeting (BBC).",
+      "Andy Burnham is traveling to the United States for a meeting with Donald Trump (Internazionale, Straitstimes).",
+      "The meeting is expected to take place at the United Nations in New York (PBS).",
+      "The meeting is scheduled for next week (The Independent).",
+      "A minister said Burnham’s past criticism of Trump is not a barrier to a strong relationship (Yahoo News UK).",
+      "Burnham later said his earlier criticism was typical political talk, stating “Everyone says things as politicians” (HuffPost UK).",
+      "Burnham praised a Greenland deal ahead of the first Trump meeting (BBC)."
+    ],
+    "timeline": [
+      "Prior to meeting: Burnham travels to the United States (Internazionale, Straitstimes).",
+      "One week before meeting: Burnham says he expects to find common ground with Trump (BBC).",
+      "One week before meeting: Burnham hails Greenland deal (BBC).",
+      "Scheduled meeting: Next week at the UN in New York (PBS, The Independent).",
+      "After meeting: Anticipated discussions on UK‑US relations (inferred)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=348",
+    "featured": true
+  },
+  {
     "id": 347,
     "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
     "summary": "**UK to Provide Saudi Arabia with Defensive Aerial Refuelling Support Amid Houthi Threats**",
@@ -24,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=347",
-    "featured": true
+    "featured": false
   },
   {
     "id": 346,

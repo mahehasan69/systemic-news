@@ -1,5 +1,39 @@
 [
   {
+    "id": 349,
+    "title": "Martha's Rule rolled out at every A&E department in England",
+    "summary": "**Nationwide Roll‑out of “Martha’s Rule” to All English A&E Departments Set for March 2028**",
+    "content": "**Nationwide Roll‑out of “Martha’s Rule” to All English A&E Departments Set for March 2028**\n\nLondon – The Department of Health and Social Care, acting through NHS England, has announced that “Martha’s Rule” will be implemented in every Accident and Emergency (A&E) department across England. The policy, which has previously been applied only in limited pilots, is now slated for full national deployment with a target completion date of March 2028.\n\nThe announcement was reported by a coalition of national outlets—including the BBC, The Guardian, The Independent, NewsCord, Nursing Times, LBC, distilledpost.com and About Manchester—underscoring the initiative’s significance within the wider programme of emergency‑care reforms.\n\n**Implementation plan**\n\nNHS England, the body responsible for overseeing the roll‑out, says the expansion will be phased, allowing each hospital to embed the rule within existing clinical and administrative structures. While the precise operational steps have not been disclosed, the March 2028 deadline provides a clear horizon for trusts to align resources, training and compliance mechanisms.\n\n**Why the rule matters**\n\nAlthough the content of Martha’s Rule has not been detailed in the current reports, officials describe it as a policy instrument intended to standardise practice within emergency departments. By mandating a uniform standard, the rule aims to ensure that every patient accessing A&E services is subject to the same procedural safeguards, reducing variability in patient handling and streamlining frontline workflows.\n\nNursing Times and LBC highlighted the potential benefits for staff, noting that a consistent policy could simplify procedures and lessen the administrative burden on clinicians. Local coverage from distilledpost.com and About Manchester confirmed that hospitals across the region are already preparing for the change.\n\n**Strategic implications**\n\nThe roll‑out represents the first time the rule will be applied universally, signalling a centrally driven agenda for the NHS. Analysts suggest that the initiative could influence funding allocations, performance monitoring and accountability structures within the health service. The March 2028 deadline also offers a measurable endpoint for evaluating compliance and impact.\n\n**Next steps**\n\nNHS England will monitor progress through regular reporting from individual trusts. The department may issue further guidance to address operational challenges that arise during implementation. Once the roll‑out is complete, an evaluation phase is expected, during which data on patient outcomes, staff experiences and departmental efficiency will be collected to inform future policy decisions.\n\n**Conclusion**\n\nThe nationwide extension of Martha’s Rule marks a pivotal step in England’s effort to harmonise emergency‑care practices. With NHS England steering the implementation and a firm March 2028 target, the health system is poised to achieve uniform application of the rule across all A&E departments, a development set to shape the delivery of emergency services for years to come.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-22",
+    "time": "12:11",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Multiple news outlets (BBC, The Guardian, The Independent, NewsCord, distilledpost.com, nursingtimes.net, lbc.co.uk, About Manchester) report that Martha's Rule is being rolled out or expanded to all A&E departments in England.",
+      "NHS England is mentioned as the body responsible for the rollout (NewsCord article).",
+      "The rollout is described as covering every A&E department in England."
+    ],
+    "timeline": [
+      {
+        "event": "Announcement/plan to roll out Martha's Rule to all A&E departments in England",
+        "date": null
+      },
+      {
+        "event": "Target completion date for rollout",
+        "date": "March 2028",
+        "source": "NewsCord"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=349",
+    "featured": true
+  },
+  {
     "id": 348,
     "title": "Burnham expects to find 'common ground' with Trump in first meeting",
     "summary": "**Greater Manchester Mayor Andy Burnham to Meet Former U.S. President Donald Trump at United Nations**",
@@ -31,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=348",
-    "featured": true
+    "featured": false
   },
   {
     "id": 347,

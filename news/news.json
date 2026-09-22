@@ -1,5 +1,53 @@
 [
   {
+    "id": 352,
+    "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+    "summary": "**Trump Praises New Greater Manchester Mayor Andy Burnburn, Calls Chagos Islands Deal “Terrible” and Promises Review**",
+    "content": "**Trump Praises New Greater Manchester Mayor Andy Burnburn, Calls Chagos Islands Deal “Terrible” and Promises Review**\n\nIn a first‑ever face‑to‑face meeting confirmed by the BBC, former U.S. President Donald Trump met Andy Burnham, the newly elected mayor of Greater Manchester. During the encounter, Trump described Burnham as a “natural business person” and said he “can do business with Burnham,” suggesting an openness to commercial ties between American investors and the Manchester region. Burnham echoed the sentiment, calling the interaction a “good connection,” according to the Strait Times.\n\nThe conversation also turned to the United Kingdom’s agreement concerning the Chagos Islands. In a Yahoo report, Trump labeled the deal “terrible,” criticizing the United Kingdom’s handling of the archipelago and its U.S. military presence on Diego Garcia. Responding to the former president’s remarks, Burnham told The Independent that he would undertake a review of the Chagos Islands arrangement.\n\nThe Chagos Islands agreement, which governs the United Kingdom’s administration of the islands and the United States’ use of Diego Garcia for military purposes, has long been contentious. Mauritius claims sovereignty over the archipelago, and the displaced Chagossian community has raised human‑rights concerns. Trump’s condemnation adds a high‑profile U.S. voice to the debate, potentially intensifying calls for renegotiation.\n\nBurnham’s pledge to review the deal follows directly from Trump’s criticism. While the mayor has not detailed the scope or timetable of the review, analysts note that any reassessment could affect the strategic partnership between London and Washington and may bring the legal and humanitarian issues surrounding the Chagossians back into the public arena.\n\nIf the review recommends changes, the United Kingdom could enter fresh diplomatic discussions with the United States and possibly with Mauritius. Such a process would likely involve parliamentary scrutiny, advisory panels, and briefings to senior officials before any amendment to the existing arrangement.\n\nThe meeting also highlights an unusual convergence of U.S. political influence and UK local leadership. Trump’s endorsement of Burnham’s business credentials may pave the way for future investment in Greater Manchester, while the joint focus on the Chagos Islands places a longstanding geopolitical issue back in the headlines.\n\nIn summary, the inaugural meeting between Donald Trump and Andy Burnham produced two notable outcomes: a public affirmation of Burnham’s business orientation and a clear signal that the United Kingdom’s Chagos Islands agreement will undergo renewed scrutiny. The forthcoming review will determine whether the “terrible” deal, as Trump described it, will be altered, reaffirmed, or become the subject of further international negotiation.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-22",
+    "time": "23:21",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump met Andy Burnham for the first time.",
+      "Trump described Andy Burnham as a ‘natural business person’.",
+      "Trump said he can do business with Burnham.",
+      "Trump called the Chagos Islands agreement ‘terrible’.",
+      "Burnham said he and Trump have established a ‘good connection’.",
+      "Burnham said he will review the Chagos Islands deal."
+    ],
+    "timeline": [
+      {
+        "event": "Trump and Burnham’s first meeting",
+        "source": "BBC (article 10)"
+      },
+      {
+        "event": "Trump praises Burnham as a natural business person",
+        "source": "WTVB (article 2)"
+      },
+      {
+        "event": "Trump calls the Chagos deal ‘terrible’ and says he can do business with Burnham",
+        "source": "Yahoo (article 1)"
+      },
+      {
+        "event": "Burnham says he will review the Chagos deal",
+        "source": "The Independent (article 5)"
+      },
+      {
+        "event": "Burnham states a ‘good connection’ with Trump",
+        "source": "straitstimes.com (article 7)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=352",
+    "featured": true
+  },
+  {
     "id": 351,
     "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
     "summary": "**British Prime Minister Andy Burnham Embarks on Diplomatic Tour at UN General Assembly**",
@@ -59,7 +107,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=351",
-    "featured": true
+    "featured": false
   },
   {
     "id": 350,

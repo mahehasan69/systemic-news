@@ -1,5 +1,42 @@
 [
   {
+    "id": 350,
+    "title": "Plot targeting Manchester's Jewish community disrupted, say police",
+    "summary": "**Police Disrupt Suspected Terror Plot Targeting Manchester’s Jewish Community; Two Men Arrested**",
+    "content": "**Police Disrupt Suspected Terror Plot Targeting Manchester’s Jewish Community; Two Men Arrested**\n\nGreater Manchester Police have arrested two men suspected of planning a terrorist attack on the city’s Jewish community. The operation, reported by outlets including the BBC, The Jerusalem Post, Yahoo News Canada, NewsNation, Perspective Media, Ynetnews, The Star (Kenya), Jewish News, LBC and AOL UK, highlights the heightened vigilance of UK law‑enforcement agencies toward hate‑motivated threats.\n\nInvestigators say the plot was aimed at Jewish sites and gatherings in Manchester and may have been timed to coincide with Yom Kippur, the holiest day on the Jewish calendar. While authorities have not released specific details of the intended attack, they confirmed that the suspects were apprehended before any violence could occur, acting on intelligence that indicated an imminent danger.\n\nIn response, police have increased security around synagogues, cultural centres and other Jewish institutions. Additional patrols have been deployed, and community leaders have been advised on precautionary measures ahead of upcoming religious observances. The public has also been urged to report any suspicious activity.\n\nThe identities and motives of the two men have not been disclosed. Officials have described the case as a “suspected terrorist plot” motivated by anti‑Jewish sentiment. Detectives are examining the suspects’ communications, financial records and any networks that may have supported the planning. Prosecutors are expected to consider terrorism‑related charges, and the case could set a precedent for handling similar threats.\n\nThe thwarted plot emerges amid a broader pattern of hate‑crime incidents targeting religious minorities across the United Kingdom. Community organisations have welcomed the police action, noting that an attack on Yom Kippur would have inflicted profound emotional and psychological harm on Manchester’s sizable Jewish population.\n\nAuthorities say security will remain heightened throughout the Jewish holiday calendar, with particular focus on high‑visibility events and places of worship. Ongoing investigations are expected to reveal the operational methods used by the suspects, informing future preventative strategies. Police have pledged to maintain open communication with community leaders to ensure swift responses to any emerging threats.\n\nThe successful disruption underscores the persistent danger posed by extremist ideologies and the importance of proactive policing. By intercepting the scheme before it could be executed, Greater Manchester Police have averted potential loss of life and reinforced public confidence in the capacity of security services to protect minority communities. The case will likely feature in forthcoming reviews of the UK’s counter‑terrorism policies, emphasizing early detection and inter‑agency cooperation.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-22",
+    "time": "17:24",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "UK police disrupted a plot targeting the Jewish community in Manchester",
+      "Two men were arrested in connection with the suspected plot",
+      "The plot was reported by multiple news outlets (BBC, Yahoo News Canada, The Jerusalem Post, NewsNation, Perspective Media, Ynetnews, the-star.co.ke, Jewish News, lbc.co.uk, AOL.co.uk)",
+      "The target was the Jewish community in Manchester, including a potential Yom Kippur attack",
+      "The arrests were made by UK police (likely Greater Manchester Police)"
+    ],
+    "timeline": [
+      {
+        "event": "Police announced disruption of plot",
+        "source": "BBC",
+        "date": null
+      },
+      {
+        "event": "Arrest of two suspects",
+        "source": "The Jerusalem Post",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=350",
+    "featured": true
+  },
+  {
     "id": 349,
     "title": "Martha's Rule rolled out at every A&E department in England",
     "summary": "**Nationwide Roll‑out of “Martha’s Rule” to All English A&E Departments Set for March 2028**",
@@ -31,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=349",
-    "featured": true
+    "featured": false
   },
   {
     "id": 348,

@@ -1,5 +1,67 @@
 [
   {
+    "id": 351,
+    "title": "Watch: Burnham 'gets it' says Trump, as the two leaders meet for first time",
+    "summary": "**British Prime Minister Andy Burnham Embarks on Diplomatic Tour at UN General Assembly**",
+    "content": "**British Prime Minister Andy Burnham Embarks on Diplomatic Tour at UN General Assembly**\n\nLondon – British Prime Minister Andy Burnham will undertake a high‑profile diplomatic tour in New York during the United Nations General Assembly, meeting former U.S. President Donald Trump, appearing on a Sunday broadcast with journalist Laura Kuenssberg, and holding talks with Irish Taoiseach Micheál Martin. The series of engagements signals Burnham’s effort to deepen ties with Washington and Dublin as world leaders converge on the UN agenda.\n\nThe centerpiece of the itinerary is a scheduled meeting with Trump at the UN headquarters. PBS reports that the two leaders will meet for the first time in New York, a gathering that has already attracted considerable media attention. In a statement cited by the BBC, Trump praised Burnham, saying the British premier “gets it,” while Burnham said he hopes to find “common ground” with the former U.S. president. The encounter marks a rare direct dialogue between the United Kingdom’s head of government and a former American president at a multilateral forum.\n\nIn parallel, Burnham will appear on a Sunday television program alongside veteran BBC political correspondent Laura Kuenssberg. The broadcast, also announced by the BBC, will give Burnham a platform to outline his priorities at the General Assembly and respond to the evolving geopolitical climate.\n\nLater in the week, Burnham is slated to meet Taoiseach Micheál Martin. The BBC describes the meeting as part of a broader outreach to European partners, with expectations that it will address post‑Brexit cooperation, Northern Ireland stability, and wider European security concerns.\n\nThe UN General Assembly provides a natural backdrop for such high‑level exchanges. Historically, the annual gathering serves as a venue for leaders to discuss global challenges ranging from security to climate change. Burnham’s outreach to both the United States and Ireland reflects a strategic push to strengthen bilateral relationships amid shifting international dynamics.\n\nAdding a technological dimension to the agenda, Trump has recently rebranded the term “Artificial Intelligence” as “Super Intelligence,” a move reported by the BBC that signals his interest in shaping the narrative around emerging technologies. The rebranding coincides with comments from Anthropic co‑founder that AI is “more powerful by the day,” underscoring the rapid evolution of the field and its growing political relevance.\n\nAnalysts note that the Burnham‑Trump dialogue could influence future cooperation on trade, security and technology, especially if the leaders identify shared positions. The “Super Intelligence” label may foreshadow policy discussions on regulation, investment and ethical frameworks for AI—areas where the UK and US have traditionally sought alignment. Meanwhile, the meeting with Martin is expected to reinforce the UK’s commitment to a stable partnership with its closest neighbor.\n\nFollowing the UN session, Burnham’s Sunday broadcast with Kuenssberg will offer a public forum for his reflections on the meetings and on pressing global issues. Observers will watch for joint statements or policy initiatives emerging from the talks, particularly any references to AI governance or joint economic projects.\n\nIn sum, Andy Burnham’s packed agenda at the United Nations General Assembly represents a proactive diplomatic push aimed at deepening the United Kingdom’s relationships with the United States and Ireland while engaging with the fast‑moving discourse on artificial intelligence. The outcomes of his meetings with Donald Trump and Micheál Martin, coupled with his media appearance, are likely to shape the tone of UK foreign policy in the months ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-22",
+    "time": "20:32",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham, identified as British Prime Minister, is set to meet Donald Trump for the first time at the United Nations in New York (PBS).",
+      "Donald Trump said Burnham \"gets it\" as the two leaders meet for the first time (BBC).",
+      "Andy Burnham expects to find \"common ground\" with Donald Trump in their first meeting (BBC).",
+      "Donald Trump rebranded the term \"Artificial Intelligence\" to \"Super Intelligence\" (BBC).",
+      "A video titled \"What to expect from this year's UN General Assembly\" was published (BBC).",
+      "Andy Burnham will appear on a Sunday broadcast with journalist Laura Kuenssberg (BBC).",
+      "Andy Burnham is scheduled to meet Irish Taoiseach Micheál Martin (BBC).",
+      "Anthropic co‑founder stated that AI is \"more powerful by the day\" (BBC).",
+      "BBC published a feature on Fat Bear Week ranking the bear that has gained the most weight.",
+      "BBC published an explanatory piece titled \"What is a trial of the facts?\""
+    ],
+    "timeline": [
+      {
+        "event": "Andy Burnham scheduled to meet Donald Trump at the UN in New York",
+        "source": "PBS",
+        "date": null
+      },
+      {
+        "event": "First meeting between Burnham and Trump; Trump says Burnham \"gets it\"",
+        "source": "BBC",
+        "date": null
+      },
+      {
+        "event": "Burnham expresses expectation of \"common ground\" with Trump",
+        "source": "BBC",
+        "date": null
+      },
+      {
+        "event": "Trump rebrands \"Artificial Intelligence\" as \"Super Intelligence\"",
+        "source": "BBC",
+        "date": null
+      },
+      {
+        "event": "Andy Burnham to appear on Sunday with Laura Kuenssberg",
+        "source": "BBC",
+        "date": null
+      },
+      {
+        "event": "Andy Burnham to meet Irish Taoiseach Micheál Martin",
+        "source": "BBC",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=351",
+    "featured": true
+  },
+  {
     "id": 350,
     "title": "Plot targeting Manchester's Jewish community disrupted, say police",
     "summary": "**Police Disrupt Suspected Terror Plot Targeting Manchester’s Jewish Community; Two Men Arrested**",
@@ -34,7 +96,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=350",
-    "featured": true
+    "featured": false
   },
   {
     "id": 349,

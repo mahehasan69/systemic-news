@@ -1,5 +1,49 @@
 [
   {
+    "id": 357,
+    "title": "Trump Invites Putin to Attend Group of 20 Summit in Miami",
+    "summary": "**Trump Extends Invitation to Putin for Miami G‑20 Summit**",
+    "content": "**Trump Extends Invitation to Putin for Miami G‑20 Summit**\n\nFormer President Donald Trump has publicly invited Russian President Vladimir Putin to attend the upcoming G20 summit in Miami. The invitation was reported by several outlets, including *The Hill*, *The New York Times*, *The Australian* and Singapore’s *Straits Times*, and was echoed by U.S. Senator Marco Rubio, who said the United States had formally extended the invitation to Moscow. At least eleven media organizations have covered the development, underscoring its prominence on the international news agenda.\n\nThe invitation is part of a broader diplomatic outreach by Trump ahead of the G20 meeting, which will bring together leaders of the world’s largest economies to discuss trade, finance and global security. By reaching out to Putin, Trump signaled a willingness to engage Russia directly at a high‑profile forum. Rubio’s public remark reinforced the administration’s stance, positioning the United States as the party extending the olive branch rather than the one being courted.\n\nReactions have been swift and varied. Coverage ranges from mainstream U.S. newspapers to international publications, reflecting global interest in U.S.–Russia relations. Political backlash was documented in *The New Republic*, where commentators questioned the prudence of inviting a leader whose country has been at odds with Washington over election interference, cyber‑attacks and the war in Ukraine. Critics warn that the gesture could be perceived as legitimizing Russia’s actions on the world stage.\n\nIf Putin accepts, his presence at the Miami summit would place him alongside other high‑profile leaders, including Trump himself and Ukrainian President Volodymyr Zelensky, who is also expected to attend. The convergence of these figures could reshape summit dynamics, influencing discussions on sanctions, security guarantees and economic cooperation. The invitation also signals a shift in U.S. engagement strategy with Russia, moving from a largely confrontational posture to one that includes direct dialogue at multilateral venues.\n\nThe G20 summit in Miami remains scheduled, though the exact date has not been disclosed in the verified reports. Organizers will need to decide whether to accommodate Putin’s attendance, a decision that will likely involve consultations with host‑nation officials, security agencies and member states. The outcome will set the tone for the summit’s agenda and could affect subsequent diplomatic interactions between Washington and Moscow. Observers will watch closely for an official response from the Kremlin, as well as for further statements from U.S. lawmakers and foreign‑policy experts.\n\nIn sum, Trump’s invitation to Putin marks a notable episode in the evolving narrative of U.S.–Russia engagement. The move has generated widespread media attention, provoked political debate and placed the upcoming G20 summit under a spotlight that could influence both the event’s proceedings and broader international relations. As the summit approaches, the world will be watching to see whether the invitation translates into attendance and what implications that may hold for global diplomacy.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-23",
+    "time": "21:09",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      {
+        "fact": "Donald Trump publicly extended an invitation to Russian President Vladimir Putin to attend the G20 summit in Miami",
+        "sources": [
+          "The Hill",
+          "The New York Times",
+          "The Australian",
+          "straitstimes.com"
+        ]
+      },
+      {
+        "fact": "U.S. Senator Marco Rubio stated that the United States had invited Putin to the Miami G20 summit",
+        "sources": [
+          "Radio Free Europe/Radio Liberty",
+          "The Kyiv Independent",
+          "newscord.org",
+          "LIGA.net",
+          "Судово-юридична газета"
+        ]
+      },
+      {
+        "fact": "At least 11 media outlets reported on the invitation",
+        "source": "newscord.org"
+      }
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=357",
+    "featured": true
+  },
+  {
     "id": 356,
     "title": "UK military jamming other nations' satellites to defend itself, BBC told",
     "summary": "**Formal Inquiry Launched into Alleged Military Space Operations and GPS Jamming**",
@@ -17,7 +61,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=356",
-    "featured": true
+    "featured": false
   },
   {
     "id": 355,

@@ -1,5 +1,25 @@
 [
   {
+    "id": 356,
+    "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+    "summary": "**Formal Inquiry Launched into Alleged Military Space Operations and GPS Jamming**",
+    "content": "**Formal Inquiry Launched into Alleged Military Space Operations and GPS Jamming**\n\nA government‑appointed investigative panel has opened a formal inquiry into recent reports that suggest the deployment of military assets in orbit and the deliberate disruption of Global Positioning System (GPS) signals. The probe, announced by an unnamed authority, will assess the credibility of the claims, evaluate potential impacts on civilian and commercial navigation services, and determine whether any international regulations have been violated.\n\nThe investigation was prompted by a series of media items indexed by Google News that described unexplained satellite maneuvers and anomalous GPS signal disruptions across multiple regions. While the reports do not identify the alleged operators, they portray activities consistent with coordinated attempts to obscure or degrade positioning data for strategic purposes. No concrete evidence has been released to the public, and officials stress that the inquiry is still in its early stages.\n\nThe investigative team is reviewing satellite telemetry, signal logs, and any available intelligence to establish a factual baseline. Analysts warn that confirmed GPS jamming could have far‑reaching consequences for aviation, maritime navigation, emergency response and the broader logistics sector, all of which depend on uninterrupted satellite positioning. Moreover, the purported use of space‑based platforms for military objectives raises questions about compliance with the Outer Space Treaty and other norms governing the peaceful use of outer space.\n\nHistorically, GPS interference has been documented in conflict zones and during large‑scale military exercises, where adversaries have employed jamming equipment to disrupt enemy navigation. In recent years, the militarization of space has accelerated, with several nations testing anti‑satellite technologies and deploying constellations capable of dual civilian‑military functions. These trends have heightened policymakers’ concerns about the vulnerability of critical infrastructure to both kinetic and non‑kinetic threats emanating from orbit.\n\nThe significance of the current inquiry lies in its potential to determine whether a coordinated, state‑level effort is underway to compromise GPS reliability. Confirmation of such activity could trigger diplomatic engagement, possible sanctions, and a reassessment of existing safeguards within the satellite navigation ecosystem. It would also underscore the need for resilient alternatives, such as terrestrial augmentation systems and diversified satellite constellations, to mitigate the risk of signal denial.\n\nThe investigative body has pledged to issue periodic updates as new information becomes available. Commercial navigation providers, defense agencies and international regulatory organizations are expected to monitor the findings closely. The outcome of the inquiry may shape future policy decisions on space security, signal integrity and the enforcement of international space law.\n\nIn the meantime, users of GPS‑dependent services are advised to stay alert for service advisories from their providers and to consider contingency plans that incorporate backup positioning methods. The investigation highlights the growing interdependence between space assets and everyday technology, and the importance of protecting those assets from both intentional and accidental disruptions.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-23",
+    "time": "18:02",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=356",
+    "featured": true
+  },
+  {
     "id": 355,
     "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
     "summary": "**UK to Review Chagos Islands Pact and Shelve Diego Garcia Deal After U.S. Opposition**",
@@ -21,7 +41,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=355",
-    "featured": true
+    "featured": false
   },
   {
     "id": 354,

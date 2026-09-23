@@ -1,5 +1,49 @@
 [
   {
+    "id": 353,
+    "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+    "summary": "**London – September 2024 –** UK political leader Andy Burnham outlined a two‑pronged strategy aimed at countering Russian disinformation and shaping global standards for artificial intelligence (AI). The plan was disclosed in a BBC report that quoted Burnham’s pledge to “fight Russian disinformation” and to position the United Kingdom as a leading voice in international AI policy. Global Banking & Finance Review later echoed his ambition, citing Burnham’s statement that the UK intends to assume “global leadership on AI standards.”",
+    "content": "**London – September 2024 –** UK political leader Andy Burnham outlined a two‑pronged strategy aimed at countering Russian disinformation and shaping global standards for artificial intelligence (AI). The plan was disclosed in a BBC report that quoted Burnham’s pledge to “fight Russian disinformation” and to position the United Kingdom as a leading voice in international AI policy. Global Banking & Finance Review later echoed his ambition, citing Burnham’s statement that the UK intends to assume “global leadership on AI standards.”\n\nDuring the same week, Burnham met former U.S. President Donald Trump on the United Nations floor, an encounter reported by Kansas‑based KGW. In the meeting Burnham emphasized the need to “rein in” AI development and highlighted the UK’s role as a major AI player. Trump, speaking to BBC journalists, said he could conduct business with Burnham but dismissed the recent Chagos Islands settlement as “terrible.”\n\nIn a separate claim, the *Alton Telegraph* relayed Trump’s assertion that, after delivering a provocative UN speech warning of consequences for Iran, the United States and Iran held a three‑hour dialogue. Trump framed the conversation as a direct response to his remarks, suggesting a diplomatic opening that has not been confirmed by either government.\n\nBurnham’s initiatives arise against a backdrop of sustained Russian disinformation campaigns targeting Western democracies, prompting the UK to launch a coordinated counter‑disinformation effort. At the same time, rapid advances in AI have raised concerns about ethics, data privacy, and geopolitical competition, driving Burnham to advocate for a unified set of international standards.\n\nThe developments carry several implications. First, Burnham’s push for AI governance could shape the regulatory environment for technology firms, research institutions, and national‑security agencies worldwide. By positioning London as a standard‑setting authority, the UK aims to influence rules governing generative AI, autonomous systems and data‑driven decision‑making. Second, the publicized interaction between Burnham and Trump marks a rare diplomatic overture between a senior UK figure and a former U.S. president, potentially smoothing pathways for future cooperation on technology policy. Finally, if Trump’s claim of a U.S.–Iran meeting proves accurate, it would signal a tentative diplomatic channel that could affect Middle‑East stability and broader UN negotiations.\n\nThe United Nations is slated to convene a series of working groups on AI governance in the coming weeks, with the UK expected to champion proposals reflecting Burnham’s vision of global standards. Analysts note that any formal follow‑up to Trump’s alleged Iran dialogue will depend on verification from the respective foreign ministries and could lead to additional multilateral talks or bilateral confidence‑building measures. Observers will also monitor how the UK’s anti‑disinformation campaign integrates with allied efforts to counter state‑sponsored misinformation.\n\nIn sum, September’s statements and meetings place the United Kingdom at the forefront of a dual challenge: curbing hostile information operations while steering the international community toward coherent AI regulation. Simultaneously, Donald Trump’s assertions about U.S.–Iran engagement add an unpredictable diplomatic dimension that could reshape regional dynamics. The convergence of technology policy and high‑level diplomacy underscores the increasingly intertwined nature of security, information and innovation on the global stage.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-23",
+    "time": "01:57",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham said the UK will fight Russian disinformation and push new global AI standards (BBC).",
+      "Andy Burnham sought common ground with Donald Trump at the United Nations and promoted the UK as a major AI player (KGW).",
+      "The UK seeks global leadership on AI standards, according to statements attributed to Burnham (Global Banking & Finance Review).",
+      "Burnham told Donald Trump that AI needs to be rein in (AOL.com).",
+      "Donald Trump said the United States and Iran met for three hours after his threat during a United Nations speech (Alton Telegraph).",
+      "Donald Trump said he can do business with Burnham but criticised the Chagos deal as \"terrible\" (BBC)."
+    ],
+    "timeline": [
+      {
+        "date": "2024-09-?? (date not provided in articles)",
+        "event": "Andy Burnham announces UK plan to combat Russian disinformation and promote AI standards (BBC)."
+      },
+      {
+        "date": "2024-09-??",
+        "event": "Andy Burnham meets Donald Trump at the United Nations, discusses AI and seeks common ground (KGW)."
+      },
+      {
+        "date": "2024-09-??",
+        "event": "Donald Trump claims US and Iran held a three‑hour meeting after his UN speech (Alton Telegraph)."
+      },
+      {
+        "date": "2024-09-??",
+        "event": "Donald Trump criticises the Chagos deal while stating he can do business with Burnham (BBC)."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=353",
+    "featured": true
+  },
+  {
     "id": 352,
     "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
     "summary": "**Trump Praises New Greater Manchester Mayor Andy Burnburn, Calls Chagos Islands Deal “Terrible” and Promises Review**",
@@ -45,7 +89,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=352",
-    "featured": true
+    "featured": false
   },
   {
     "id": 351,

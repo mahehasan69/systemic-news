@@ -1,5 +1,38 @@
 [
   {
+    "id": 360,
+    "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
+    "summary": "**North East NHS Trust to Review 4,500 Breast‑Cancer Cases After Unnecessary Mastectomy Scandal**",
+    "content": "**North East NHS Trust to Review 4,500 Breast‑Cancer Cases After Unnecessary Mastectomy Scandal**\n\nA North East NHS trust has launched a comprehensive review of 4,500 breast‑cancer cases following revelations that women in County Durham and Darlington were subjected to unnecessary mastectomies. The investigation, prompted by mounting pressure from patients and concerns from health officials, seeks to determine the full extent of the harm and to prevent similar incidents in the future.\n\nThe controversy entered the public domain after Hudgell Solicitors and *Chronicle Live* reported that a number of women diagnosed with breast cancer later discovered that their mastectomies had no medical justification. Affected patients have spoken publicly about the impact, describing loss of confidence, anger and a sense of betrayal. The physical removal of breast tissue, combined with the psychological trauma, has left many questioning the quality of care they received.\n\nIn response, NHS officials announced a review covering the 4,500 cases that may have been affected by the unnecessary surgeries. The review, reported by the BBC, Yahoo and the BBC website, is being overseen by senior NHS managers whose precise remit is still being defined. According to the *Northern Echo*, the trust acknowledges that the 4,500 cases likely represent only a portion of the total harm, and that additional patients could be identified as the investigation proceeds.\n\nThe scandal unfolded over several months. Initial allegations of over‑treatment and possible misdiagnosis were raised by patients and their legal representatives, prompting coverage in regional outlets such as the *Yorkshire Post* and the *Northern Echo*. As the story gained traction, more women came forward, sharing their experiences of unnecessary mastectomies and the ensuing emotional distress. The trust’s decision to review the cases marks the first formal step toward quantifying the problem and addressing the grievances of those affected.\n\nBeyond the individual cases, the review raises broader issues for the NHS. Unnecessary surgical intervention not only inflicts physical injury but also erodes trust in the health‑care system. Documented psychological effects—including loss of confidence, anger and feelings of betrayal—underscore the need for robust patient‑safety safeguards. The potential for legal action or compensation claims adds another dimension, as affected women may seek redress for both physical and emotional damage. The episode also prompts questions about diagnostic accuracy and treatment protocols, fueling calls for stricter oversight to prevent recurrence.\n\nNHS officials are expected to finalize the parameters of the review in the coming weeks. The assessment of the identified 4,500 cases will determine whether additional patients should be added to the list of potentially harmed individuals. Legal representatives have signalled the likelihood of compensation claims, and further disclosures about the scale of the harm are anticipated as the investigation unfolds.\n\nThe review represents a pivotal moment for accountability in the NHS’s handling of breast‑cancer treatment in the North East. By systematically examining thousands of cases, the trust aims to uncover the root causes of the unnecessary mastectomies, provide clarity for affected women and restore confidence in the health‑care system. The findings are expected to shape future clinical guidelines and patient‑safety measures, ensuring that misdiagnosis or over‑treatment does not recur.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-24",
+    "time": "10:35",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "NHS trust is reviewing 4,500 breast cancer cases for patients potentially harmed by unnecessary surgery (BBC, Yahoo, bbc.co.uk, Yorkshire Post)",
+      "The review concerns patients in County Durham and Darlington (Yorkshire Post, Northern Echo)",
+      "The scandal involves unnecessary mastectomies performed on women diagnosed with breast cancer (Hudgell Solicitors, Chronicle Live)",
+      "Patients have reported loss of confidence, anger and feeling betrayed after unnecessary mastectomies (Hudgell Solicitors, Chronicle Live, Northern Echo)",
+      "NHS officials are deciding the scope of the review into the County Durham breast cancer scandal (The Northern Echo)",
+      "North East NHS Trust acknowledges that there are likely more cases of harm beyond the 4,500 being reviewed (The Northern Echo)"
+    ],
+    "timeline": [
+      "Scandal over unnecessary mastectomies emerges in County Durham/Darlington (reported by Hudgell Solicitors, Chronicle Live)",
+      "Patients publicly share personal impact (quotes in Hudgell Solicitors and Northern Echo articles)",
+      "NHS announces a review of 4,500 cases (BBC, Yahoo, bbc.co.uk)",
+      "NHS officials tasked with defining the scope of the review (The Northern Echo)",
+      "North East NHS Trust acknowledges likely additional harmed cases (The Northern Echo)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=360",
+    "featured": true
+  },
+  {
     "id": 359,
     "title": "What video footage tells us about RAF training jet crash",
     "summary": "**Recent Developments Across the UK, New Zealand and Beyond**",
@@ -28,7 +61,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=359",
-    "featured": true
+    "featured": false
   },
   {
     "id": 358,

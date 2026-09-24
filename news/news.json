@@ -1,5 +1,36 @@
 [
   {
+    "id": 359,
+    "title": "What video footage tells us about RAF training jet crash",
+    "summary": "**Recent Developments Across the UK, New Zealand and Beyond**",
+    "content": "**Recent Developments Across the UK, New Zealand and Beyond**\n\nA series of unrelated events—from a Royal Air Force training accident to labour talks in New Zealand, high‑profile criminal cases and personal milestones—has drawn public attention to safety, policy and community issues.\n\n---\n\n### RAF Training Jet Crash in Wales  \n\nDuring a training sortie over Anglesey, a Royal Air Force fighter jet suffered a catastrophic failure. Both pilots ejected safely, and the aircraft crashed on the ground. The Ministry of Defence released video of the ejection and impact.  \n\nIn response, the RAF has suspended all fighter‑jet training while investigators examine technical data and maintenance records. Officials say the pause will allow a thorough review of procedures and any necessary changes before training resumes.\n\n---\n\n### Possible Teachers’ Strike in New Zealand  \n\nEducation unions in Wellington are considering industrial action after the government announced a school‑closure programme aimed at restructuring the sector. Union leaders warn that, if negotiations on the timetable fail, teachers could strike to protect jobs and maintain community access to education. No strike date has been set, but the threat highlights tension between cost‑saving policies and concerns about student outcomes and local economies.\n\n---\n\n### Recent Criminal Cases in the United Kingdom  \n\n* **Bar licence revoked after stabbing** – A city bar in England lost its operating licence following a stabbing of three men inside the venue. The decision raises questions about venue security and public‑safety standards.  \n\n* **Arrests after fatal road crash** – Two individuals were arrested in connection with a road collision that killed a woman. While the precise cause of the crash remains under investigation, the arrests demonstrate law‑enforcement’s focus on accountability.  \n\n* **£13.8 million drug‑trafficking conviction** – Four defendants received prison sentences for their roles in an international drug operation valued at £13.8 million. The case underscores the scale of organized crime and the effectiveness of coordinated investigative efforts.\n\n---\n\n### Human‑Interest Stories  \n\n* **Adoption experience** – A single father described adoption as “life‑changing” in a recent interview, highlighting the emotional and practical benefits of expanding his family. His testimony offers a positive counterpoint to the more sensational headlines.  \n\n* **Television recognition** – Gethin, a television personality, was nominated for a TV Times Award, reflecting ongoing public interest in popular culture and recognition of individual achievement within the media industry.\n\n---\n\n### Implications and Next Steps  \n\n* **RAF** – The service will complete its technical audit before lifting the training suspension, which may lead to modifications of flight protocols or maintenance practices.  \n* **New Zealand** – Union leaders will continue talks with the education ministry; a strike remains a possibility if an agreement is not reached.  \n* **Legal proceedings** – Ongoing court actions related to the fatal crash and the drug conspiracy could result in further charges or appeals.  \n* **Bar licence** – The establishment may seek a review of the revocation decision.  \n* **Adoption community** – The single father’s story is expected to be used in advocacy for supportive adoption policies.\n\n---\n\n### Key Takeaway  \n\nFrom military safety and labour rights to violent crime and personal triumphs, these disparate events illustrate how a range of issues can shape public discourse. Each story, while distinct, underscores the need for vigilant oversight, responsive governance and community resilience.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-24",
+    "time": "05:35",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "RAF paused fighter jet training after two pilots ejected from a plane before it crashed",
+      "Video footage provides details about the RAF training jet crash",
+      "Potential strike action is being considered over school‑closure plans in New Zealand",
+      "Pilots ejected as an RAF jet crashed in Anglesey",
+      "Pilots ejected from a jet before it crashed in Wales, as shown in dramatic footage",
+      "A city bar lost its licence after three men were stabbed",
+      "Gethin was nominated for a TV Times Award",
+      "Two people were arrested after a woman was killed in a crash",
+      "Four individuals were jailed for involvement in a £13.8 million international drug plot",
+      "A single father said adoption has been life‑changing"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=359",
+    "featured": true
+  },
+  {
     "id": 358,
     "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
     "summary": "**UK Residents Near Industrial Sites Show Elevated Levels of Cancer‑Causing “Forever Chemicals”**",
@@ -22,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=358",
-    "featured": true
+    "featured": false
   },
   {
     "id": 357,

@@ -1,5 +1,35 @@
 [
   {
+    "id": 362,
+    "title": "Watch: Why has Trump been so eager to welcome Xi?",
+    "summary": "*Washington, D.C.* – Former U.S. President Donald Trump and Chinese President Xi Jinping met this week in the nation’s capital in a highly staged diplomatic event that combined ceremonial pomp with visible public dissent. The BBC described the occasion as a “great fanfare,” noting the red‑carpet reception, a military flyover and a warm welcome that underscored the importance both leaders place on stabilising the U.S.–China relationship.",
+    "content": "**Trump‑Xi Summit in Washington, 2024**\n\n*Washington, D.C.* – Former U.S. President Donald Trump and Chinese President Xi Jinping met this week in the nation’s capital in a highly staged diplomatic event that combined ceremonial pomp with visible public dissent. The BBC described the occasion as a “great fanfare,” noting the red‑carpet reception, a military flyover and a warm welcome that underscored the importance both leaders place on stabilising the U.S.–China relationship.\n\nThe summit opened under tight security and attracted a mix of supporters and protesters. Demonstrators in MAGA hats gathered outside the venue, while other groups staged protests that highlighted the polarized views on bilateral ties. Washington’s Chinatown community also voiced optimism that the talks could generate economic and cultural benefits for Chinese‑American residents.\n\nAccording to the *Globe and Mail*, the timing of the summit was deliberately chosen to avoid disrupting broader U.S.–China relations. The *Korean Times* reported that the event began with real‑time video coverage from the BBC, indicating that media outlets were prepared to broadcast the proceedings as they unfolded. The coordinated display of military aircraft over the capital—a traditional sign of state ceremony—reinforced the message that both sides were committed to a dignified and orderly engagement.\n\nBeyond the ceremonial aspects, China issued a warning on Taiwan during the welcome remarks, reminding observers that the island’s security remains a flashpoint in bilateral ties. The warning, delivered in the context of a high‑profile meeting, amplified attention to Taiwan’s status and signalled that any shift in U.S. policy toward the island would be closely monitored by Beijing. In Washington, reactions to the warning were evident among both summit supporters and protesters, illustrating the complex interplay between diplomatic overtures and regional security concerns.\n\nThe summit’s significance lies in its attempt to stabilise a relationship strained by trade disputes, technology bans and competing strategic interests. By convening in the U.S. capital, Trump and Xi signalled a willingness to engage directly, a move that could help manage tensions and prevent escalation. The elaborate ceremony was intended to convey mutual respect, while the public protests and China’s Taiwan warning highlighted the persistent challenges any diplomatic progress must address.\n\nWhile the immediate outcomes of the talks were not detailed in the reports, the very scheduling of the meeting—intended to sidestep disruptions—suggests that both governments anticipate continued dialogue. Observers note that the high‑visibility nature of the event, combined with real‑time coverage, may set the tone for subsequent interactions, whether in the form of follow‑up talks, trade negotiations or security consultations. The presence of both supportive and dissenting voices in Washington indicates that any future agreements will need to navigate domestic political pressures in both countries.\n\nIn sum, the Trump‑Xi summit marked a rare convergence of diplomatic ceremony and public expression. The red carpet, military flyover and warm welcome demonstrated a mutual desire to maintain a stable bilateral relationship, while the protests, MAGA hats and Chinese warning on Taiwan reminded stakeholders that underlying tensions remain. The next phase will likely involve careful monitoring of how the summit’s symbolic gestures translate into concrete policy steps, particularly concerning trade, technology and the security of Taiwan.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-24",
+    "time": "19:33",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump and Chinese President Xi Jinping met in Washington, United States.",
+      "The meeting was marked by a warm welcome, a red carpet, and a military flyover.",
+      "Protests and displays of MAGA hats occurred in Washington during the summit.",
+      "Chinatown in Washington expressed hopes related to the meeting.",
+      "The summit was described by the BBC as a \"great fanfare\" event.",
+      "The Globe and Mail reported that the meeting was scheduled to avoid disruptions in the U.S.–China relationship."
+    ],
+    "timeline": [
+      "The meeting was reported as occurring \"this week\" (The Globe and Mail).",
+      "The summit \"begins\" (The Korea Times) and was covered in real‑time video pieces (BBC)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=362",
+    "featured": true
+  },
+  {
     "id": 361,
     "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
     "summary": "**Federal Judge Orders White House to Restore Press Access; Administration Remains Non‑Compliant**",
@@ -40,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=361",
-    "featured": true
+    "featured": false
   },
   {
     "id": 360,

@@ -1,5 +1,48 @@
 [
   {
+    "id": 361,
+    "title": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+    "summary": "**Federal Judge Orders White House to Restore Press Access; Administration Remains Non‑Compliant**",
+    "content": "**Federal Judge Orders White House to Restore Press Access; Administration Remains Non‑Compliant**\n\nA federal judge on Thursday ordered the White House to reverse a Trump‑era directive that barred three major news organizations—CNN, MS NOW and Politico—from the presidential press pool. The judge described the ban as “most likely unconstitutional” and directed the executive branch to restore full press access without delay, citing First Amendment protections for a free and independent press.\n\n**Background**\n\nThe dispute began under President Donald Trump, who issued a directive prohibiting the three outlets from attending White House briefings, citing perceived bias. The administration’s justification has now been challenged by the judiciary, which views the restriction as an unlawful limitation on media coverage.\n\n**Court Ruling**\n\nThe judge’s order mandates that the White House allow reporters from CNN, MS NOW and Politico to attend briefings and other press events. The ruling emphasizes that the ban undermines the constitutional guarantee of a free press and therefore must be lifted immediately.\n\n**Continued Non‑Compliance**\n\nDespite the clear directive, multiple outlets—including *Time*, *The Guardian*, the BBC, Reuters, Yahoo, CBS News and *TheWrap*—have reported that White House officials have repeatedly turned away reporters from the three barred organizations. These incidents have occurred on several occasions since the judge’s decision, suggesting ongoing refusal to obey the court order. Legal analysts characterize the White House’s actions as a breach of a federal court mandate.\n\n**Legal Implications**\n\nThe standoff highlights a broader tension between executive authority and judicial oversight of press access. Persistent non‑compliance could expose the administration to contempt of court proceedings, which may carry sanctions or compel stricter enforcement. Both the White House and the affected media companies retain the right to appeal, but the immediate priority for the courts is ensuring adherence to the order.\n\n**Potential Outcomes**\n\nIf the administration fails to restore access promptly, the court may impose additional measures, such as fines or other penalties for contempt. An appeal could delay implementation, extending the period during which CNN, MS NOW and Politico remain excluded from the press pool. Other news organizations are monitoring the dispute closely, prepared to report further developments.\n\n**Significance**\n\nThe episode underscores the delicate balance between presidential power and constitutional safeguards for the press. While the original ban aimed to limit coverage deemed unfavorable, the federal judge’s intervention reaffirms the judiciary’s role in protecting First Amendment rights. Ongoing refusal to honor the order not only challenges that principle but also sets a precedent for future conflicts over media access to the nation’s highest office.\n\nAs the legal battle proceeds, the courts have signaled a willingness to intervene whenever executive actions appear to infringe upon fundamental freedoms that underpin American democracy.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-24",
+    "time": "15:34",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A federal judge ordered the White House to lift President Donald Trump's ban on three news outlets – CNN, MS NOW and Politico (Articles 4, 7, 8, 10).",
+      "Multiple media outlets (Time Magazine, The Guardian, BBC, Reuters, Yahoo, CBS News, TheWrap) reported that the White House has repeatedly violated the court order to restore press access (Articles 1, 2, 6, 7).",
+      "Reporters from the three barred outlets continued to be denied White House entry after the judge’s order (Articles 3, 5, 9).",
+      "The judge described the Trump directive as “most likely unconstitutional” (Article 8).",
+      "The ban was instituted under President Donald Trump’s administration (implied by all articles)."
+    ],
+    "timeline": [
+      {
+        "event": "President Donald Trump issues directive barring CNN, MS NOW, and Politico from White House press pool.",
+        "date": "Unknown (prior to court action)"
+      },
+      {
+        "event": "Federal judge orders the White House to lift the ban and restore access.",
+        "date": "Early Thursday (exact date not provided)"
+      },
+      {
+        "event": "Media outlets report that the White House repeatedly violates the court order.",
+        "date": "After the judge’s order (dates not specified)"
+      },
+      {
+        "event": "Reporters from the three outlets continue to be denied White House entry.",
+        "date": "Following the judge’s order (dates not specified)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=361",
+    "featured": true
+  },
+  {
     "id": 360,
     "title": "NHS trust to review 4,500 breast cancer cases after unnecessary surgeries found",
     "summary": "**North East NHS Trust to Review 4,500 Breast‑Cancer Cases After Unnecessary Mastectomy Scandal**",
@@ -30,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=360",
-    "featured": true
+    "featured": false
   },
   {
     "id": 359,

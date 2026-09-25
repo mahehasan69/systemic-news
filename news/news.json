@@ -1,5 +1,53 @@
 [
   {
+    "id": 366,
+    "title": "Daniel Thomas pleads not guilty after dinghy slashed",
+    "summary": "**Far‑right activist Daniel Thomas arrested and charged after slashing migrant dinghy in the English Channel**",
+    "content": "**Far‑right activist Daniel Thomas arrested and charged after slashing migrant dinghy in the English Channel**\n\nA small boat carrying migrants attempting to cross the English Channel toward the United Kingdom was deliberately cut, leaving the vessel disabled and its passengers adrift for more than 30 hours. UK police have arrested Daniel Thomas – also known as Danny Tommo – a self‑identified far‑right, anti‑migration activist, charged him with criminal damage and recorded a not‑guilty plea at his first court appearance.\n\n**Incident**\n\nThe incident occurred in the busy waters off Dover. According to the police investigation, the dinghy was intercepted and its hull was slashed, rendering it inoperable. The damage forced the migrants to remain at sea until rescue services located the craft the following day and transferred the passengers to Dover. The prolonged exposure highlighted the vulnerability of people who rely on fragile vessels to make the crossing.\n\n**Arrest and charges**\n\nInvestigators identified Thomas as the individual responsible for the sabotage. Court documents describe him as a far‑right activist who has publicly opposed irregular migration. Prosecutors have charged him with criminal damage, an offence that can carry custodial sentences and fines under UK law. At his initial hearing – the date of which has not been disclosed – Thomas entered a plea of not guilty, indicating that the case will proceed to a full trial.\n\n**Legal and humanitarian implications**\n\nLegal experts note that the charge focuses on the intentional destruction of a vessel rather than on immigration offences. By prosecuting the act of sabotage itself, authorities are emphasizing the rule of law and the protection of property, even when the property is being used in a contested political context. The case could set a precedent for how future acts of interference with migrant boats are treated.\n\nFor the migrants, the sabotage meant more than a legal matter. They spent over a day exposed to the elements in a compromised craft before being rescued and processed according to existing immigration protocols. The episode underscores the broader humanitarian concerns surrounding Channel crossings, where dangerous boats are often the only means of reaching the UK.\n\n**Potential outcomes**\n\nIf convicted, Thomas could face imprisonment, fines, or both, reflecting the seriousness with which the UK legal system treats deliberate damage to a vessel in international waters. A not‑guilty verdict would leave the matter unresolved in the public sphere and could prompt calls for legislative or policy changes aimed at preventing similar incidents.\n\n**Next steps**\n\nThe judiciary will now assess whether the prosecution’s evidence proves Thomas’s guilt beyond a reasonable doubt. Observers will watch closely to see how the courts balance the rights of the accused with the broader implications for migrant safety and the rule of law. The outcome is likely to influence law‑enforcement approaches to sabotage cases and shape public discourse on far‑right activism in the United Kingdom.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-25",
+    "time": "10:39",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Daniel Thomas, also known as Danny Tommo, is identified as a far‑right/anti‑migrant activist.",
+      "He was arrested in connection with a slashing of a migrant dinghy/boat in the English Channel.",
+      "He was charged with criminal damage related to the boat slashing.",
+      "He entered a plea of not guilty to the charge.",
+      "The incident involved a boat carrying migrants attempting to reach the UK.",
+      "The location of the incident was the English Channel, near Dover, United Kingdom."
+    ],
+    "timeline": [
+      {
+        "date": null,
+        "event": "Dinghy carrying migrants was slashed in the English Channel."
+      },
+      {
+        "date": null,
+        "event": "Daniel Thomas/Danny Tommo was arrested by UK authorities."
+      },
+      {
+        "date": null,
+        "event": "He was formally charged with criminal damage."
+      },
+      {
+        "date": null,
+        "event": "He entered a plea of not guilty in court."
+      },
+      {
+        "date": null,
+        "event": "Migrants from the affected vessel were taken to Dover after more than 30 hours at sea (BBC report)."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=366",
+    "featured": true
+  },
+  {
     "id": 365,
     "title": "Watch: The world’s two most powerful men just met. How did it go?",
     "summary": "**Washington Hosts Chinese President Xi Jinping in High‑Profile State Visit**",
@@ -28,7 +76,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=365",
-    "featured": true
+    "featured": false
   },
   {
     "id": 364,

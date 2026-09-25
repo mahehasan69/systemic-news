@@ -1,5 +1,30 @@
 [
   {
+    "id": 369,
+    "title": "Man City found guilty of majority of 115 financial rule breaches",
+    "summary": "**Manchester City Found to Have Breached Premier League Financial Rules; Club Plans Appeal**",
+    "content": "**Manchester City Found to Have Breached Premier League Financial Rules; Club Plans Appeal**\n\nManchester City has been ruled guilty of breaching a majority of the Premier League’s financial regulations, a verdict confirmed by a range of outlets including the BBC, CNN, ESPN, Sky Sports, Yahoo Sports, Reuters, Al Jazeera and others. While the league has not disclosed the specific nature of the infractions, the finding marks the most extensive enforcement action taken against a club in recent years.\n\nThe Premier League’s financial framework is intended to promote fiscal responsibility and competitive balance among its 20 members. It imposes strict accounting standards, salary‑cap limits and transparency requirements. The breadth of the ruling suggests that City failed to comply with multiple aspects of these rules, prompting the league to consider sanctions that could affect the club’s operations and standing.\n\nIn the wake of the decision, several other Premier League clubs have turned to legal advisers to explore possible compensation claims. The BBC reports that clubs are assessing the financial impact of City’s alleged breaches and are evaluating whether they have suffered damages from any competitive advantage the club may have gained. Legal experts note that any claim would need to demonstrate concrete losses linked to the breaches, a process that could extend over months or even years.\n\nManchester City has responded swiftly. Reuters and Yahoo Sports note that the club is preparing an appeal that will challenge both the factual basis of the breaches and the severity of any penalties imposed. In a public statement reported by ESPN, midfielder Rodri said he “believes in innocence” and that the club’s success is “deserved,” reflecting a broader sentiment within the organization that the ruling is unfounded.\n\nThe case has broader implications for the league’s regulatory regime. Past investigations into clubs’ spending have sparked debate over the effectiveness and consistency of Premier League oversight. A ruling against a club that has dominated domestic competition in recent seasons raises questions about the transparency of the financial framework and highlights the potential for disputes to move into the legal arena.\n\nLooking ahead, City is expected to file a formal appeal that will likely be heard by an independent tribunal appointed by the Premier League. The appeal process could take several weeks, during which the club will continue its regular season schedule. Simultaneously, other clubs may lodge compensation claims, potentially initiating a series of legal proceedings that could set precedents for future financial disputes in English football.\n\nThe outcome of both the appeal and any compensation cases will shape the financial landscape of the Premier League for years to come. As the football community watches closely, the resolution will influence not only competitive equity but also the legal and financial structures governing the sport, testing the balance between on‑field success and regulatory compliance.",
+    "category": "⚽ Sports",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-25",
+    "time": "22:53",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Manchester City was found guilty of breaching Premier League financial regulations (multiple sources: BBC, CNN, ESPN, Sky Sports, Yahoo Sports, Reuters, Al Jazeera).",
+      "Clubs are seeking legal advice over possible compensation related to Manchester City charges (BBC).",
+      "Manchester City is expected to appeal the verdict (Reuters, Yahoo Sports).",
+      "Rodri, Manchester City midfielder, said he \"believes in innocence\" of the club and that its success is \"deserved\" (ESPN)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=369",
+    "featured": true
+  },
+  {
     "id": 368,
     "title": "Watch: What could the potential sanctions for Man City be?",
     "summary": "**Manchester City Found Guilty of Nearly All 115 Premier League Financial Charges**",
@@ -44,7 +69,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=368",
-    "featured": true
+    "featured": false
   },
   {
     "id": 367,

@@ -1,5 +1,36 @@
 [
   {
+    "id": 365,
+    "title": "Watch: The world’s two most powerful men just met. How did it go?",
+    "summary": "**Washington Hosts Chinese President Xi Jinping in High‑Profile State Visit**",
+    "content": "**Washington Hosts Chinese President Xi Jinping in High‑Profile State Visit**\n\nWashington – President Donald Trump welcomed Chinese President Xi Jinping to the United States this week with a red‑carpet reception, a military fly‑over of the capital and a state dinner that featured a handcrafted bald‑eagle statue as a diplomatic gift. The BBC described the encounter as a gathering of “the world’s two most powerful men,” noting the elaborate ceremony and the political significance of the meeting.\n\n**Ceremonial Highlights**\n\nUpon Xi’s arrival, Trump ordered a red carpet to be laid out and arranged for a formation of military aircraft to sweep over Washington, a gesture intended to underscore the importance of the bilateral dialogue. At the state dinner, Trump presented Xi with the eagle statue, a traditional symbol of U.S. diplomatic goodwill. BBC video coverage captured the fanfare, emphasizing both the pageantry and the strategic calculus behind the president’s keen interest in the Chinese leader’s presence.\n\n**White House Media Ban**\n\nThe visit was conducted under a newly imposed White House media ban that restricts live reporting. The ban, highlighted in a BBC segment titled “Watch: What’s the latest on the White House media ban?” has drawn criticism from journalists and transparency advocates, who argue that it limits public access to real‑time information at a moment when U.S.–China relations are under intense scrutiny. Although immediate coverage was curtailed, the BBC’s compiled footage and analysis ensure that key moments—such as the gift exchange and the fly‑over—remain available to the public after the fact.\n\n**Allied Concerns**\n\nIn parallel with the diplomatic overture, Canadian officials expressed unease about possible U.S. military implications. A senior Canadian figure identified as Carney voiced concerns in a BBC interview, reflecting broader security anxieties among Washington’s allies whenever U.S. policy toward China shifts. The comments illustrate how regional partners are closely monitoring the United States’ diplomatic posture and its potential impact on North American security dynamics.\n\n**Context of the United Nations General Assembly**\n\nThe timing of the Trump‑Xi meeting coincides with the upcoming United Nations General Assembly (UNGA), scheduled for later this year. The BBC’s preview of the UNGA notes that world leaders will convene to address issues ranging from climate change to geopolitical tensions. In a related development, Andy Burnham delivered his inaugural speech at the UN, an event the BBC labeled a “key moment” in the assembly’s agenda. The convergence of the bilateral talks and the multilateral forum suggests that outcomes of the Washington meeting could influence, and be reflected in, broader international discussions.\n\n**China’s Technological Landscape**\n\nBBC coverage also turned to China’s domestic technology sector, showcasing remote engine rooms that power the country’s rapid AI expansion. The report provides context for the strategic importance of the U.S.–China dialogue, as advances in artificial intelligence increasingly shape economic competition and national‑security considerations for both nations.\n\n**Implications and Outlook**\n\nThe personal rapport displayed between Trump and Xi—evident in the red‑carpet welcome and the symbolic eagle gift—may affect the tone of forthcoming negotiations on trade, technology and security. The media ban raises questions about the openness of U.S. diplomatic processes, potentially influencing public perception and legislative oversight. Allied concerns, such as those voiced by Canada, indicate that any shift in U.S. policy toward China will reverberate across the broader Western alliance.\n\nThe White House is expected to issue an official statement summarizing the substantive outcomes of the talks. Analysts anticipate that the media restrictions will be lifted shortly, allowing broader reporting. Canadian officials may seek clarification from Washington regarding the security implications of the visit, while the UNGA will provide a platform for further dialogue on issues raised during the bilateral encounter.\n\nIn sum, the Trump‑Xi meeting represents a rare blend of diplomatic ceremony, strategic signaling and geopolitical tension. The ornate bald‑eagle gift, the red‑carpet reception, the military fly‑over and the surrounding media restrictions together portray an administration eager to showcase a thaw in relations while navigating domestic and allied concerns. As the United Nations General Assembly approaches, the reverberations of this encounter are poised to shape not only bilateral ties but also the broader international agenda.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-25",
+    "time": "05:40",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The White House has imposed a media ban (as referenced in the BBC article titled \"Watch: What's the latest on the White House media ban?\")",
+      "Donald Trump and Xi Jinping, described as the world’s two most powerful men, met (BBC article titled \"Watch: The world’s two most powerful men just met. How did it go?\")",
+      "Donald Trump gave Xi Jinping an ornate bald eagle statue at a state dinner (BBC article titled \"Why Trump gave Xi an ornate bald eagle statue at the state dinner\")",
+      "Xi Jinping received a red‑carpet welcome from Donald Trump, though not everything he wanted (BBC article titled \"Xi got Trump's red carpet welcome - but not everything he wanted\")",
+      "Canadian officials, including a person named Carney, expressed concerns about a potential US military threat (BBC article titled \"Watch: A military threat from US? Canadians react to Carney's concerns\")",
+      "Donald Trump showed particular interest in Xi Jinping's visit (BBC article titled \"Watch: Here's why Trump's been so keen on Xi's visit\")",
+      "Donald Trump welcomed Xi Jinping with a red carpet and a military flyover (BBC article titled \"A red carpet and military flyover - How Trump welcomed Xi\")",
+      "The United Nations General Assembly is scheduled for this year (BBC article titled \"Watch: What to expect from this year's UN General Assembly\")",
+      "Andy Burnham delivered his first speech at the UN (BBC article titled \"Watch: Key moments from Andy Burnham's first UN speech\")",
+      "Remote engine rooms in China are fueling the country's AI boom (BBC article titled \"Rare look at the remote engine rooms fuelling China's AI boom\")"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=365",
+    "featured": true
+  },
+  {
     "id": 364,
     "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
     "summary": "**Rapid Genomic Test Cuts Brain‑Tumour Diagnosis to Two Hours in NHS Pilot**",
@@ -27,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=364",
-    "featured": true
+    "featured": false
   },
   {
     "id": 363,

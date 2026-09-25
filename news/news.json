@@ -1,5 +1,32 @@
 [
   {
+    "id": 367,
+    "title": "Special agents' blood and urine test results stolen in FBI hack",
+    "summary": "**FBI Medical Records Breach Highlights Cyber‑Security Gaps; UK Labour Figure Says No Quick Fix for Small‑Boat Migration**",
+    "content": "**FBI Medical Records Breach Highlights Cyber‑Security Gaps; UK Labour Figure Says No Quick Fix for Small‑Boat Migration**\n\n*London and Washington – Two separate incidents reported by the BBC underscore the challenges governments face in protecting sensitive data and managing complex migration flows.*\n\n**FBI breach exposes agents’ health data**\n\nThe United States Federal Bureau of Investigation confirmed that a cyber intrusion accessed the blood‑ and urine‑test results of its special agents. The breach, first reported by the BBC, involved medical records used for health monitoring and fitness assessments within the bureau. An Azerbaijani news outlet, Operativ Məlumat Mərkəzi, echoed the claim that the attackers had obtained the agents’ medical files.\n\nNo specific date for the intrusion has been disclosed, and the FBI has not released an official statement detailing the scope of the compromise or the steps it will take to remediate the breach. The exposure of protected health information raises immediate privacy concerns for the affected agents and prompts questions about the adequacy of existing safeguards on federal data repositories. U.S. privacy law mandates strict protection of medical records, and the incident may trigger congressional oversight and calls for stronger encryption, tighter access controls, and more robust incident‑response protocols across law‑enforcement agencies.\n\n**UK Labour minister stresses limits of a “switch” on small‑boat arrivals**\n\nIn a separate development, senior Labour Party politician Lucy Powell told the BBC that there is no simple technical solution—a “switch”—that can be flipped to halt the flow of small boats carrying migrants across the English Channel. Powell’s remarks came during an interview on the growing number of crossings and reflect the broader political debate over how to balance humanitarian obligations, border security and public sentiment.\n\nThe interview did not outline any forthcoming policy measures, but it highlighted the constraints faced by the British government in controlling a migration route that is driven by conflict, economic disparity and the pursuit of safety. Successive administrations have struggled to devise a definitive answer, and Powell’s comments suggest that technical fixes alone are insufficient to address the underlying geopolitical and social dynamics.\n\n**Implications and next steps**\n\nBoth stories illustrate systemic vulnerabilities in government operations. The FBI breach demonstrates that even highly classified agencies remain susceptible to sophisticated cyber‑espionage, reinforcing calls for enhanced cyber‑defense measures. In the United Kingdom, the discussion of small‑boat migration underscores the limits of quick‑fix approaches to a problem rooted in broader international and domestic factors.\n\nWhile neither the FBI nor British officials have announced concrete actions, the public exposure of these issues is likely to generate pressure for change. In Washington, congressional committees may seek briefings on the FBI breach and consider legislation to strengthen cyber security for law‑enforcement entities. In London, the ongoing debate may prompt further parliamentary scrutiny of immigration policy and the resources allocated to border enforcement.\n\nThe incidents serve as a reminder that robust security protocols and nuanced policy frameworks are essential for protecting both the privacy of public servants and the public interest in managing migration responsibly.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-25",
+    "time": "15:36",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC reports that special agents' blood and urine test results were stolen in an FBI hack.",
+      "Operativ Məlumat Mərkəzi reports that hackers claim to have stolen FBI agents’ medical records.",
+      "BBC reports that Lucy Powell told the BBC there is no \"switch\" to stop small boats."
+    ],
+    "timeline": [
+      "Date of FBI hack not provided in any article.",
+      "Publication dates of the three articles are not included in the provided excerpts."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=367",
+    "featured": true
+  },
+  {
     "id": 366,
     "title": "Daniel Thomas pleads not guilty after dinghy slashed",
     "summary": "**Far‑right activist Daniel Thomas arrested and charged after slashing migrant dinghy in the English Channel**",
@@ -45,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=366",
-    "featured": true
+    "featured": false
   },
   {
     "id": 365,

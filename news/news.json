@@ -1,5 +1,52 @@
 [
   {
+    "id": 368,
+    "title": "Watch: What could the potential sanctions for Man City be?",
+    "summary": "**Manchester City Found Guilty of Nearly All 115 Premier League Financial Charges**",
+    "content": "**Manchester City Found Guilty of Nearly All 115 Premier League Financial Charges**\n\nManchester City have been adjudicated guilty on almost every one of the 115 Premier League charges lodged against the club for alleged breaches of financial regulations. The verdict, reported by *The Athletic* via *The New York Times*, marks a dramatic escalation in a dispute that has dominated English football headlines in recent weeks.\n\n**The ruling and the fine**\n\nFollowing a comprehensive investigation, the Premier League concluded that the club violated its financial rules on virtually every count. In response, the league announced its largest‑ever financial penalty for a club. While the exact amount of the fine has not yet been disclosed, the unprecedented scale underscores the governing body’s view of the infractions as serious.\n\n**Potential further sanctions**\n\nBeyond the monetary penalty, the league is reportedly weighing a range of additional punishments. Media outlets including the BBC, Sky Sports and *The Sun* have cited discussions of:\n\n* a deduction of league points, which could reshape the current title race;\n* relegation to the Championship; and\n* the removal of any titles or trophies won during the period under investigation.\n\nArsenal, who are themselves in contention for the championship, said they are closely monitoring the situation, aware that a points deduction for Manchester City could alter the final standings.\n\n**Background to the case**\n\nThe 115 charges encompass a variety of alleged violations of Premier League financial regulations. Although the specific breaches have not been detailed in the publicly released material, the volume of charges suggests a systematic pattern of non‑compliance. The league’s decision to impose its biggest fine to date reflects an intent to enforce stricter adherence to financial fair play and to deter similar conduct by other clubs.\n\n**Implications for the club and the league**\n\nA points deduction or relegation would have immediate competitive consequences for Manchester City and could trigger significant financial fallout, including reduced broadcast revenue, sponsorship income and match‑day earnings. The prospect of titles being stripped would rewrite recent football history and set a new precedent for how financial misconduct is punished in the sport.\n\nFor rival clubs, particularly Arsenal, the outcome could open a pathway to the league crown, intensifying strategic calculations among managers and executives.\n\n**Next steps**\n\nThe Premier League is expected to issue a formal announcement within the next few days, detailing the precise fine amount and the final suite of sanctions. Manchester City retain the right to appeal the decision, a step that could delay the implementation of any penalties and add further legal complexity to the saga.\n\nIn parallel, speculation has already emerged regarding the future of striker Erling Haaland, whose potential transfer activity may be affected by the club’s financial constraints and the broader uncertainty surrounding its standing in the league.\n\n**Conclusion**\n\nThe guilty verdict against Manchester City represents a watershed moment for Premier League governance, highlighting the league’s willingness to impose severe penalties for financial misconduct. The pending sanctions—whether a points deduction, relegation or title revocation—will have immediate repercussions for the title race and long‑term implications for club finances and regulatory compliance across English football. As the league prepares its final ruling and Manchester City consider an appeal, the football world watches closely, aware that the outcome will shape the competitive landscape for the remainder of the season and beyond.",
+    "category": "⚽ Sports",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-25",
+    "time": "19:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Manchester City was found guilty on almost all Premier League charges relating to financial breaches (The Athletic via The New York Times).",
+      "Manchester City faces 115 Premier League charges (Sports Illustrated).",
+      "The Premier League issued its biggest-ever fine to Manchester City (FourFourTwo).",
+      "Potential sanctions for Manchester City are being discussed by multiple outlets (BBC, Sky Sports, The Sun).",
+      "Arsenal are monitoring the title race as Manchester City may receive a points deduction (Football London)."
+    ],
+    "timeline": [
+      {
+        "event": "Premier League charges filed against Manchester City",
+        "order": 1
+      },
+      {
+        "event": "Manchester City found guilty on almost all charges",
+        "order": 2
+      },
+      {
+        "event": "Premier League announces biggest-ever fine",
+        "order": 3
+      },
+      {
+        "event": "Discussion of potential sanctions (points deduction, relegation, title stripping)",
+        "order": 4
+      },
+      {
+        "event": "Speculation about Erling Haaland's future transfer",
+        "order": 5
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=368",
+    "featured": true
+  },
+  {
     "id": 367,
     "title": "Special agents' blood and urine test results stolen in FBI hack",
     "summary": "**FBI Medical Records Breach Highlights Cyber‑Security Gaps; UK Labour Figure Says No Quick Fix for Small‑Boat Migration**",
@@ -24,7 +71,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=367",
-    "featured": true
+    "featured": false
   },
   {
     "id": 366,

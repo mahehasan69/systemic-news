@@ -1,5 +1,35 @@
 [
   {
+    "id": 364,
+    "title": "From weeks to hours - the rapid new test transforming brain tumour diagnosis",
+    "summary": "**Rapid Genomic Test Cuts Brain‑Tumour Diagnosis to Two Hours in NHS Pilot**",
+    "content": "**Rapid Genomic Test Cuts Brain‑Tumour Diagnosis to Two Hours in NHS Pilot**\n\nA new rapid genomic assay that can deliver a molecular diagnosis of brain tumours within two hours is being piloted by the National Health Service (NHS) in England. The test, which analyses the genetic profile of tumour tissue to identify subtype and likely behaviour, promises to shrink a diagnostic pathway that traditionally takes weeks into a matter of hours.\n\nThe technology has been highlighted by the BBC, Sky News, The Brain Tumour Charity and the University of Nottingham. According to the BBC, the assay reduces the turnaround time for molecular analysis from the conventional multi‑week period to just a few hours. Sky News reported that the NHS has already launched a pilot programme to evaluate the test in real‑world clinical settings, while both The Brain Tumour Charity and the University of Nottingham have endorsed it as a significant advance in neuro‑oncology care.\n\nLeading specialists quoted by the BBC describe the rapid assay as a “game changer” for brain‑tumour management. The speed of diagnosis could allow oncologists to start targeted therapies much earlier than is currently possible. The South China Morning Post added that the test is not only faster but also cheaper and more accurate than existing diagnostic methods, suggesting potential improvements in clinical outcomes alongside reduced healthcare expenditure.\n\nThe assay follows several years of research and development, though the exact dates of its creation have not been disclosed. Its public profile rose sharply during 2023 and 2024, when multiple media outlets reported on its capabilities and the NHS’s decision to begin a pilot rollout. The current pilot is designed to collect data on diagnostic accuracy, cost‑effectiveness and impact on patient pathways, providing an evidence base for any future expansion of the service.\n\nDelivering a molecular diagnosis within two hours could have immediate benefits. Earlier treatment decisions may improve survival rates and quality of life for patients with aggressive brain tumours. The reported cost advantages could ease financial pressures on the NHS, which has traditionally borne the expense of lengthy laboratory analyses and repeated imaging studies. Greater diagnostic precision also reduces the risk of misclassification, ensuring patients receive therapies that match the genetic characteristics of their disease.\n\nThe next phase of the initiative involves continued monitoring of the pilot’s performance. NHS officials will assess the assay’s reliability, its integration into existing laboratory workflows and its overall impact on patient outcomes. Pending positive results and regulatory review, the rapid genomic test could be rolled out more widely across the UK’s health system, offering a standardized, swift diagnostic tool for all brain‑tumour patients.\n\nIf the pilot confirms the reported benefits, the rapid genomic assay could become a cornerstone of brain‑tumour care in the United Kingdom, enabling clinicians to act decisively and patients to receive timely, personalised treatment.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-25",
+    "time": "00:58",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A rapid genomic test can provide a molecular diagnosis of brain tumours in as little as two hours (BBC, Sky News, The Brain Tumour Charity, University of Nottingham).",
+      "The test reduces the typical diagnostic timeframe from weeks to hours (BBC).",
+      "The NHS is piloting the rapid genomic test for brain tumour diagnosis and treatment (Sky News).",
+      "Experts describe the test as a game changer for brain tumour care (BBC).",
+      "The test is reported to be cheaper and more accurate than existing methods (South China Morning Post)."
+    ],
+    "timeline": [
+      "Development of the rapid genomic test (date not specified in sources).",
+      "NHS pilot launch (date not specified; reported in Sky News article).",
+      "Public announcements of the test’s capabilities across multiple outlets in 2023‑2024 (based on article publication dates)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=364",
+    "featured": true
+  },
+  {
     "id": 363,
     "title": "Anti-migrant activist charged after dinghy slashed in Channel",
     "summary": "**Far‑right activist Daniel Thomas charged after migrant dinghy slashed in English Channel**",
@@ -25,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=363",
-    "featured": true
+    "featured": false
   },
   {
     "id": 362,

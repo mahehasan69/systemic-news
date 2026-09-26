@@ -1,5 +1,41 @@
 [
   {
+    "id": 373,
+    "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+    "summary": "**Greater Manchester Mayor Launches “Your First Home” Scheme to Aid First‑Time Buyers**",
+    "content": "**Greater Manchester Mayor Launches “Your First Home” Scheme to Aid First‑Time Buyers**\n\nManchester, 2024 — Andy Burnham, the Mayor of Greater Manchester, announced a new housing initiative on Monday titled “Your First Home.” The programme is intended to ease the growing difficulty that first‑time buyers face in entering the UK property market and to revive stalled housebuilding activity across the region.\n\nThe launch attracted widespread coverage from national outlets—including AOL, The Guardian, BBC, Financial Times, Yahoo News UK, The Times—and even the Indonesian‑language site SuaraGarut.ID. Reporters highlighted Burnham’s emphasis on using the scheme to stimulate new construction and noted the ensuing debate over the future of the government’s Help to Buy programme.\n\n### Objectives\n\n“Your First Home” targets two interlinked challenges identified by the mayor’s administration:\n\n1. **Affordability gap for first‑time purchasers** – A shortage of entry‑level homes has left many prospective buyers unable to find suitable properties.\n2. **Slowdown in new builds** – Development activity has stalled, limiting the supply of affordable housing.\n\nBy addressing these issues, the scheme aims to generate a measurable increase in housebuilding, thereby expanding the stock of homes that match the financial realities of new entrants to the market.\n\n### Implementation Path\n\nThe precise mechanics of the programme are still being refined. Burnham’s office indicated that the next phase will involve detailed policy work, a series of stakeholder consultations, and the publication of implementation guidelines later in the year. Parallel to this, the Department for Levelling Up, Housing and Communities is expected to clarify its position on Help to Buy, with any decision on the scheme’s revival or reform to be informed by the outcomes of “Your First Home.”\n\n### Wider Impact\n\nIf successful, the initiative could generate ancillary economic benefits, including job creation in the construction sector and increased demand for related services. Observers suggest that the model could serve as a template for other regions confronting similar affordability challenges, underscoring the potential of local leadership to fill gaps in national housing policy.\n\n### Timeline\n\n- **Formal review** – The mayor’s office will complete a review of the scheme within the next few months.\n- **Implementation plan** – Detailed rollout plans are slated for release later in the year.\n- **Help to Buy decision** – The Department for Levelling Up, Housing and Communities is slated to issue a statement on the future of Help to Buy in the same timeframe.\n\n### Outlook\n\n“Your First Home” represents a focused attempt to tackle the scarcity of affordable entry‑level homes and the slowdown in new construction. By pledging assistance to first‑time buyers and seeking to stimulate building activity, the scheme could reshape homeownership prospects for a generation of prospective owners and influence the direction of national housing programmes. The coming weeks will reveal whether the initiative moves from announcement to actionable policy and how it will intersect with the ongoing debate over the future of Help to Buy.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-26",
+    "time": "18:08",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham announced a new scheme called \"Your First Home\" aimed at first‑time home buyers",
+      "The scheme is intended to help first‑time buyers get onto the housing ladder"
+    ],
+    "timeline": [
+      {
+        "event": "Announcement of \"Your First Home\" scheme by Andy Burnham",
+        "date": "2024 (exact date not provided)"
+      },
+      {
+        "event": "Media coverage across multiple outlets (AOL, The Guardian, BBC, Financial Times, Yahoo News UK, The Times, SuaraGarut.ID)",
+        "date": "2024 (same period as announcement)"
+      },
+      {
+        "event": "Public statements on potential Help to Buy revival or rejection",
+        "date": "2024 (following announcement)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=373",
+    "featured": true
+  },
+  {
     "id": 372,
     "title": "Heathrow Airport's third runway may be delayed to 2039",
     "summary": "**Heathrow Airport’s Third Runway Delayed Until 2039**",
@@ -21,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=372",
-    "featured": true
+    "featured": false
   },
   {
     "id": 371,

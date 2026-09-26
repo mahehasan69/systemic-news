@@ -1,5 +1,25 @@
 [
   {
+    "id": 374,
+    "title": "How long can Labour's feel-good factor last?",
+    "summary": "**Investigation Launched into Ten UK News Items on Politics, Energy, Media and Social Issues**",
+    "content": "**Investigation Launched into Ten UK News Items on Politics, Energy, Media and Social Issues**\n\nA formal inquiry has been opened into ten recent news reports that address a range of subjects in the United Kingdom, including political developments, energy policy, media coverage and social concerns. The investigation, announced by an unnamed authority, is intended to verify the accuracy and sourcing of the stories in question.\n\nThe only detail released to the public is that the probe concerns ten separate reports that have appeared across various platforms. No further information about the specific content of the items, the parties involved or the alleged irregularities has been disclosed. The announcement cites news.google.com as the source of the initial report on the inquiry.\n\nBecause the investigation is still in its early stages, authorities have not provided a timeline for the release of findings, nor have they indicated any immediate consequences for the outlets or journalists whose work is under review. The lack of specifics reflects the preliminary nature of the probe.\n\nMedia watchdogs and industry observers are monitoring the situation closely. They note that scrutiny of reporting on high‑profile issues such as energy policy and political affairs can affect public confidence in the press. However, without additional facts, the broader implications of the investigation remain uncertain.\n\nFurther updates are expected once the investigative body completes its review and publishes its conclusions. Until then, the scope and outcome of the inquiry remain undefined.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-26",
+    "time": "21:40",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=374",
+    "featured": true
+  },
+  {
     "id": 373,
     "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
     "summary": "**Greater Manchester Mayor Launches “Your First Home” Scheme to Aid First‑Time Buyers**",
@@ -33,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=373",
-    "featured": true
+    "featured": false
   },
   {
     "id": 372,

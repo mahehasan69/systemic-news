@@ -1,5 +1,38 @@
 [
   {
+    "id": 370,
+    "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+    "summary": "**Iran Offers Seven‑Day Plan to Reopen Strait of Hormuz**",
+    "content": "**Iran Offers Seven‑Day Plan to Reopen Strait of Hormuz**\n\nTehran has submitted a seven‑day proposal to Washington that would restore commercial shipping through the Strait of Hormuz within a week if accepted. The offer, described by international outlets—including the BBC, The Hill, PBS, the Financial Times, Al Jazeera, the South China Morning Post, CNBC and The New York Times—as a “deal,” “plan” and “cease‑fire proposal,” comes amid escalating tensions over navigation and security in the narrow waterway that carries roughly one‑fifth of the world’s petroleum.\n\nIran frames the overture as a de‑escalation measure aimed at curbing the regional conflict inflamed by recent incidents and broader geopolitical frictions, such as ongoing nuclear talks and wider cease‑fire negotiations. By attaching a concrete timetable, Tehran signals a willingness to move from rhetoric to actionable steps that could lower the risk of maritime incidents.\n\nIf the United States were to accept the proposal, commercial vessels could resume passage through the Strait within seven days, according to the reports. A rapid reopening would likely ease pressure on global oil markets and reduce the heightened maritime risk that has prompted increased naval deployments by regional and extra‑regional powers. The timeline also implies that both sides would need to negotiate the specific conditions governing the cease‑fire, although the details of those conditions have not been disclosed.\n\nBeyond the immediate shipping corridor, reestablishing free passage would create a diplomatic opening for broader talks, potentially influencing the trajectory of nuclear negotiations and other regional security dialogues. Analysts note that successful implementation could serve as a confidence‑building measure, demonstrating that Tehran and Washington can reach pragmatic agreements even amid wider disputes.\n\nThe next steps depend on the U.S. government’s official response. U.S. officials are expected to assess the proposal and decide whether to engage in negotiations to define the precise parameters of the seven‑day plan. Should talks proceed, diplomatic channels would likely be used to flesh out verification mechanisms, security guarantees and any reciprocal actions required from Iran. Implementation would involve coordinated measures such as naval de‑confliction, monitoring of shipping lanes and removal of any obstacles placed in the waterway.\n\nIn the short term, the world awaits a formal statement from Washington. A positive response could trigger a rapid reopening of one of the globe’s most critical maritime arteries; a rejection or delay would maintain the current state of heightened uncertainty. The proposal underscores Tehran’s strategic use of the Strait as leverage in broader diplomatic negotiations and highlights the delicate balance between regional security concerns and global energy stability.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-26",
+    "time": "01:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Iran offered the United States a proposal to reopen the Strait of Hormuz within seven days.",
+      "The proposal was reported by multiple news outlets including BBC, The Hill, PBS, Financial Times, Al Jazeera, South China Morning Post, CNBC, and The New York Times.",
+      "The proposal is described using terms such as \"deal\", \"plan\", and \"ceasefire proposal\" across sources."
+    ],
+    "timeline": [
+      {
+        "event": "Iran publicly offers a seven‑day plan to reopen the Strait of Hormuz",
+        "date": "not specified in articles"
+      },
+      {
+        "event": "Potential U.S. response and negotiations",
+        "date": "to follow the offer, timeframe not specified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=370",
+    "featured": true
+  },
+  {
     "id": 369,
     "title": "Man City found guilty of majority of 115 financial rule breaches",
     "summary": "**Manchester City Found to Have Breached Premier League Financial Rules; Club Plans Appeal**",
@@ -22,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=369",
-    "featured": true
+    "featured": false
   },
   {
     "id": 368,

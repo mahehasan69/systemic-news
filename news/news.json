@@ -1,5 +1,29 @@
 [
   {
+    "id": 372,
+    "title": "Heathrow Airport's third runway may be delayed to 2039",
+    "summary": "**Heathrow Airport’s Third Runway Delayed Until 2039**",
+    "content": "**Heathrow Airport’s Third Runway Delayed Until 2039**\n\nHeathrow Airport has announced that its long‑awaited third runway will not be operational until 2039, pushing the project’s completion date back by more than a decade from earlier estimates.\n\nThe revised timetable places the runway’s entry into service firmly in the late 2030s. While the briefing did not disclose a previous target date, the new schedule represents a significant shift in the airport’s expansion plans.\n\nHeathrow, the United Kingdom’s busiest aviation hub, remains the primary stakeholder in the development. The airport’s management did not identify the parties responsible for the delay, but confirmed that the 2039 horizon is the current outlook for the infrastructure work.\n\nThe postponement has notable implications for Heathrow’s long‑term strategy. The third runway has been central to plans for meeting future passenger demand and preserving the UK’s status as a global aviation gateway. Deferring its completion means that anticipated capacity gains will be delayed, affecting forecasts that rely on the additional runway.\n\nNo further milestones or subsequent actions have been announced. Heathrow has not provided details on the steps that will follow the 2039 target, leaving stakeholders awaiting additional updates on the project’s progression.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-26",
+    "time": "14:47",
+    "reading_time": "1 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Heathrow Airport's third runway is reported to be delayed until the year 2039."
+    ],
+    "timeline": [
+      "Original completion date not specified; new expected completion or operational date is 2039."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=372",
+    "featured": true
+  },
+  {
     "id": 371,
     "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
     "summary": "**Manchester City Found Guilty of Widespread Financial Rule Breaches; Clubs Seek Compensation**",
@@ -63,7 +87,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=371",
-    "featured": true
+    "featured": false
   },
   {
     "id": 370,

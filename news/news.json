@@ -1,5 +1,42 @@
 [
   {
+    "id": 375,
+    "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
+    "summary": "**Britain’s Finance Minister Prepares Autumn Budget Amid Rising Borrowing Costs and Fiscal Debate**",
+    "content": "**Britain’s Finance Minister Prepares Autumn Budget Amid Rising Borrowing Costs and Fiscal Debate**\n\n*London, 26 November 2024* – Chancellor of the Exchequer Rachel Reeves is finalising the United Kingdom’s Autumn Budget against a backdrop of soaring borrowing costs, a contested £50 billion fiscal gap and a recent technical mishap at the Office for Budget Responsibility (OBR). The budget, due on 26 November, will test the Chancellor’s ability to balance fiscal prudence, political pressure and public confidence.\n\n**Key fiscal challenges**\n\nThe Treasury has warned that, without additional revenue, the fiscal shortfall could widen. Interest rates, which were historically low, have risen to levels not seen for decades, eroding the government’s fiscal flexibility and prompting calls for tax adjustments. Reeves has signalled that any new tax burden will be limited, positioning the budget as a confidence‑building exercise for both markets and households.\n\n**Two decisive questions**\n\nReeves faces two interlinked decisions:\n\n1. **How to address the Treasury’s warning that tax rises may be required** – the Chancellor has repeatedly stressed that she will seek to avoid broad‑based tax hikes, instead looking for targeted measures that can generate revenue without stifling growth.\n\n2. **The scope of “targeted action on bills”** – Reeves has promised selective reforms rather than sweeping tax changes, but the extent of these measures will determine whether the budget can close the gap while preserving public services.\n\n**Union input**\n\nUnion leaders have met with Reeves to outline their priorities, particularly on public‑sector wages and social‑welfare spending. While the specifics of those discussions remain confidential, the consultations underscore the traditional role of trade unions in shaping fiscal policy and add another layer of political pressure on the Chancellor.\n\n**OBR technical incident**\n\nLast week the OBR suffered a cyber‑related incident that forced the agency to enlist an external expert to correct a botched release of its budget analysis. Although the glitch did not affect policy decisions, it raised questions about the reliability of the data underpinning the government’s fiscal projections. Reeves responded by rejecting accusations that she had misled the public and dismissed claims of a £50 billion “black hole” in public accounts, reaffirming her confidence in the nation’s financial management.\n\n**Implications for the economy and politics**\n\nThe Autumn Budget will be the first major fiscal statement since the OBR episode and the union consultations. Analysts will be watching for:\n\n* Any new revenue measures or adjustments to existing taxes.  \n* Changes to public‑sector spending, especially in areas highlighted by unions.  \n* The degree to which the budget adheres to the Treasury’s warning about the need for additional revenue.\n\nA budget that limits tax hikes while delivering targeted support could bolster the government’s credibility, sustain consumer confidence and reinforce the narrative of economic resilience. Conversely, a perceived failure to address the fiscal gap may fuel opposition calls for austerity and undermine the recovery that has been fragile since the pandemic.\n\n**Looking ahead**\n\nReeves’s decisions will shape the UK’s economic trajectory for the remainder of the year and could influence the political landscape ahead of the next general election. The balance she strikes between fiscal consolidation and stimulus, between targeted legislative changes and broader tax reforms, will be a litmus test for her claim that she can be trusted with the nation’s finances.\n\nAs the 26 November deadline approaches, the nation awaits a budget that reconciles high borrowing costs with a promise of confidence, while navigating the technical and political challenges that have emerged in recent weeks.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-26",
+    "time": "23:59",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Chancellor has two major decisions to make ahead of the Budget (Article 1).",
+      "Unions met with Healey to set out Budget demands (Article 2).",
+      "The Chancellor called for confidence about Britain despite historic high borrowing costs (Article 3).",
+      "The Chancellor's attempts to boost public sentiment may limit tax rises (Article 4).",
+      "Rachel Reeves plans targeted action on bills in the Budget (Article 5).",
+      "Rachel Reeves rejects claims of a £50bn black hole in public finances (Article 6).",
+      "The Autumn Budget is scheduled for 26 November, announced by Rachel Reeves (Article 7).",
+      "The Treasury warns that tax rises will be needed to fill a financial hole (Article 8).",
+      "The Office for Budget Responsibility (OBR) called in a cyber expert after a botched release of Budget analysis (Article 9).",
+      "The Chancellor says she can be trusted with the UK's finances despite claims she misled the public (Article 10)."
+    ],
+    "timeline": [
+      "Unions meet Healey (date not specified).",
+      "Chancellor calls for confidence despite high borrowing costs (date not specified).",
+      "OBR cyber incident occurs (date not specified).",
+      "Rachel Reeves announces Autumn Budget for 26 November (announcement date not specified).",
+      "Budget scheduled for 26 November."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=375",
+    "featured": true
+  },
+  {
     "id": 374,
     "title": "How long can Labour's feel-good factor last?",
     "summary": "**Investigation Launched into Ten UK News Items on Politics, Energy, Media and Social Issues**",
@@ -17,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=374",
-    "featured": true
+    "featured": false
   },
   {
     "id": 373,

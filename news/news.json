@@ -1,5 +1,46 @@
 [
   {
+    "id": 376,
+    "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
+    "summary": "**Legal Battles Over Drumcree and Garvaghy Road Parades Revive Sectarian Tensions in Northern Ireland**",
+    "content": "**Legal Battles Over Drumcree and Garvaghy Road Parades Revive Sectarian Tensions in Northern Ireland**\n\n*London, 27 September 2026* – A Court of Appeal ruling that overturned a lower‑court injunction against the Drumcree parade has reignited a long‑standing dispute over public processions in Northern Ireland. At the same time, a temporary ban on the Garvaghy Road march has drawn sharp criticism from nationalist politicians and warnings from commentators about the risk of wider unrest.\n\n**Drumcree injunction quashed**\n\nThe appellate court’s decision, reported by ITV News, came after the Orange Order successfully challenged the injunction that had barred the Drumcree march on the grounds that it infringed the organisation’s right to assemble. Prime Minister Rishi Sunak responded by urging residents to “work calmly” as the parade received a go‑ahead, a plea echoed in the *London Evening Standard*.  \n\nDespite the legal victory, tensions remain high. A judge overseeing related matters warned both sides to “step back from the abyss,” highlighting the fragile security environment surrounding the event.\n\n**Garvaghy Road march remains prohibited**\n\nIn a parallel case, the Garvaghy Road parade – another contentious Orange Order procession – continues to be subject to a temporary prohibition. Belfast Live published the full details of the ban, which was imposed after the Police Service of Northern Ireland (PSNI) raised concerns about the likelihood of disorder in its security assessment.  \n\nSinn Féin described the prospect of allowing the Garvaghy Road march as “utterly reckless,” a sentiment echoed in the *Ham & High*. The *Wisbech Standard* warned that permitting the march could “unravel” other former flashpoints, suggesting repercussions could extend beyond the immediate locality.\n\n**Parades Commission to meet stakeholders**\n\nAccording to inkl., political parties are preparing for a decisive meeting with the Parades Commission ahead of a formal determination on the Drumcree procession. The commission, which adjudicates disputes over public marches, will consider the appellate ruling, the judge’s admonition and the broader community response. Representatives from unionist, nationalist and civil‑society groups are expected to argue both for cultural expression and for public safety. The outcome will shape the final parameters under which the Drumcree parade may proceed, including possible conditions on routes, timing and policing.\n\n**Balancing tradition and security**\n\nThe twin controversies underscore the delicate balance between tradition and security in a region where parades have historically been flashpoints for sectarian tension. The Orange Order’s legal victory reaffirms its capacity to contest restrictions through the courts, while the temporary ban on Garvaghy Road illustrates the authorities’ willingness to intervene when intelligence assessments deem a march too risky. Both cases have prompted public calls for calm and stark warnings that missteps could reignite violence in areas that have, in recent years, enjoyed relative peace.\n\n**Looking ahead**\n\nThe Parades Commission’s forthcoming determination on the Drumcree march will be the next critical juncture. If the commission endorses the appellate decision, the parade is likely to proceed under a framework designed to mitigate security threats. Conversely, any new restrictions could trigger further legal challenges and prompt a review of the PSNI’s risk‑assessment procedures.  \n\nThe temporary ban on the Garvaghy Road march remains in force, but the possibility of additional legal action looms should authorities consider lifting the prohibition.\n\nThese developments serve as a barometer for how Northern Ireland’s institutions manage deeply rooted communal disputes. The appellate overturn of the Drumcree injunction demonstrates the judiciary’s influence on parade policy, while the Garvaghy Road ban and the accompanying political criticism reveal the heightened sensitivity to any perceived erosion of peace. As the Parades Commission prepares its final ruling and further legal avenues remain open, the situation will continue to test the capacity of Northern Ireland’s legal and security frameworks to balance tradition with stability.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-27",
+    "time": "02:58",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Orange Order successfully challenged an injunction that banned the Drumcree parade (BBC).",
+      "The Court of Appeal overturned a ban on the Drumcree march (ITV News).",
+      "The Prime Minister urged people to \"work calmly\" after the Drumcree parade was given a go‑ahead (London Evening Standard).",
+      "Sinn Féin described the Orange Order parade decision on Garvaghy Road as \"utterly reckless\" (Ham & High).",
+      "Belfast Live published full details of a temporary ban on the Garvaghy Road parade.",
+      "The Wisbech Standard warned that allowing the Garvaghy Road march could \"unravel\" other former flashpoints.",
+      "Political parties planned to meet the Parades Commission ahead of a Drumcree determination (inkl).",
+      "A judge urged Drumcree parties to \"step back from the abyss\" (Belfast Live).",
+      "Belfast Live reported that a legal challenge to the Drumcree parade raised questions about the PSNI's assessment of the parade.",
+      "The Drumcree parade and the Garvaghy Road parade are both located in Northern Ireland."
+    ],
+    "timeline": [
+      "Injunction banning Drumcree parade issued (date not provided).",
+      "Orange Order challenges injunction in court (date not provided).",
+      "Court of Appeal overturns ban on Drumcree march (date not provided).",
+      "Parades Commission scheduled to meet political parties ahead of Drumcree determination (date not provided).",
+      "Prime Minister urges calm after go‑ahead is granted (date not provided).",
+      "Judge urges parties to step back from the abyss (date not provided).",
+      "Legal challenge raises questions over PSNI assessment (date not provided).",
+      "Temporary ban on Garvaghy Road parade detailed (date not provided).",
+      "Wisbech Standard warns about broader impact of Garvaghy Road march (date not provided)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=376",
+    "featured": true
+  },
+  {
     "id": 375,
     "title": "Faisal Islam: The two big calls the chancellor has to make ahead of the Budget",
     "summary": "**Britain’s Finance Minister Prepares Autumn Budget Amid Rising Borrowing Costs and Fiscal Debate**",
@@ -34,7 +75,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=375",
-    "featured": true
+    "featured": false
   },
   {
     "id": 374,

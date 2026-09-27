@@ -1,5 +1,33 @@
 [
   {
+    "id": 377,
+    "title": "Men arrested and houses evacuated in major incident near RAF Fairford",
+    "summary": "**Major incident declared near RAF Fairford after arrests under the Explosives Act**",
+    "content": "**Major incident declared near RAF Fairford after arrests under the Explosives Act**\n\nPolice have declared a major incident in the vicinity of RAF Fairford, the United Kingdom airbase that regularly hosts United States Air Force personnel, following the arrest of several men on suspicion of offences under the UK Explosives Act. The operation prompted the evacuation of homes and villages, including the settlement of Whelford, and saw a specialist bomb squad deployed to the area. The development was reported by a range of national and international outlets, including the BBC, The Guardian, AOL, The Independent, India Today, Türkiye Today and inews.co.uk.\n\nThe investigation began after detectives identified individuals believed to be in possession of, or planning to use, explosive material near the airbase. Acting on these suspicions, officers detained the suspects and secured locations where the alleged devices were thought to be stored. In line with the Explosives Act, the men were taken into custody for further questioning, and authorities announced the major‑incident declaration to coordinate the emergency response.\n\nLocal officials ordered the evacuation of residential properties and entire hamlets surrounding RAF Fairford. Residents of Whelford and nearby villages were instructed to leave while the bomb squad conducted a thorough sweep. Equipped to handle a variety of explosive threats, the specialist unit worked alongside police and emergency services to locate and neutralise any devices. The coordinated effort aimed to protect both the civilian population and the strategic assets at the base, a key site for US‑UK defence cooperation.\n\nWhile the motive behind the suspected offences has not been disclosed, the swift police response underscores the heightened vigilance surrounding sites of strategic importance. The major‑incident status signals that authorities judged the situation to pose a significant risk, warranting the mobilisation of specialised resources and activation of emergency protocols.\n\nThe investigation remains ongoing. Police will continue to examine the circumstances that led to the arrests, including any possible links to wider threats or networks. Should additional risks emerge, further evacuations could be ordered to safeguard public safety. The detained individuals are expected to face prosecution under the Explosives Act, which carries severe penalties for unlawful possession, creation or use of explosive devices.\n\nThe episode highlights the challenges of protecting critical defence infrastructure on domestic soil. By swiftly removing suspected explosives and relocating nearby communities, law enforcement demonstrated its capacity to mitigate threats before they could materialise. The incident also reinforces the importance of inter‑agency cooperation between local police, bomb‑disposal units and military authorities when civilian and defence domains intersect.\n\nOfficials have pledged to keep the public informed as the inquiry progresses. Residents who were temporarily displaced are expected to be allowed to return once the bomb squad declares the area safe. The legal outcomes for the arrested men will be determined in court, where the full extent of the alleged explosives offences will be examined. Although the situation has been contained, it underscores the ongoing need for robust security measures at installations such as RAF Fairford and the readiness of emergency services to respond to high‑risk scenarios.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-27",
+    "time": "08:52",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A major incident was declared near RAF Fairford, a UK base hosting US Air Force personnel.",
+      "Men were arrested on suspicion of explosives offences under the UK Explosives Act.",
+      "Homes and villages in the vicinity (including Whelford) were evacuated.",
+      "A bomb squad was deployed to the scene.",
+      "The incident was reported by multiple news outlets (BBC, The Guardian, AOL, The Independent, India Today, Türkiye Today, inews.co.uk)."
+    ],
+    "timeline": [
+      "Incident reported across several outlets (BBC, The Guardian, AOL, The Independent, India Today, Türkiye Today, inews.co.uk) within the same news cycle; exact timestamps not provided in the source excerpts."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=377",
+    "featured": true
+  },
+  {
     "id": 376,
     "title": "Controversial Orange Order march to go ahead for first time in nearly 30 years after late night drama",
     "summary": "**Legal Battles Over Drumcree and Garvaghy Road Parades Revive Sectarian Tensions in Northern Ireland**",
@@ -38,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=376",
-    "featured": true
+    "featured": false
   },
   {
     "id": 375,

@@ -1,5 +1,47 @@
 [
   {
+    "id": 378,
+    "title": "Burnham proposes NHS-style social care system for England",
+    "summary": "**Greater Manchester Mayor Andy Burnham Calls for NHS‑Style, Free Adult Social‑Care System for England**",
+    "content": "**Greater Manchester Mayor Andy Burnham Calls for NHS‑Style, Free Adult Social‑Care System for England**\n\nAndy Burnham, the mayor of Greater Manchester, has unveiled a proposal to create a universal, publicly funded adult social‑care system for England, modelled on the National Health Service (NHS). The announcement, made in the wake of his father’s recent death, has quickly attracted national attention, with coverage appearing in the BBC, The Guardian, The i Paper and Indonesia‑based outlet SuaraGarut.ID.\n\nBurnham said his father’s passing, reported by AOL.com, sharpened his awareness of the shortcomings in the current social‑care framework. In a public statement cited by the BBC, he outlined a vision in which all adults—regardless of income—receive free social‑care services at the point of use. The Guardian highlighted the proposal’s universal scope and its reliance on public funding, while The i Paper noted that Burnham intends to publish a detailed adult‑social‑care plan in the near future, suggesting that today’s announcement is only the first step of a broader policy rollout.\n\nIf adopted, the plan would represent a fundamental shift from the existing mixed‑funding model, which combines public contributions with private payments and means‑tested support. Although Burnham has not disclosed specific financing mechanisms, he emphasised that the system would be wholly publicly funded. The prospect of such a transformation has already sparked debate over fiscal sustainability and the practicalities of implementation.\n\nThe timing of the proposal coincides with growing public concern about the accessibility and affordability of adult social‑care services. By framing the initiative as an NHS‑style system, Burnham taps into a widely supported model of universal health provision, positioning social care as a basic public right. Analysts suggest that the proposal could reshape political discourse ahead of upcoming elections and legislative sessions.\n\nBurnham is slated to present a comprehensive adult‑social‑care plan within the next few weeks. The forthcoming document is expected to detail the financing strategy, service‑delivery arrangements and a rollout timetable. Stakeholders, policymakers and the public will scrutinise the plan, with supporters viewing universal free care as a moral imperative and critics questioning the long‑term viability of a fully publicly funded model.\n\nIn sum, Andy Burnham’s proposal marks a decisive entry into the national conversation on social‑care reform. Rooted in personal loss and framed as an NHS‑style, universally free system, it has already elevated the issue of universal social care to the forefront of England’s policy agenda. The next few weeks will determine whether the initiative gains legislative traction or remains a high‑profile advocacy point, but its impact on public debate is already evident.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-27",
+    "time": "14:23",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham, Mayor of Greater Manchester, has proposed a universal free social care system for England.",
+      "The proposal is described as NHS-style, suggesting a publicly funded model.",
+      "Burnham announced the proposal following the death of his father, which motivated his focus on social care.",
+      "Multiple UK news outlets (BBC, The Guardian, SuaraGarut.ID, The i Paper) reported on the proposal."
+    ],
+    "timeline": [
+      {
+        "event": "Burnham's father dies (personal motivation)",
+        "source": "AOL.com"
+      },
+      {
+        "event": "Burnham publicly proposes NHS-style universal free social care system",
+        "source": "BBC"
+      },
+      {
+        "event": "Burnham outlines vision for universal free social care",
+        "source": "The Guardian"
+      },
+      {
+        "event": "Burnham to unveil adult social care plan",
+        "source": "The i Paper"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=378",
+    "featured": true
+  },
+  {
     "id": 377,
     "title": "Men arrested and houses evacuated in major incident near RAF Fairford",
     "summary": "**Major incident declared near RAF Fairford after arrests under the Explosives Act**",
@@ -25,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=377",
-    "featured": true
+    "featured": false
   },
   {
     "id": 376,

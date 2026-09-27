@@ -1,5 +1,47 @@
 [
   {
+    "id": 379,
+    "title": "What we know about RAF base counter-terror investigation",
+    "summary": "**Five Men Arrested Near RAF Fairford on Terrorism and Explosives Charges**",
+    "content": "**Five Men Arrested Near RAF Fairford on Terrorism and Explosives Charges**\n\nLondon – Five men were taken into custody near RAF Fairford, the United Kingdom air base that regularly hosts United States forces, on suspicion of terrorism and explosives offences. British counter‑terrorism police have described the operation as a “major incident,” and the arrests have been reported by ABC News, CNN, the BBC, The Guardian and Modern Ghana.\n\nPolice said intelligence indicated the suspects were planning to cause “big damage” at the base. Former U.S. President Donald Trump echoed that assessment, stating the men “were looking to do ‘big damage’ at the US‑used air base.” While Trump’s comments heightened public interest, the investigation remains under the jurisdiction of UK authorities, who are also probing possible foreign involvement, including a speculated link to Iran.\n\nThe charges encompass both terrorism and explosives offences, suggesting that the suspects either possessed or intended to acquire materials capable of inflicting significant harm. RAF Fairford is a strategic hub for the United States, used for the deployment of aircraft and logistical support in transatlantic operations. Any threat to the facility therefore carries implications for both national and allied security, prompting a swift, coordinated response by British law‑enforcement agencies.\n\nThe arrests come amid heightened vigilance over extremist activity across Europe and ongoing concerns about state‑sponsored terrorism. In recent years the United Kingdom has foiled several plots targeting critical infrastructure, prompting an expansion of its counter‑terrorism capabilities. While intelligence assessments have occasionally highlighted Iran’s alleged support for proxy groups seeking to disrupt Western military assets, investigators have not yet released concrete evidence linking the five men to any foreign government.\n\nAuthorities have not disclosed the specific method the suspects intended to use, nor have they identified any accomplices or support networks. The limited public information reflects the sensitivity of the ongoing inquiry and the need to protect operational integrity. Legal proceedings are expected to follow, with the men likely to face severe penalties under UK terrorism and explosives statutes.\n\nThe next phase of the investigation will involve a thorough forensic and intelligence review. Counter‑terrorism police will examine communications, financial records and any possible foreign links, including the rumored Iranian connection. Further statements from British security officials and, potentially, U.S. military representatives are anticipated to clarify the threat level and broader implications for transatlantic defence cooperation.\n\nThe operation underscores the persistent risk that extremist actors pose to critical military infrastructure, especially sites that serve as joint UK‑US operational hubs. By intervening before any explosives could be deployed, law‑enforcement agencies averted a potential attack that could have resulted in loss of life, material damage and diplomatic fallout. The case highlights the importance of intelligence sharing between allied nations and the necessity of vigilant security measures at strategic locations.\n\nThe outcome of the investigation will determine whether the alleged plot was an isolated domestic effort or part of a broader, possibly state‑backed, campaign, shaping future security policies and cooperation between the United Kingdom and its partners.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-27",
+    "time": "18:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "UK police arrested five men on suspicion of terrorism and explosives offences near RAF Fairford, a UK air base used by US forces",
+      "The arrests were reported by multiple outlets (ABC News, CNN, BBC, The Guardian, Modern Ghana)",
+      "The suspects were described as men, no names released",
+      "Charges include terrorism offences and explosives offences",
+      "The location of the arrests is RAF Fairford in the United Kingdom",
+      "Donald Trump publicly said the arrested men were looking to do \"big damage\" at the US‑used air base",
+      "Counter‑terrorism police are investigating the incident",
+      "The incident has been referred to as a \"major incident\" in several reports"
+    ],
+    "timeline": [
+      {
+        "event": "Arrests of five men near RAF Fairford",
+        "date": "Not specified in provided excerpts"
+      },
+      {
+        "event": "Donald Trump makes public statement about suspects planning \"big damage\"",
+        "date": "Not specified in provided excerpts"
+      },
+      {
+        "event": "Counter‑terrorism police begin investigation into possible Iran connection",
+        "date": "Not specified in provided excerpts"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=379",
+    "featured": true
+  },
+  {
     "id": 378,
     "title": "Burnham proposes NHS-style social care system for England",
     "summary": "**Greater Manchester Mayor Andy Burnham Calls for NHS‑Style, Free Adult Social‑Care System for England**",
@@ -39,7 +81,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=378",
-    "featured": true
+    "featured": false
   },
   {
     "id": 377,

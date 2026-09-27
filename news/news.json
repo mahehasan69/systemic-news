@@ -1,5 +1,47 @@
 [
   {
+    "id": 380,
+    "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+    "summary": "**BBC’s Week in Review: Sectarian Tensions, Safety Inquests, High‑Profile Courts and Consumer Guidance**",
+    "content": "**BBC’s Week in Review: Sectarian Tensions, Safety Inquests, High‑Profile Courts and Consumer Guidance**\n\nA series of BBC reports this week highlighted the breadth of issues shaping public discourse across the United Kingdom, ranging from entrenched sectarian disputes in Northern Ireland to practical consumer‑rights advice, a high‑profile legal case, and notable cultural milestones.\n\n---\n\n### Orange Order march reignites Northern Ireland’s sectarian divide  \n\nProtesters blocked Garvaghy Road ahead of an Orange Order parade, disrupting traffic and reviving the long‑standing controversy over the Drumcree route. The BBC described the dispute as “central to Northern Ireland’s divisions,” noting its echo of the historic Drumcree standoff. Coverage by AOL.co.uk linked the incident to renewed debate about the future of the Stormont assembly, underscoring how the march continues to influence political stability in the region.\n\n---\n\n### Tunnel‑construction errors implicated in fatal inquest  \n\nAn inquest into the death of 19‑year‑old Noah Donohoe concluded that deficiencies in tunnel construction may have contributed to the tragedy. During the hearing a family member stated, “My son was failed,” drawing attention to safety standards in public‑works projects. The findings are expected to prompt policy reviews and further investigations into tunnel safety protocols.\n\n---\n\n### Sir Jeffrey Donaldson’s sex‑abuse cases to be heard together  \n\nLegal proceedings took a procedural turn when the BBC reported that Sir Jeffrey Donaldson, a senior figure in Northern Irish politics, and his wife will have their sex‑abuse charges heard simultaneously. The decision to combine the hearings marks a significant development in a case that has attracted intense public and media scrutiny.\n\n---\n\n### Cultural highlights  \n\n* **Delta and Kai’s Samba routine** – The BBC praised the duo’s performance for its energy and choreography, showcasing contemporary dance talent.  \n* **Gethin’s TV Times Award nomination** – The entertainer received a nomination that recognises his contributions to television.  \n* **Louise Minchin on potholes** – The veteran broadcaster reported on the growing problem of potholes, emphasizing the impact of infrastructure maintenance on everyday commuters.\n\n---\n\n### Consumer‑rights guidance  \n\nThe BBC published two practical guides aimed at helping consumers navigate unresolved service issues:  \n\n1. **Phone and broadband complaints** – Step‑by‑step advice for customers whose providers have failed to resolve disputes.  \n2. **Tracking lost bank accounts** – Methods for locating missing financial assets, offering actionable information for affected individuals.\n\n---\n\n### Looking ahead  \n\n* The combined court hearings for Sir Jeffrey Donaldson and his wife are set to proceed in the coming weeks.  \n* Discussions about Stormont’s future are expected to intensify as the Orange Order march controversy continues to dominate the political agenda.  \n* Authorities are likely to initiate policy reviews following the tunnel inquest’s conclusions.  \n* Consumer‑advocacy groups may cite the BBC’s guidance as they lobby for stronger regulatory frameworks, while ongoing coverage of potholes and cultural nominations suggests that infrastructure and the arts will remain prominent on the public agenda.\n\n---\n\n**Conclusion**  \n\nBBC’s week of reporting illustrates how a single media outlet can capture the complexity of contemporary British life—from deep‑rooted political divisions and high‑profile legal battles to everyday consumer concerns and cultural achievements—offering a comprehensive snapshot of the forces shaping the United Kingdom today.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-27",
+    "time": "21:42",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A dispute (row) surrounds an Orange Order march and is linked to ongoing divisions in Northern Ireland (BBC).",
+      "The Drumcree controversy is referenced in relation to questions about the future of the Stormont assembly (AOL.co.uk).",
+      "BBC provides guidance on where to go if a phone or broadband provider does not help the consumer.",
+      "Protesters blocked Garvaghy Road ahead of an Orange Order march (BBC).",
+      "BBC published an article about methods for tracking lost bank accounts.",
+      "Delta and Kai performed a Samba routine that was highlighted by the BBC.",
+      "An inquest into the death of Noah Donohoe concluded that tunnel errors may have contributed; a family member said, \"My son was failed\" (BBC).",
+      "Sir Jeffrey Donaldson and his wife will have their sex‑abuse court cases heard simultaneously (BBC).",
+      "Gethin has been nominated for a TV Times Award (BBC).",
+      "Louise Minchin reported on pothole issues for the BBC."
+    ],
+    "timeline": [
+      "Protesters block Garvaghy Road ahead of an Orange Order march (BBC).",
+      "A row over the Orange Order march is described as central to Northern Ireland's divisions (BBC).",
+      "Discussion of Drumcree’s legacy and questions about Stormont’s future (AOL.co.uk).",
+      "Inquest into Noah Donohoe’s death finds possible tunnel errors (BBC).",
+      "Announcement that Sir Jeffrey Donaldson and his wife’s sex‑abuse cases will be heard together (BBC).",
+      "Delta and Kai perform a Samba routine (BBC).",
+      "Gethin receives a nomination for a TV Times Award (BBC).",
+      "Louise Minchin reports on pothole problems (BBC).",
+      "BBC publishes guidance for unresolved phone/broadband complaints.",
+      "BBC publishes a piece on tracking lost bank accounts."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=380",
+    "featured": true
+  },
+  {
     "id": 379,
     "title": "What we know about RAF base counter-terror investigation",
     "summary": "**Five Men Arrested Near RAF Fairford on Terrorism and Explosives Charges**",
@@ -39,7 +81,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=379",
-    "featured": true
+    "featured": false
   },
   {
     "id": 378,

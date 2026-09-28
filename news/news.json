@@ -1,5 +1,52 @@
 [
   {
+    "id": 384,
+    "title": "Five men arrested in RAF Fairford incident released on police bail",
+    "summary": "**Five Men Arrested and Released on Bail in Suspected Plot Targeting RAF Fairford**",
+    "content": "**Five Men Arrested and Released on Bail in Suspected Plot Targeting RAF Fairford**\n\nLondon – Five men were detained by UK police and the national counter‑terrorism unit on suspicion of involvement in a terrorist or bomb plot aimed at RAF Fairford, the United States‑run air base in Gloucestershire. After initial questioning, all five were released on police bail, and the investigation remains open, officials said.\n\nThe arrests, reported by a coalition of outlets including the BBC, Reuters, The Guardian, the Financial Times, CBS News, ABC News, The New York Times, NBC News and NPR, were carried out without public disclosure of the suspects’ identities or the specific evidence that prompted the operation. No charges have been filed to date.\n\nIn a statement to the BBC, the head of the UK counter‑terrorism police emphasized that the case is still active. He said authorities will continue to pursue any leads that emerge from the arrests and that the men, while currently out of custody, remain subject to bail conditions and could be re‑detained if further evidence warrants it. The lack of a public timeline for the arrests reflects the sensitivity of ongoing counter‑terrorism work.\n\nRAF Fairford is a strategic airfield used by the United States Air Force for the deployment of heavy bombers and for NATO exercises. Its high‑profile status makes it a frequent focus of security assessments, especially amid heightened concerns about foreign‑state‑sponsored terrorism. Some media outlets, such as NPR, have speculated about possible involvement by state actors like Iran or Russia, but officials have not corroborated those claims.\n\nThe episode highlights the vigilance of UK security services in protecting critical infrastructure. It also underscores the collaborative nature of intelligence and law‑enforcement work across national lines, as British authorities respond to threats that could have broader geopolitical implications.\n\nPolice indicated that the investigation will proceed with further forensic analysis, additional interviews and a review of intelligence. Should new evidence emerge, further arrests or formal charges may follow. Parallel intelligence assessments will examine any indications of foreign involvement, a step that could shape diplomatic responses and security policy.\n\nThe case continues to attract attention from both domestic and international media, reflecting public interest in how potential threats to a key U.S. military installation are being addressed.\n\nIn sum, the arrest and subsequent release of five men near RAF Fairford demonstrate the proactive stance of UK counter‑terrorism units in confronting alleged plots against critical defence infrastructure. While the suspects are currently out on bail, the open investigation signals that authorities are far from concluding the matter, and further developments are expected as evidence is evaluated.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-28",
+    "time": "20:54",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Five men were arrested in connection with a suspected terror or bomb plot at RAF Fairford, a U.S.-run air base in the United Kingdom.",
+      "All five men were released on police bail after being detained.",
+      "The arrests and releases were reported by multiple reputable news outlets including BBC, Reuters, The Guardian, Financial Times, CBS News, ABC News, The New York Times, NBC News, and NPR.",
+      "UK police, including the counter‑terrorism unit, confirmed the release and stated the investigation remains open.",
+      "The incident took place at RAF Fairford, located in Gloucestershire, England."
+    ],
+    "timeline": [
+      {
+        "event": "Arrests of five men near RAF Fairford",
+        "date": null,
+        "source": "Multiple outlets (BBC, Reuters, The Guardian, etc.)"
+      },
+      {
+        "event": "Release of the five men on police bail",
+        "date": null,
+        "source": "BBC, Reuters, The Guardian, Financial Times, CBS News, ABC News, The New York Times, NBC News, WGME"
+      },
+      {
+        "event": "Police statement that the investigation remains open",
+        "date": null,
+        "source": "BBC (head of counter‑terror police), other UK police communications"
+      },
+      {
+        "event": "Speculative reporting on possible foreign involvement (Iran or Russia)",
+        "date": null,
+        "source": "NPR"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=384",
+    "featured": true
+  },
+  {
     "id": 383,
     "title": "Watch: Were the RAF Fairford arrests 'pure luck'?",
     "summary": "**BBC Reports on RAF Fairford Incidents, SpaceX Milestone, Nantucket Shipwreck and Other News**",
@@ -27,7 +74,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=383",
-    "featured": true
+    "featured": false
   },
   {
     "id": 382,

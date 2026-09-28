@@ -1,5 +1,36 @@
 [
   {
+    "id": 381,
+    "title": "Inside Yemen's front-line city as Houthis battle for control",
+    "summary": "**Yemen’s Red‑Sea Coast Becomes New Flashpoint in U.S.–Iran Rivalry**",
+    "content": "**Yemen’s Red‑Sea Coast Becomes New Flashpoint in U.S.–Iran Rivalry**\n\nIntensified fighting between Yemen’s Houthi movement and Saudi‑backed government forces has turned a modest fishing city on the Red Sea into a critical battleground, raising fears of a humanitarian disaster and testing the fragile western‑coast truce that has limited large‑scale hostilities in the region.\n\n**Escalation on the Ground**\n\nIn the coastal city, Houthi fighters are advancing northward along the Red Sea, confronting Saudi‑supported troops of the internationally recognised government. The BBC and Al Jazeera reported heavy clashes, while The Jerusalem Post and The Media Line described the city as a “second front” in the broader U.S.–Iran contest. Haaretz warned that Yemen could become a new arena for a potential Iran‑U.S. war.\n\nCasualties have risen sharply. NewsCord cited up to 169 deaths in recent engagements, and The Guardian noted that nearly 50,000 civilians have fled the area as the Houthis push forward. The fighting also threatens the port city of Hodeidah, where a western‑coast truce—intended to keep the vital harbor open for humanitarian shipments—has begun to fray.\n\n**Underlying Drivers**\n\nThree interlocking factors explain the surge:\n\n1. **Renewed Houthi Momentum** – The rebels are expanding their control along the coast, challenging the Saudi‑backed forces that have defended the government’s positions since the conflict erupted in 2014.\n2. **U.S.–Iran Competition** – Both powers are vying for influence over the Red Sea corridor, turning Yemen’s internal war into a proxy arena.\n3. **Risk of Wider Conflict** – The prospect of a direct Iran‑U.S. confrontation is prompting regional actors to recalibrate their strategies, further entangling local combatants in a larger geopolitical contest.\n\n**Humanitarian Consequences**\n\nABC News highlighted the growing danger of a humanitarian catastrophe as fighting disrupts essential services and blocks aid routes. The displacement of almost 50,000 people is straining already limited resources in neighboring districts, while the reported death toll of up to 169 underscores the conflict’s lethality. Aid agencies warn that continued hostilities could cripple the delivery of food, medicine and shelter to vulnerable populations.\n\n**Geopolitical Stakes**\n\nControl of Yemen’s Red Sea coastline has implications far beyond its borders. The sea lane links the Suez Canal with the Gulf, making any disruption a concern for global oil and commercial traffic. Saudi Arabia, the United Arab Emirates, the United States and Iran are all directly or indirectly involved, turning the local war into a proxy battleground where regional power balances are contested. The emergence of a once‑quiet fishing hub as a strategic hotspot illustrates how peripheral locales can acquire outsized importance when great‑power rivalries intersect with civil war dynamics.\n\n**Outlook and Diplomatic Efforts**\n\nThe trajectory of the conflict will depend on several variables:\n\n* **UN Mediation** – Diplomatic channels are working to reinforce the Hodeidah truce and prevent further civilian displacement.\n* **Humanitarian Response** – Relief organisations are preparing expanded operations to meet the growing needs of displaced families.\n* **External Involvement** – Military analysts caution that a deepening U.S.–Iran confrontation could bring additional weaponry and advisors into Yemen, escalating violence further.\n\nObservers will watch for any shift in Saudi or Iranian engagement that could either stabilize the front lines or inflame them.\n\n**Conclusion**\n\nThe latest surge of fighting in Yemen’s coastal fishing city reflects a convergence of local power struggles and international rivalries, turning a modest port into a pivotal front in the U.S.–Iran contest. The mounting humanitarian toll—mass displacement, rising casualties and the erosion of cease‑fire mechanisms—underscores the urgent need for coordinated diplomatic and relief actions to prevent the conflict from spiralling into a broader regional crisis.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-28",
+    "time": "00:05",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Houthis are battling for control in a front‑line city in Yemen (BBC)",
+      "Fighting continues between Yemen government forces and Houthis (Al Jazeera)",
+      "A Yemeni fishing city has become a second front in the US‑Iran conflict (The Jerusalem Post)",
+      "Yemen may become a new front line for the Iran‑U.S. war (Haaretz)",
+      "Escalation in the Yemen conflict is sparking fears of a humanitarian disaster (ABC News)",
+      "A Yemeni fishing city has become a front in the Iran‑US war (The Media Line)",
+      "Nearly 50,000 Yemeni civilians have fled as Houthis advanced along the Red Sea coast (The Guardian)",
+      "Houthis are battling Saudi‑backed forces in Yemen, with reported deaths of up to 169 (NewsCord)",
+      "Houthis and Yemeni forces are engaged in fierce battles across multiple fronts (Al Jazeera)",
+      "Clashes in Hodeidah are testing the western‑coast truce (نون بوست)"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=381",
+    "featured": true
+  },
+  {
     "id": 380,
     "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
     "summary": "**BBC’s Week in Review: Sectarian Tensions, Safety Inquests, High‑Profile Courts and Consumer Guidance**",
@@ -39,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=380",
-    "featured": true
+    "featured": false
   },
   {
     "id": 379,

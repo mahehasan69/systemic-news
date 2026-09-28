@@ -1,5 +1,39 @@
 [
   {
+    "id": 382,
+    "title": "Protesters disperse after blocking contentious Orange Order parade",
+    "summary": "**Protesters Block Orange Order Parade on Garvaghy Road; Police Intervene and Talks Planned**",
+    "content": "**Protesters Block Orange Order Parade on Garvaghy Road; Police Intervene and Talks Planned**\n\nPortadown, Northern Ireland – Demonstrators erected a blockade on Garvaghy Road, the traditional route of the Orange Order’s annual march, prompting police to halt the procession before it entered the predominantly Catholic neighbourhood. After the police intervention, the protesters gradually dispersed. Community leaders hailed the outcome as a “victory” and announced that talks between local representatives and authorities would commence to address the underlying dispute.\n\nThe blockade, set up by residents who view the march as a flashpoint, succeeded in stopping the Orange Order from proceeding along the contested stretch. Police forces moved in to enforce the stoppage, preventing the parade from entering the Catholic area and averting a potential escalation of tensions. The subsequent dispersal of demonstrators signalled a de‑escalation, allowing officials to shift focus from confrontation to dialogue.\n\nThe incident is part of the long‑standing Drumcree parade dispute, a decades‑old conflict over the Orange Order’s right to march through areas with a Catholic majority. The parade, which celebrates the Protestant community’s heritage, has repeatedly been met with opposition from Catholic residents who see the route as an intimidation tactic. Past confrontations have involved extensive police involvement and community negotiations, making each iteration a barometer of sectarian relations in the region.\n\nBy preventing the march from reaching Garvaghy Road, authorities averted a scenario that could have reignited broader sectarian unrest across Northern Ireland. The public declaration of a “victory” by a community leader underscores the growing influence of civil society in shaping the terms of the dispute and highlights the importance of negotiated settlements over unilateral actions.\n\nIn the wake of the protest, scheduled talks between community representatives and governmental bodies will address the route controversy. The discussions aim to find a mutually acceptable solution that respects the cultural expression of the Orange Order while acknowledging the sensitivities of the Catholic neighbourhood. Outcomes from these talks are expected to inform future decisions on parade routes, policing strategies, and community engagement, setting a precedent for managing similar disputes.\n\nThe Portadown episode illustrates the delicate balance between tradition and community cohesion in Northern Ireland. While police action and the subsequent dispersal of protesters defused the immediate crisis, the underlying dispute remains unresolved. The forthcoming negotiations represent a critical opportunity to move beyond ad‑hoc blockades toward a durable framework for coexistence, reinforcing that lasting peace depends as much on dialogue as on the enforcement of public order.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-28",
+    "time": "06:02",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Protesters dispersed after blocking a parade (multiple sources).",
+      "The parade was an Orange Order parade (sources 2,3,4,5,6,7).",
+      "The parade route was described as contentious or controversial (sources 1-6).",
+      "The location of the blockage included Garvaghy Road in Portadown, Northern Ireland (sources 3 and 4).",
+      "Police blocked the Orange Order from the disputed route (source 5).",
+      "Protesters blocked the Orange Order from marching through a Catholic area (source 6).",
+      "A community leader hailed a \"victory\" ahead of talks (source 7).",
+      "The event is part of the Drumcree parade dispute involving loyalist marches (source 7)."
+    ],
+    "timeline": [
+      "Protesters block the Orange Order route through Garvaghy Road, Portadown (sources 3,4,6).",
+      "Police intervene and block the Orange Order from the disputed route (source 5).",
+      "Protesters disperse after the blockage (sources 1,2,3,4,7).",
+      "A community leader declares a \"victory\" and mentions upcoming talks (source 7)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=382",
+    "featured": true
+  },
+  {
     "id": 381,
     "title": "Inside Yemen's front-line city as Houthis battle for control",
     "summary": "**Yemen’s Red‑Sea Coast Becomes New Flashpoint in U.S.–Iran Rivalry**",
@@ -28,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=381",
-    "featured": true
+    "featured": false
   },
   {
     "id": 380,

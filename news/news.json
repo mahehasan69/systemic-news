@@ -1,5 +1,47 @@
 [
   {
+    "id": 385,
+    "title": "Watch: RAF Fairford suspects are bailed, what happens now?",
+    "summary": "**RAF Fairford Incident: Arrests, Bail and Ongoing Counter‑Terror Investigation**",
+    "content": "**RAF Fairford Incident: Arrests, Bail and Ongoing Counter‑Terror Investigation**\n\nA farmer’s emergency 999 call reporting suspicious activity at the Royal Air Force base in Fairford triggered a rapid police response that resulted in the arrest of five men on suspicion of involvement in a potential plot. The suspects were later released on police bail while counter‑terrorism officers continue to investigate.\n\nThe incident began when the farmer, noticing activity he considered unusual, dialed 999 and alerted authorities to the situation at RAF Fairford. Within hours, police units established cordons around the airfield and detained five men believed to be linked to the reported activity. After initial questioning, the men were released on bail, a decision confirmed publicly by the counter‑terrorism police.\n\nPolice cordons remain in place around the airbase, underscoring the seriousness with which law‑enforcement agencies are treating the case. Counter‑terrorism officers have taken charge of the investigation, indicating that it is being handled under the nation’s anti‑terrorism framework. Although the suspects have not yet been charged, the inquiry aims to determine whether any criminal intent or planning was involved.\n\nThe farmer’s prompt call is credited with averting a possible escalation, highlighting the role of civilian vigilance in national security. By reporting the suspicious activity, the farmer enabled police to act before any further developments could occur, reinforcing the importance of public cooperation with law‑enforcement agencies.\n\nAuthorities have indicated that the investigation will continue, with the possibility of formal charges and court proceedings should evidence warrant such action. The police cordons are expected to be lifted once investigators have completed their assessment and any residual threats have been neutralised. The incident serves as a reminder of the heightened security posture surrounding critical military installations and the ongoing efforts of counter‑terrorism units to pre‑empt potential threats.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-29",
+    "time": "00:41",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Five men were arrested in connection with an incident at RAF Fairford.",
+      "The five men were released on police bail.",
+      "Counter‑terrorism police announced the suspects were bailed.",
+      "A farmer placed a 999 emergency call that he says helped foil the plot.",
+      "Police cordons remained in place around RAF Fairford after the arrests."
+    ],
+    "timeline": [
+      {
+        "event": "Farmer makes 999 emergency call reporting suspicious activity at RAF Fairford"
+      },
+      {
+        "event": "Police arrest five men in connection with the reported activity"
+      },
+      {
+        "event": "Police release the five men on bail"
+      },
+      {
+        "event": "Counter‑terrorism police publicly announce the bail of the suspects"
+      },
+      {
+        "event": "Police maintain cordons around RAF Fairford while the investigation continues"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=385",
+    "featured": true
+  },
+  {
     "id": 384,
     "title": "Five men arrested in RAF Fairford incident released on police bail",
     "summary": "**Five Men Arrested and Released on Bail in Suspected Plot Targeting RAF Fairford**",
@@ -44,7 +86,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=384",
-    "featured": true
+    "featured": false
   },
   {
     "id": 383,

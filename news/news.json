@@ -1,5 +1,35 @@
 [
   {
+    "id": 389,
+    "title": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
+    "summary": "**Supreme Court Grants Temporary Relief, Allowing Trump Administration to Resume “Third‑Country” Deportations**",
+    "content": "**Supreme Court Grants Temporary Relief, Allowing Trump Administration to Resume “Third‑Country” Deportations**\n\nThe U.S. Supreme Court issued a temporary order on Tuesday that permits the Trump administration to restart “third‑country” removals—deportations of migrants to nations other than their countries of origin—while the underlying legal challenge proceeds. The decision, reported by The New York Times, Reuters and CNN, lifts a lower‑court injunction that had halted the policy earlier this year.\n\nThe order follows a petition filed by senior administration officials seeking judicial relief to revive the practice. In the petition, the administration argued that third‑country deportations are a lawful tool for accelerating the removal of individuals who lack a credible claim to remain in the United States. The Court’s interim ruling allows the policy to be implemented pending a full hearing, which has been scheduled for December 2024.\n\nUnder the revived policy, migrants who entered the United States without authorization may be transferred to a third nation that has agreed to accept them, even when the individual has no prior ties to that country. The approach was designed to reduce the backlog of removal cases and to deter future illegal entry by demonstrating that the United States can relocate migrants beyond their home nations.\n\nAdvocacy groups and several lower courts have challenged the policy on humanitarian and legal grounds, contending that it violates domestic and international obligations to provide due process and safe treatment for asylum seekers. The Supreme Court’s temporary authorization, however, permits the administration to proceed while those challenges are litigated.\n\nThe immediate effect of the order is the resumption of deportations to third countries for migrants who lack established connections to the destination. The administration has not released specific numbers, but officials expect the pace of removals—previously stalled by the injunction—to increase. Human‑rights organizations warn that the practice could expose vulnerable individuals to unsafe conditions in receiving nations, while the administration maintains that each transfer will be coordinated with the destination country to meet safety standards.\n\nLegal scholars note that the Court’s decision sets a notable precedent for executive authority in immigration enforcement. By allowing the policy to operate pending a final ruling, the Court signals that the administration’s interpretation of its removal powers carries weight—at least until the case is resolved.\n\nThe December 2024 hearing will be the focal point for both the administration and its opponents. An affirmation of the policy could expand the tools available to the executive branch and reshape U.S. immigration enforcement. Conversely, a ruling against the practice would likely reinstate the injunction and force the administration to revise its removal strategies. Advocacy groups have indicated they will continue to challenge any implementation they deem inconsistent with legal protections for migrants, suggesting further litigation is probable.\n\nThe case highlights the broader debate over how the United States balances border security, humanitarian obligations and the rule of law. As the nation confronts record numbers of asylum claims and a strained immigration system, the Supreme Court’s interim decision and its forthcoming December ruling will have significant implications for the future of deportation policy and the rights of migrants seeking refuge on American soil.",
+    "category": "🏥 Health",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-29",
+    "time": "22:45",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The U.S. Supreme Court issued an order permitting the Trump administration to resume deportations of migrants to countries other than their home countries (so‑called third‑country deportations) while the underlying case proceeds.",
+      "The decision was reported by multiple reputable outlets (The New York Times, NBC News, Miami Herald, The Guardian, NPR, AP News, Reuters, Politico, USA Today, Axios, CNN, CBS News, The Hill, etc.).",
+      "The Court set a future hearing or decision for December, indicating the case will continue beyond the temporary order.",
+      "Trump administration officials filed a petition asking the Court to allow the policy."
+    ],
+    "timeline": [
+      "Trump administration officials request Supreme Court intervention to allow third‑country deportations (date not specified).",
+      "Supreme Court issues temporary order allowing the policy to resume (early 2024, exact date not provided).",
+      "Deportations to third countries restart following the order.",
+      "Supreme Court schedules further arguments or a final decision for December."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=389",
+    "featured": true
+  },
+  {
     "id": 388,
     "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
     "summary": "**Mayor Andy Burnham Calls for End or Major Reform of UK Pension “Triple Lock” to Fund National Social‑Care Service**",
@@ -29,7 +59,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=388",
-    "featured": true
+    "featured": false
   },
   {
     "id": 387,

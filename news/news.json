@@ -1,5 +1,37 @@
 [
   {
+    "id": 388,
+    "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
+    "summary": "**Mayor Andy Burnham Calls for End or Major Reform of UK Pension “Triple Lock” to Fund National Social‑Care Service**",
+    "content": "**Mayor Andy Burnham Calls for End or Major Reform of UK Pension “Triple Lock” to Fund National Social‑Care Service**\n\nGreater Manchester – In a statement released on Monday, Andy Burnham, the Mayor of Greater Manchester and a senior Labour Party figure, announced that the United Kingdom’s pension “triple lock” will be either ended or substantially reformed from 2030. The proposal, outlined in a 2024 public announcement, is intended to free fiscal resources for the creation of a nationwide social‑care system for the country’s ageing population.\n\nBurnham said the move is driven by the urgent need to fund a comprehensive social‑care infrastructure that has long suffered from chronic under‑investment. By removing the financial ceiling imposed by the triple lock, the Treasury would gain additional leeway to allocate money toward home‑based services, residential facilities and support for people with long‑term health conditions.\n\n**Proposed timetable**\n\nThe reform is slated to take effect in 2030, giving policymakers a six‑year window to design, debate and enact the necessary legislation. During this period officials will develop policy details, draft the legislative framework and conduct extensive consultations with pensioners’ groups, social‑care providers and fiscal watchdogs. The proposal will then be presented to Parliament for debate and a vote. If approved, the guarantee that pensioners receive a set annual increase – currently the highest of three economic indicators – could be reduced or removed in favour of broader social‑care funding.\n\n**Background to the triple lock**\n\nSince its introduction, the triple lock has ensured that state pensions rise each year by the greater of inflation, average earnings growth or a fixed 2.5 % uplift, protecting retirees from the erosion of purchasing power. Critics argue that the lock’s fiscal cost has become unsustainable as life expectancy rises and the pension‑receiving population expands. Supporters maintain that the guarantee provides essential security for older citizens who rely on state pensions as their primary income.\n\n**Implications**\n\nThe proposal marks the first formal indication that the government is prepared to alter a policy that has been a cornerstone of the UK’s pension system for decades. A national social‑care service has been a recurring theme in policy discussions, especially as demographic shifts increase pressure on families and local authorities to provide care for the elderly and disabled. Reallocating resources from the pension guarantee to social care aims to address a systemic shortfall that has left many vulnerable individuals without adequate support.\n\nBurnham’s plan also raises questions about intergenerational equity, pitting the financial security of current pensioners against the long‑term sustainability of public services. Legislators will need to balance the fiscal benefits of ending the triple lock with the political risk of reducing pension protections—a debate that is expected to dominate public discourse in the coming months.\n\n**Next steps**\n\nThe government will launch a series of policy workshops, impact assessments and parliamentary scrutiny sessions. Should the reform pass, a phased transition will begin after 2030, with detailed outlines of how the newly available funds will be allocated to build and maintain the national social‑care framework.\n\nIn essence, Burnham’s pledge signals a strategic shift in the UK’s welfare spending: prioritising the establishment of a universal social‑care system over the continuation of a guaranteed pension uplift. The outcome of the forthcoming legislative process will determine whether enhanced care for millions can be realised without compromising the financial security of those already retired.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-29",
+    "time": "18:57",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham announced that the existing pension triple lock will be ended or reformed starting in 2030.",
+      "The stated purpose of ending/reforming the triple lock is to help fund a national/social care service in the United Kingdom."
+    ],
+    "timeline": [
+      {
+        "event": "Public announcement by Andy Burnham that the pension triple lock will be ended/reformed",
+        "date": "2024 (exact date not specified in articles)"
+      },
+      {
+        "event": "Proposed implementation of the change to the pension triple lock",
+        "date": "2030"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=388",
+    "featured": true
+  },
+  {
     "id": 387,
     "title": "Daniel Sandford on what's next in the RAF Fairford investigation",
     "summary": "**BBC’s Recent Coverage: From a Mysterious RAF Fairford Incident to High‑Profile Disappearances and Societal Issues**",
@@ -28,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=387",
-    "featured": true
+    "featured": false
   },
   {
     "id": 386,

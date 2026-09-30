@@ -1,5 +1,39 @@
 [
   {
+    "id": 392,
+    "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
+    "summary": "**Israeli Passenger Thwarts Attempted Hijacking on Flydubai Flight to Israel**",
+    "content": "**Israeli Passenger Thwarts Attempted Hijacking on Flydubai Flight to Israel**\n\nAn Israeli passenger on a Flydubai service bound for Israel intervened in an attempted hijacking and stabbing that occurred in the cockpit while the aircraft was cruising. The passenger restrained the attacker with a chokehold, took control of the aircraft and helped stabilize it until an emergency landing could be made. All passengers and crew disembarked safely after the plane touched down in Israel.\n\nThe flight, operating on a routine Flydubai schedule, was at cruising altitude when a man entered the cockpit area armed with a knife and assaulted the flight crew. The assailant tried to seize the controls, creating an immediate risk of loss of aircraft control. The Israeli passenger, seated nearby, moved into the cockpit, seized the attacker and applied a chokehold that immobilised him and pulled him away from the controls. With the threat temporarily neutralised, the passenger manipulated the control column to arrest the aircraft’s descent and restore a stable flight path.\n\nThe pilot then declared an emergency and directed the aircraft to the nearest suitable airport in Israel. The plane executed an emergency landing without further incident, and all occupants – passengers and crew alike – were able to disembark safely. The attacker was restrained on board and taken into custody by authorities upon arrival.\n\nIn the aftermath, the intervening passenger was summoned to meet Israeli Prime Minister Benjamin Netanyahu, where he recounted his actions during the crisis. While the details of the discussion have not been disclosed, the meeting underscores the significance Israeli officials attach to his decisive role in averting a potential disaster.\n\nAviation and security agencies in both Israel and the United Arab Emirates have opened investigations. Preliminary inquiries will focus on how the attacker accessed the cockpit, the effectiveness of existing security protocols, and the sequence of actions that led to the successful containment of the threat. Legal proceedings against the attacker are expected to follow the investigative phase, with charges reflecting the seriousness of the attempted hijacking and assault.\n\nThe episode highlights persistent concerns for commercial aviation. Despite reinforced cockpit barriers introduced after past global incidents, individuals may still attempt to breach security. It also underscores the potential impact of passenger intervention when crew members are incapacitated or overwhelmed. While airline crews receive extensive emergency‑response training, the rapid response of a passenger proved pivotal in preventing a catastrophic outcome. Aviation regulators worldwide have long emphasized the importance of vigilant passengers as an additional layer of security—a principle brought into sharp relief by this incident.\n\nThe event carries diplomatic and operational implications for the United Arab Emirates, the home base of Flydubai, and Israel, the destination country. Both governments are likely to review bilateral aviation agreements and security‑coordination mechanisms to mitigate similar threats in the future. The swift cooperation between the two nations’ authorities in handling the aftermath may serve as a model for cross‑border crisis management in the aviation sector.\n\nFlydubai has pledged full cooperation with investigative bodies and said it will review its onboard security measures. Although the airline has not released a detailed statement on immediate procedural changes, industry analysts expect an assessment of cockpit access controls, passenger‑screening processes and crew‑training programs in light of the event. The Israeli passenger who intervened may be considered for official commendations, reflecting the high regard in which his actions are held by both the public and government officials.\n\nThe successful resolution of the crisis, without loss of life or serious injury, stands as a testament to the decisive actions of an individual passenger and the resilience of the flight crew under extreme pressure. It serves as a reminder that, even in an era of heightened aviation security, the vigilance and courage of ordinary travelers can play a critical role in safeguarding the skies.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-30",
+    "time": "19:42",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "An attempted hijacking/stabbing occurred on a Flydubai flight bound for Israel",
+      "An Israeli passenger physically restrained the attacker in the cockpit using a chokehold",
+      "The passenger took control of the aircraft and helped stabilize it",
+      "The passenger later recounted the incident to Israeli Prime Minister Benjamin Netanyahu",
+      "The aircraft made an emergency landing in Israel and passengers disembarked safely"
+    ],
+    "timeline": [
+      "Flight departs on a Flydubai service to Israel (date not specified)",
+      "During cruise, an individual attacks the cockpit area with a knife",
+      "Israeli passenger intervenes, grabs the attacker, places him in a chokehold and pulls him away from the controls",
+      "Passenger pulls the controls to stop the aircraft’s dive and stabilises the plane",
+      "Aircraft proceeds to make an emergency landing in Israel",
+      "Passenger meets Prime Minister Benjamin Netanyahu and describes his actions",
+      "Passengers, including the intervening passenger, disembark in Israel"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=392",
+    "featured": true
+  },
+  {
     "id": 391,
     "title": "U.S. Withdraws From Iraq After Two Decades, and Trump Tells A.I. Giants to Police Themselves",
     "summary": "**New York Times “On This Day” – September 27, 2026: A Snapshot of America’s Current Landscape**",
@@ -58,7 +92,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=391",
-    "featured": true
+    "featured": false
   },
   {
     "id": 390,

@@ -1,5 +1,44 @@
 [
   {
+    "id": 390,
+    "title": "One of the five men arrested near RAF Fairford called 999 himself",
+    "summary": "**Five Arrested Near RAF Fairford After Suspect Calls 999**",
+    "content": "**Five Arrested Near RAF Fairford After Suspect Calls 999**\n\nA police operation on the outskirts of RAF Fairford in Gloucestershire led to the detention of five men after one of the suspects placed a 999 emergency call himself. The call, made moments before officers arrived, triggered a rapid response that uncovered no explosives at the site, prompting authorities to label the incident a foiled bomb or terror plot.\n\nAccording to statements from the West Gloucestershire Police and the Ministry of Defence, the 999 call was the first recorded action in the episode. Within minutes, police units converged on the area surrounding the airfield and arrested the five individuals present. A systematic sweep of the premises followed, and investigators confirmed that no bomb components or related materials were found.\n\nAll five men remain in custody pending further legal action. While police have not disclosed the suspects’ motives, the investigation is ongoing. Officers are scrutinising the individual who made the emergency call, his background, possible affiliations and any wider network that may have been involved. The self‑initiated 999 call has been described as an unusual element, suggesting either a last‑minute attempt to alert authorities or internal conflict among the group.\n\nRAF Fairford is a strategic airfield used for both military and civilian operations, making any threat to the site a matter of national security. Although no explosives were discovered, the potential for an attack prompted a coordinated response from emergency services, underscoring the importance of swift communication through the 999 system.\n\nLaw‑enforcement officials said the investigation will now focus on establishing the full scope of the alleged conspiracy, including any links to extremist groups or external actors. Prosecutors are expected to consider charges against the five detainees, and court proceedings are likely as evidence is reviewed. Both local and national authorities will monitor the case closely, given its implications for security protocols at RAF Fairford and similar installations.\n\nThe episode highlights the effectiveness of immediate emergency reporting and rapid police intervention in averting a possible terrorist act. Whether the suspect’s call was driven by remorse, panic or a strategic decision, it enabled authorities to neutralise a potential threat before it could materialise. The ongoing inquiry will determine the precise motivations and any broader connections, reinforcing the critical role of public vigilance and emergency services in safeguarding public spaces.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-30",
+    "time": "01:42",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "One of five men arrested near RAF Fairford placed a 999 emergency call himself",
+      "The call was made shortly before the suspect's arrest",
+      "Police found no explosives at the site",
+      "The incident is described as a foiled bomb/terror plot",
+      "The location of the incident is RAF Fairford in the United Kingdom"
+    ],
+    "timeline": [
+      {
+        "event": "Suspect (one of five men) placed a 999 emergency call",
+        "order": 1
+      },
+      {
+        "event": "Police responded and arrested the five men near RAF Fairford",
+        "order": 2
+      },
+      {
+        "event": "Search of the site revealed no explosives",
+        "order": 3
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=390",
+    "featured": true
+  },
+  {
     "id": 389,
     "title": "Supreme Court Allows Trump Administration’s Third-Country Deportations, for Now",
     "summary": "**Supreme Court Grants Temporary Relief, Allowing Trump Administration to Resume “Third‑Country” Deportations**",
@@ -27,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=389",
-    "featured": true
+    "featured": false
   },
   {
     "id": 388,

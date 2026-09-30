@@ -1,5 +1,41 @@
 [
   {
+    "id": 393,
+    "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
+    "summary": "**Dame Esther Rantzen, broadcaster and child‑welfare champion, dies aged 86**",
+    "content": "**Dame Esther Rantzen, broadcaster and child‑welfare champion, dies aged 86**\n\nDame Esther Rantzen, the former BBC journalist best known for presenting the long‑running television programme *That’s Life!*, died on 30 September 2026 at the age of 86. She succumbed to terminal lung cancer in the New Forest, where she had lived and supported a range of Dorset‑based charities.\n\nRantzen’s career spanned more than five decades of British media and social advocacy. After entering broadcasting in the 1960s, she became the face of *That’s Life!* in the 1970s and 1980s. The show’s mix of investigative reporting, consumer affairs and light‑hearted features earned her a reputation for tackling everyday concerns with rigor and empathy, setting a template for later current‑affairs programmes.\n\nBeyond the studio, Rantzen’s most enduring contribution was the charity she founded in 1986. Childline, a free, confidential telephone service for children and young people in distress, grew from a modest pilot into a nationwide network that now receives millions of calls each year. The service continues to operate under the auspices of the NSPCC, reflecting Rantzen’s commitment to providing a safe space for vulnerable young people.\n\nRantzen was also a prominent voice in the debate over assisted‑dying legislation. Drawing on personal experience and a belief in individual autonomy, she campaigned for laws that would give terminally ill patients greater control over the end of their lives, joining other public figures in seeking reform of UK law on the issue.\n\nThe news of her death has been reported by major outlets, and tributes are expected from former colleagues, broadcasters and the charities she championed. While details of any memorial service have not yet been released, it is customary for prominent public figures in the United Kingdom to be honoured through statements from governmental bodies, media organisations and charitable partners.\n\nDame Esther Rantzen’s passing underscores the lasting impact a broadcaster can have on both media culture and social policy. Her work demonstrated how television can serve as a platform for public education, while her charitable initiatives illustrated the power of celebrity‑driven philanthropy to address systemic gaps in child protection. As the nation mourns her loss, the structures she helped build—most notably Childline—continue to operate, ensuring that her commitment to vulnerable populations endures beyond her lifetime.",
+    "category": "🧬 Science",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-09-30",
+    "time": "23:17",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Dame Esther Rantzen died at age 86",
+      "She was a veteran broadcaster and presenter of the TV programme \"That's Life!\"",
+      "She founded the charity Childline",
+      "She was a campaigner for assisted dying",
+      "She had a terminal lung cancer diagnosis and died after a battle with lung cancer",
+      "She lived in the New Forest area supporting Dorset causes"
+    ],
+    "timeline": [
+      {
+        "event": "Terminal lung cancer diagnosis",
+        "detail": "Diagnosed with terminal lung cancer (date not specified)"
+      },
+      {
+        "event": "Death",
+        "detail": "Died at age 86 (date not specified)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=393",
+    "featured": true
+  },
+  {
     "id": 392,
     "title": "'I pulled the controls': Passenger tells Israeli PM how he helped stop attacker",
     "summary": "**Israeli Passenger Thwarts Attempted Hijacking on Flydubai Flight to Israel**",
@@ -31,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=392",
-    "featured": true
+    "featured": false
   },
   {
     "id": 391,

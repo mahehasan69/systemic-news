@@ -1,5 +1,66 @@
 [
   {
+    "id": 391,
+    "title": "U.S. Withdraws From Iraq After Two Decades, and Trump Tells A.I. Giants to Police Themselves",
+    "summary": "**New York Times “On This Day” – September 27, 2026: A Snapshot of America’s Current Landscape**",
+    "content": "**New York Times “On This Day” – September 27, 2026: A Snapshot of America’s Current Landscape**\n\nThe New York Times’ “On This Day” feature for September 27, 2026 presented a wide‑ranging set of headlines that together illustrate the political, security and social issues shaping the United States as it marks the 25th anniversary of the September 11 attacks. The roundup, echoed by other outlets, highlighted ten distinct stories:\n\n1. **The 2003 Iraq invasion** – The U.S. launched its military campaign on March 20, 2003, an operation that defined two decades of American foreign policy.  \n\n2. **U.S. withdrawal from Iraq** – In 2023, the United States completed the longest continuous overseas deployment since the 2003 invasion, ending a twenty‑year presence.  \n\n3. **The “On This Day” publication** – The September 27, 2026 edition collated the day’s most significant news for readers.  \n\n4. **California Proposition 39** – Statewide polling throughout 2026 has focused on this voter‑ID initiative, drawing intense scrutiny from election‑law advocates.  \n\n5. **25th anniversary of 9/11** – Nationwide commemorations in 2026 reflect on the terrorist attacks of September 11, 2001 and their lasting impact on security policy.  \n\n6. **Proposed Iran‑strait control deal** – Diplomatic circles are debating a $7 billion framework intended to secure maritime traffic and share revenue from the strategic waterway.  \n\n7. **Former President Donald Trump’s Greenland retreat** – Reports from 2026 indicate Trump spent time in Greenland, fueling speculation about his post‑presidential activities.  \n\n8. **Texas data‑center pause** – State officials announced a temporary halt to new data‑center construction, citing concerns over energy consumption and regional planning.  \n\n9. **Long Island Expressway bus crash** – A fatal collision on the highway claimed two lives, raising questions about transportation safety on heavily trafficked routes.  \n\n10. **Bard College presidential retirement** – The liberal‑arts college announced the departure of its president, prompting a search for new leadership.\n\n### Context and Significance\n\nThe juxtaposition of the 2003 invasion and the 2023 withdrawal underscores a full arc of U.S. military engagement that reshaped Middle‑Eastern dynamics and informed contemporary defense strategy. The 25th anniversary of 9/11 serves as a national moment of reflection on both collective memory and ongoing security concerns.\n\nCalifornia’s Proposition 39 debate touches on voter‑access issues that could influence future elections in the nation’s most populous state. The $7 billion Iran‑strait proposal, if realized, would affect global shipping lanes, energy markets and regional stability. While personal, Trump’s Greenland retreat signals the former president’s continued visibility on the international stage.\n\nTexas’s data‑center moratorium highlights the tension between rapid technological expansion and environmental or infrastructural constraints. The Long Island Expressway tragedy spotlights persistent safety challenges on a critical transportation corridor. Finally, the leadership transition at Bard College may shape the institution’s academic direction and its role within higher education.\n\n### Looking Ahead\n\n* **Iran‑strait negotiations** – Diplomatic channels are expected to continue evaluating financing, security guarantees and regulatory oversight for the proposed deal.  \n* **Proposition 39** – The initiative will move toward a ballot decision, prompting intensified campaigning from both supporters and opponents of voter‑ID requirements.  \n* **Texas data‑center policy** – Officials plan to review the moratorium and may issue revised guidelines that balance economic growth with resource management.  \n* **Transportation safety** – State and local agencies are likely to conduct safety audits and consider infrastructure upgrades following the Long Island Expressway crash.  \n* **Bard College leadership** – A nationwide search for a new president will begin, shaping the college’s strategic priorities for the next decade.\n\nThe September 27, 2026 “On This Day” compilation demonstrates how a single date can encapsulate a broad spectrum of issues—from the lingering effects of early‑21st‑century wars to contemporary debates over voting rights, energy security and technological development. Together, these stories illustrate the interconnected challenges confronting policymakers, communities and institutions as the United States navigates an increasingly complex domestic and global landscape.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-09-30",
+    "time": "14:19",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [
+      {
+        "date": "2003-03-20",
+        "event": "U.S. invasion of Iraq"
+      },
+      {
+        "date": "2023",
+        "event": "U.S. military withdrawal from Iraq (two decades after invasion)"
+      },
+      {
+        "date": "2026-09-27",
+        "event": "NYT \"On This Day\" feature for September 27"
+      },
+      {
+        "date": "2026",
+        "event": "California Prop. 39 Voter ID Initiative polls"
+      },
+      {
+        "date": "2026",
+        "event": "25th anniversary of 9/11"
+      },
+      {
+        "date": "2026",
+        "event": "Proposed Iran‑strait control deal involving $7 billion"
+      },
+      {
+        "date": "2026",
+        "event": "Donald Trump’s retreat on Greenland"
+      },
+      {
+        "date": "2026",
+        "event": "Texas pause on new data centers"
+      },
+      {
+        "date": "2026",
+        "event": "Bus accident on Long Island Expressway resulting in 2 deaths"
+      },
+      {
+        "date": "2026",
+        "event": "Bard College president retirement announcement"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=391",
+    "featured": true
+  },
+  {
     "id": 390,
     "title": "One of the five men arrested near RAF Fairford called 999 himself",
     "summary": "**Five Arrested Near RAF Fairford After Suspect Calls 999**",
@@ -36,7 +97,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=390",
-    "featured": true
+    "featured": false
   },
   {
     "id": 389,

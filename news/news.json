@@ -1,5 +1,32 @@
 [
   {
+    "id": 394,
+    "title": "How That's Life! gave Esther Rantzen a career-defining moment",
+    "summary": "**Esther Rantzen: From Broadcast Icon to Champion of Child Welfare and Assisted‑Dying Reform**",
+    "content": "**Esther Rantzen: From Broadcast Icon to Champion of Child Welfare and Assisted‑Dying Reform**\n\nDame Esther Rantzen, a veteran British broadcaster, has become a defining voice in the United Kingdom’s media, charitable, and health‑policy arenas. Best known for presenting the long‑running BBC current‑affairs programme *That’s Life!*, Rantzen has leveraged her public profile to advance child‑protection initiatives and to press for assisted‑dying legislation.\n\n**Television career and investigative journalism**\n\nRantzen first entered the national spotlight as a presenter on *That’s Life!*, a show that blended hard‑hitting investigations with human‑interest stories. Among the most memorable episodes she fronted was a 1979 segment on Nicholas Winton, the Czech‑British humanitarian who rescued 669 children from the Holocaust. The broadcast brought Winton’s extraordinary rescue work to a wide audience and reinforced the programme’s reputation for uncovering under‑reported stories.\n\n**Founding Childline**\n\nIn the early 1980s Rantzen founded Childline, a confidential helpline for children and young people in crisis. The service has grown into a cornerstone of the UK’s child‑protection framework, offering a safe outlet for vulnerable youths to seek help. In recognition of her contributions to broadcasting and charity, Rantzen was appointed a Dame in 1992 for services to both fields.\n\n**Assisted‑dying advocacy**\n\nMore recently, Rantzen has turned her platform toward the contentious issue of assisted dying. She campaigns for legislative reform that would give terminally ill patients greater autonomy over end‑of‑life decisions. While UK law remains restrictive, public support for compassionate options is rising. Rantzen’s involvement adds a high‑profile, dignity‑focused perspective to the debate and aligns with her long‑standing commitment to personal rights.\n\n**Impact and future direction**\n\nRantzen’s work illustrates the power of media influence when coupled with advocacy. Childline has directly contributed to the safety of countless children, while her assisted‑dying campaign is helping to shape parliamentary discussions on patient rights. Although no specific events have been announced, she is expected to continue expanding Childline’s reach—potentially through new digital platforms—and to collaborate with fellow campaigners on evidence‑based arguments for assisted‑dying reform.\n\n**Legacy**\n\nFrom introducing Nicholas Winton’s heroism to a mass audience, to establishing a lifeline for children, and now championing the right to die with dignity, Esther Rantzen’s career exemplifies how a public figure can translate media prominence into lasting social impact. As the UK navigates ongoing challenges in child‑protection policy and end‑of‑life legislation, Rantzen’s voice remains a pivotal force shaping the nation’s moral and legal landscape.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-01",
+    "time": "02:36",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Esther Rantzen is a British broadcaster.",
+      "She presented the BBC programme \"That's Life!\".",
+      "She founded the child‑help charity Childline.",
+      "She is a campaigner for assisted dying.",
+      "She has been honoured with the title Dame.",
+      "She was involved in a \"That's Life!\" episode about Nicholas Winton."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=394",
+    "featured": true
+  },
+  {
     "id": 393,
     "title": "Veteran broadcaster Dame Esther Rantzen dies aged 86",
     "summary": "**Dame Esther Rantzen, broadcaster and child‑welfare champion, dies aged 86**",
@@ -33,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=393",
-    "featured": true
+    "featured": false
   },
   {
     "id": 392,

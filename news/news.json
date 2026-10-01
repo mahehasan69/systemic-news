@@ -1,5 +1,35 @@
 [
   {
+    "id": 396,
+    "title": "Hundreds of criminals start leaving prison under new early release scheme",
+    "summary": "**Early‑release scheme in UK prisons frees hundreds, prompting mixed reactions and political push‑back**",
+    "content": "**Early‑release scheme in UK prisons frees hundreds, prompting mixed reactions and political push‑back**\n\nA government‑backed early‑release programme has begun to reshape the United Kingdom’s prison landscape, with “hundreds” of inmates discharged ahead of schedule over the past few weeks. Introduced as part of broader sentencing reforms aimed at easing chronic overcrowding, the scheme has generated sharply divergent responses from former prisoners, victims, advocacy groups and senior policymakers.\n\n**Policy intent and rollout**\n\nThe early‑release policy allows prisoners who meet specific eligibility criteria to leave custody before completing their original sentences. The BBC and the *Express Tribune* reported that the initial rollout resulted in the release of several hundred individuals. Officials say the measure is intended to reduce the prison population and alleviate pressure on limited rehabilitation resources.\n\n**Challenges faced by released inmates**\n\nFormer inmates have voiced disappointment with the support they received after leaving prison. Reports quoted by Yahoo and AOL describe how some participants felt “set up to fail” and unprepared for life outside the walls. Critics argue that the gap between the government’s objective of easing institutional strain and the reality of inadequate post‑release services could undermine the reform’s long‑term goals.\n\n**Victims’ concerns**\n\nThe reaction among victims and survivors has been equally pronounced. *The Independent* documented a growing sense of fear as the names of released offenders reappear in local communities. For many, early release of individuals convicted of serious offences has reignited trauma and heightened concerns about personal safety. Advocacy organisations are calling for stronger safeguards and clearer communication about the criteria used to determine eligibility.\n\n**Political response**\n\nThe political fallout accelerated as the first wave of releases unfolded. The Prime Minister intervened, using executive authority to block further changes that would have expanded the programme and potentially freed additional hundreds of prisoners. A statement on the official GOV.UK portal framed the decision as a necessary step to address public unease and to allow time for a thorough review of the policy’s impact. The move signals a pause in the rollout pending a detailed assessment.\n\n**Implications for future reform**\n\nThe episode highlights the delicate balance between penal reform and public confidence in the criminal‑justice system. While the early‑release scheme was conceived as a pragmatic solution to overcrowding, the mixed reactions underscore the need to consider the readiness of released individuals, the safety of victims, and the capacity of support services. Political push‑back suggests the government may need to recalibrate its approach, potentially integrating more robust after‑care programmes and clearer eligibility guidelines.\n\n**Next steps**\n\nLegal experts anticipate that the Prime Minister’s block will trigger a formal evaluation of the scheme’s criteria, implementation mechanisms and broader social implications. The Labour Party has indicated that it will issue statements on its stance toward early release, pointing to an ongoing parliamentary debate. \n\nAs the United Kingdom navigates the aftermath of the initial releases, policymakers will have to reconcile the goal of reducing prison populations with the imperative of maintaining public safety and providing comprehensive support for those re‑entering society.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-01",
+    "time": "16:45",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A new early release scheme has been implemented in the United Kingdom, resulting in hundreds of prisoners being released (BBC, Yahoo, AOL, The Independent, Express Tribune).",
+      "Freed prisoners have expressed that the scheme leaves them feeling \"set up to fail\" and that some are not ready for release (Yahoo, BBC, AOL).",
+      "Victims and survivors have reported living in fear due to the release of hundreds of criminals (The Independent).",
+      "The Prime Minister has blocked further changes that would have allowed hundreds more criminals to be released under the scheme (GOV.UK)."
+    ],
+    "timeline": [
+      "Early release scheme introduced (date not specified).",
+      "Hundreds of prisoners begin to be released under the scheme (reported by BBC, Express Tribune).",
+      "Public and victim reactions emerge, describing fear and concerns about readiness (The Independent, Yahoo, AOL).",
+      "Prime Minister intervenes to block additional sentencing changes that would have freed more prisoners (GOV.UK)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=396",
+    "featured": true
+  },
+  {
     "id": 395,
     "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
     "summary": "**Early‑Release Programme Raises Alarm Among Domestic‑Abuse Survivors**",
@@ -27,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=395",
-    "featured": true
+    "featured": false
   },
   {
     "id": 394,

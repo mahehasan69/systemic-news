@@ -1,5 +1,35 @@
 [
   {
+    "id": 395,
+    "title": "We fear for our lives after being told our abusive exes will be freed from jail early",
+    "summary": "**Early‑Release Programme Raises Alarm Among Domestic‑Abuse Survivors**",
+    "content": "**Early‑Release Programme Raises Alarm Among Domestic‑Abuse Survivors**\n\nA Ministry of Justice early‑release scheme, introduced earlier this year to ease prison overcrowding, has already seen “hundreds of prisoners” leave custody, according to the BBC. While the policy is intended to accelerate rehabilitation for low‑risk offenders, it has sparked a wave of anxiety among survivors of domestic abuse who fear that former partners may be among those freed.\n\n**Survivors voice heightened fear**\n\nMany survivors, some living under restraining orders, say the accelerated timetable could bring abusive ex‑partners back into their communities sooner than expected. Reports from the BBC, AOL and Metro cite a chorus of victims describing “heightened fear and uncertainty.” One survivor, speaking to the BBC, credited a Manchester‑based domestic‑abuse charity with “saving their life,” underscoring how vulnerable people feel as releases continue.\n\n**Government response**\n\nA minister addressed the concerns directly, acknowledging the distress caused by the scheme and stating that “the government cannot guarantee their safety after the releases.” The admission, reported by AOL, signals awareness of the policy’s unintended consequences but stops short of outlining specific safeguards or a timetable for remedial action.\n\n**Debate over criminal‑justice reform**\n\nProponents argue that the early‑release programme relieves pressure on an over‑burdened prison system and offers a pathway for low‑risk offenders to reintegrate. Critics counter that the approach overlooks the particular risks faced by victims of intimate‑partner violence, whose safety often depends on the continued incarceration of their abusers. The clash of perspectives has been amplified across UK news outlets, highlighting a tension between efficiency in the penal system and the protection of vulnerable citizens.\n\n**Calls for stronger risk assessment**\n\nAdvocacy groups are urging the Ministry of Justice to introduce more robust risk‑assessment mechanisms and to improve communication with victims. Some lawmakers have hinted at possible legislative amendments that would better balance early release with victim safety. As the rollout proceeds, further releases are expected, although exact dates have not been disclosed.\n\n**Support services brace for demand**\n\nDomestic‑abuse charities are preparing for an uptick in demand for counseling, safety planning and legal assistance. The Manchester charity praised by the survivor is among several organisations mobilising resources to help those who feel threatened by the new releases. Their involvement highlights the essential role of civil‑society actors in filling gaps that government measures have yet to address.\n\n**Looking ahead**\n\nThe early‑release scheme illustrates the complex interplay between penal reform and victim protection. While the policy aims to modernise the justice system, the immediate fallout among domestic‑abuse survivors signals a need for more nuanced implementation. As the government continues to process releases, pressure will mount for concrete steps that reassure victims and ensure that the pursuit of efficiency does not compromise personal safety.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-01",
+    "time": "09:30",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Hundreds of prisoners have begun leaving prison under a new early‑release scheme (BBC).",
+      "Domestic‑abuse survivors have expressed fear that their abusive ex‑partners may be released early (BBC, AOL.com, Metro.co.uk).",
+      "A minister told survivors that the government cannot guarantee their safety after the releases (AOL.com).",
+      "A Manchester domestic‑abuse charity was credited by a survivor with saving their life (BBC).",
+      "The early‑release scheme is being reported by multiple UK news outlets (BBC, AOL.com, Metro.co.uk)."
+    ],
+    "timeline": [
+      "Early‑release scheme launched (date not specified in titles).",
+      "Hundreds of prisoners began leaving prison shortly after launch (BBC).",
+      "Survivor reactions and minister comments reported in the days following the releases (AOL.com, Metro.co.uk)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=395",
+    "featured": true
+  },
+  {
     "id": 394,
     "title": "How That's Life! gave Esther Rantzen a career-defining moment",
     "summary": "**Esther Rantzen: From Broadcast Icon to Champion of Child Welfare and Assisted‑Dying Reform**",
@@ -24,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=394",
-    "featured": true
+    "featured": false
   },
   {
     "id": 393,

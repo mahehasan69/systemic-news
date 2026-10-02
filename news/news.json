@@ -1,5 +1,41 @@
 [
   {
+    "id": 401,
+    "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
+    "summary": "**Flydubai Flight Diverted After Co‑Pilot Stabs Captain; Passengers Subdue Attacker**",
+    "content": "**Flydubai Flight Diverted After Co‑Pilot Stabs Captain; Passengers Subdue Attacker**\n\nA Flydubai aircraft operating a scheduled service from Dubai to Tel Aviv was forced to make an emergency landing after the co‑pilot stabbed the captain while the plane was cruising at altitude. Passengers intervened, restraining the assailant and enabling the remaining crew to keep the aircraft under control. The flight touched down safely at Ben Gurion Airport in Tel Aviv with no injuries reported.\n\nAccording to multiple news outlets, the attack occurred mid‑flight. A group of travelers, among them a six‑year‑old girl, helped subdue the co‑pilot, preventing further violence. Their swift action allowed the pilot to maintain command of the aircraft and execute an emergency descent.\n\nIsraeli authorities confirmed that the co‑pilot will be questioned as part of a criminal investigation aimed at establishing motive and assessing any broader security implications. The Jerusalem Post and Ynetnews reported that investigators will also examine how a crew member was able to bring a knife aboard the aircraft.\n\nIn response to the incident, Flydubai announced the suspension of all flights to Israel until safety and security concerns are fully addressed. The airline, based in the United Arab Emirates, said it will cooperate with both Israeli and UAE authorities throughout the inquiry.\n\nIsraeli and UAE aviation regulators have launched a joint investigation into the breach of cockpit security, the presence of a weapon on board, and the adequacy of existing screening procedures. Preliminary findings indicate a deliberate attempt by the co‑pilot to bring the aircraft down, a conclusion supported by the fact that the captain was stabbed and the co‑pilot was subsequently restrained by passengers.\n\nThe episode highlights the critical role of passenger vigilance and the effectiveness of emergency protocols in aviation. Passengers on the flight have been widely praised for their decisive response, which officials say was instrumental in averting a potential catastrophe.\n\nLooking ahead, the co‑pilot faces possible criminal charges in Israel, and aviation safety regulators are expected to issue recommendations on crew screening, cockpit access, and onboard weapon prohibitions. Flydubai’s suspension of Israel‑bound services will be reviewed once investigations are complete and any recommended security enhancements are implemented.\n\nThe incident serves as a stark reminder that threats to aviation safety can originate from within the cockpit, underscoring the need for robust security measures and heightened awareness among all aboard. The aviation community will be watching closely as the investigations unfold, seeking lessons that could shape future policies on crew vetting and emergency response training.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-10-02",
+    "time": "19:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A Flydubai flight bound for Tel Aviv was diverted after the co‑pilot stabbed the pilot (Reuters, USA Today, The New York Times, DW.com).",
+      "Passengers on the aircraft stopped the co‑pilot and prevented a crash (Reuters, PBS, Independent).",
+      "A six‑year‑old girl helped passengers restrain the co‑pilot (Independent).",
+      "Israeli officials announced they will question the co‑pilot (The Jerusalem Post, Ynetnews).",
+      "Flydubai suspended all flights to Israel pending investigation (Haaretz).",
+      "The incident involved a flight operated by Flydubai, an airline based in the United Arab Emirates (multiple sources).",
+      "The flight was traveling from Dubai, United Arab Emirates, to Tel Aviv, Israel (Reuters, PBS)."
+    ],
+    "timeline": [
+      "Flight departs Dubai for Tel Aviv.",
+      "During the flight, the co‑pilot stabs the pilot (Reuters, USA Today).",
+      "Passengers, including a six‑year‑old girl, intervene and restrain the co‑pilot (Independent, PBS).",
+      "The aircraft lands safely in Tel Aviv (Reuters).",
+      "Israeli authorities announce they will question the co‑pilot (The Jerusalem Post, Ynetnews).",
+      "Flydubai suspends all flights to Israel pending investigation (Haaretz).",
+      "Ongoing investigation by Israeli and UAE authorities (DW.com, The New York Times)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=401",
+    "featured": true
+  },
+  {
     "id": 400,
     "title": "School protests send shivers down French government's spine",
     "summary": "**Fires Break Out at French Schools as Student Protests Spread Nationwide, Prompting Closure of 400 Institutions**",
@@ -23,7 +59,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=400",
-    "featured": true
+    "featured": false
   },
   {
     "id": 399,

@@ -1,5 +1,34 @@
 [
   {
+    "id": 402,
+    "title": "Widdecombe suspect charged with planning terror act against Farage",
+    "summary": "**Suspect in Ann Widdecombe murder case charged with planning terrorist attack on Nigel Farage**",
+    "content": "**Suspect in Ann Widdecombe murder case charged with planning terrorist attack on Nigel Farage**\n\nLondon – A man previously linked to the murder investigation of former MP Ann Widdecombe has been formally charged with planning a terrorist act targeting Nigel Farage, the former leader of the Brexit Party and a prominent figure in British politics. The charge was announced by UK authorities on Thursday and reported by a range of outlets, including *The Guardian*, *Bloomberg*, *The Independent*, *Deutsche Welle*, the BBC, *The Telegraph*, *The Times*, *The Sydney Morning Herald*, ITVX and Yahoo News Canada.\n\nThe indictment alleges that the suspect intended to carry out violence against Farage for political reasons, meeting the legal definition of terrorism under British law. While the precise details of the plot have not been disclosed, law‑enforcement officials say the plan was sufficiently advanced to merit prosecution. The suspect’s earlier connection to the Widdecombe homicide adds a further dimension of seriousness, suggesting a pattern of violent intent that authorities are now addressing through the criminal justice system.\n\nThe suspect is due to appear before a magistrates’ court for an initial hearing. A subsequent case‑management hearing will set the timetable for a full trial on terrorism offences. If convicted, the offence carries a potentially lengthy custodial sentence, reflecting the United Kingdom’s zero‑tolerance stance on politically motivated violence. The charge also triggers a series of security protocols, including risk assessments for Farage and possible protective measures for other public figures deemed at heightened risk.\n\nThe development comes amid heightened vigilance over extremist threats in the UK. Recent years have seen a series of high‑profile incidents, ranging from lone‑actor attacks to organised plots, prompting the Home Office to continually refine its counter‑terrorism strategy. The involvement of a suspect already associated with a serious homicide investigation underscores concerns that individuals with a history of violent conduct may be drawn into politically motivated schemes. Targeting Farage—a polarising figure in British politics—highlights how ideological grievances can translate into violent intent.\n\nPolitical leaders across the spectrum have called for a thorough investigation and robust protection for elected officials. Although the charge does not constitute a conviction, it demonstrates that law‑enforcement agencies are actively monitoring and intervening in threats before they materialise. The case also raises questions about the mechanisms for identifying and disrupting radicalisation pathways among individuals already entangled in serious criminal investigations.\n\nThe courts will now determine the procedural steps, and the prosecution will be required to present evidence of the alleged terrorist intent. Media coverage is expected to intensify as the case proceeds, and security services are likely to maintain heightened alert levels for Farage and other high‑profile politicians. The outcome will shape both the suspect’s legal fate and future policy discussions on safeguarding public figures from politically motivated violence.\n\nIn sum, the charging of the Ann Widdecombe murder suspect with planning a terror act against Nigel Farage marks a significant escalation in the UK’s ongoing battle against extremist threats, illustrating the intersection of criminal and political violence and testing the robustness of the nation’s counter‑terrorism framework.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-02",
+    "time": "23:21",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A suspect previously linked to a murder case involving Ann Widdecombe has been charged with planning a terrorist act targeting Nigel Farage.",
+      "The charge was announced by UK authorities and reported by multiple news outlets (The Guardian, Bloomberg, The Independent, DW, Yahoo News Canada, BBC, The Telegraph, The Times, SMH, ITVX).",
+      "The alleged plan involved an attack on Nigel Farage, a prominent British politician."
+    ],
+    "timeline": [
+      {
+        "event": "Suspect charged with planning terror act against Nigel Farage",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=402",
+    "featured": true
+  },
+  {
     "id": 401,
     "title": "How FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight",
     "summary": "**Flydubai Flight Diverted After Co‑Pilot Stabs Captain; Passengers Subdue Attacker**",
@@ -33,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=401",
-    "featured": true
+    "featured": false
   },
   {
     "id": 400,

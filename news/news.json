@@ -1,5 +1,31 @@
 [
   {
+    "id": 400,
+    "title": "School protests send shivers down French government's spine",
+    "summary": "**Fires Break Out at French Schools as Student Protests Spread Nationwide, Prompting Closure of 400 Institutions**",
+    "content": "**Fires Break Out at French Schools as Student Protests Spread Nationwide, Prompting Closure of 400 Institutions**\n\nParis – Student‑led demonstrations that began earlier this month have escalated into a series of school fires across France, forcing the Ministry of Education to temporarily shut down 400 schools, officials said.\n\nThe protests, described by the BBC as a nationwide movement involving thousands of pupils, have seen demonstrators occupy school grounds to voice grievances that remain largely unspecified. In several instances, the unrest turned violent, with fires reported at multiple campuses. Emergency services responded quickly; no fatalities have been recorded, but the incidents have heightened anxiety among government and local authorities.\n\nIn response, the Ministry of Education announced the closure of 400 schools—a figure corroborated by Tori News. The closures span urban centres and rural districts and are intended to prevent further damage while investigations into the causes of the blazes are conducted. Officials stressed that the measure, though disruptive, is a precautionary step to protect students, staff and property.\n\nThe unrest arrives at a politically sensitive moment. Radio France Internationale (RFI) noted that the government’s fiscal capacity—its ability to allocate resources and manage public finances—will be a decisive factor in the upcoming presidential election. How authorities handle the school crisis could therefore influence voter perceptions of competence and responsiveness.\n\nCompounding the situation, the BBC reported a backlog of more than 4,000 population permits pending approval. Civic groups have criticised the delay, which, while unrelated to the student demonstrations, underscores broader strains on public services and may affect confidence in governmental efficiency.\n\nAuthorities have pledged to maintain heightened security at educational facilities and to monitor developments closely. No specific timetable has been set for reopening the closed schools; each institution will be assessed individually before normal operations resume. Student leaders have not announced further actions, leaving the future trajectory of the protests uncertain.\n\nThe convergence of student unrest, school fires, extensive closures and administrative bottlenecks presents a multifaceted challenge for the French government. As the nation approaches a pivotal presidential election, the handling of these crises will serve as a litmus test for the administration’s ability to maintain public order, allocate resources effectively and restore public confidence.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-02",
+    "time": "14:12",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Student protests are occurring at French schools (reported by BBC).",
+      "Fires broke out at French schools during nationwide student protests (BBC).",
+      "France closed 400 schools in response to student protests (Tori News).",
+      "There is a backlog of more than 4,000 population permits in France (BBC).",
+      "Spending power is considered a key factor in winning France’s presidential election (RFI)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=400",
+    "featured": true
+  },
+  {
     "id": 399,
     "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
     "summary": "**U.S. Pressures Europe to Release Diesel Reserves, Threatens Export Ban**",
@@ -39,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=399",
-    "featured": true
+    "featured": false
   },
   {
     "id": 398,

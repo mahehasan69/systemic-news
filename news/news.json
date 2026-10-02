@@ -1,5 +1,25 @@
 [
   {
+    "id": 398,
+    "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+    "summary": "**BBC Headline Raises Questions Over Alleged “Crypto Thieves” Attack**",
+    "content": "**BBC Headline Raises Questions Over Alleged “Crypto Thieves” Attack**\n\nA recent BBC headline has drawn attention to a disturbing claim that a man was attacked in his home by individuals described as “crypto thieves.” According to the brief report, the assailants threatened to kill the unborn child of the man’s pregnant wife during what the outlet called a “horrific” robbery.\n\nBeyond the headline, no further information has been released. The story provides no details on the location of the incident, the identities of the victims or alleged perpetrators, the precise sequence of events, or any response from law‑enforcement agencies. The citation accompanying the headline links only to a generic Google News feed and does not include a full article or corroborating sources.\n\nBecause the factual record is limited to the headline, the broader context of the alleged crime remains unclear. No timeline, motive beyond the reference to cryptocurrency‑related theft, or evidence of injuries has been disclosed. Likewise, there is no verified information about any subsequent investigation, arrests, or legal proceedings.\n\nThe lack of substantive details hampers any assessment of the incident’s significance. While the alleged threat to a pregnant woman’s unborn child raises serious concerns about violent crime and the potential exploitation of emerging digital‑currency markets, the absence of corroborated facts prevents a deeper analysis of the impact on public safety, cryptocurrency regulation, or community response.\n\nAt present, no official statements from police, the victims, or other authorities have been made public. The story remains listed among other BBC headlines, awaiting additional reporting that could provide a fuller picture of what transpired, who is involved, and what legal or protective measures may follow.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-02",
+    "time": "01:07",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=398",
+    "featured": true
+  },
+  {
     "id": 397,
     "title": "UK-Iranian dual national arrested over RAF Fairford incident, police say",
     "summary": "**Dual UK‑Iranian National Arrested Over Alleged Security Breach at RAF Fairford**",
@@ -22,7 +42,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=397",
-    "featured": true
+    "featured": false
   },
   {
     "id": 396,

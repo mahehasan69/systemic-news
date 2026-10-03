@@ -1,5 +1,32 @@
 [
   {
+    "id": 406,
+    "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+    "summary": "**Dual UK‑Iranian National Arrested Over Alleged Bomb Plot at RAF Fairford**",
+    "content": "**Dual UK‑Iranian National Arrested Over Alleged Bomb Plot at RAF Fairford**\n\nA dual UK‑Iranian citizen has been arrested on suspicion of planning a bomb attack against RAF Fairford, a United States‑operated military airfield in England. The arrest, reported by outlets including ABC News, The Guardian, the BBC and The Jerusalem Post, has reignited scrutiny of security at U.S. bases on British soil.\n\nAuthorities acted after receiving intelligence that the individual was involved in a scheme to place an explosive device at the airfield. RAF Fairford, which regularly hosts American bomber aircraft and serves as a focal point for U.S.–U.K. defence cooperation, was identified as the target. Following his detention, the suspect was released on bail pending further legal proceedings; the specific bail conditions have not been disclosed.\n\nLaw‑enforcement agencies stress that the bail release does not signal the end of the investigation. A court appearance has been scheduled, at which the suspect will answer to the charges. Investigators are probing the scope of the alleged plot, the source of any materials, and any networks that may have facilitated the planning. The case remains in its early stages and is being handled by UK authorities.\n\nThe incident has heightened concerns about the vulnerability of U.S.‑run installations in the United Kingdom. Although RAF Fairford benefits from robust security protocols, the alleged plot underscores the challenges faced by British and American officials in protecting high‑value sites from hostile actors. Officials have declined to comment on operational details, citing security considerations, but reaffirmed the United Kingdom’s and United States’ commitment to maintaining the highest standards of protection for personnel and assets at the base.\n\nThe forthcoming court hearing will determine whether additional pre‑trial measures—such as stricter bail conditions or further detention—are required. In parallel, security agencies are expected to review protective measures at RAF Fairford and other U.S.‑operated sites across the country. The case may also fuel public debate on the balance between civil liberties and national security within the broader context of counter‑terrorism efforts.\n\nWhile the arrest and bail release have temporarily eased immediate concerns, the ongoing investigation will reveal the full extent of the alleged scheme and its implications for U.K.–U.S. defence collaboration. The matter is likely to remain in the public eye until the courts deliver a verdict and authorities publish a comprehensive assessment of any security shortcomings uncovered during the probe.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-03",
+    "time": "17:46",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A dual UK-Iranian national was arrested in connection with a suspected bomb plot targeting RAF Fairford, a US‑run military base in England.",
+      "The individual was subsequently released on bail.",
+      "Multiple news outlets (ABC News, The Guardian, The Jerusalem Post, BBC, Middle East Monitor, CGTN, Arab News, Oskaloosa Herald, Columbus Ledger‑Enquirer) reported the arrest and bail release."
+    ],
+    "timeline": [
+      "Arrest of dual UK‑Iranian national on suspicion of a bomb plot against RAF Fairford.",
+      "Release of the suspect on bail."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=406",
+    "featured": true
+  },
+  {
     "id": 405,
     "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
     "summary": "**Russia Strikes Second Major Bridge in Kyiv**",
@@ -42,7 +69,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=405",
-    "featured": true
+    "featured": false
   },
   {
     "id": 404,

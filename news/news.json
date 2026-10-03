@@ -1,5 +1,35 @@
 [
   {
+    "id": 404,
+    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+    "summary": "**Flydubai Co‑pilot Attacks Captain with Axe; UAE Declares Terrorist Act**",
+    "content": "**Flydubai Co‑pilot Attacks Captain with Axe; UAE Declares Terrorist Act**\n\nDubai – A Flydubai co‑pilot brandished a crash axe and struck the aircraft’s captain during a flight, forcing the commander to wrestle control of the plane and avert a crash. The United Arab Emirates’ aviation and security ministries have classified the assault as a terrorist act and opened a criminal investigation into the crew member’s motives and background.\n\nUAE officials said the co‑pilot used the axe inside the cockpit, creating an immediate threat to the safety of the aircraft, its passengers and crew. The captain, although injured, managed to regain control of the aircraft and prevent it from crashing. The incident occurred mid‑flight; the airline has not disclosed the flight number or route.\n\nThe episode has been reported by Reuters, the BBC, AP News, The Guardian and Al Jazeera, all confirming the sequence of events. UAE authorities described the attack as a terrorist operation, citing an alleged extremist ideology as the underlying motive. The government’s assessment echoes earlier concerns raised by the Voice of Alexandria, which had previously flagged the co‑pilot for potential extremism. No specific details of the extremist views have been released, but the terrorist designation subjects the co‑pilot to the UAE’s stringent anti‑terrorism statutes, which carry severe penalties.\n\nThe incident highlights vulnerabilities in cockpit security and crew vetting procedures. The UAE’s General Civil Aviation Authority (GCAA) announced a formal investigation to determine how a crew member obtained a crash axe and to assess whether existing screening processes were adequate. Flydubai said it will cooperate fully with the authorities and is expected to review its crew‑screening protocols in light of the attack.\n\nInternational aviation regulators are watching the case closely. The International Civil Aviation Organization (ICAO) has long emphasized robust background checks for flight crew, and the Flydubai incident may prompt a reassessment of those standards, particularly regarding monitoring of extremist affiliations among airline personnel.\n\nInvestigators will examine the flight data recorder, cockpit voice recorder and testimonies from the flight crew. The co‑pilot is likely to face charges under the UAE’s terrorism legislation. Simultaneously, Flydubai is expected to conduct an internal review that could lead to tighter recruitment and monitoring procedures to prevent a recurrence.\n\nBy labeling the assault a terrorist act, the UAE signals a zero‑tolerance stance toward extremist behavior in its air transport sector. The case underscores that threats to aviation safety can arise from within the cockpit as well as from external sources, and it is set to influence policy discussions on crew vetting and cockpit security worldwide.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-03",
+    "time": "08:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "UAE authorities state that a Flydubai co‑pilot used a crash axe to attack the captain in the cockpit",
+      "Multiple reputable outlets (Reuters, BBC, AP News, The Guardian, Al Jazeera) reported the same incident",
+      "UAE officials described the incident as a terrorist act or terrorist attack",
+      "The attack caused the aircraft to nearly crash"
+    ],
+    "timeline": [
+      "Co‑pilot attacks captain with a crash axe during flight",
+      "Captain attempts to control aircraft, leading to a near‑crash situation",
+      "UAE issues official statement labeling the incident a terrorist act",
+      "Media outlets publish reports (Reuters, BBC, AP, Guardian, Al Jazeera, etc.)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=404",
+    "featured": true
+  },
+  {
     "id": 403,
     "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
     "summary": "**G7 to Release Up to 100 Million Barrels of Oil and Diesel After U.S. Pressure**",
@@ -31,7 +61,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=403",
-    "featured": true
+    "featured": false
   },
   {
     "id": 402,

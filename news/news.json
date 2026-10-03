@@ -1,5 +1,39 @@
 [
   {
+    "id": 403,
+    "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+    "summary": "**G7 to Release Up to 100 Million Barrels of Oil and Diesel After U.S. Pressure**",
+    "content": "**G7 to Release Up to 100 Million Barrels of Oil and Diesel After U.S. Pressure**\n\nThe Group of Seven (G7) industrialized nations announced a coordinated drawdown of up to 100 million barrels of oil and diesel from their strategic petroleum reserves. The move, aimed at tempering the recent surge in global fuel prices, came after intensive diplomatic pressure from the United States.\n\nU.S. officials warned that unchecked price inflation could spark broader economic instability and hinted that Washington might consider export restrictions on American fuel supplies if the alliance did not act. Within days, G7 leaders met and publicly confirmed the plan, a development reported by Reuters, the Washington Post, NBC, the Associated Press, Le Monde, Euronews, Politico, The New York Times, Yahoo, and the BBC.\n\n**Objective and Timing**\n\nThe release is intended to boost market supply and, in turn, lower retail gasoline and diesel prices. By making up to 100 million barrels available, the G7 hopes to create a short‑term buffer that can absorb price spikes caused by supply constraints, geopolitical tensions and heightened demand. The exact schedule for the drawdown will be coordinated among member states, with the expectation that a measurable reduction in consumer prices could be seen within weeks.\n\n**Background to the Price Surge**\n\nGlobal fuel prices have risen sharply due to a combination of post‑pandemic demand recovery, supply‑chain disruptions and geopolitical uncertainties that have limited output in major oil‑producing regions. As the world’s largest oil consumer, the United States has been particularly vocal about the need for a collective response to prevent a prolonged price surge.\n\n**A Rare Joint Reserve Action**\n\nEach G7 country maintains its own strategic petroleum reserve for emergency use during supply shocks. The decision to release reserves jointly marks a rare instance of collective reserve management within the group, signalling a unified response to a market condition that transcends national borders.\n\n**Monitoring and Future Steps**\n\nMonitoring mechanisms will be established to track fuel‑price movements after the release. Government agencies and market analysts will assess whether the additional supply translates into lower consumer prices and stabilises market expectations. The G7 has indicated that further releases could be considered if prices remain elevated, providing a flexible tool to address evolving market dynamics.\n\n**Implications**\n\nThe agreement underscores the interconnected nature of modern energy markets and the influence major economies wield over price trajectories. By acting in concert, the G7 aims to mitigate the immediate impact of soaring fuel costs on households and businesses while signaling to producers and traders that demand‑side pressures will be met with coordinated supply‑side responses. Policymakers, industry participants and consumers will be watching closely to see whether the intervention sets a precedent for future collective action in the face of energy‑market turbulence.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-03",
+    "time": "02:30",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "G7 member countries agreed to release up to 100 million barrels of oil and diesel reserves",
+      "The release is intended to help lower soaring fuel prices",
+      "U.S. pressure is cited as a key factor influencing the decision"
+    ],
+    "timeline": [
+      {
+        "event": "U.S. officials signal pressure on G7 to address high fuel prices"
+      },
+      {
+        "event": "G7 leaders convene and announce agreement to release up to 100 million barrels"
+      },
+      {
+        "event": "Public statements released by Reuters, Washington Post, NBC, AP, Le Monde, Euronews, Politico, NYTimes, Yahoo, BBC"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=403",
+    "featured": true
+  },
+  {
     "id": 402,
     "title": "Widdecombe suspect charged with planning terror act against Farage",
     "summary": "**Suspect in Ann Widdecombe murder case charged with planning terrorist attack on Nigel Farage**",
@@ -26,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=402",
-    "featured": true
+    "featured": false
   },
   {
     "id": 401,

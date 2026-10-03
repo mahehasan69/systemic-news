@@ -1,5 +1,43 @@
 [
   {
+    "id": 407,
+    "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+    "summary": "**Tennessee Corrections Chief Resigns After Botched Execution**",
+    "content": "**Tennessee Corrections Chief Resigns After Botched Execution**\n\nFrank Strada, the commissioner of the Tennessee Department of Correction, announced his resignation this week following a failed lethal‑injection execution of inmate Christa Pike. Governor Bill Lee confirmed the departure in a public statement, and the news was reported by CNN, Reuters, the BBC, NBC News, The Washington Post and The Guardian.\n\nThe execution, described by officials as “botched,” did not proceed as intended, raising immediate concerns about the state’s lethal‑injection protocols. Although the exact date of the execution has not been disclosed, the incident has drawn national attention and prompted calls for a review of Tennessee’s capital‑punishment procedures.\n\nIn response, Governor Lee said the prisons chief would step down, and Strada submitted his resignation shortly thereafter. The move signals an acknowledgment of responsibility at the highest level of the state’s correctional system and underscores the political fallout from the mishap.\n\n**Implications and Next Steps**\n\n* **Leadership Gap:** With Strada’s exit, the Department of Correction will operate without a commissioner until a successor is appointed. State officials are expected to fill the vacancy promptly to maintain operational continuity.\n\n* **Investigation:** The botched execution is set to trigger a formal state inquiry. While details of the probe have not been released, it is likely to examine drug selection and handling, staff training, and decision‑making processes that contributed to the failure.\n\n* **Broader Impact:** The incident adds to a growing list of states confronting challenges with lethal‑injection protocols, including drug shortages, legal disputes and ethical debates. By holding the department’s chief accountable, Tennessee’s leadership signals that execution failures will not be tolerated and that systemic reforms may be forthcoming.\n\nStakeholders—including advocacy groups, legal experts and the families of victims and inmates—will be watching the investigation’s findings closely. Recommendations could lead to revised policies, enhanced training programs and stricter oversight of execution procedures.\n\n**Outlook**\n\nThe state is expected to appoint a new commissioner soon, aiming to restore confidence in the Department of Correction’s leadership. The forthcoming investigative report will likely shape future capital‑punishment practices in Tennessee and could influence legislative and judicial scrutiny of execution methods nationwide.\n\nStrada’s resignation marks a pivotal moment for Tennessee’s correctional system, highlighting the high stakes of administering capital punishment and the necessity of rigorous procedural safeguards to maintain public trust.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-03",
+    "time": "20:17",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Frank Strada, head of the Tennessee Department of Correction, announced his resignation.",
+      "Governor Bill Lee publicly stated that the prisons chief is resigning.",
+      "The resignation follows a botched lethal‑injection execution of inmate Christa Pike.",
+      "Multiple news outlets (CNN, Reuters, BBC, NBC News, The Washington Post, The Guardian, etc.) reported the resignation and the failed execution."
+    ],
+    "timeline": [
+      {
+        "event": "Botched lethal‑injection execution of Christa Pike",
+        "date": "not specified in sources"
+      },
+      {
+        "event": "Governor Bill Lee announces that the prisons chief will resign",
+        "date": "not specified in sources"
+      },
+      {
+        "event": "Frank Strada submits resignation as head of the Tennessee Department of Correction",
+        "date": "not specified in sources"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=407",
+    "featured": true
+  },
+  {
     "id": 406,
     "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
     "summary": "**Dual UK‑Iranian National Arrested Over Alleged Bomb Plot at RAF Fairford**",
@@ -24,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=406",
-    "featured": true
+    "featured": false
   },
   {
     "id": 405,

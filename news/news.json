@@ -1,5 +1,50 @@
 [
   {
+    "id": 405,
+    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+    "summary": "**Russia Strikes Second Major Bridge in Kyiv**",
+    "content": "**Russia Strikes Second Major Bridge in Kyiv**\n\nRussian forces launched a drone attack on a second major bridge spanning the Dnipro River in Kyiv, intensifying a pattern of strikes on the city’s critical infrastructure. According to AFP and a range of international outlets—including the BBC, Deutsche Welle, France 24, The Guardian and TRT World—two Russian‑launched drones hit the bridge. Kyiv’s mayor confirmed the assault, describing it as a deliberate strike on a key crossing in the capital.\n\nThe attack comes amid a broader Russian campaign targeting Ukrainian transport links, power grids and communications networks. In the hours that followed, traffic across Kyiv descended into chaos as commuters were forced to seek alternative routes. The Guardian and TRT World reported severe congestion and gridlock, while emergency services and municipal crews began assessing damage and working to restore mobility. The disruption adds to logistical challenges already faced after a previous major bridge in the city was struck earlier in the conflict.\n\nMultiple news agencies corroborated the incident. AFP reported the two‑drone strike; Deutsche Welle and other outlets cited the mayor’s statement confirming the target. The coordinated use of unmanned aerial vehicles aligns with Russia’s broader strategy of damaging Ukrainian infrastructure while limiting exposure of ground forces. The Dnipro River crossing, a vital artery for civilian and commercial traffic, now bears visible damage, though officials have not released an official assessment of its structural integrity.\n\nBeyond immediate traffic woes, the second bridge strike has broader implications. Kyiv’s bridges are essential for the movement of goods, emergency responders and daily commuters; their impairment hampers the city’s resilience and can impede the delivery of humanitarian aid. Repeated targeting underscores a tactical emphasis by Russian forces on undermining Ukraine’s internal cohesion and economic stability. By striking high‑profile infrastructure, the aggressor seeks to amplify psychological pressure on the population and strain local authorities’ capacity to maintain order.\n\nIn response, Kyiv’s municipal government is expected to implement emergency traffic‑management measures, though specific plans have not yet been disclosed. Possible actions include rerouting vehicles, increasing public‑transport frequency and deploying additional personnel to direct flow at alternative crossings. Security services are likely to heighten surveillance of other bridges and critical points to deter further drone incursions.\n\nAnalysts note that the pattern of attacks suggests the possibility of additional strikes on Ukrainian infrastructure in the coming days, a scenario that would require swift coordination between civil‑defence units and emergency responders. The incident serves as a stark reminder of the vulnerability of urban infrastructure in modern warfare. While the immediate impact is felt in traffic disruption and damage to a key river crossing, the broader implications touch on Kyiv’s operational capacity and the resilience of Ukraine’s civil society under sustained pressure. Authorities are now assessing the extent of the damage and working to restore normalcy, highlighting the urgent need for robust protective measures for critical assets amid an escalating conflict.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-03",
+    "time": "14:01",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russian forces attacked a major bridge in Kyiv, Ukraine.",
+      "The bridge attacked is described as the second major bridge hit in the capital.",
+      "The attack was reported by multiple news outlets (BBC, DW, France 24, AOL, Al Arabiya, The Guardian, AFP, TRT World, etc.).",
+      "Kyiv's mayor publicly stated that another major bridge was targeted.",
+      "Two Russian drones were reported to have hit a major bridge in Kyiv (AFP).",
+      "The bridge spans the Dnipro River in Kyiv.",
+      "The attacks caused traffic disruptions and chaos in the city."
+    ],
+    "timeline": [
+      {
+        "event": "First major bridge in Kyiv was struck by Russian forces (implied by \"second\" wording)",
+        "source": "multiple articles"
+      },
+      {
+        "event": "Russian drones struck a second major bridge in Kyiv",
+        "source": "AFP, BBC, DW, France 24, AOL, Al Arabiya, The Guardian, TRT World, etc."
+      },
+      {
+        "event": "Kyiv mayor announced the attack on the second bridge",
+        "source": "DW, AOL"
+      },
+      {
+        "event": "Traffic chaos reported in Kyiv following the bridge strike",
+        "source": "The Guardian, TRT World"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=405",
+    "featured": true
+  },
+  {
     "id": 404,
     "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
     "summary": "**Flydubai Co‑pilot Attacks Captain with Axe; UAE Declares Terrorist Act**",
@@ -27,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=404",
-    "featured": true
+    "featured": false
   },
   {
     "id": 403,

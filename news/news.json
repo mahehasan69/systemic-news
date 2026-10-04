@@ -1,5 +1,49 @@
 [
   {
+    "id": 410,
+    "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
+    "summary": "**UK Courts Backlog and Jury‑Trial Reforms: Conflicting Signals from Westminster**",
+    "content": "**UK Courts Backlog and Jury‑Trial Reforms: Conflicting Signals from Westminster**\n\n*London – A series of legislative moves aimed at easing the chronic backlog in England and Wales’ courts has produced a mixed picture of progress and retreat. While the government has abandoned its original plan to curb the use of juries in certain cases, a related bill has cleared its first parliamentary hurdle, and magistrates have been given new powers to impose longer custodial sentences. The divergent developments have sparked debate across party lines and among civil‑rights groups about the future of the right to trial by jury and the effectiveness of reforms intended to speed up justice.*\n\nThe proposal announced early in 2024 to limit jury trials was intended to reduce the mounting case load that has plagued the courts for years. Justice Minister Alex Norris later reversed course, scrapping the plan and insisting that “court backlogs will continue to fall” because other measures are sufficient. \n\nDespite the U‑turn, a separate piece of legislation – often referred to in the media as the “jury restriction plan” – progressed through Parliament, passing its first legislative hurdle, according to the BBC. The bill’s advancement occurred even as some Labour MPs warned that curtailing jury use could erode a fundamental safeguard of the justice system.\n\nLabour’s stance is not uniform. An AOL report cited a Labour proposal to abolish juries for fraud trials, reflecting a strand within the party that supports targeted reforms. At the same time, Labour MP Jess Phillips described herself as a “victim of courts backlog” after the jury‑trial bill passed its first reading, underscoring the personal and political pressure lawmakers feel from delayed proceedings. The Free Speech Union and other free‑speech advocates have also voiced concerns that any move to limit juries threatens the principle of a fair trial by a panel of peers.\n\nIn parallel with the jury‑related debate, magistrates have been granted new authority to impose longer jail terms, a change also reported by AOL. The expanded sentencing powers are intended to give lower courts greater flexibility and to deter offences that might otherwise contribute to case congestion. The government argues that these measures, together with procedural tweaks, will collectively ease the backlog without the need for sweeping jury reforms.\n\nThe mixed signals have left observers questioning the overall strategy. On one hand, the abandonment of the broad jury‑curbing plan suggests a retreat from a more radical overhaul of trial procedures. On the other, the passage of a related bill and the introduction of tougher sentencing powers indicate that the government remains committed to a multi‑pronged approach to court efficiency. Critics argue that without a clear, consistent policy, the reforms may fall short of delivering the promised reductions in waiting times, while supporters contend that the combination of targeted legislative changes and enhanced magistrate powers offers a pragmatic path forward.\n\nThe jury‑trial bill is slated for further parliamentary debate, where its provisions and potential impact on the right to a jury trial will be scrutinised. Simultaneously, the new magistrates’ sentencing powers will be rolled out, requiring training and guidance to ensure consistent application across jurisdictions. Legal professionals, civil‑rights groups and the wider public will be watching closely to see whether these steps translate into measurable declines in case backlogs and whether they preserve the balance between efficiency and fundamental legal rights.\n\nThe unfolding saga highlights the tension between the urgent need to modernise a strained court system and the enduring commitment to procedural safeguards that underpin public confidence in justice. As the government navigates the next stages of legislative scrutiny and implementation, the ultimate test will be whether the combined reforms can deliver faster resolutions without compromising the core principle of trial by jury.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-04",
+    "time": "15:02",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Multiple sources report that a plan to curb jury trials was scrapped (BBC, ITVX, Belfast Telegraph, Free Speech Union).",
+      "Alex Norris, a government minister, stated that court backlogs will still fall despite the U‑turn on jury trial reforms (The Independent).",
+      "Jess Phillips said she is a ‘victim of courts backlog’ as a jury trial bill passed (The Guardian).",
+      "A Labour proposal to scrap juries for fraud trials was reported (AOL).",
+      "Magistrates have been given new powers to impose longer jail sentences (AOL).",
+      "A jury restriction plan cleared its first legislative hurdle despite dissent within Labour (BBC)."
+    ],
+    "timeline": [
+      {
+        "date": "2024-??-??",
+        "event": "Government announced plan to curb jury trials (proposal)."
+      },
+      {
+        "date": "2024-??-??",
+        "event": "Alex Norris (Justice Minister) announced U‑turn, scrapping the plan."
+      },
+      {
+        "date": "2024-??-??",
+        "event": "Jury restriction plan cleared first parliamentary hurdle (BBC)."
+      },
+      {
+        "date": "2024-??-??",
+        "event": "Jess Phillips comments on backlog as jury trial bill passes (The Guardian)."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=410",
+    "featured": true
+  },
+  {
     "id": 409,
     "title": "Cornell president says university 'must do better' after frat house rape allegations",
     "summary": "**Cornell University President Calls for Reform After “Deeply Disturbing” Alleged Gang Rape**",
@@ -34,7 +78,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=409",
-    "featured": true
+    "featured": false
   },
   {
     "id": 408,

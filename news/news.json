@@ -1,5 +1,42 @@
 [
   {
+    "id": 409,
+    "title": "Cornell president says university 'must do better' after frat house rape allegations",
+    "summary": "**Cornell University President Calls for Reform After “Deeply Disturbing” Alleged Gang Rape**",
+    "content": "**Cornell University President Calls for Reform After “Deeply Disturbing” Alleged Gang Rape**\n\n*NEW YORK —* Cornell University’s president announced Tuesday that the institution “must do better” in handling sexual‑assault allegations, describing a recent case involving a fraternity as “deeply disturbing” and pledging greater transparency in the university’s response.\n\nThe statement was issued in direct response to allegations that members of a campus fraternity participated in a gang‑rape. While Cornell has not released a full account of the incident, the president’s remarks underscore growing criticism that the university’s internal investigative processes have fallen short of expectations for protecting survivors and ensuring accountability.\n\nThe controversy intensified after the Tompkins County district attorney’s office declined to review additional evidence supplied by Cornell Police, a development reported by ABC News. The DA’s decision limits the scope of any further criminal inquiry, leaving the university’s own investigative mechanisms as the primary avenue for addressing the case. Critics view the refusal as a missed opportunity for external oversight, while university officials point to the president’s pledge for increased transparency as a step toward restoring confidence.\n\nStudents, faculty and advocacy groups have taken to social media and campus forums to demand a thorough reassessment of Cornell’s sexual‑assault policies. The president’s acknowledgment of the “deeply disturbing” nature of the alleged crime has been welcomed by some as an admission of institutional failings, but many observers stress that words must be matched by concrete action.\n\nThe incident arrives amid heightened national scrutiny of how colleges handle sexual‑assault complaints. Media outlets ranging from CBS News and Fox News to the BBC, The Globe and Mail, and regional papers such as the Bozeman Daily Chronicle have reported on the case, highlighting the perceived gap between Cornell’s stated commitments and its historical handling of similar allegations.\n\nLooking ahead, Cornell may convene a task force or commission to examine the handling of the alleged assault and recommend policy reforms. Potential changes could include revisions to reporting procedures, survivor‑support services and disciplinary protocols for fraternity members. State or federal authorities could also launch investigations if new evidence emerges or if the university’s response is deemed insufficient.\n\nThe president’s promise of “greater transparency” suggests that additional documentation or findings related to the case may be released, though no specific timeline has been announced. Continued media attention is expected, with outlets that have already covered the story likely to follow up on any new disclosures or policy shifts.\n\nBy publicly acknowledging shortcomings and vowing to improve, Cornell’s leadership signals an awareness of the stakes involved—for the individuals directly affected and for the broader campus community’s trust in its governance. Whether the promised transparency translates into substantive reforms will be the key measure of the university’s ability to meet the demands of survivors, regulators and the public.\n\nIn sum, Cornell University stands at a crossroads: the institution must convert its stated commitment to “do better” into actionable changes that restore confidence in its handling of sexual‑assault allegations. The next steps—whether internal policy overhauls, external investigations or the release of additional information—will determine how the university navigates the fallout from a case that has already drawn national attention and sparked renewed dialogue on campus safety.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-04",
+    "time": "09:17",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Cornell University president publicly stated the university \"must do better\" on handling sexual assault allegations",
+      "The president described the alleged gang rape as \"deeply disturbing\"",
+      "The president pledged greater transparency in the university's response",
+      "Multiple news outlets (CBS News, FOX 5 NY, Fox News, BBC, Syracuse.com, New York Post, The Economic Times, The Globe and Mail, Bozeman Daily Chronicle) reported the president's statements",
+      "The statements were made in response to allegations of a fraternity gang rape at Cornell University",
+      "Tompkins County District Attorney's office declined to review additional material provided by Cornell Police Department regarding the alleged gang rape, as reported by ABC News"
+    ],
+    "timeline": [
+      {
+        "event": "President issues statement that university \"must do better\" on handling sexual assault allegations"
+      },
+      {
+        "event": "President calls alleged gang rape \"deeply disturbing\" and pledges greater transparency"
+      },
+      {
+        "event": "Tompkins County DA's office declines to review additional material from Cornell Police Department"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=409",
+    "featured": true
+  },
+  {
     "id": 408,
     "title": "Tories pledge to scrap £100,000 childcare 'cliff edge'",
     "summary": "**Conservatives to Abolish £100,000 Childcare “Cliff Edge” and Discuss Funding Through Public‑Sector Cuts**",
@@ -29,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=408",
-    "featured": true
+    "featured": false
   },
   {
     "id": 407,

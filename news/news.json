@@ -1,5 +1,54 @@
 [
   {
+    "id": 411,
+    "title": "Green Party members back 'Zionism is racism' motion",
+    "summary": "**Green Party adopts “Zionism is racism” motion, calls for single‑state solution**",
+    "content": "**Green Party adopts “Zionism is racism” motion, calls for single‑state solution**\n\nThe Green Party of England and Wales has formally adopted a resolution that labels Zionism a form of racism and endorses the creation of a single, unitary Palestinian state. The motion, titled “Zionism is racism,” was passed after a several‑hour debate at the party’s recent national conference and was reported by the BBC, The Independent and Novara Media.\n\nThe resolution marks the first time the Greens have taken an explicit stance on the Israeli‑Palestinian conflict. According to *inkl*, English Greens backed the motion following an intense discussion, and *Ynetnews* confirmed that the vote was taken by the party’s membership as a whole. The adopted text condemns Zionism as a racist ideology and identifies a single‑state solution for Palestine as the preferred way forward.\n\nSupporters argue that the motion reflects the party’s broader commitment to anti‑racism and human‑rights principles. Within the Green Party’s left‑wing, the decision was welcomed as a step toward a more consistent foreign‑policy platform. Former Labour leader Jeremy Polanski told the BBC that the Greens’ stance could “move Labour in the right direction,” suggesting the resolution may influence the larger centre‑left party ahead of upcoming elections.\n\nCritics have denounced the motion as hostile toward Israel. *Ynetnews* reported that a prominent Jewish leader announced an intention to abstain from the vote, citing concerns that the resolution effectively endorses the destruction of the Israeli state. *The Telegraph* further alleged that the policy could be interpreted as legitimising terrorism—a charge the Greens have rejected but which underscores the contentious nature of the debate in UK politics. The passage of the motion has therefore sparked a broader discussion about the limits of free speech, anti‑Zionism and anti‑racism within party politics.\n\nBy equating Zionism with racism, the Greens have positioned themselves at odds with mainstream UK parties that have traditionally avoided such characterisations. The move may pressure Labour to clarify its own position on the Israeli‑Palestinian issue as it seeks to attract progressive voters increasingly vocal about Palestinian rights. At the same time, the resolution could provoke backlash from pro‑Israel groups and Jewish organisations, potentially affecting the Greens’ electoral prospects and coalition‑building efforts.\n\nThe party intends to incorporate the motion into its official policy platform for the next election cycle. Party officials say the resolution will shape future foreign‑affairs statements, and the Greens are likely to face continued scrutiny from both supporters and opponents. The abstention by the Jewish leader, as reported by *Ynetnews*, suggests further dialogue with Jewish communities may be forthcoming, while the criticism from *The Telegraph* hints at possible legal or regulatory challenges concerning the party’s classification of Zionism.\n\nIn sum, the Green Party’s adoption of the “Zionism is racism” motion represents a decisive, if polarising, shift in its foreign‑policy orientation. By aligning itself with a single‑state solution for Palestine, the party has entered a fraught arena of international politics, drawing praise from pro‑Palestinian activists and condemnation from those who view the stance as antagonistic toward Israel. The episode underscores the growing salience of the Israeli‑Palestinian conflict within UK party politics and sets the stage for further debate as the Greens move to translate the motion into concrete policy actions.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-04",
+    "time": "18:52",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Green Party (UK) recognises Zionism as a form of racism (Middle East Eye)",
+      "Green Party members backed a motion titled “Zionism is racism” (BBC)",
+      "Green Party members passed the “Zionism is racism” motion (The Independent)",
+      "Greens passed the motion at their party conference (Novara Media)",
+      "English Greens backed the motion after intense debate (inkl)",
+      "UK Greens voted on the motion (Ynetnews)",
+      "Polanski said Greens can move Labour in the right direction (BBC)"
+    ],
+    "timeline": [
+      {
+        "event": "Green Party members back “Zionism is racism” motion",
+        "source": "bbc.co.uk"
+      },
+      {
+        "event": "Green Party members pass the motion",
+        "source": "The Independent"
+      },
+      {
+        "event": "Greens pass motion at party conference",
+        "source": "Novara Media"
+      },
+      {
+        "event": "English Greens back motion after debate",
+        "source": "inkl"
+      },
+      {
+        "event": "Critics say motion backs Israel’s destruction; Jewish leader to abstain",
+        "source": "Ynetnews"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=411",
+    "featured": true
+  },
+  {
     "id": 410,
     "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
     "summary": "**UK Courts Backlog and Jury‑Trial Reforms: Conflicting Signals from Westminster**",
@@ -41,7 +90,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=410",
-    "featured": true
+    "featured": false
   },
   {
     "id": 409,

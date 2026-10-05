@@ -1,5 +1,42 @@
 [
   {
+    "id": 415,
+    "title": "King's funding for Andrew not to be used for legal action against police",
+    "summary": "**King Charles Declines to Fund Prince Andrew’s Legal Challenge Against Metropolitan Police**",
+    "content": "**King Charles Declines to Fund Prince Andrew’s Legal Challenge Against Metropolitan Police**\n\nLondon – King Charles III has confirmed that the royal household will not provide financial support for Prince Andrew’s lawsuit against the Metropolitan Police. The decision, confirmed by a palace source and reported by the BBC, The Times, The Independent, Sky News, The Telegraph, People.com, Town & Country, AOL and The News International, means the former duke must secure alternative funding for the case.\n\nThe dispute originates from a police operation earlier this year in which officers executed search warrants at Prince Andrew’s residences and subsequently arrested him. The duke has since filed a legal challenge contesting the validity of those warrants and the circumstances of his arrest. While the exact dates of the arrest, the filing of the claim and the king’s statement have not been disclosed, the sequence is clear: the police action prompted the legal challenge, and the monarch’s refusal to fund it follows.\n\nIn a public statement, King Charles emphasized that neither personal nor sovereign resources will be allocated to cover Prince Andrew’s legal expenses. A palace source, speaking on condition of anonymity, said the decision draws a firm line between the king’s private finances and the legal matters of his brother.\n\nThe immediate consequence is that Prince Andrew must now look beyond the royal family for the resources required to pursue the case. Legal proceedings of this nature are costly, and without royal backing the duke will need to engage private counsel, seek fundraising, or explore other means to meet the financial demands of the court process. The stance also signals to other members of the royal family that financial support for legal disputes will not be assumed, potentially prompting further clarifications from senior royals.\n\nBeyond the immediate financial implications, the king’s refusal carries broader significance for public perception of the monarchy’s handling of internal legal challenges. By separating the royal purse from Prince Andrew’s lawsuit, the palace appears to be addressing criticism that public or sovereign funds are used to shield members of the family from legal accountability. The move underscores growing expectations that the monarchy demonstrate fiscal responsibility and transparency, especially in high‑profile cases that attract intense media scrutiny.\n\nThe legal claim is set to proceed through the courts, with hearings scheduled to examine the legitimacy of the police search warrants and the circumstances surrounding the arrest. Observers will watch for any further comments from the royal household, including whether other family members might offer assistance or whether the duke will secure external funding. The outcome could influence how future legal actions involving senior royals are financed and managed.\n\nIn sum, King Charles III’s explicit refusal to fund Prince Andrew’s legal challenge marks a decisive moment in the unfolding saga. It places the onus on the duke to find the necessary resources to contest the police actions that led to his arrest, while reinforcing a clear delineation between royal finances and personal legal matters. The development highlights the delicate balance the monarchy must maintain between supporting its members and meeting public expectations of accountability—a balance that will be tested further as the case moves through the judicial system.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-05",
+    "time": "22:59",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Prince Andrew (Andrew Mountbatten-Windsor) is pursuing legal action against police over search warrants and his arrest",
+      "King Charles III has stated he will not provide funding for Prince Andrew's legal action",
+      "The refusal of funding was confirmed by a palace source and reported by multiple news outlets (People.com, Town & Country Magazine, BBC, AOL, The Times, The Independent, Sky News, Telegraph, The News International)"
+    ],
+    "timeline": [
+      {
+        "event": "Prince Andrew arrested following police search warrants",
+        "date": null
+      },
+      {
+        "event": "Prince Andrew files legal action against police over the search warrants",
+        "date": null
+      },
+      {
+        "event": "King Charles III publicly states he will not fund the legal action",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=415",
+    "featured": true
+  },
+  {
     "id": 414,
     "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
     "summary": "**UK Prime Minister’s Office Declares RAF Fairford Safe After US Aircraft Withdrawn**",
@@ -37,7 +74,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=414",
-    "featured": true
+    "featured": false
   },
   {
     "id": 413,

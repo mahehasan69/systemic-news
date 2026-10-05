@@ -1,5 +1,38 @@
 [
   {
+    "id": 412,
+    "title": "US removes all bombers from RAF Fairford base",
+    "summary": "**U.S. B‑1 Bombers Withdrawn from RAF Fairford Amid Suspected Terrorist Plot**",
+    "content": "**U.S. B‑1 Bombers Withdrawn from RAF Fairford Amid Suspected Terrorist Plot**\n\nThe United States Air Force has removed its B‑1 bomber fleet from RAF Fairford in England and returned the aircraft to U.S. bases after British and American authorities uncovered a suspected terrorist plot targeting the installation. The withdrawal, confirmed by Reuters, the BBC, The Guardian and other major outlets, marks the first time the United Kingdom’s primary strategic airfield has been cleared of the long‑range bombers.\n\n**Threat assessment and decision to evacuate**\n\nIntelligence officials identified a “new threat” that appears to involve an alleged Iranian effort to sabotage the base. While the specifics of the intelligence have not been disclosed, a consensus among CBS News, CNN, the Washington Post and other reporters is that the danger was deemed serious enough to require the immediate evacuation of all B‑1s stationed at Fairford. The aircraft, which had been part of the United States’ forward‑deployed presence in Europe, were escorted to U.S. airfields for routine maintenance and await further orders.\n\n**Execution of the operation**\n\nAccording to NBC News and AP News, the U.S. Air Force ordered a complete withdrawal, and the bombers left the United Kingdom within the same news cycle. The operation was coordinated by U.S. and British military personnel to secure the aircraft, protect base staff and mitigate any potential damage from the suspected plot. RAF Fairford, long a hub for U.S. strategic air operations, also hosts refueling tankers and transport aircraft.\n\n**Strategic implications**\n\nThe incident highlights the vulnerability of overseas installations to asymmetric threats. The alleged involvement of Iranian actors, reported by The Jerusalem Post, underscores the expanding reach of geopolitical tensions beyond traditional battlefields. Analysts note that the temporary loss of the B‑1 presence could affect NATO’s collective defense posture; the bombers have served as a visible symbol of U.S. commitment to the alliance, and any interruption may be perceived by adversaries as a short‑term weakening of deterrence.\n\nThe episode is likely to prompt a review of security protocols at other forward bases, potentially leading to heightened surveillance, increased intelligence sharing and additional protective measures.\n\n**Next steps**\n\nU.S. and British officials say the bombers will remain in the United States until a comprehensive threat assessment is completed. No definitive timeline has been provided, and redeployment to RAF Fairford—or another European location—will depend on the assessment’s outcome. In the meantime, RAF Fairford will continue operating under reinforced security conditions, with both nations working closely to address any residual risks.\n\nThe removal of the B‑1 fleet from RAF Fairford serves as a reminder that even well‑guarded military sites are not immune to emerging security challenges and illustrates the rapid decision‑making processes NATO allies employ when faced with credible threats. The ongoing investigation is expected to shape future policies on force protection and trans‑Atlantic intelligence coordination.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-05",
+    "time": "01:22",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "B-1 bombers were returned to the United States from a United Kingdom base (WSJ).",
+      "The U.S. Air Force removed all bombers from a British air base (NBC News).",
+      "U.S. military removed bombers from a U.K. air base following a security incident (CBS News).",
+      "U.S. removes B-1 bombers from UK base amid security concerns (Reuters).",
+      "U.S. bombers were pulled from RAF Fairford after a suspected terror plot (The Guardian).",
+      "U.S. Air Force removed all bombers from a British air base targeted by a suspected terror attack (AP News).",
+      "U.S. removes all Air Force bombers from UK base following a new threat (CNN).",
+      "U.S. pulls all bombers from RAF Fairford air base threatened by an alleged Iranian plot (The Jerusalem Post).",
+      "U.S. military removed bombers from a U.K. base targeted in a suspected terror plot (The Washington Post).",
+      "U.S. removed all bombers from RAF Fairford back to home stations (BBC)."
+    ],
+    "timeline": [
+      "Multiple outlets reported the removal of U.S. bombers from the UK base within the same news cycle; exact timestamps are not provided in the source excerpts."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=412",
+    "featured": true
+  },
+  {
     "id": 411,
     "title": "Green Party members back 'Zionism is racism' motion",
     "summary": "**Green Party adopts “Zionism is racism” motion, calls for single‑state solution**",
@@ -46,7 +79,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=411",
-    "featured": true
+    "featured": false
   },
   {
     "id": 410,

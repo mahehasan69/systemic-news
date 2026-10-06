@@ -1,5 +1,31 @@
 [
   {
+    "id": 416,
+    "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+    "summary": "**U.S. Pulls Bombers from RAF Fairford Citing Threat**",
+    "content": "**U.S. Pulls Bombers from RAF Fairford Citing Threat**\n\nWashington – President Donald Trump announced that a security threat prompted the United States to withdraw its bomber fleet from RAF Fairford, the Royal Air Force base in Gloucestershire that has long hosted American strategic aircraft. The White House confirmed the decision after intelligence indicated a possible Iranian‑linked danger, described in several reports as a planned drone attack.\n\nSpeaking to reporters, Trump said the move was taken “because of a threat” and emphasized that the safety of the aircraft and personnel was the primary consideration. The administration did not disclose further details about the nature of the threat.\n\nThe United Kingdom’s prime minister, speaking from Downing Street, reassured the public that RAF Fairford remains a secure and fully operational facility. He highlighted the continued cooperation between the United States and Britain on defence matters and noted that the base’s infrastructure and staff are not at risk.\n\nMultiple news outlets—including the BBC, The Independent, ABC News, Time, The Wall Street Journal, Al Jazeera, Anadolu Ajansı and The Guardian—identified Iran as the source of the concern, citing an alleged drone‑attack plot as the catalyst for the U.S. decision.\n\nAnalysts noted that RAF Fairford has served as a key staging point for U.S. bomber operations in Europe, and its temporary emptying reflects a shift in the risk calculus of American military planners. The episode underscores how quickly forward‑deployed forces can be repositioned in response to emerging intelligence and highlights the importance of transparent communication between allied partners.\n\nCoverage of the withdrawal spanned a broad spectrum of media. The BBC and The Guardian focused on the diplomatic implications, while Yahoo and NewsCord examined the operational impact of removing the bombers from a forward‑deployed location. ABC News and Time placed the incident within the context of rising tensions with Iran, and The Wall Street Journal and Al Jazeera analysed it as part of a pattern of heightened security alerts in the region. Anadolu Ajansı reported on reactions within NATO.\n\nBoth Washington and London said the situation will continue to be monitored closely. No timetable has been provided for the bombers’ possible return, but officials stressed that the decision was driven solely by the identified threat and that normal operations could resume once the risk is deemed mitigated. The prime minister added that the base remains ready to host allied aircraft should the strategic environment change.\n\nThe withdrawal of U.S. bombers from RAF Fairford illustrates the delicate balance of maintaining forward‑deployed forces in a volatile security landscape and reinforces the need for ongoing vigilance among transatlantic allies.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-06",
+    "time": "02:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United States withdrew bombers from RAF Fairford in the United Kingdom.",
+      "President Donald Trump said the withdrawal was prompted by a threat.",
+      "Multiple outlets describe the threat as linked to Iran (e.g., Iranian drone attack).",
+      "The UK Prime Minister (referred to as No 10) stated that RAF Fairford remains safe after the withdrawal.",
+      "The event was reported by several news organizations including BBC, Yahoo, The Independent, NewsCord, ABC News, Time, WSJ, Al Jazeera, Anadolu Ajansı, and The Guardian."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=416",
+    "featured": true
+  },
+  {
     "id": 415,
     "title": "King's funding for Andrew not to be used for legal action against police",
     "summary": "**King Charles Declines to Fund Prince Andrew’s Legal Challenge Against Metropolitan Police**",
@@ -34,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=415",
-    "featured": true
+    "featured": false
   },
   {
     "id": 414,

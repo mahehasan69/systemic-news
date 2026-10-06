@@ -1,5 +1,42 @@
 [
   {
+    "id": 417,
+    "title": "Author and former politician Jeffrey Archer dies aged 86",
+    "summary": "**Jeffrey Archer, Best‑Selling Novelist and Former Conservative MP, Dies at 86**",
+    "content": "**Jeffrey Archer, Best‑Selling Novelist and Former Conservative MP, Dies at 86**\n\nJeffrey Archer, the former Conservative Party Member of Parliament and author of more than 300 million copies of fiction worldwide, died peacefully at the age of 86, media outlets reported this week. The announcement arrived just hours before the scheduled publication of his final novel, prompting an outpouring of tributes and raising questions about the book’s marketing strategy.\n\nArcher’s career bridged politics and literature. After serving as an MP for the United Kingdom’s Conservative Party, he turned to writing and achieved extraordinary commercial success. His “Kane & Abel” series, among other titles, placed him at the forefront of popular fiction and cemented his reputation as one of Britain’s most prolific contemporary authors.\n\nThe circumstances of his death were described by several news organisations as sudden yet peaceful. While the exact date of the announcement was not disclosed, the news broke simultaneously across multiple outlets. The timing coincided with the revelation that Archer’s final manuscript was slated for release the following day, a detail that has drawn particular attention from publishers and fans.\n\nArcher’s public life was not without controversy. In the 1990s he was convicted of perjury and served a prison sentence, a chapter repeatedly referenced in biographical accounts. Despite that setback, he rebuilt his reputation through a steady output of novels that resonated with a broad readership. The contrast between his political downfall and literary triumph has long been a point of discussion among commentators, underscoring the complexity of his legacy.\n\nThe immediate impact of his death is evident in the volume of media tributes, which highlight both his parliamentary service and his contributions to popular fiction. Industry observers note that the loss of its author may affect promotional activities that would have involved Archer’s personal appearances and interviews. Nevertheless, publishers have confirmed that the final book will proceed to market as scheduled. Statements from HarperCollins and other rights holders are expected regarding the management of his literary estate.\n\nThe posthumous launch will serve as a capstone to a career that spanned Westminster’s corridors and the shelves of bookstores worldwide. Publishers are anticipated to comment on royalties, rights and any charitable allocations tied to the estate. The release will also give readers an opportunity to reflect on the breadth of Archer’s storytelling—from the intricate power struggles of “Kane & Abel” to the themes that defined his later works.\n\nJeffrey Archer’s death marks the conclusion of a public life that combined political ambition, legal controversy and literary achievement. While his final novel will arrive without his direct involvement, the enduring popularity of his work ensures that his influence will persist in both the political and cultural spheres. The forthcoming publication, together with the tributes already circulating, offers a final testament to a figure whose name has become synonymous with bestselling storytelling and a resilient, if turbulent, public persona.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-06",
+    "time": "09:31",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jeffrey Archer died at age 86",
+      "He was a former Conservative Party MP/politician in the United Kingdom",
+      "He was a bestselling British novelist, author of the \"Kane & Abel\" series",
+      "His books have sold approximately 300 million copies worldwide",
+      "He had previously been convicted of perjury and served jail time",
+      "His death was described as sudden and peaceful by multiple outlets",
+      "He died shortly before the scheduled release of his final book"
+    ],
+    "timeline": [
+      {
+        "event": "Death of Jeffrey Archer reported across multiple news outlets",
+        "date": "unknown"
+      },
+      {
+        "event": "Announcement that his final book was due for release the next day",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=417",
+    "featured": true
+  },
+  {
     "id": 416,
     "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
     "summary": "**U.S. Pulls Bombers from RAF Fairford Citing Threat**",
@@ -23,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=416",
-    "featured": true
+    "featured": false
   },
   {
     "id": 415,

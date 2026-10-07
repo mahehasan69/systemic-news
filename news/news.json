@@ -1,5 +1,43 @@
 [
   {
+    "id": 421,
+    "title": "What we know about Christa Pike’s ‘unprecedented' recovery",
+    "summary": "**Tennessee Death‑Row Inmate Awakens After Botched Execution Attempt**",
+    "content": "**Tennessee Death‑Row Inmate Awakens After Botched Execution Attempt**\n\nChrista Pike, a death‑row inmate in Tennessee, survived a lethal‑injection attempt that left her fully conscious and speaking within hours of the procedure. The incident, which involved the state’s standard two‑drug protocol, has ignited a wave of media coverage and renewed scrutiny of lethal‑injection practices nationwide.\n\n**Execution attempt and immediate aftermath**\n\nThe execution was carried out using the two‑drug regimen that many states employ: a sedative intended to induce rapid unconsciousness followed by a second drug to cause cardiac arrest. Within a short period after the drugs were administered, prison officials reported that Pike was alert, able to speak, and aware of her surroundings. Medical staff confirmed her wakefulness and verbal responsiveness within hours of the attempt.\n\nThe unusual outcome was quickly reported by major outlets, including the BBC, USA Today and Nashville’s WSMV. Their stories, published roughly a week after the event, described Pike’s recovery as “medically unprecedented,” noting that such a result is virtually unheard of in modern U.S. capital‑punishment cases.\n\n**What went wrong**\n\nAuthorities have identified a breakdown in the lethal‑injection protocol as the cause of the failure, though they have not disclosed the specific technical malfunction. The two‑drug sequence, while standard in many jurisdictions, did not produce the expected cascade of physiological effects. Physicians and forensic experts cited in the coverage said the drugs failed to induce the intended unconsciousness, leaving Pike fully aware throughout the process. The incident highlights gaps in the medical community’s understanding of how certain drug combinations behave under execution conditions, especially when variables such as dosage, drug quality, or administration technique deviate from the norm.\n\n**Legal and policy ramifications**\n\nThe case is already prompting reactions from legal scholars, civil‑rights groups and correction officials. Experts suggest that Pike’s survival could fuel new appeals and trigger a comprehensive review of execution procedures across the United States. The episode adds to a growing list of high‑profile botched executions that have led courts to examine the constitutionality of lethal injection under the Eighth Amendment’s prohibition of cruel and unusual punishment.\n\nWhile no specific legal filings have been made public, Pike’s attorneys are expected to seek a stay of execution and to challenge Tennessee’s capital‑punishment protocols on the grounds of the botched attempt. Such motions could become a focal point in ongoing debates over the death penalty’s implementation.\n\n**Next steps**\n\nState officials have indicated that they will convene a panel to investigate the failure and to recommend safeguards designed to prevent a recurrence. The outcome of that review, as well as any forthcoming court actions, could influence policy not only in Tennessee but also in other jurisdictions that rely on similar drug regimens.\n\nChrista Pike’s survival after an execution that left her conscious and speaking has thrust a previously obscure procedural flaw into the national spotlight. The incident underscores the fragile intersection of law, medicine and ethics in the administration of the death penalty and may catalyze substantive changes to execution protocols across the United States.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-07",
+    "time": "07:48",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Christa Pike is a Tennessee death‑row inmate.",
+      "An execution attempt on Pike involved two lethal‑injection drugs.",
+      "Pike was reported to be awake, conscious and speaking after the failed execution.",
+      "Multiple news outlets (BBC, USA Today, WSMV) reported her recovery as medically unprecedented."
+    ],
+    "timeline": [
+      {
+        "event": "Execution attempt with two lethal injections",
+        "date": "unknown"
+      },
+      {
+        "event": "Pike reported awake and speaking",
+        "date": "within hours after attempt"
+      },
+      {
+        "event": "Media reports of her condition (nearly a week later)",
+        "date": "approximately 7 days after attempt"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=421",
+    "featured": true
+  },
+  {
     "id": 420,
     "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
     "summary": "**Tennessee Death‑Row Inmate Survives Botched Execution Attempt**",
@@ -36,7 +74,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=420",
-    "featured": true
+    "featured": false
   },
   {
     "id": 419,

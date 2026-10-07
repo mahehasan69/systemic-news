@@ -1,5 +1,44 @@
 [
   {
+    "id": 420,
+    "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+    "summary": "**Tennessee Death‑Row Inmate Survives Botched Execution Attempt**",
+    "content": "**Tennessee Death‑Row Inmate Survives Botched Execution Attempt**\n\nChrista Pike, a death‑row prisoner in Tennessee, survived an execution attempt that officials say failed. Within hours of the procedure, her attorneys reported that she was conscious, awake and able to speak. A week later, Al Jazeera confirmed that Pike remained verbally responsive, indicating that the failure was not a brief anomaly but a sustained condition.\n\nThe exact date of the attempted execution has not been disclosed. Media outlets across the United States and abroad—including PBS, the BBC, Al Jazeera, The Guardian, DW.com, WZTV, NewsNation, Axios, WVLT and KCTV—have cited statements from Pike’s lawyers confirming her condition. No official explanation has been offered regarding why the lethal‑injection protocol failed, and the specific technical or procedural cause remains unknown.\n\nLegal representatives have been the primary source of information about Pike’s status, contradicting the expectation that a lethal injection would result in immediate death. Their accounts, echoed throughout the coverage, underscore that Pike was not only alive but also responsive after the botched attempt.\n\nThe incident has intensified scrutiny of Tennessee’s capital‑punishment system. While no immediate legal actions have been reported, the survival of a condemned inmate is likely to trigger reviews of the state’s execution procedures and could influence pending or future litigation concerning lethal‑injection methods. The breadth of coverage—spanning domestic and international news organizations—suggests the case may shape broader debates about the reliability and ethics of the death penalty in the United States.\n\nBeyond confirming Pike’s status as a Tennessee death‑row inmate, the reports provide no additional background on her conviction, the crime for which she was sentenced, or prior appeals. The focus remains squarely on the failed execution and its aftermath.\n\nState officials have not announced a timeline for a possible rescheduled execution, nor have they detailed the steps that will be taken to investigate the failure. The lack of a disclosed cause means that any corrective measures—whether procedural revisions, equipment checks or policy changes—have yet to be announced. Observers will be watching for statements from the Tennessee Department of Correction, the governor’s office and the courts to determine how the state intends to proceed.\n\nIn sum, the botched execution of Christa Pike—leaving an inmate conscious, awake and speaking for at least a week after the attempt—has become a focal point for media coverage and legal commentary. The episode highlights the complexities of carrying out capital punishment and raises questions about the safeguards intended to ensure that such procedures are executed as planned. The next steps taken by Tennessee authorities will be closely monitored by both domestic and international audiences.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-07",
+    "time": "01:05",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Christa Pike is a death‑row inmate in Tennessee, USA.",
+      "An execution attempt on Christa Pike failed.",
+      "Following the failed execution, Pike was reported to be conscious, awake, and able to speak.",
+      "Multiple attorneys and lawyers for Pike made the statements about her condition.",
+      "Reports from PBS, BBC, Al Jazeera, The Guardian, DW.com, WZTV, NewsNation, Axios, WVLT, and KCTV all convey the same information."
+    ],
+    "timeline": [
+      {
+        "event": "Failed execution attempt on Christa Pike",
+        "time": "Date not specified in sources"
+      },
+      {
+        "event": "Pike reported conscious, awake, and speaking shortly after the attempt",
+        "time": "Within hours to days after the attempt (multiple sources)"
+      },
+      {
+        "event": "Pike still speaking one week after the failed execution",
+        "time": "One week after the attempt (Al Jazeera report)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=420",
+    "featured": true
+  },
+  {
     "id": 419,
     "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
     "summary": "**Police Raid Targets Alleged Scheme to Fake Gay Identities for UK Asylum**",
@@ -44,7 +83,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=419",
-    "featured": true
+    "featured": false
   },
   {
     "id": 418,

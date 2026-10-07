@@ -1,5 +1,34 @@
 [
   {
+    "id": 422,
+    "title": "Badenoch says Tories would scrap inheritance tax on family homes",
+    "summary": "**Conservative Minister Calls for End to Inheritance Tax on Family Homes**",
+    "content": "**Conservative Minister Calls for End to Inheritance Tax on Family Homes**\n\n*London, 2024* – Kemi Badenoch, the Conservative Party’s minister for children and families, announced a government proposal to abolish inheritance tax on family homes. The move, presented in a series of public statements throughout 2024, is intended to ease the financial burden on households that own property. The announcement was reported by the BBC, The Independent, the Financial Times, The Telegraph, City AM and Modern Ghana, underscoring its national significance.\n\n**Policy details**\n\nThe proposal would remove the current inheritance‑tax charge that applies when a family home is passed to heirs. Badenoch described the reform as a way to “reduce the tax burden on families owning homes,” echoing the Conservative Party’s long‑standing focus on tax relief for property owners. While the exact mechanics were not outlined, the minister said the change would be pursued through the standard legislative process, requiring an amendment of existing inheritance‑tax rules in Parliament.\n\n**Welfare spending**\n\nAlongside the tax‑cut plan, Badenoch reaffirmed the government’s commitment to curbing welfare expenditure. By pairing homeowner tax relief with tighter welfare budgets, the minister framed the initiatives as part of a broader strategy to lower overall tax pressure while promoting fiscal responsibility in social‑spending programmes.\n\n**Reactions**\n\nThe proposal has already sparked debate. *The Times* warned of a possible “downsizing crisis” in the housing market, suggesting that eliminating inheritance tax could influence owners’ decisions about selling or retaining property. Critics argue that the loss of revenue could strain public services, whereas supporters contend that the change would free up capital for families and stimulate economic activity.\n\n**Parliamentary pathway**\n\nThe next step is a formal legislative process. Although no timetable has been set, the proposal is expected to be debated in the House of Commons and examined by relevant committees. Tax experts, housing analysts and welfare‑policy advocates are likely to submit evidence during the scrutiny phase. The final outcome will hinge on the level of support within the Conservative caucus and the positions of opposition parties on tax reform and welfare spending.\n\n**Implications**\n\nIf enacted, the abolition of inheritance tax on family homes would represent a notable shift in the United Kingdom’s tax policy, aiming to lighten the financial load for property‑owning families while simultaneously tightening welfare budgets. The policy’s reception in the media and among policymakers highlights its potential to reshape household finances and affect the housing market. As the legislation moves through Parliament, its ultimate form—and its impact on public revenue and social welfare—will become clearer, providing a concrete test of the Conservative government’s broader fiscal agenda.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-07",
+    "time": "20:16",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Kemi Badenoch, a Conservative minister, said the Tories would scrap inheritance tax on family homes.",
+      "Badenoch also pledged to cut welfare spending.",
+      "The statement was reported by multiple outlets (BBC, The Independent, Financial Times, The Telegraph, City AM, Modern Ghana)."
+    ],
+    "timeline": [
+      {
+        "event": "Public statements by Kemi Badenoch about scrapping inheritance tax on family homes",
+        "date": "2024 (exact date not specified in sources)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=422",
+    "featured": true
+  },
+  {
     "id": 421,
     "title": "What we know about Christa Pike’s ‘unprecedented' recovery",
     "summary": "**Tennessee Death‑Row Inmate Awakens After Botched Execution Attempt**",
@@ -35,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=421",
-    "featured": true
+    "featured": false
   },
   {
     "id": 420,

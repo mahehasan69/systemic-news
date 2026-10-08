@@ -1,5 +1,52 @@
 [
   {
+    "id": 426,
+    "title": "Watch: What does the ruling mean for the investigation into the former prince?",
+    "summary": "**High Court Quashes Police Search Warrants Used in Prince Andrew Raid**",
+    "content": "**High Court Quashes Police Search Warrants Used in Prince Andrew Raid**\n\nLondon – The High Court has ruled that the search warrants authorising Thames Valley Police to raid the homes of Prince Andrew, Duke of York, were unlawful and has formally nullified them. Thames Valley Police subsequently confirmed the illegality of the warrants, marking a rare judicial rebuke of a police operation involving a senior member of the British royal family.\n\nThe case began when police executed searches of the duke’s residences under warrants that Prince Andrew contested on the grounds that they had been improperly issued. In a detailed judgment, the court identified procedural and legal deficiencies in the warrant‑issuing process, concluding that the documents did not satisfy the legal standards required for a search of private premises. While the precise nature of the errors has not been disclosed, the ruling makes clear that the warrants were invalid from the outset.\n\nThames Valley Police promptly acknowledged the court’s finding, publicly stating that the warrants had been unlawful. The admission underscores a breach of established protocols and highlights the necessity of strict adherence to legal procedures, even in high‑profile investigations.\n\nPrince Andrew’s victory arrives amid intense public and governmental scrutiny of his personal associations, most notably his relationship with the late financier Jeffrey Epstein. The controversy has already prompted the UK government to consider whether the duke should be removed from the line of succession. The court’s decision adds a new dimension to that debate, as the unlawful nature of the police action may shape perceptions of both the prince’s conduct and the state’s handling of the matter.\n\nThe ruling carries broader implications. For law‑enforcement agencies, the admission of an unlawful warrant raises questions about oversight and accountability in operations involving prominent individuals. For the monarchy, the episode intensifies calls for transparency and could accelerate discussions about the duke’s future role within the royal hierarchy. It also reinforces the principle that legal safeguards apply uniformly, regardless of status, reaffirming the rule of law in the United Kingdom.\n\nLooking ahead, the government is expected to decide whether to remove Prince Andrew from the line of succession—a move with both constitutional and symbolic significance. Parallel investigations may target the officials responsible for authorising the flawed warrants, as authorities seek to address the procedural shortcomings identified by the court. Both developments are likely to attract close scrutiny from the public and the media.\n\nIn sum, the High Court’s determination that the search warrants were unlawful, coupled with Thames Valley Police’s admission, represents a decisive legal win for Prince Andrew and a notable instance of judicial intervention in a royal‑related police operation. The outcome not only vindicates the duke’s challenge but also fuels ongoing deliberations about his place in the succession and underscores the necessity for rigorous legal compliance in policing. Subsequent government decisions and any disciplinary actions against police officials will shape the longer‑term narrative on accountability, royal privilege and the integrity of the UK’s legal institutions.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-08",
+    "time": "20:18",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The High Court ruled that the search warrants used to search Prince Andrew's homes were unlawful.",
+      "Thames Valley Police admitted that the search warrants were unlawful.",
+      "Prince Andrew (Andrew Mountbatten‑Windsor) won a legal challenge against the police search warrants.",
+      "The court quashed the unlawful search warrants.",
+      "The UK government is considering removing Prince Andrew from the line of succession because of his ties to Jeffrey Epstein."
+    ],
+    "timeline": [
+      {
+        "date": null,
+        "event": "Police conducted searches of Prince Andrew's homes using warrants."
+      },
+      {
+        "date": null,
+        "event": "Prince Andrew filed a legal challenge against the warrants."
+      },
+      {
+        "date": null,
+        "event": "High Court ruled the warrants unlawful and quashed them."
+      },
+      {
+        "date": null,
+        "event": "Thames Valley Police publicly admitted the warrants were unlawful."
+      },
+      {
+        "date": null,
+        "event": "UK government began consideration of removing Prince Andrew from the line of succession."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=426",
+    "featured": true
+  },
+  {
     "id": 425,
     "title": "Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears",
     "summary": "**Court Quashes Search Warrants Issued to Prince Andrew’s Properties, Police Admit They Were Unlawful**",
@@ -59,7 +106,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=425",
-    "featured": true
+    "featured": false
   },
   {
     "id": 424,

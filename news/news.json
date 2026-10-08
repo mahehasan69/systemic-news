@@ -1,5 +1,51 @@
 [
   {
+    "id": 423,
+    "title": "Christa Pike 'angry and confused' after failed execution, lawyers say",
+    "summary": "**Tennessee Death‑Row Inmate Survives Botched Execution; Court Orders Preservation of Evidence**",
+    "content": "**Tennessee Death‑Row Inmate Survives Botched Execution; Court Orders Preservation of Evidence**\n\nChrista Pike, a Tennessee death‑row inmate, survived a failed execution attempt that left her with significant physical impairment and emotional distress. Attorneys who visited Pike in the hospital described her as “angry and confused,” a sentiment echoed by several lawyers who later appeared before a Tennessee judge to address the fallout.\n\nThe execution, whose exact date has not been disclosed, was halted when Pike regained consciousness in an intensive‑care unit. At the time, she could not move her arms and was on the verge of being taken off life support. Medical staff intervened, preventing her death, but the incident left her with lingering limitations in her upper limbs and a profound sense of bewilderment, according to her counsel.\n\nIn the days following her recovery, Pike’s attorneys filed motions seeking accountability and clarification of the events that led to the botched execution. In response, the presiding judge issued an order requiring the state to preserve all evidence related to the attempt, including drug protocols, equipment logs, surveillance footage, and any other relevant documentation. The preservation directive signals the court’s intent to examine whether statutory or constitutional violations occurred during the procedure.\n\nWhile officials have not publicly detailed the precise cause of the failure, the incident adds to a growing list of high‑profile execution mishaps that have spurred legal challenges and calls for reform. Critics argue that the case highlights systemic weaknesses in lethal‑injection protocols, raising questions about drug availability, equipment reliability, and staff training within the Tennessee Department of Corrections.\n\nAdvocacy groups and legal scholars are likely to cite Pike’s experience as evidence of broader flaws in capital‑punishment practices. The judge’s order may prompt a thorough investigation that could uncover procedural lapses, shortages of execution drugs, or deficiencies in correctional‑facility training.\n\nLooking ahead, additional court hearings are expected. Pike’s lawyers are expected to pursue further relief, potentially including a stay of execution, compensation for her medical injuries, or broader reforms to the state’s execution procedures. State officials have indicated they will comply with the evidence‑preservation directive, which could lead to expert testimony, forensic analysis, and the creation of a public record of the botched attempt.\n\nPike remains under medical observation as doctors monitor her recovery and address the persistent impairment of her arms. Her case underscores the human cost when execution methods fail and raises urgent questions about the adequacy of safeguards designed to prevent suffering during state‑sanctioned death. As the legal process unfolds, the preserved evidence will be pivotal in determining accountability and shaping the future of capital punishment in Tennessee and across the United States.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-08",
+    "time": "00:31",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Christa Pike survived a failed execution attempt in Tennessee",
+      "She was described as \"angry and confused\" by multiple lawyers and attorneys",
+      "Lawyers appeared before a Tennessee judge following the failed execution",
+      "A judge ordered Tennessee to preserve evidence related to the failed execution"
+    ],
+    "timeline": [
+      {
+        "event": "Failed execution attempt on Christa Pike",
+        "date": "unknown"
+      },
+      {
+        "event": "Pike regained consciousness in a hospital, unable to move arms",
+        "date": "unknown"
+      },
+      {
+        "event": "Lawyers described her as angry and confused",
+        "date": "unknown"
+      },
+      {
+        "event": "Lawyers appeared before a Tennessee judge",
+        "date": "unknown"
+      },
+      {
+        "event": "Judge ordered preservation of execution evidence",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=423",
+    "featured": true
+  },
+  {
     "id": 422,
     "title": "Badenoch says Tories would scrap inheritance tax on family homes",
     "summary": "**Conservative Minister Calls for End to Inheritance Tax on Family Homes**",
@@ -26,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=422",
-    "featured": true
+    "featured": false
   },
   {
     "id": 421,

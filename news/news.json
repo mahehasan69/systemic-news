@@ -1,5 +1,67 @@
 [
   {
+    "id": 425,
+    "title": "Police accept Andrew Mountbatten-Windsor search warrants were unlawful, court hears",
+    "summary": "**Court Quashes Search Warrants Issued to Prince Andrew’s Properties, Police Admit They Were Unlawful**",
+    "content": "**Court Quashes Search Warrants Issued to Prince Andrew’s Properties, Police Admit They Were Unlawful**\n\nThames Valley Police have formally acknowledged that the search warrants issued for properties owned by Prince Andrew, the Duke of York, were unlawful. A court hearing later this week confirmed the police’s admission and formally quashed the warrants, while ordering that the investigation into alleged misconduct continue.\n\nThe case, reported by the BBC, ABC News, The Journal, RTE.ie, Chester’s Dee Radio and The Sun, centered on the legality of the warrants. During the proceedings Thames Valley Police conceded that the warrants failed to meet the statutory requirements for issuance – notably, the lack of sufficient probable cause and proper judicial authorization. The judge agreed, declaring the warrants invalid and directing that any evidence obtained under them be excluded.\n\nThe warrants were part of a probe into alleged wrongdoing by Prince Andrew, whose full name is Andrew Mountbatten‑Windsor. While the specific allegations have not been disclosed, the police had believed a search of his residences was necessary to secure evidence. With the warrants now void, investigators must reassess their strategy and obtain new authorisations that satisfy the legal thresholds identified by the court.\n\nThames Valley Police, which covers the royal residences and estates linked to Prince Andrew, typically seeks judicial approval for high‑profile investigations to balance privacy rights against the public interest. The force’s admission of unlawfulness underscores the difficulties law‑enforcement agencies face when navigating complex legal frameworks, especially in cases involving members of the royal family. It also reflects a broader trend toward greater transparency and accountability, as police actions are increasingly scrutinised by both the media and the courts.\n\nLegal experts note that the quashing of the warrants does not amount to exoneration. Rather, it obliges investigators to pursue alternative, legally sound avenues for gathering evidence. The ruling may prompt a review of warrant‑issuing protocols across the United Kingdom, setting a precedent for how police handle similar procedural errors.\n\nThames Valley Police have indicated that further investigative steps will be taken, though details remain undisclosed. The force is expected to seek fresh judicial authorisations and to employ forensic, financial and interview‑based techniques that comply with established legal standards. The continuation of the probe signals that authorities remain committed to determining whether any wrongdoing occurred and that the matter remains a subject of public concern, with potential implications for the reputation of the monarchy and any institutions implicated by the inquiry.\n\nIn sum, the court’s decision and the police’s admission highlight the critical importance of rigorous legal compliance in high‑profile investigations. While the inquiry into Prince Andrew’s alleged misconduct proceeds, the episode serves as a reminder that even powerful individuals are subject to the rule of law and that procedural integrity is essential to maintaining public confidence in law‑enforcement agencies.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-08",
+    "time": "14:06",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Thames Valley Police accepted that the search warrants for Andrew Mountbatten-Windsor's properties were unlawful.",
+      "A court hearing addressed the lawfulness of the warrants.",
+      "The court ruled the warrants unlawful and quashed them.",
+      "The investigation into Prince Andrew will continue despite the warrants being ruled unlawful."
+    ],
+    "timeline": [
+      {
+        "event": "Court hearing on the lawfulness of the search warrants",
+        "date": null,
+        "source": [
+          "BBC",
+          "ABC News",
+          "The Journal",
+          "RTE.ie",
+          "Chester's Dee Radio",
+          "The Sun"
+        ]
+      },
+      {
+        "event": "Thames Valley Police formally acknowledge the warrants were unlawful",
+        "date": null,
+        "source": [
+          "BBC",
+          "ABC News",
+          "The Journal",
+          "RTE.ie",
+          "Chester's Dee Radio",
+          "The Sun"
+        ]
+      },
+      {
+        "event": "Court quashes the search warrants and orders the investigation to continue",
+        "date": null,
+        "source": [
+          "BBC",
+          "ABC News",
+          "The Journal",
+          "RTE.ie",
+          "Chester's Dee Radio",
+          "The Sun"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=425",
+    "featured": true
+  },
+  {
     "id": 424,
     "title": "Burnham to hold security talks with German chancellor in Berlin",
     "summary": "**UK‑Germany Security Partnership to Counter Sabotage and Cyber‑Attacks**",
@@ -53,7 +115,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=424",
-    "featured": true
+    "featured": false
   },
   {
     "id": 423,

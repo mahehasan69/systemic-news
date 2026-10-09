@@ -1,5 +1,42 @@
 [
   {
+    "id": 429,
+    "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
+    "summary": "**Green Party Leader Zack Polanski Vows to Remain at the Helm After By‑Election Defeat**",
+    "content": "**Green Party Leader Zack Polanski Vows to Remain at the Helm After By‑Election Defeat**\n\nLondon – Green Party leader Zack Polanski announced on Thursday that he will continue in his role despite the party’s loss in the Holborn and St Pancras by‑election. The contest, held in the central London constituency, saw Labour retain the seat, denying the Greens a potential breakthrough.\n\nThe result was reported by the BBC, Reuters, the Evening Standard and other outlets. Labour’s victory, backed by Prime Minister Jonathan Burnham’s government, was described by political analysts as a “London election test” for the opposition. Election tallies released by the BBC, NewsCord and Daily Sabah confirmed the margin, underscoring Labour’s continued dominance in the capital.\n\nIn a press statement, Polanski framed the setback as a single moment in a broader movement, saying the Green cause is “bigger than one election.” He also addressed a separate controversy within the party, noting that he would not have supported a motion on Zionism that had sparked internal debate. The remarks were echoed in coverage by Yahoo, the National Scot and the Evening Standard and were intended to steady party morale after the loss.\n\nThe defeat arrives amid growing criticism of Polanski’s leadership. The i Paper highlighted internal divisions and a perceived leadership crisis, pointing to disagreements over policy positions such as the Zionism motion. Party insiders have linked these fissures to recent electoral performance, with the Holborn and St Pancras result serving as a tangible indicator of the challenges the Greens face as they seek to expand their parliamentary presence.\n\nBeyond the immediate seat, Labour’s ability to hold the constituency reinforces the party’s strength in London, a region often viewed as a bellwether for national trends. For the Greens, the loss curtails an opportunity to increase their representation and amplifies concerns about strategic direction, messaging and internal cohesion ahead of upcoming local and national contests.\n\nParty officials are expected to convene internal meetings to review leadership, campaign tactics, policy priorities and member engagement. The outcome of those deliberations will shape the Greens’ capacity to present a united front and to capitalize on the environmental and social issues central to their platform.\n\nPolanski’s decision to stay on reflects both personal commitment to the Green movement and an acknowledgement of the party’s current vulnerabilities. While the Greens retain a foothold in British politics, the episode highlights the delicate balance between leadership stability and the need for internal reform. How the party navigates this crossroads will determine whether it can translate its broader environmental agenda into tangible electoral gains in the months ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-09",
+    "time": "13:55",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Zack Polanski is the leader of the Green Party in the United Kingdom.",
+      "Polanski publicly stated he will remain as Green leader despite criticism.",
+      "Polanski lost the Holborn and St Pancras by‑election to a Labour Party candidate.",
+      "The by‑election took place in the Holborn and St Pancras constituency in London, United Kingdom.",
+      "Labour Party held the seat, preventing a Green gain.",
+      "UK Prime Minister (PM) Burnham’s Labour Party fended off the Greens in a London election test.",
+      "Polanski said the Green movement is \"bigger than one election\" after the loss.",
+      "Polanski said he would not have voted for a Zionism motion.",
+      "The i Paper reported internal division and a leadership crisis within the Greens."
+    ],
+    "timeline": [
+      "Polanski vows to stay on as Green leader (reported by Yahoo, BBC, Evening Standard, National Scot).",
+      "By‑election held in Holborn and St Pancras (reported by Evening Standard, BBC, NewsCord, Daily Sabah).",
+      "Labour candidate wins the by‑election, defeating Polanski (multiple sources).",
+      "Polanski comments that the Green movement is bigger than one election (National Scot).",
+      "Polanski states he would not have voted for a Zionism motion (BBC).",
+      "Burnham’s Labour holds off Greens in a broader London election test (Reuters, Daily Sabah)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=429",
+    "featured": true
+  },
+  {
     "id": 428,
     "title": "Trump Says U.S. Will Not Strike Iran Again Before Midterms as Military Draws Up New Plans",
     "summary": "**Trump Rules Out Pre‑Midterm Iran Strike as Pentagon Mulls Three‑Day Contingency Plan**",
@@ -55,7 +92,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=428",
-    "featured": true
+    "featured": false
   },
   {
     "id": 427,

@@ -1,5 +1,31 @@
 [
   {
+    "id": 430,
+    "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    "summary": "**Trump Announces Deal with Putin to Supply Russian Diesel to U.S. and Global Markets**",
+    "content": "**Trump Announces Deal with Putin to Supply Russian Diesel to U.S. and Global Markets**\n\n*Washington, Oct. 9, 2026* – Former President Donald Trump unveiled a commercial agreement with Russian President Vladimir Putin to import Russian diesel fuel for the United States and other international markets. The announcement, reported by a consortium of outlets that includes *The New York Times*, the BBC, Anadolu Ajansı, NewsCord, Yahoo, UkrMedia News and AOL.com, marks a rare direct energy transaction between the two nations amid heightened geopolitical tension.\n\nTrump framed the deal as a pragmatic response to sharply rising diesel prices that have burdened American consumers and businesses. He said the United States needs “stable, affordable fuel supplies” and that the agreement is intended to address “market realities.” No details on the volume of diesel, pricing terms or delivery schedule were disclosed; Trump indicated that relevant U.S. agencies would provide further information.\n\nUkrainian President Volodymyr Zelenskyy reacted sharply, calling the arrangement a “gift to Putin” and an “investment in war.” His condemnation highlights the diplomatic friction the deal has already generated between Washington and Kyiv, both of which have coordinated sanctions against Russia since its invasion of Ukraine. The United Kingdom, while not a party to the transaction, reiterated its commitment to maintain pressure on Moscow, signaling allied wariness of any engagement that could ease Russia’s economic isolation.\n\nThe agreement emerges against a backdrop of extensive sanctions targeting Russian energy exports. Since the conflict began, the United States and European partners have restricted Russian oil and gas sales to diminish Moscow’s war‑financing capabilities. Diesel, a refined product that is sometimes exempt from broader crude‑oil bans, occupies a legal gray area. Analysts expect the Treasury’s Office of Foreign Assets Control (OFAC) to issue statements clarifying whether the import arrangement complies with existing sanctions.\n\nCritics argue that importing Russian diesel could undermine the sanctions regime by providing Russia with hard currency that may be redirected to its military. Supporters contend that the deal could ease domestic inflationary pressures, lower logistics costs and reduce reliance on more expensive alternatives, thereby benefiting American consumers and the transportation sector. The debate reflects a broader tension between economic pragmatism and geopolitical principle.\n\nIn the coming days the United States is expected to release official comments on how the deal aligns with current sanctions policy. Ukrainian officials are likely to issue further diplomatic responses, seeking assurances that the arrangement will not contravene the sanctions imposed by Kyiv and its allies. Allied nations, including the United Kingdom, may also articulate their positions, either reinforcing pressure on Russia or reassessing the impact of the U.S. initiative on collective strategies.\n\nThe episode underscores the complex interplay of energy markets, domestic political pressures and international security considerations. As policymakers weigh the immediate need to curb high diesel costs against the broader implications of engaging economically with a sanctioned nation, the outcome of the deal will be closely monitored by industry stakeholders and the global media.\n\n**Key takeaway:** Trump’s announced diesel import deal with Russia aims to mitigate rising fuel prices but has sparked diplomatic controversy, drawing criticism from Ukraine, reaffirmed pressure from the United Kingdom, and likely scrutiny from U.S. sanctions authorities. The next phase will hinge on official government clarifications and allied reactions, shaping the intersection of energy security and geopolitical strategy in a volatile global environment.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-09",
+    "time": "23:39",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump announced a deal with Russian President Vladimir Putin to import Russian diesel fuel.",
+      "The deal is reported by multiple outlets including The New York Times, BBC, Anadolu Ajansı, NewsCord, Yahoo, UkrMedia News, and AOL.com.",
+      "Ukrainian President Volodymyr Zelenskyy publicly criticized the deal, calling it a \"gift to Putin\" and an \"investment in war\".",
+      "The United Kingdom pledged to maintain pressure on Russia following the announcement.",
+      "The announcement was framed as a response to high diesel fuel prices."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=430",
+    "featured": true
+  },
+  {
     "id": 429,
     "title": "Polanski vows to stay on as Green leader as he faces criticism after by-election defeat",
     "summary": "**Green Party Leader Zack Polanski Vows to Remain at the Helm After By‑Election Defeat**",
@@ -34,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=429",
-    "featured": true
+    "featured": false
   },
   {
     "id": 428,

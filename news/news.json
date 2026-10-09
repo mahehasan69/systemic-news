@@ -1,5 +1,42 @@
 [
   {
+    "id": 427,
+    "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+    "summary": "**Pentagon Announces Firing‑Squad Execution of Fort Hood Shooter, to Be Livestreamed**",
+    "content": "**Pentagon Announces Firing‑Squad Execution of Fort Hood Shooter, to Be Livestreamed**\n\nThe U.S. Department of Defense confirmed Tuesday that Nidal Malik Hasan, the former Army psychiatrist who carried out the 2009 Fort Hood mass shooting, will be executed by firing squad. The execution will be livestreamed to the public, marking the first use of a firing‑squad sentence by the U.S. military in roughly six decades.\n\nOn April 2, 2009, Hasan opened fire on the Army base in Texas, killing 13 service members and wounding dozens more. After a trial, conviction and a series of appeals, the Pentagon affirmed the firing‑squad method—last employed by the armed forces in the early 1960s. While a specific execution date has not been released, officials said the event will be scheduled in the near future and the livestream will be made available through official channels, though the exact platforms have not been identified.\n\nFiring squads have historically been authorized under the Uniform Code of Military Justice for certain offenses, but the practice fell out of favor after the mid‑20th century. Contemporary U.S. executions, both civilian and military, have relied primarily on lethal injection. Hasan’s case therefore represents a notable departure from current protocols.\n\nThe decision to broadcast the execution is presented by the Pentagon as an effort to increase transparency around the death‑penalty process. Proponents argue that a public feed can address curiosity and concerns about how capital punishment is administered. Critics, however, question the impact of such a broadcast on victims’ families, the broader public, and the ethical implications of turning a state‑sanctioned killing into a televised event.\n\nThe Department of Defense will finalize the execution date and coordinate the technical aspects of the livestream. Standard procedures for a military firing‑squad execution involve a team of shooters, a blindfolded condemned individual and protocols designed to ensure a swift, humane death. The broadcast is expected to be accompanied by official statements outlining the legal and procedural framework governing the execution.\n\nHasan’s forthcoming execution revives a long‑standing, though rarely used, method of military capital punishment and underscores ongoing debates about the role of the death penalty in the United States. As the nation awaits the scheduled date, the case serves as a stark reminder of the lasting impact of the Fort Hood tragedy and the complex legal and moral questions that continue to surround state‑ordered executions.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-09",
+    "time": "00:45",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The U.S. Department of Defense announced that the execution of Nidal Malik Hasan will be carried out by firing squad.",
+      "The Pentagon stated the execution will be livestreamed to the public.",
+      "Nidal Malik Hasan was the shooter at Fort Hood who killed 13 people.",
+      "The execution will be the first U.S. military firing‑squad execution in roughly 60 years.",
+      "Multiple news outlets (BBC, Al Jazeera, Yahoo, AOL, San Antonio Express‑News) reported the same information."
+    ],
+    "timeline": [
+      {
+        "event": "Fort Hood shooting",
+        "date": "April 2, 2009",
+        "description": "Nidal Malik Hasan opened fire at Fort Hood, Texas, killing 13 people."
+      },
+      {
+        "event": "Pentagon announcement of execution method",
+        "date": "2024 (reported in 2024 articles)",
+        "description": "Pentagon announced Hasan will be executed by firing squad and the execution will be livestreamed."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=427",
+    "featured": true
+  },
+  {
     "id": 426,
     "title": "Watch: What does the ruling mean for the investigation into the former prince?",
     "summary": "**High Court Quashes Police Search Warrants Used in Prince Andrew Raid**",
@@ -44,7 +81,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=426",
-    "featured": true
+    "featured": false
   },
   {
     "id": 425,

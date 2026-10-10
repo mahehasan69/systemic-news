@@ -1,5 +1,36 @@
 [
   {
+    "id": 435,
+    "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+    "summary": "**Missile Strike on Riyadh Airport Leaves at Least 12 Dead, 300 Injured**",
+    "content": "**Missile Strike on Riyadh Airport Leaves at Least 12 Dead, 300 Injured**\n\nRiyadh’s King Khalid International Airport was hit by a missile on [date not specified], killing at least 12 people and wounding more than 300. Saudi officials confirmed the attack and ordered an immediate shutdown of the facility, halting all arrivals and departures.\n\nThe projectile struck the airport’s terminal area after being launched from an undisclosed location. Emergency responders rushed to the scene, and hospitals across Riyadh and neighboring regions treated dozens of victims with shrapnel and blast‑related injuries. The Wall Street Journal reported that the airport was closed without delay, underscoring the severity of the incident and the threat to public safety.\n\nSaudi authorities identified Yemen’s Houthi movement as the perpetrator. While the exact launch point and missile type have not been disclosed, the attribution aligns with a pattern of Houthi operations that have previously targeted Saudi air and ground assets. The Houthi rebels, backed by Iran, have conducted missile and drone attacks against Saudi Arabia since the escalation of the Yemeni civil war in 2015.\n\nThe strike comes amid heightened regional tension. Riyadh’s airports serve as critical hubs for civilian travel and military logistics, making them high‑value targets in the broader contest for influence on the Arabian Peninsula. The temporary closure of the capital’s main gateway is expected to disrupt air traffic for thousands of passengers and cargo shipments, with ripple effects on the Saudi economy, tourism, and international trade.\n\nInternational observers warned that such high‑profile attacks could spur further escalation and draw additional regional actors into the conflict. Israeli outlet Ynetnews cited reports that U.S. President Donald Trump was considering participation in Saudi‑led strikes against Houthi positions, though no formal decision has been announced. The prospect of direct American involvement signals a potential widening of the hostilities and raises questions about future U.S. engagement in the Gulf.\n\nSaudi officials said a thorough investigation into the attack’s origins will be conducted and that security measures at all major transport hubs will be reinforced. The airport is expected to reopen once safety assessments are completed, though a precise timeline has not been provided. Diplomatic channels are likely to see increased activity as Riyadh seeks international support and evaluates possible retaliatory options. The United States, balancing strategic interests and alliance commitments, may clarify its stance in the coming days, influencing the next phase of the Saudi‑Houthi confrontation.\n\nThe missile strike on Riyadh’s main airport highlights the vulnerability of civilian infrastructure in conflict zones and the human cost of regional power struggles. With dozens dead, hundreds injured, and a key transportation hub rendered inoperable, the incident underscores the urgent need for de‑escalation mechanisms and a durable political solution to the Yemeni war. As Saudi Arabia mounts its humanitarian response, the international community watches closely to see whether the attack will trigger broader escalation or prompt renewed diplomatic efforts to contain the violence.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-10",
+    "time": "23:01",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A missile attack targeted Riyadh airport in Saudi Arabia",
+      "The attack was attributed to Yemen's Houthi forces",
+      "Saudi authorities confirmed at least 12 people were killed",
+      "Saudi authorities confirmed more than 300 people were injured",
+      "The airport was closed following the attack"
+    ],
+    "timeline": [
+      "Attack on Riyadh airport (date not specified in sources)",
+      "Immediate closure of Riyadh airport reported by WSJ",
+      "Saudi authorities released casualty figures",
+      "Subsequent political commentary about possible U.S. involvement reported by Ynetnews"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=435",
+    "featured": true
+  },
+  {
     "id": 434,
     "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
     "summary": "**Trump‑Russia Diesel Deal Triggers Diplomatic Outcry and Military Escalation**",
@@ -54,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=434",
-    "featured": true
+    "featured": false
   },
   {
     "id": 433,

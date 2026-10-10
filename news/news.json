@@ -1,5 +1,62 @@
 [
   {
+    "id": 434,
+    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "summary": "**Trump‑Russia Diesel Deal Triggers Diplomatic Outcry and Military Escalation**",
+    "content": "**Trump‑Russia Diesel Deal Triggers Diplomatic Outcry and Military Escalation**\n\n*Washington* – Former President Donald Trump announced a bilateral agreement with Russia to purchase diesel at reduced prices, a move he framed as a means to lower fuel costs for American consumers. The announcement, made in a press statement and reported by *The Washington Post*, immediately drew sharp criticism from Kyiv and U.S. lawmakers.\n\nUkrainian President Volodymyr Zelensky denounced the pact as “a gift to Russia,” a sentiment echoed by the BBC and *The Times*. In the same period, Trump suggested in an interview that Ukraine “should get a new president,” a comment covered by the BBC, *The Sydney Morning Herald*, ITVX and Yahoo. Democratic members of Congress seized on both remarks, arguing that the deal undermines Western support for Kyiv and compromises U.S. policy toward Russian aggression.\n\nWithin days of the announcement, Russian forces launched a series of strikes against Ukrainian territory. Zelensky described the attacks as a “thank you” for the diesel purchase; the incidents were reported by *The Guardian*. While the specific targets were not disclosed, the timing suggests a direct link to the newly announced agreement.\n\nUkraine responded with a retaliatory strike on the Rostov oil terminal in Russia, documented by NewsCord. The operation marked the first known attack on Russian oil infrastructure directly tied to the diesel deal, underscoring how quickly an economic arrangement can translate into kinetic action on the battlefield.\n\nAnalysts note that the pact, intended to address domestic fuel prices, has become a flashpoint in the broader Russia‑Ukraine conflict. The episode illustrates the fragile interplay between energy policy and security in a region already destabilised by war. U.S. Democrats are using the controversy to question Trump’s foreign‑policy judgment, while Ukrainian officials say they will continue targeting Russian logistical assets deemed critical to Moscow’s war effort. Russian officials have not publicly responded to the strike on the Rostov terminal.\n\nIn Washington, congressional committees are expected to hold hearings on the diesel agreement. Lawmakers plan to examine its legality, its impact on U.S. sanctions, and the broader implications for NATO cohesion.\n\nThe incident serves as a stark reminder that commercial energy deals can carry profound geopolitical consequences. As the United States grapples with domestic pressure to curb fuel prices, the Trump‑Russia diesel pact highlights the delicate balance between economic relief and the risk of inflaming an already volatile conflict. Further diplomatic scrutiny and potential military actions are likely in the weeks ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-10",
+    "time": "19:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump announced a diesel deal with Russia",
+      "Ukrainian President Volodymyr Zelensky condemned the diesel deal",
+      "Zelensky described the deal as a \"gift to Russia\"",
+      "Trump said Ukraine should get a new president",
+      "Russian strikes hit Ukraine after the diesel deal was announced",
+      "Ukraine attacked the Rostov oil terminal after the diesel deal"
+    ],
+    "timeline": [
+      {
+        "event": "Trump announces diesel deal with Russia to lower prices",
+        "source": "The Washington Post"
+      },
+      {
+        "event": "Zelensky condemns the diesel deal and calls it a gift to Russia",
+        "sources": [
+          "BBC",
+          "The Times",
+          "BBC"
+        ]
+      },
+      {
+        "event": "Trump says Ukraine should get a new president",
+        "sources": [
+          "BBC",
+          "SMH.com.au",
+          "ITVX",
+          "Yahoo"
+        ]
+      },
+      {
+        "event": "Russian strikes hit Ukraine, described by Zelensky as \"thanks\" for the diesel deal",
+        "source": "The Guardian"
+      },
+      {
+        "event": "Ukraine attacks Rostov oil terminal after the diesel deal",
+        "source": "NewsCord"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=434",
+    "featured": true
+  },
+  {
     "id": 433,
     "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
     "summary": "**Tennessee Death‑Row Inmate Survives Botched Lethal‑Injection Attempt; State Halts Executions and Prison Chief Resigns**",
@@ -60,7 +117,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=433",
-    "featured": true
+    "featured": false
   },
   {
     "id": 432,

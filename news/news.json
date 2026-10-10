@@ -1,5 +1,68 @@
 [
   {
+    "id": 433,
+    "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+    "summary": "**Tennessee Death‑Row Inmate Survives Botched Lethal‑Injection Attempt; State Halts Executions and Prison Chief Resigns**",
+    "content": "**Tennessee Death‑Row Inmate Survives Botched Lethal‑Injection Attempt; State Halts Executions and Prison Chief Resigns**\n\nChrista Pike, a Tennessee inmate on death row, survived a failed lethal‑injection execution that left her unconscious, on a ventilator and subsequently hospitalized. The botched procedure has triggered a series of legal and administrative responses, including a court order to preserve all related evidence, a statewide suspension of pending executions, and the resignation of the state’s prison chief.\n\nThe execution attempt—whose exact date has not been disclosed—went awry when the lethal‑injection protocol malfunctioned. Pike was rendered unconscious and immediately placed on a ventilator. Her attorneys confirmed that she remained unconscious throughout her hospital stay and did not regain consciousness after the procedure. After an unspecified period of intensive care, a judge ordered Tennessee to retain all evidence connected to the failed execution, ensuring that the incident can be examined in future legal proceedings.\n\nFollowing her hospitalization, Pike was discharged and transferred to a rehabilitation center for continued care. Details about the length of her stay or the specific nature of her rehabilitation have not been released.\n\nIn the wake of the incident, the governor‑appointed prison chief announced his resignation, underscoring the administrative fallout from the botched execution. The resignation is expected to prompt reforms within the state’s correctional system aimed at preventing similar mishaps.\n\nLegally, the case has revived discussion of a Supreme Court precedent concerning execution protocols and inmate rights. While the specific case was not identified in reports, the precedent could influence whether Pike may face execution again. The preservation of evidence ordered by the judge will be pivotal to any appellate review or new litigation.\n\nTennessee has also suspended all upcoming executions, effectively halting its capital‑punishment schedule until the underlying procedural issues are addressed. The pause reflects concerns about the reliability of lethal‑injection drugs and the safeguards needed to avoid future failures, and it may have broader implications for other jurisdictions that use similar methods.\n\nLooking ahead, Pike’s case is likely to generate further legal scrutiny as courts evaluate the procedural deficiencies that led to the botched injection. Her ongoing rehabilitation will continue to be monitored, though no timeline for her release from the rehabilitation center has been provided. The resignation of the prison chief may lead to additional administrative reforms within the state’s correctional system.\n\nThe incident serves as a stark reminder of the complexities and risks inherent in capital‑punishment protocols. As Tennessee grapples with the aftermath, the case is poised to influence national conversations about the ethics, legality and practicality of lethal injection as an execution method.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-10",
+    "time": "15:37",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Christa Pike, a Tennessee death row inmate, survived a botched lethal injection execution attempt.",
+      "After the failed execution she was unconscious and placed on a ventilator.",
+      "Her lawyers said she remained unconscious and on a ventilator following the incident.",
+      "A lawyer for Pike stated she has not regained consciousness since the failed execution.",
+      "She was later discharged from the hospital and transferred to a rehabilitation center.",
+      "A judge ordered the state to preserve evidence related to the failed execution.",
+      "Tennessee cancelled further executions after the incident.",
+      "The Tennessee prison chief announced resignation following the botched execution.",
+      "A Supreme Court case was cited as setting precedent for whether Pike could face execution again."
+    ],
+    "timeline": [
+      {
+        "event": "Failed lethal injection execution attempt on Christa Pike",
+        "date": "not specified"
+      },
+      {
+        "event": "Pike placed on ventilator and remained unconscious",
+        "date": "immediately after execution, not specified"
+      },
+      {
+        "event": "Hospitalization period (duration not specified)",
+        "date": "not specified"
+      },
+      {
+        "event": "Judge orders preservation of evidence related to the botched execution",
+        "date": "not specified"
+      },
+      {
+        "event": "Pike discharged from hospital and transferred to rehabilitation center",
+        "date": "not specified"
+      },
+      {
+        "event": "Tennessee cancels further executions",
+        "date": "not specified"
+      },
+      {
+        "event": "Tennessee prison chief announces resignation",
+        "date": "not specified"
+      },
+      {
+        "event": "Discussion of Supreme Court case precedent regarding future execution of Pike",
+        "date": "not specified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=433",
+    "featured": true
+  },
+  {
     "id": 432,
     "title": "What to Know About the Delhi Protests",
     "summary": "**Delhi Gears Up for Massive CJP Demonstration Amid Voter‑List Controversy**",
@@ -49,7 +112,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=432",
-    "featured": true
+    "featured": false
   },
   {
     "id": 431,

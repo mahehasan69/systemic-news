@@ -1,5 +1,57 @@
 [
   {
+    "id": 432,
+    "title": "What to Know About the Delhi Protests",
+    "summary": "**Delhi Gears Up for Massive CJP Demonstration Amid Voter‑List Controversy**",
+    "content": "**Delhi Gears Up for Massive CJP Demonstration Amid Voter‑List Controversy**\n\nDelhi is preparing for a large‑scale protest organized by the Confederation of Joint Parliamentary (CJP) on October 10, 2024. The rally, slated for Jantar Mantar, comes in response to recent amendments to the electoral roll announced by the Election Commission, which opposition groups say could disenfranchise sizable sections of the electorate.\n\n**Security and Transport Measures**\n\nIn anticipation of the demonstration, authorities have mobilised roughly 23,000 security personnel to manage crowds and maintain order. The Delhi Police and traffic police have issued extensive advisories, directing commuters away from designated protest corridors and outlining alternative routes. \n\nThe Hindu reports that 45 Delhi Metro stations will be closed and train services on the affected lines cancelled. Uber has also imposed temporary service restrictions in the vicinity of the protest site. The Economic Times and the Times of India highlighted the expected impact on daily commuters, while NDTV urged the public to avoid the restricted routes.\n\n**Legal Developments**\n\nFollowing a petition filed by the CJP, the Supreme Court has asked Delhi officials to identify an alternative venue to Jantar Mantar, citing concerns over public safety and potential disruption during Prime Minister Narendra Modi’s 25‑year political milestone celebrations. The New Indian Express confirmed the court’s request; officials are currently evaluating other locations, though a final decision has not yet been announced.\n\n**Political Context**\n\nThe protest is framed by the CJP and the All India Students’ Association (AISA) as a demand for transparency and a reversal of the voter‑list revisions. The Indian Express detailed the logistics of the planned rally, confirming the October 10 date, the intended venue, and the transport restrictions.\n\nInternational coverage—including pieces by The New York Times, NPR, and DW.com—places the demonstration within a broader wave of unrest over the electoral roll changes. DW.com described the anniversary celebrations as “clouded” by dissent, while NPR noted that the protests serve as a litmus test for India’s commitment to inclusive voting practices.\n\n**Outlook**\n\nWith the Supreme Court’s directive pending, the immediate focus will be on implementing security arrangements and communicating any venue changes to protest organizers. Traffic diversions are expected to remain in effect for the duration of the rally, and commuters have been advised to monitor official channels for updates on Metro operations and road advisories.\n\n**Implications**\n\nThe shutdown of 45 Metro stations, cancellation of train services, and deployment of 23,000 security personnel underscore the authorities’ assessment of the protest’s potential impact. As Delhi balances the dual pressures of a high‑profile political anniversary and a contentious voter‑list reform, the outcome of the October 10 demonstration could shape domestic policy debates and influence India’s international reputation as a democratic nation.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-10-10",
+    "time": "09:10",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The New York Times published an article titled \"What to Know About the Delhi Protests\".",
+      "NPR published an article titled \"What to know about nationwide protests in India over voter list changes\".",
+      "DW.com published an article titled \"India's 'cockroaches' vs Election Commission: What you need to know ahead of CJP's October 10 protests\".",
+      "The Hindu reported that 45 Delhi Metro stations were shut, trains cancelled, and 23,000 security personnel were deployed ahead of the CJP protest.",
+      "NDTV reported that Delhi Police issued an advisory ahead of the CJP protest advising routes to avoid.",
+      "DW.com reported that protests were clouding Prime Minister Narendra Modi's 25‑year political milestone.",
+      "The Economic Times reported that Delhi Traffic Police issued an advisory with diversions and routes to avoid for the CJP Jantar Mantar protest.",
+      "The Times of India reported that Delhi traffic police issued an advisory ahead of Oct 10 protests with affected routes.",
+      "The Indian Express reported details of the CJP‑AISA protest in Delhi, including date, time, place, Uber and Delhi Metro restrictions.",
+      "The New Indian Express reported that the Supreme Court asked Delhi authorities to identify an alternative protest venue to Jantar Mantar."
+    ],
+    "timeline": [
+      {
+        "event": "Advisories and security deployments announced",
+        "date": "Before October 10, 2024"
+      },
+      {
+        "event": "Delhi Metro stations shut, trains cancelled, 23,000 security personnel deployed",
+        "date": "Before October 10, 2024"
+      },
+      {
+        "event": "Planned CJP protest at Jantar Mantar",
+        "date": "October 10, 2024"
+      },
+      {
+        "event": "Supreme Court request for alternative protest venue",
+        "date": "After October 10, 2024 (reported in article)"
+      },
+      {
+        "event": "Modi's 25‑year political milestone celebrations clouded by protests",
+        "date": "2024 (exact date not specified)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=432",
+    "featured": true
+  },
+  {
     "id": 431,
     "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
     "summary": "**Trump’s Russian Diesel Deal Triggers Political Backlash and Fuels‑Price Concerns Worldwide**",
@@ -24,7 +76,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=431",
-    "featured": true
+    "featured": false
   },
   {
     "id": 430,

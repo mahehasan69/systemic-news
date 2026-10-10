@@ -1,5 +1,32 @@
 [
   {
+    "id": 431,
+    "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    "summary": "**Trump’s Russian Diesel Deal Triggers Political Backlash and Fuels‑Price Concerns Worldwide**",
+    "content": "**Trump’s Russian Diesel Deal Triggers Political Backlash and Fuels‑Price Concerns Worldwide**\n\nFormer President Donald Trump announced a new agreement to import diesel from Russia, a move that has ignited sharp criticism and intensified scrutiny of global fuel markets. The announcement, reported by the BBC, came as Brent crude prices surged to record levels, according to the *Economic Times*.\n\nUkrainian President Volodymyr Zelensky immediately denounced the arrangement as a “gift to Putin,” framing it as a geopolitical concession at a time of heightened tension between Kyiv and Moscow. His remarks have resonated with critics who argue that any engagement with Russian energy supplies undermines sanctions and diplomatic pressure on Moscow.\n\n**Market Context**\n\nThe timing of the deal appears linked to mounting pressure on governments and industry to curb rising consumer fuel costs. An analysis by Yahoo suggests that the Russian diesel purchase is intended to alleviate domestic price pressures by securing a lower‑cost supply source. In India, the impact of soaring global fuel prices is already being felt. Petroleum Minister Hardeep Singh Puri told the *Times of India* that Indian oil‑marketing companies are losing roughly Rs 1,000 crore per day because of the current price environment. The minister’s comments underscore the financial strain that record‑high Brent crude is imposing on downstream markets worldwide.\n\n**Political and Strategic Implications**\n\nIn the United States, the announcement has drawn scrutiny from lawmakers and commentators who question whether the short‑term benefit of cheaper diesel outweighs the long‑term strategic costs of deepening ties with a sanctioned nation. Critics warn that the deal could erode the effectiveness of sanctions and compromise broader energy‑security policies.\n\n**Consumer‑Safety Alerts**\n\nAmid the fuel‑price surge, the BBC reported that drivers are being reminded to check for outstanding airbag recalls. While not directly linked to the diesel agreement, the reminder highlights how volatile fuel costs are prompting greater public awareness of vehicle safety issues.\n\n**Looking Ahead**\n\nThe Russian diesel agreement is expected to face continued examination by domestic and international observers. In Washington, congressional committees may hold hearings to assess the legality and strategic implications of the deal. Industry analysts will watch closely to see whether the imported diesel translates into measurable relief for American consumers.\n\nIn India, the Ministry of Petroleum and Natural Gas is likely to explore additional measures—such as price caps or subsidies—to mitigate the daily Rs 1,000 crore losses reported by oil‑marketing companies.\n\nGlobally, market participants will monitor Brent crude trends, as any reversal in price momentum could reshape the calculus behind cross‑border fuel arrangements.\n\n**Conclusion**\n\nThe episode illustrates the complex interplay between geopolitics, market forces, and consumer welfare in an era of volatile energy prices. While Trump’s Russian diesel deal aims to address immediate fuel‑price pressures, it also raises questions about the broader costs of engaging with a sanctioned supplier. The reaction from Ukraine’s president, the financial strain on Indian oil marketers, and heightened safety alerts for drivers together demonstrate how a single policy decision can ripple across continents, affecting economies, diplomatic relations, and everyday citizens alike.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-10",
+    "time": "02:54",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump announced a deal for Russian diesel (BBC).",
+      "Ukrainian President Volodymyr Zelensky described the deal as a \"gift to Putin\" (BBC).",
+      "The deal is being analysed as a response to mounting pressure to curb fuel prices (Yahoo).",
+      "Indian Petroleum Minister Hardeep Singh Puri said Oil Marketing Companies (OMCs) are losing roughly Rs 1,000 crore per day due to fuel price pressures (The Times of India).",
+      "Brent crude oil prices have reached record highs (The Economic Times).",
+      "Drivers are being reminded to check for outstanding airbag recalls (BBC)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=431",
+    "featured": true
+  },
+  {
     "id": 430,
     "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
     "summary": "**Trump Announces Deal with Putin to Supply Russian Diesel to U.S. and Global Markets**",
@@ -23,7 +50,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=430",
-    "featured": true
+    "featured": false
   },
   {
     "id": 429,

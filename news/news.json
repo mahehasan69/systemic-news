@@ -1,5 +1,69 @@
 [
   {
+    "id": 440,
+    "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+    "summary": "**Trump Claims “Energy Cease‑Fire” Between Russia and Ukraine Amid Contradictory Reports**",
+    "content": "**Trump Claims “Energy Cease‑Fire” Between Russia and Ukraine Amid Contradictory Reports**\n\n*Washington, D.C.* – Former President Donald Trump announced that Russia and Ukraine had reached an “energy cease‑fire,” saying that Moscow and Kyiv had agreed to suspend attacks on each other’s energy infrastructure. The claim, first reported by the BBC, Yahoo and the Daily Mail, was quickly challenged by Ukrainian officials and by a fresh Russian strike on a Ukrainian power plant.\n\nWithin hours of Trump’s statement, Kyiv’s defense ministry reported that attacks on Ukrainian energy sites continued unabated. Yahoo cited the ministry’s warning that the energy grid remained a target, and Nine.com.au documented a Russian missile strike on a power plant on the same day. The incident suggested that any tacit agreement was either not in force or not being honored by one side.\n\nIn response, President Volodymyr Zelensky issued a stark warning. According to an AOL.com report, Zelensky gave Trump a 60‑day ultimatum, demanding concrete U.S. action to protect Ukraine’s energy network and to halt further Russian aggression. At the same time, The Times recorded Trump’s direct appeal to Zelensky to stop targeting Russian oil refineries, framing the proposed truce as a two‑way street. The Kyiv Post later quoted Trump as saying the “energy truce” was complete while President Vladimir Putin was “still holding back,” underscoring the gap between diplomatic rhetoric and the situation on the ground.\n\nThe divergent accounts have immediate strategic implications. The Russian power‑plant strike, occurring just hours after Trump’s announcement, undermined the perception of a functional cease‑fire and reinforced Kyiv’s claim that hostilities persisted. For Ukraine, continued vulnerability of its energy network threatens civilian resilience and military logistics, heightening pressure on Western partners to deliver tangible security guarantees. For the United States, the episode tests the credibility of its diplomatic outreach, especially as Trump’s personal meeting with Putin in Alaska—reported by the BBC—has been portrayed by critics as a possible shift toward a more conciliatory stance toward Moscow.\n\n**Background**\n\nSince the war began, both sides have repeatedly targeted energy infrastructure, using electricity and fuel supplies as leverage. The United States has positioned itself as Kyiv’s principal supporter, providing military aid and diplomatic backing. Trump’s recent statements appear aimed at portraying a breakthrough in negotiations, yet the lack of a verifiable, binding agreement and the immediate continuation of attacks indicate that any cease‑fire, if it exists, remains fragile.\n\n**Looking Ahead**\n\nAnalysts expect a series of follow‑up diplomatic engagements involving Washington, Moscow and Kyiv to clarify the status of any energy‑related truce. Monitoring agencies are likely to track further Russian strikes on Ukrainian energy sites, while the U.S. administration may be compelled to respond to Zelensky’s 60‑day ultimatum with either increased assistance or renewed diplomatic pressure on Moscow. The outcome of these talks could shape the broader trajectory of the conflict, particularly if energy security becomes a focal point of future cease‑fire negotiations.\n\n**Conclusion**\n\nTrump’s proclamation of an “energy cease‑fire” has collided with on‑the‑ground realities and Ukrainian demands, exposing a stark gap between diplomatic optimism and operational fact. The episode underscores how energy infrastructure remains a critical—and contested—front in the Russia‑Ukraine war, and it highlights the challenges facing any external actor seeking to broker lasting peace. The coming weeks will reveal whether the United States can translate its high‑profile summit with Putin into concrete steps that halt attacks on energy targets, or whether the cease‑fire narrative will remain a contested claim amid ongoing hostilities.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-11",
+    "time": "23:16",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump publicly stated that Russia and Ukraine have agreed to an \"energy ceasefire\" (BBC, Yahoo, Daily Mail).",
+      "Kyiv officials reported that attacks on energy infrastructure continued after the claimed ceasefire (Yahoo).",
+      "Russia struck a power plant a few hours after Trump’s ceasefire claim (Nine.com.au).",
+      "Volodymyr Zelensky gave Donald Trump a 60‑day ultimatum related to the ceasefire discussion (AOL.com).",
+      "Trump told Zelensky to stop targeting Russian oil refineries (The Times).",
+      "Donald Trump said the energy truce was completed while Vladimir Putin was still holding back (Kyiv Post).",
+      "Donald Trump and Vladimir Putin met in Alaska for a summit (BBC)."
+    ],
+    "timeline": [
+      {
+        "event": "Trump announces alleged energy ceasefire",
+        "date": null,
+        "source": "BBC, Yahoo, Daily Mail"
+      },
+      {
+        "event": "Kyiv reports continued attacks on energy infrastructure",
+        "date": null,
+        "source": "Yahoo"
+      },
+      {
+        "event": "Russia strikes a power plant hours after ceasefire claim",
+        "date": null,
+        "source": "Nine.com.au"
+      },
+      {
+        "event": "Zelensky issues 60‑day ultimatum to Trump",
+        "date": null,
+        "source": "AOL.com"
+      },
+      {
+        "event": "Trump tells Zelensky to stop hitting Russian oil refineries",
+        "date": null,
+        "source": "The Times"
+      },
+      {
+        "event": "Trump says energy truce is done; Putin holds back",
+        "date": null,
+        "source": "Kyiv Post"
+      },
+      {
+        "event": "Trump‑Putin Alaska summit",
+        "date": null,
+        "source": "BBC"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=440",
+    "featured": true
+  },
+  {
     "id": 439,
     "title": "Saudi capital airport hit by second Houthi strike in two days",
     "summary": "**Twin Houthi Strikes Shut Down Riyadh’s King Khalid International Airport, Killing 12**",
@@ -32,7 +96,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=439",
-    "featured": true
+    "featured": false
   },
   {
     "id": 438,

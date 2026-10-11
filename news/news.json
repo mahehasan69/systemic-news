@@ -1,5 +1,30 @@
 [
   {
+    "id": 437,
+    "title": "US justice department investigates TV networks over Trump pool coverage",
+    "summary": "**DOJ Opens Antitrust Investigation into Five Television Networks Over White House Pool Coverage**",
+    "content": "**DOJ Opens Antitrust Investigation into Five Television Networks Over White House Pool Coverage**\n\nThe U.S. Department of Justice’s Antitrust Division has launched an investigation into five major television networks for allegedly coordinating a suspension of coverage of President Donald Trump’s White House pool. The probe, reported by a coalition of outlets that includes the BBC, The New York Times, The Guardian, NBC News, Reuters, USA Today, Variety, The Washington Post, Anadolu Ajansı and Al Jazeera, marks the first time the federal government has examined a concerted media action focused on a specific White House beat.\n\nAccording to the DOJ filing, the inquiry centers on whether the networks’ collective decision to limit or halt reporting on the pool—a frequent backdrop for presidential briefings, photo opportunities and political messaging—constitutes an unlawful restraint of trade under the Sherman Act. The Washington Post identified five broadcasters as subjects of the investigation but did not disclose their names.\n\nThe filing alleges that the networks coordinated editorial choices that resulted in a noticeable reduction of on‑air reporting, live feeds and commentary about the pool and related events. Investigators will assess whether this coordination was intended to suppress competition among broadcasters, thereby affecting advertising revenue, viewership ratings and the public’s access to information about the President’s activities.\n\nLegal scholars note that antitrust scrutiny of media organizations is uncommon. Competition in the sector is typically evaluated on the basis of content diversity, market share and advertising practices, not on coordinated editorial decisions. The DOJ’s involvement suggests that investigators have identified conduct that could be interpreted as a concerted effort to manipulate the market for political news coverage. If the agency finds sufficient evidence of collusion, the networks could face civil penalties, injunctions or other enforcement actions designed to restore competitive conditions.\n\nThe case could have broader implications for how media outlets coordinate coverage of political events. A ruling that the networks violated antitrust law would set a precedent for future disputes involving traditional broadcasters and digital platforms, underscoring the DOJ’s mandate to enforce competition law across all sectors.\n\nThe investigation is in its early stages, and the DOJ has not provided a timeline for completion. Potential next steps include subpoenas for internal communications, testimony from network executives and a review of editorial policies related to White House coverage. Depending on the findings, the agency may pursue civil litigation or negotiate settlements that could require changes to coverage practices and possibly monetary damages.\n\nThe networks are expected to defend their editorial decisions as protected by the First Amendment and as legitimate business judgments. However, the antitrust focus is on the process—whether the suspension of pool coverage was a pre‑arranged strategy to limit competition rather than an independent editorial choice.\n\nViewers have already noted a decline in televised segments featuring the White House pool, prompting speculation about the impact on public perception of the presidency. The DOJ’s investigation will therefore address both legal compliance and the broader question of how media coordination can shape the visual narrative of the executive branch.\n\n**Key takeaway:** The DOJ’s antitrust probe into five television networks for allegedly boycotting coverage of President Trump’s White House pool represents a rare foray into media‑industry competition law, with potential ramifications for the way broadcasters coordinate political reporting and for the balance between editorial independence and market competition.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-11",
+    "time": "07:57",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The U.S. Department of Justice (DOJ) has opened an investigation into major television networks for suspending or boycotting coverage of President Donald Trump's White House pool.",
+      "Multiple news outlets (BBC, The New York Times, The Guardian, NBC News, Reuters, USA Today, Variety, The Washington Post, Anadolu Ajansı, Al Jazeera) report the investigation.",
+      "The investigation is described as an antitrust probe by some sources (USA Today, Al Jazeera).",
+      "The Washington Post specifies that five TV networks are under investigation."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=437",
+    "featured": true
+  },
+  {
     "id": 436,
     "title": "Man dies after tiger attack at wildlife park",
     "summary": "**Man Killed After Entering Tiger Enclosure at Yorkshire Wildlife Park**",
@@ -22,7 +47,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=436",
-    "featured": true
+    "featured": false
   },
   {
     "id": 435,

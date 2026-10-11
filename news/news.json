@@ -1,5 +1,40 @@
 [
   {
+    "id": 439,
+    "title": "Saudi capital airport hit by second Houthi strike in two days",
+    "summary": "**Twin Houthi Strikes Shut Down Riyadh’s King Khalid International Airport, Killing 12**",
+    "content": "**Twin Houthi Strikes Shut Down Riyadh’s King Khalid International Airport, Killing 12**\n\nRiyadh, Saudi Arabia – Saudi officials confirmed on Sunday that King Khalid International Airport was hit a second time within 48 hours by Houthi forces, igniting a fire in Terminal 4 that killed 12 people and forced a complete shutdown of the airport. The Saudi‑led coalition publicly verified the attack, which came a day after an earlier strike on the same facility and follows a Houthi missile hit on a Saudia Airbus aircraft two days earlier.\n\n**Details of the latest attack**\n\nA ballistic missile struck the airport’s western perimeter, according to the Latin Times, and detonated near Terminal 4. The explosion set the terminal ablaze, overwhelming emergency responders and resulting in 12 fatalities; the victims’ identities have not been released. In the aftermath, airport authorities ordered an immediate suspension of all inbound and outbound flights, and the Saudi civil aviation authority cancelled all scheduled services.\n\n**Escalating pattern of assaults**\n\nThe incident is part of a rapid series of attacks on Saudi aviation infrastructure:\n\n* **Day ‑2:** A Saudia Airbus was hit by a Houthi‑launched missile.  \n* **Day ‑1:** King Khalid International Airport suffered its first Houthi strike, reported by the BBC.  \n* **Day 0:** The second strike on Terminal 4, described above.  \n* **Day +1:** The Straits Times reported a fresh Houthi attack, underscoring sustained pressure on Saudi airspace.\n\n**Strategic and economic impact**\n\nKing Khalid International Airport is a critical hub for both domestic and international traffic, handling millions of passengers annually and serving as a gateway for the kingdom’s growing tourism and business sectors. The shutdown has stranded thousands of travelers, forced airlines to reroute or cancel flights, and is expected to generate substantial financial losses for carriers and ancillary service providers. The targeting of civilian infrastructure has also heightened regional security concerns, prompting neighboring states and international partners to reassess the safety of air routes over the Arabian Peninsula.\n\n**International reaction**\n\nIsraeli Prime Minister Benjamin Netanyahu condemned the strike and offered condolences to the victims’ families, reflecting broader diplomatic unease over the Houthi campaign, which many view as an extension of the Yemen conflict into Saudi territory. The New York Times highlighted the ripple effect on global aviation, noting that airlines worldwide are revising schedules and some are considering temporary suspensions of service to Saudi destinations. The Saudi‑led coalition, which backs the Yemeni government against the Houthi rebels, reiterated its commitment to defending Saudi airspace and pledged to intensify defensive measures.\n\n**Saudi response and investigation**\n\nThe Saudi Ministry of Interior announced a comprehensive investigation to determine the missiles’ origin, assess damage, and identify any lapses in airport security protocols. In the short term, authorities plan to impose tighter airspace restrictions, enhance radar surveillance, and deploy additional surface‑to‑air defense systems at major airports. Findings from the probe are expected to shape future security policies and inform diplomatic outreach aimed at reassuring both domestic and international stakeholders about the safety of Saudi aviation.\n\n**Outlook**\n\nThe twin attacks on Riyadh’s main gateway underscore the vulnerability of civilian infrastructure in a conflict that increasingly spills beyond Yemen’s borders. While the immediate human toll is stark, the broader repercussions for Saudi Arabia’s connectivity, economic stability, and regional security dynamics are likely to reverberate for weeks, if not months. The incidents serve as a stark reminder that the war in Yemen remains a potent source of instability for the wider Gulf region.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-11",
+    "time": "19:16",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Riyadh airport in Saudi Arabia was struck a second time within two days by Houthi forces (BBC, Albanian Daily News, DW.com).",
+      "The second strike caused a fire at Terminal 4 of the airport (Gulf Business).",
+      "The attack killed 12 people (Air Data News).",
+      "The airport was shut down following the attack (Air Data News).",
+      "The attacks prompted mass flight cancellations in Saudi Arabia (The New York Times).",
+      "A ballistic missile was reported to have hit the airport (Latin Times).",
+      "The Saudi-led coalition publicly confirmed the second strike (Albanian Daily News).",
+      "The second strike occurred a day after a previous attack that hit a Saudia Airbus aircraft (Air Data News).",
+      "Israeli Prime Minister Benjamin Netanyahu condemned the attack and offered condolences (Ynetnews)."
+    ],
+    "timeline": [
+      "Day -2: Saudia Airbus aircraft hit in a prior Houthi attack (Air Data News).",
+      "Day -1: First Houthi strike on Riyadh airport (BBC).",
+      "Day 0: Second Houthi strike hits Riyadh airport, causing fire at Terminal 4, killing 12, and shutting down the airport (multiple sources).",
+      "Day +1: Additional Houthi strike reported, described as a fresh attack (The Straits Times)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=439",
+    "featured": true
+  },
+  {
     "id": 438,
     "title": "Riyadh airport attack another dangerous moment in already tense conflict",
     "summary": "**Riyadh Airport Attack Triggers Regional Aviation Disruptions and Heightens Saudi‑U.S. Military Cooperation**",
@@ -26,7 +61,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=438",
-    "featured": true
+    "featured": false
   },
   {
     "id": 437,

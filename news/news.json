@@ -1,5 +1,30 @@
 [
   {
+    "id": 436,
+    "title": "Man dies after tiger attack at wildlife park",
+    "summary": "**Man Killed After Entering Tiger Enclosure at Yorkshire Wildlife Park**",
+    "content": "**Man Killed After Entering Tiger Enclosure at Yorkshire Wildlife Park**\n\nSouth Yorkshire Police confirmed on Tuesday that a man died after being mauled by a tiger at Yorkshire Wildlife Park in England. According to the police statement, the victim breached the barrier separating visitors from the big‑cat area, entered the tiger’s enclosure and suffered injuries that proved fatal.\n\nThe force has launched a formal investigation into the circumstances of the breach. Officers are collecting evidence from the scene, reviewing security footage and interviewing park staff and any witnesses. Police have asked the public not to share graphic or distressing videos of the incident, urging respect for the victim’s family and the integrity of the inquiry.\n\nThe victim’s identity, age and the method by which he accessed the enclosure have not been released. The park has not issued a comment, and no details have been provided about the tiger’s condition or any immediate response measures taken by staff.\n\nThe tragedy has sparked renewed scrutiny of safety protocols at wildlife attractions. While officials describe the event as an isolated breach rather than evidence of systemic failure, they say the investigation will assess whether additional safeguards are required to prevent similar incidents.\n\nThe police investigation will continue over the coming weeks, with findings expected to inform future recommendations for wildlife park operations. In the meantime, authorities emphasize support for the victim’s family and the need to maintain a safe environment for both animals and visitors.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-11",
+    "time": "01:35",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A man died after a tiger attack at Yorkshire Wildlife Park in England.",
+      "The incident occurred at a wildlife park in Yorkshire, United Kingdom.",
+      "South Yorkshire Police confirmed the tiger attack.",
+      "The victim entered the tiger enclosure."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=436",
+    "featured": true
+  },
+  {
     "id": 435,
     "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
     "summary": "**Missile Strike on Riyadh Airport Leaves at Least 12 Dead, 300 Injured**",
@@ -28,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=435",
-    "featured": true
+    "featured": false
   },
   {
     "id": 434,

@@ -1,5 +1,34 @@
 [
   {
+    "id": 438,
+    "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+    "summary": "**Riyadh Airport Attack Triggers Regional Aviation Disruptions and Heightens Saudi‑U.S. Military Cooperation**",
+    "content": "**Riyadh Airport Attack Triggers Regional Aviation Disruptions and Heightens Saudi‑U.S. Military Cooperation**\n\n*Riyadh, 12 October 2026* – A missile strike on King Khalid International Airport in Riyadh killed twelve people and set off a cascade of flight cancellations and delays across the Middle East, underscoring what the BBC described as a “dangerous moment” in an already volatile regional conflict.\n\nThe attack, which targeted Saudi Arabia’s main international gateway, is the latest flashpoint in a widening confrontation that now involves Saudi Arabia, Iran‑backed militias, the United States, Israel and a host of other regional actors. Condé Nast Traveller Middle East reported that airlines suspended, delayed or cancelled services throughout Dubai and the broader Gulf in the wake of the strike.\n\nMultiple sources have confirmed the twelve fatalities. Responsible Statecraft linked the assault to the ongoing rivalry between the Houthi movement and Saudi Arabia, calling it a “second round of regional conflict.” In retaliation, Saudi forces joined U.S. air operations against Iran‑aligned militia groups operating in Iraq, a development also noted by the BBC.\n\nThe escalation follows a pattern of increasing hostility between Tehran and Washington. PBS live updates indicate that the U.S.–Israel confrontation with Iran is expanding, drawing additional regional powers into the fray. While conducting retaliatory strikes, the United States faced domestic political controversy after the White House defended a comment by former President Donald Trump suggesting that Iran could “take out” Los Angeles and San Diego. The BBC reported that the administration’s defense of the remark highlighted heightened sensitivity surrounding Iran’s perceived capabilities.\n\nCanada’s role has come under scrutiny as the conflict intensifies. A Middle‑East journalist cited by CTV News noted that Canada is being closely watched, implying that the North American nation’s diplomatic and security choices could influence the conflict’s trajectory. No direct Canadian involvement has been reported, but the observation reflects broader international concern about the potential for the hostilities to spill beyond the immediate theater.\n\nThe combined effect of these developments is a marked rise in geopolitical tension across the Gulf. Flight disruptions have hampered civilian travel and commerce, while the joint Saudi‑U.S. strikes signal a deepening military partnership against Iran‑aligned forces. The death toll at King Khalid Airport serves as a stark reminder of the conflict’s human cost, and the pattern of coordinated attacks suggests an effort to pressure Saudi Arabia and its allies.\n\nLooking ahead, analysts expect further military and diplomatic maneuvers. Continued Saudi‑U.S. operations against Iran‑backed militias in Iraq appear likely, given the recent joint strike. The White House’s defense of provocative statements may shape U.S. domestic discourse on Iran policy, potentially influencing future engagement strategies. Aviation authorities are expected to reassess route safety across the region, with airlines monitoring the security environment before restoring full services.\n\nIn sum, the Riyadh airport attack has crystallised a series of interlinked crises: a lethal strike on civilian infrastructure, an expanding air‑travel shutdown, and a deepening alliance between Saudi Arabia and the United States against Iran‑linked groups. The episode illustrates how localized violence can rapidly amplify regional rivalries, drawing in global powers and reshaping the security landscape of the Middle East.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-11",
+    "time": "14:27",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Riyadh airport was attacked, described as a dangerous moment in an already tense conflict (BBC).",
+      "12 people were killed in the attack on King Khalid Airport in Riyadh (BBC).",
+      "The White House defended a comment by Donald Trump suggesting Iran could \"take out\" Los Angeles and San Diego (BBC).",
+      "Houthis and Saudi Arabia are engaged in a second round of regional conflict (Responsible Statecraft).",
+      "U.S. and Israel conflict with Iran is widening (PBS live updates).",
+      "Saudi Arabia joined the United States in strikes on Iran‑backed militias in Iraq (BBC).",
+      "Flight routes in Dubai and the Middle East faced suspensions, delays, and cancellations due to a new wave of attacks on Saudi Arabia (Condé Nast Traveller Middle East).",
+      "Canada is being closely watched as the Iran‑related war escalates, according to a Middle East journalist (CTV News)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=438",
+    "featured": true
+  },
+  {
     "id": 437,
     "title": "US justice department investigates TV networks over Trump pool coverage",
     "summary": "**DOJ Opens Antitrust Investigation into Five Television Networks Over White House Pool Coverage**",
@@ -22,7 +51,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=437",
-    "featured": true
+    "featured": false
   },
   {
     "id": 436,

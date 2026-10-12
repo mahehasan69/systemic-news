@@ -1,5 +1,28 @@
 [
   {
+    "id": 442,
+    "title": "Deloitte helped in falsifying documents to evade tax on Abramovich’s wealth, BBC finds",
+    "summary": "**BBC Investigation Links Falsified Documents and Deloitte to Tax Evasion Scheme Involving Roman Abramovich**",
+    "content": "**BBC Investigation Links Falsified Documents and Deloitte to Tax Evasion Scheme Involving Roman Abramovich**\n\n*London –* A BBC investigation, reported by DailySports, has uncovered a scheme that used falsified financial documents to conceal the wealth of Russian billionaire Roman Abramovich from tax authorities. The investigation also alleges that Deloitte, one of the world’s largest professional‑services firms, provided advisory support that enabled the creation and filing of those misleading documents.\n\nThe BBC’s findings describe a coordinated effort to manipulate paperwork so that the true scale of Abramovich’s assets remained hidden from tax officials. According to internal sources cited by the broadcaster, Deloitte’s role went beyond routine advice; the firm is accused of facilitating the preparation and submission of the falsified documents, thereby assisting Abramovich in evading his tax obligations.\n\nIf the allegations are substantiated, Deloitte would be in breach of the ethical and legal standards that govern auditors and consultants, which require strict independence and integrity. The alleged conduct could trigger regulatory scrutiny, potential sanctions, and civil or criminal liability for the firm.\n\nThe immediate impact of the falsified documentation is the denial of accurate information to tax authorities, undermining the fiscal capacity of the jurisdictions involved and eroding public confidence in the tax system. The case also highlights the broader risk that sophisticated financial structures—often spanning multiple jurisdictions—pose to tax compliance when professional advisers become complicit.\n\nAbramovich, known for his extensive business interests and high‑profile ownership of sports assets, has previously attracted media attention over his financial affairs. The involvement of a major accounting firm such as Deloitte adds a new dimension to the controversy, underscoring the expectation that professional service providers act as gatekeepers against illicit financial practices.\n\nThe revelations raise questions about the effectiveness of anti‑money‑laundering and tax‑evasion safeguards within the professional‑services sector. Should the investigation confirm Deloitte’s participation, regulators in several countries may tighten oversight, increase audits of high‑net‑worth clients, and impose harsher penalties for non‑compliance. The case could also fuel public debate on the responsibilities of auditors and consultants in preventing financial misconduct.\n\nThe next phase is likely to involve formal investigations by tax authorities and regulatory agencies. Standard procedures would include a forensic audit of the disputed documents, interviews with Deloitte personnel, and possible legal action against both Abramovich and the firm. International cooperation may be sought to trace asset flows and assess the full scope of the alleged evasion.\n\nIn summary, the BBC’s exposé, as amplified by DailySports, alleges that falsified documents were used to hide Roman Abramovich’s wealth and that Deloitte assisted in that effort. The case underscores the critical role of professional‑service firms in upholding tax compliance and the potential repercussions when that role is compromised. As investigations proceed, the outcome is expected to influence future regulatory approaches to auditing and advisory services, reinforcing the importance of transparency and ethical conduct in the management of global wealth.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-12",
+    "time": "09:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC reported that documents were falsified to evade tax on Roman Abramovich's wealth.",
+      "BBC (as reported by Dailysports) claimed Deloitte helped Abramovich hide his fortune and dodge tax."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=442",
+    "featured": true
+  },
+  {
     "id": 441,
     "title": "PM says it is 'clear' Russia interfered with Brexit vote",
     "summary": "**UK Prime Minister Declares Russian Interference in Brexit Vote**",
@@ -20,7 +43,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=441",
-    "featured": true
+    "featured": false
   },
   {
     "id": 440,

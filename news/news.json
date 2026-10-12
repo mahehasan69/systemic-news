@@ -1,5 +1,28 @@
 [
   {
+    "id": 441,
+    "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+    "summary": "**UK Prime Minister Declares Russian Interference in Brexit Vote**",
+    "content": "**UK Prime Minister Declares Russian Interference in Brexit Vote**\n\nLondon – Prime Minister Andy Burnham has publicly asserted that Russian actors interfered in the United Kingdom’s 2016 Brexit referendum, marking the first time a sitting British premier has directly linked the historic vote to foreign meddling. The statement, reported by Reuters, the BBC, The Guardian, Al Jazeera, France 24, ABC News, the South China Morning Post, Gulf Coast News and Weather, and UPI, has sparked immediate debate among politicians, security experts and the wider public.\n\nIn remarks released this week, Burnham said it is “clear” that Russia sought to influence the outcome of the June 2016 referendum that led the United Kingdom to leave the European Union. While he offered no new evidence, his assessment aligns with a growing body of investigative reporting and intelligence assessments that have long suggested Russian disinformation campaigns targeted European elections and referenda during that period.\n\nThe declaration arrives amid heightened scrutiny of foreign interference in Western democracies. In the United Kingdom, ongoing inquiries are examining the role of social‑media bots, targeted advertising and covert funding that may have been employed by Russian entities to sway public opinion. Britain’s intelligence community has previously flagged Russian activity surrounding the referendum; Burnham’s explicit attribution adds political weight to those assessments.\n\nBurnham also warned French voters that similar Russian influence had been linked to the Brexit vote, a point reported by France 24. The cross‑border warning underscores his view that the threat is not confined to a single nation but reflects a broader pattern of Russian attempts to shape European political outcomes.\n\nBy labeling the interference as “clear,” the prime minister is effectively calling for a reassessment of the legitimacy of the Brexit result. Opponents have already questioned whether the United Kingdom should revisit aspects of the Brexit settlement or introduce legislative reforms to safeguard future referenda from foreign influence. The statement could also affect ongoing negotiations with the European Union, as any perception of external manipulation may be leveraged by EU officials in discussions over trade, regulatory alignment and citizens’ rights.\n\nThe 2016 referendum, held on 23 June, produced a narrow 52 %–48 % vote in favour of leaving the EU. Subsequent investigations—including those by the UK’s Intelligence and Security Committee and the European Parliament—identified Russian disinformation networks that amplified divisive narratives on social‑media platforms. Although definitive proof linking specific Russian actors to decisive voting outcomes remains elusive, intelligence analysts concur that the campaigns were designed to exacerbate societal fractures and undermine confidence in the EU.\n\nLooking ahead, Burnham’s warning to French voters may prompt closer cooperation between UK and French security services, both of which have launched inquiries into foreign interference ahead of upcoming elections. Domestically, the prime minister is expected to commission a formal review of the evidence surrounding the 2016 referendum. The review could involve parliamentary committees and independent cybersecurity experts and may lead to legislative proposals aimed at tightening transparency requirements for online political advertising and strengthening the United Kingdom’s cyber‑defence infrastructure.\n\nBurnham’s unequivocal statement that Russia interfered in the Brexit vote injects fresh political urgency into a debate that has lingered for a decade. The next steps—parliamentary inquiries, international dialogue and potential legislative action—will determine whether the United Kingdom can translate this acknowledgment into concrete safeguards for its democratic processes.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-12",
+    "time": "02:49",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham, UK Prime Minister, stated that Russia interfered in the 2016 Brexit referendum.",
+      "The statement was reported by multiple news outlets including Al Jazeera, Reuters, UPI, The Guardian, Gulf Coast News and Weather, South China Morning Post, ABC News, France 24, BBC, and NewsCord."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=441",
+    "featured": true
+  },
+  {
     "id": 440,
     "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
     "summary": "**Trump Claims “Energy Cease‑Fire” Between Russia and Ukraine Amid Contradictory Reports**",
@@ -61,7 +84,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=440",
-    "featured": true
+    "featured": false
   },
   {
     "id": 439,

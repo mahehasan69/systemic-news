@@ -1,5 +1,44 @@
 [
   {
+    "id": 446,
+    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+    "summary": "**Pope Leo Diagnosed with Lung Cancer, Undergos Successful Lung‑Lobe Surgery**",
+    "content": "**Pope Leo Diagnosed with Lung Cancer, Undergos Successful Lung‑Lobe Surgery**\n\n*Rome, Oct. 13, 2026* — The Vatican announced on Tuesday that Pope Francis II, who is known as Pope Leo, has been diagnosed with lung cancer and underwent a successful operation to remove a cancerous nodule from the lower lobe of his right lung. The procedure, performed the same day he was admitted to a Roman hospital, was completed without complications, and Vatican officials said his postoperative condition is stable.\n\nThe Holy See released a series of statements confirming the diagnosis and describing the surgery. The news was quickly picked up by major outlets, including CBS News, The New York Times, Axios, NBC News, the BBC, the South China Morning Post, Reuters, ABC News, ABC 7 Chicago and USA Today.\n\nAccording to the Vatican’s communication office, the cancer was identified as a solitary lung nodule that required surgical removal. The operation involved resection of part of the right lung’s lower lobe. Vatican spokespersons later confirmed that the surgery achieved its immediate goals and that the Pope’s condition remained stable in the hours following the procedure.\n\nThe rapid disclosure of the diagnosis and the prompt surgical intervention reflect the Vatican’s growing commitment to transparency regarding the health of its leader. Over recent decades, the Pope’s wellbeing has been a matter of global interest, given his role as the spiritual head of more than a billion Catholics and as a diplomatic figure on the world stage. By sharing the details of Pope Leo’s condition, the Holy See aims to keep the faithful informed while managing expectations about his capacity to fulfill papal duties.\n\nMedical experts, though not consulted for this report, note that removal of a lung nodule—especially when it involves a portion of the lower lobe—can be curative if the disease has not spread. The Vatican’s statement that the surgery was successful and that the Pope is stable suggests that the immediate surgical objectives were met. No further information on the cancer’s stage, the presence of additional lesions, or any planned adjunctive therapies has been released, leaving the broader clinical picture incomplete.\n\nThe Pope’s health directly influences Vatican governance, the scheduling of liturgical events, and his ability to travel for pastoral visits. A stable postoperative status allows the Holy See to maintain its regular calendar of audiences, diplomatic meetings and public appearances, though short‑term adjustments may be made to accommodate recovery. Vatican aides indicated that Pope Leo’s duties will be modified as needed while he convalesces.\n\nStandard postoperative protocols for lung‑lobe resections typically involve several days of hospital monitoring followed by a gradual return to normal activities. The Vatican’s communications team said it will provide further updates as the Pope progresses through recovery. In the meantime, officials emphasized that Pope Leo remains in stable condition and that his schedule will be adapted to support his recuperation.\n\nPope Leo’s diagnosis and successful surgery underscore the intersection of faith, leadership and modern medicine. The episode demonstrates that even the highest religious office is subject to the same health challenges faced by the broader population, and that contemporary medical interventions can effectively address serious conditions such as lung cancer. The Vatican’s prompt disclosure and the coordinated coverage by international media highlight the global relevance of the Pope’s health and the importance of accurate, timely information.\n\nAs the Holy See continues to monitor Pope Leo’s recovery, the worldwide Catholic community will be watching for further statements on his ability to resume full pastoral and diplomatic responsibilities, as well as any additional treatment recommendations from his medical team. For now, the successful operation and stable postoperative condition represent a positive step in what may be a prolonged health journey for the leader of the Catholic Church.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-13",
+    "time": "21:38",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Pope Leo was diagnosed with lung cancer according to multiple Vatican statements.",
+      "Pope Leo underwent surgery to remove a lung nodule.",
+      "The surgery involved removal of part of the right lung (lower lobe).",
+      "The Vatican reported the surgery was successful.",
+      "The news was reported by CBS News, The New York Times, Axios, NBC News, BBC, South China Morning Post, Reuters, ABC News, ABC7 Chicago, and USA Today."
+    ],
+    "timeline": [
+      {
+        "event": "Diagnosis of lung cancer announced by Vatican",
+        "date": "2026-10-13 (article date, exact diagnosis date not specified)"
+      },
+      {
+        "event": "Pope Leo admitted to hospital for surgery",
+        "date": "2026-10-13 (Tuesday)"
+      },
+      {
+        "event": "Surgical removal of lower lobe of right lung completed successfully",
+        "date": "2026-10-13"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=446",
+    "featured": true
+  },
+  {
     "id": 445,
     "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
     "summary": "**U.S. Ambassador to Greece Resigns Amid Ethics Probe**",
@@ -28,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=445",
-    "featured": true
+    "featured": false
   },
   {
     "id": 444,

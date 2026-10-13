@@ -1,5 +1,44 @@
 [
   {
+    "id": 444,
+    "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+    "summary": "**UK Growth Forecasts Diverge as IMF Raises Near‑Term Outlook While OECD Lowers 2027 Projection**",
+    "content": "**UK Growth Forecasts Diverge as IMF Raises Near‑Term Outlook While OECD Lowers 2027 Projection**\n\nLondon – The International Monetary Fund (IMF) has upgraded its forecast for the United Kingdom’s near‑term growth, whereas the Organisation for Economic Co‑operation and Development (OECD) has trimmed its outlook for 2027. Both institutions cite a mix of easing geopolitical concerns and persistent inflationary pressures, highlighting a widening gap in expectations that could intensify the strain on households and businesses from rising energy costs and higher interest rates.\n\n**IMF outlook**\n\nThe IMF’s latest assessment stresses that the UK must keep its deficit‑reduction strategy on track even as it nudges the growth forecast upward. The modest improvement reflects a slight pick‑up in economic momentum, but the Fund warns that higher energy prices and tighter monetary policy are likely to erode the gain. It predicts “higher‑than‑expected inflation” for households as energy costs climb, a development that could offset the benefits of the revised growth estimate.\n\n**OECD outlook**\n\nIn contrast, the OECD has lowered its projection for 2027, pointing to “persistent inflation” as a key drag on growth. The organization expects both energy prices and interest rates to remain elevated through 2027, putting pressure on household budgets and corporate margins. The downgrade underscores the uncertainty surrounding the UK’s medium‑term trajectory as affordability challenges deepen.\n\n**Sectoral impact**\n\nResidential construction is already signalling stress. Bellway, one of the country’s largest house‑building firms, warned of margin pressures for 2027, attributing them to “affordability and cost pressures.” The company’s outlook mirrors the broader concerns raised by the IMF and OECD: rising energy costs and more expensive borrowing are tightening financial constraints for both consumers and developers, potentially slowing housing supply and exacerbating affordability issues for prospective homebuyers.\n\n**Geopolitical risk**\n\nThe IMF notes that earlier fears about the impact of the Iran war on the UK economy have receded, removing a potential external shock from its analysis. While the reduced war‑related risk is a positive development, it does not offset the domestic challenges posed by energy‑price volatility and monetary tightening. The Fund reiterates the need for continued fiscal discipline to maintain a credible path to deficit reduction.\n\n**Implications for households and policymakers**\n\nFor households, the combination of higher energy bills and rising interest rates threatens disposable income, likely curbing consumer spending and dampening overall economic activity. For policymakers, the IMF’s upgrade offers a brief window of optimism but also a reminder that fiscal prudence remains essential to sustain momentum. The OECD’s downgrade, meanwhile, suggests that inflationary pressures could linger longer than anticipated, calling for coordinated monetary and fiscal responses.\n\n**Looking ahead**\n\nBoth the IMF and the OECD are expected to publish further reports tracking the evolution of the UK’s economic outlook. Monitoring energy‑price trends and interest‑rate movements through 2027 will be crucial for assessing whether the upgraded growth forecast can be maintained or if the OECD’s more cautious projection proves more accurate. Industry observers will also watch Bellway’s performance as an early indicator of how affordability pressures translate into real‑world business outcomes.\n\n**Conclusion**\n\nThe UK stands at a crossroads where improved growth expectations coexist with mounting cost pressures. The IMF’s upgrade provides a tentative boost, yet the OECD’s cut and the looming impact of higher energy and rate environments suggest that the path to sustained expansion will be uneven. Stakeholders—from households to builders—must navigate an environment where fiscal discipline, energy‑market dynamics and monetary policy will jointly shape the nation’s economic health over the coming years.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-13",
+    "time": "08:36",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The International Monetary Fund (IMF) says Britain needs to keep deficit reduction on track.",
+      "The IMF upgraded the UK growth forecast.",
+      "The IMF warned that higher energy prices and interest rates will hit UK growth.",
+      "The IMF said UK households will see higher‑than‑expected inflation as energy prices jump.",
+      "UK growth forecast was upgraded by the IMF but risks remain.",
+      "The IMF noted that fears over the impact of the Iran war on the UK economy have diminished.",
+      "The OECD cut the UK growth forecast for 2027, citing persistent inflation.",
+      "Energy prices and rates are expected to bite in 2027.",
+      "Bellway (a UK house‑building company) flagged margin pressures in 2027 due to affordability and cost pressures."
+    ],
+    "timeline": [
+      {
+        "date": "2027",
+        "event": "Energy prices and interest rates expected to bite, creating pressure on households and margins."
+      },
+      {
+        "date": "2027",
+        "event": "Bellway anticipates margin pressures due to affordability and cost pressures."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=444",
+    "featured": true
+  },
+  {
     "id": 443,
     "title": "Burnham to push for new post-Brexit deals at EU summit",
     "summary": "**Manchester Mayor Andy Burnham Calls for EU‑UK Trade Renegotiation Ahead of November Summit**",
@@ -52,7 +91,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=443",
-    "featured": true
+    "featured": false
   },
   {
     "id": 442,

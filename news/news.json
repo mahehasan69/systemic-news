@@ -1,5 +1,36 @@
 [
   {
+    "id": 445,
+    "title": "Kimberly Guilfoyle Resigns as Ambassador to Greece",
+    "summary": "**U.S. Ambassador to Greece Resigns Amid Ethics Probe**",
+    "content": "**U.S. Ambassador to Greece Resigns Amid Ethics Probe**\n\nWashington – Kimberly Guilfoyle, who has served as the United States ambassador to Greece, submitted her resignation after the White House announced that it had requested her departure. The move follows an internal review triggered by allegations that Guilfoyle asked a political donor to pay a $100,000 credit‑card bill—a request that could violate federal ethics rules prohibiting ambassadors from soliciting personal financial assistance from donors.\n\nThe White House confirmed that it asked Guilfoyle to resign but did not disclose a detailed timeline of the events leading to the request. Guilfoyle’s resignation was submitted promptly, and she has formally vacated the post. Specific dates for her appointment, the emergence of the allegations, and her resignation have not been released.\n\nGuilfoyle’s exit creates an immediate vacancy in a key diplomatic posting. The United States and Greece maintain a strategic partnership that includes defense cooperation, energy projects, and regional security initiatives. An ambassadorial gap can slow diplomatic engagements, affect ongoing negotiations, and limit high‑level dialogue between the two governments. The State Department is expected to run day‑to‑day operations through a chargé d’affaires until a new ambassador is confirmed.\n\nThe episode underscores the heightened scrutiny applied to political appointees, particularly those with high public profiles. Ethics rules for ambassadors are intended to prevent conflicts of interest and ensure that diplomatic actions remain free from personal financial influence. Allegations that an ambassador sought personal financial relief from a donor raise questions about the adequacy of existing oversight mechanisms and have renewed calls for stricter enforcement of ethics standards across the diplomatic corps.\n\nThe administration will now begin the process of nominating a successor. The nominee must undergo Senate confirmation, a step that could be expedited or delayed depending on the political climate and the level of scrutiny applied to the selection. In the interim, the U.S. embassy in Athens will continue to operate under interim leadership, preserving the essential functions of the bilateral relationship.\n\nGuilfoyle’s resignation serves as a reminder that diplomatic appointments are subject to the same ethical expectations as other public offices. The incident highlights the importance of transparent conduct and the potential repercussions when those standards are perceived to be compromised. As the State Department moves to appoint a new ambassador, the focus will remain on maintaining the stability of U.S.–Greek relations while reinforcing the integrity of the nation’s diplomatic representation.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-10-13",
+    "time": "16:32",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Kimberly Guilfoyle served as the United States ambassador to Greece.",
+      "Guilfoyle resigned from her ambassadorial post.",
+      "The White House publicly announced that it had asked Guilfoyle to resign.",
+      "Reports cite allegations of improper conduct and ethics concerns surrounding Guilfoyle.",
+      "A report alleges Guilfoyle asked a donor to pay a $100,000 credit‑card bill."
+    ],
+    "timeline": [
+      "Guilfoyle appointed as U.S. ambassador to Greece (date not provided).",
+      "Allegations of misconduct and a donor‑payment request emerge (date not provided).",
+      "White House announces it has asked Guilfoyle to resign (date not provided).",
+      "Guilfoyle submits resignation and steps down (date not provided)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=445",
+    "featured": true
+  },
+  {
     "id": 444,
     "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
     "summary": "**UK Growth Forecasts Diverge as IMF Raises Near‑Term Outlook While OECD Lowers 2027 Projection**",
@@ -36,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=444",
-    "featured": true
+    "featured": false
   },
   {
     "id": 443,

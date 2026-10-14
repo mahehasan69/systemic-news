@@ -1,5 +1,36 @@
 [
   {
+    "id": 447,
+    "title": "Family pays tribute to 'warm and engaging' man killed in tiger attack",
+    "summary": "**British Visitor Killed by Tiger at Yorkshire Wildlife Park**",
+    "content": "**British Visitor Killed by Tiger at Yorkshire Wildlife Park**\n\nA 27‑year‑old British man, identified as William Chapman, died after a tiger breached its enclosure at Yorkshire Wildlife Park in North Yorkshire, United Kingdom. The incident, reported by the BBC, Sky News, The Times, Yahoo News UK, The Independent and other outlets, has ignited a national outcry and prompted calls for a review of the park’s safety procedures.\n\nAccording to early reports, the tiger escaped its pen and inflicted fatal injuries on Chapman. While the direct cause of death was the animal attack, Chapman’s family has indicated that a “significant mental illness” may have been a contributing factor. In statements released shortly after the tragedy, the family described Chapman as a “bright, warm and engaging young man” who was “dearly loved,” underscoring both their personal loss and the possibility of underlying health concerns.\n\nThe story quickly moved beyond local coverage. Former U.S. President Donald Trump posted a video of the attack on his Truth Social platform, a move reported by AOL.com and the media‑monitoring site inkl. The graphic footage sparked widespread criticism, with commentators questioning the propriety of sharing such disturbing material. Subsequent reporting in the United Kingdom, Australia and elsewhere highlighted both the fatal incident and the controversy surrounding Trump’s post, adding an international dimension to the coverage.\n\nYorkshire Wildlife Park, which houses a variety of exotic species, is now under intense scrutiny. The park has not yet issued a detailed statement, but UK authorities are expected to launch an investigation into how the tiger accessed the public area and whether existing safeguards were adequate. The inquiry will examine enclosure design, staff supervision and emergency‑response protocols. Legal experts have suggested that Chapman’s family may consider civil action, although no formal claim has been reported to date.\n\nThe case raises broader questions about public confidence in wildlife attractions and the responsibilities of private operators to protect visitors. Tiger attacks on humans are exceedingly rare in the United Kingdom, and this incident has revived debate over the balance between educational wildlife experiences and the inherent risks of housing large predators. The family’s reference to possible mental‑health issues also prompts discussion about how such factors are evaluated in visitor screening and risk‑management procedures.\n\nAs investigations proceed, the park is likely to implement interim measures, potentially including a temporary closure of the tiger enclosure, increased security staffing and a review of visitor guidelines. Authorities may also issue recommendations for industry‑wide standards aimed at preventing similar occurrences. The outcome of the inquiry could shape regulatory oversight of zoological facilities across the UK, influencing future policies on animal containment and public safety.\n\nWilliam Chapman’s death serves as a stark reminder of the dangers that can arise when powerful wildlife and human curiosity intersect. While his family mourns the loss of a beloved son, regulators, park officials and the wider public are left to grapple with the lessons of a tragic event that has resonated far beyond the gates of Yorkshire Wildlife Park.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-14",
+    "time": "00:42",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "William Chapman, a British man, was killed by a tiger at Yorkshire Wildlife Park in Yorkshire, United Kingdom (BBC, The Times, Yahoo News UK, The Independent, Nine.com.au).",
+      "Family described him as \"warm and engaging\", \"bright, warm and engaging young man\", and \"dearly loved\" (BBC, The Times, Yahoo News UK, The Independent, Nine.com.au).",
+      "Donald Trump posted a video of the tiger attack on his Truth Social account (AOL.com, inkl).",
+      "The incident was reported by multiple news outlets including BBC, Sky News, The Times, Yahoo News UK, The Independent, Nine.com.au, AOL.com and inkl."
+    ],
+    "timeline": [
+      "Date unknown – Tiger attacks and kills William Chapman at Yorkshire Wildlife Park.",
+      "Following the death – Family issues tribute statements describing him as warm, engaging, bright and dearly loved (BBC, The Times, Yahoo News UK, The Independent, Nine.com.au).",
+      "Same period – Sky News publishes article noting the family's claim of significant mental illness.",
+      "Shortly after – Donald Trump shares a video of the attack on Truth Social (AOL.com, inkl).",
+      "Subsequent days – Media outlets report on Trump’s post and public criticism (inkl)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=447",
+    "featured": true
+  },
+  {
     "id": 446,
     "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
     "summary": "**Pope Leo Diagnosed with Lung Cancer, Undergos Successful Lung‑Lobe Surgery**",
@@ -36,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=446",
-    "featured": true
+    "featured": false
   },
   {
     "id": 445,

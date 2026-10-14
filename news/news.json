@@ -1,5 +1,28 @@
 [
   {
+    "id": 452,
+    "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+    "summary": "**Starlink Speed Caps Disrupt Ukrainian Drone Operations, Prompting Questions Over U.S. Involvement**",
+    "content": "**Starlink Speed Caps Disrupt Ukrainian Drone Operations, Prompting Questions Over U.S. Involvement**\n\nKyiv’s armed forces say that sudden bandwidth restrictions on the Starlink satellite‑internet service have crippled a series of high‑priority drone missions and hampered front‑line operations. The development, reported by Ukrainian officials and echoed by the BBC, Business Insider, NBC News and DW.com, has created intelligence gaps that threaten the military’s situational awareness on the battlefield.\n\n**Unannounced Throttling Hits Critical Missions**\n\nAccording to Ukrainian commanders, the speed limits were imposed without warning, throttling the data rates that drone pilots depend on for real‑time video feeds, command‑and‑control communications and rapid data transmission. The reduced bandwidth forced crews to abort or postpone missions deemed “most important” for reconnaissance and targeting. Front‑line units have reported a diminished ability to monitor enemy movements, coordinate artillery strikes and maintain a coherent picture of the rapidly shifting combat environment.\n\n**Competing Explanations for the Restrictions**\n\nThe cause of the caps is contested. Elon Musk, owner of SpaceX, the company that operates Starlink, has alleged that the United States government intervened to limit the service’s performance in Ukraine. Ukrainian officials, however, attribute the slowdown directly to limits imposed by Starlink itself, describing them as network “restrictions.” An NBC News report adds a political dimension, noting that the episode occurs amid a broader clash involving former U.S. President Donald Trump, though it does not explain how that dispute relates to the technical issue.\n\n**Immediate Operational Impact**\n\nUkrainian forces say the throttling has disrupted the most critical drone missions, undermining intelligence collection and eroding the real‑time situational awareness that underpins modern warfare. Front‑line commanders have reported gaps in the flow of information that could delay decision‑making and reduce the effectiveness of artillery and air‑defence responses. The combination of reduced bandwidth and the resulting intelligence shortfall raises concerns about the resilience of Ukraine’s reliance on commercial satellite communications for military purposes.\n\n**Strategic Context**\n\nSince the war began, Ukraine’s defence strategy has leaned heavily on commercial satellite constellations to supplement a traditional communications infrastructure that has been repeatedly damaged or destroyed. Starlink, in particular, has been praised for delivering high‑speed internet to both civilian populations and military units, enabling rapid data exchange across the front. The current restrictions therefore represent a significant departure from the service’s previously uninterrupted support and have prompted questions about the stability of private‑sector partnerships in wartime.\n\n**Outlook and Possible Responses**\n\nUkrainian officials say they are assessing the full impact of the speed limits and are likely to engage both SpaceX and diplomatic channels to restore full bandwidth. International observers are watching for any official response from the United States government regarding Musk’s allegation of interference. In the meantime, the Ukrainian military is expected to adapt its operational plans, potentially shifting to alternative communication methods or reallocating drone assets to mitigate the intelligence gaps until the issue is resolved.\n\n**Broader Implications**\n\nThe episode underscores the strategic importance of reliable, high‑capacity satellite communications in modern conflict zones and highlights the vulnerabilities that arise when technical or political factors curtail access. As Ukraine continues to defend its territory, maintaining uninterrupted drone operations will be a key determinant of its operational effectiveness and overall resilience.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-14",
+    "time": "22:46",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ukraine reports that sudden Starlink speed limits/restrictions have disrupted its drone missions and front‑line operations",
+      "Multiple outlets (BBC, Business Insider, NBC News, DW.com) cite Ukrainian statements about Starlink restrictions causing operational and intelligence gaps"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=452",
+    "featured": true
+  },
+  {
     "id": 451,
     "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
     "summary": "**Sally Rooney’s Books Pulled from UK Shelves After Publisher Halts Distribution**",
@@ -26,7 +49,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=451",
-    "featured": true
+    "featured": false
   },
   {
     "id": 450,

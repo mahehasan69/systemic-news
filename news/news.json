@@ -1,5 +1,39 @@
 [
   {
+    "id": 449,
+    "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+    "summary": "**Russian Strikes Knock Out Power for 600,000 Ukrainians and Curtail Starlink Internet**",
+    "content": "**Russian Strikes Knock Out Power for 600,000 Ukrainians and Curtail Starlink Internet**\n\nRussian missile and drone attacks on Ukraine’s power grid have left roughly 600,000 civilians without electricity and have triggered a sudden curtailment of the Starlink satellite‑internet service that the Ukrainian military relies on for frontline communications, officials said on Tuesday.\n\nThe strikes hit key energy facilities across the country, damaging transmission lines and substations and cutting power to a swath of residential areas. The BBC, Politico and Euronews all cited Ukrainian authorities’ estimate of about 600,000 people without electricity, confirming the scale of the outage.\n\nIn the aftermath, Ukrainian officials reported that SpaceX’s Starlink service – the primary source of high‑speed internet for the armed forces’ command and control networks – was being throttled. A senior adviser to President Volodymyr Zelenskyy told Euronews that Starlink operations were “restricted overnight,” a statement echoed by Politico, which noted that the limitation persisted after the attacks. United24 Media later added that SpaceX had quietly tightened speed limits on the service, a move Ukraine said directly disrupted ongoing military missions on the front line.\n\nThe combined impact of the power loss and reduced bandwidth has hampered Ukrainian forces’ ability to coordinate operations, share intelligence and maintain real‑time situational awareness. Military spokespeople warned that the throttling limits the flow of data essential for artillery targeting, drone control and secure communications between units. United24 also referenced a broader concern that the bandwidth cut could affect intelligence sharing, citing an alleged U.S. warning to Ukrainian generals about the consequences of a communications blackout.\n\nThe episode underscores the strategic importance of both physical and digital infrastructure in modern warfare. Ukraine’s energy network has been a recurrent target since the conflict began, and each successful strike erodes civilian resilience while complicating defence logistics. At the same time, Starlink has become a lifeline for the Ukrainian military, offering a resilient alternative to ground‑based internet that is less vulnerable to sabotage. Whether driven by technical constraints, regulatory pressure or other considerations, SpaceX’s decision to limit speeds now carries outsized significance for the conduct of the war.\n\nInternational observers note that the incident may prompt renewed diplomatic dialogue about the role of private satellite providers in conflict zones. United24 hinted at ongoing discussions concerning U.S.–Ukraine military cooperation, suggesting that the throttling could become a point of negotiation in broader aid packages. Ukrainian officials have pledged to monitor the situation closely and to seek alternative communication channels if the restrictions persist.\n\nLooking ahead, Kyiv is expected to continue tracking Russian strike activity against energy infrastructure while engaging with SpaceX to clarify the reasons behind the speed limits and to negotiate a possible restoration of full service. Analysts anticipate that the outage will pressure both Ukraine and its allies to accelerate efforts to harden the power grid and diversify internet connectivity options, potentially through the deployment of additional satellite constellations or the reinforcement of terrestrial networks.\n\nThe twin crises—a massive power blackout and constrained satellite internet—illustrate how attacks on infrastructure reverberate far beyond the immediate loss of electricity, striking at the very heart of a nation’s defensive capabilities. As the conflict enters another phase of intensified targeting, Ukraine’s ability to sustain civilian life and maintain military effectiveness will hinge on how quickly it can restore power and secure reliable communications. The current episode serves as a stark reminder that, in today’s digital battlefield, energy and information are increasingly intertwined, and disruption of one can cascade into the other.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-14",
+    "time": "10:42",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russian missile and drone strikes targeted Ukrainian energy infrastructure, leaving approximately 600,000 people without electricity.",
+      "Multiple news outlets (BBC, Novinite, Politico, Euronews, Yahoo, cedarnews.net) reported the power outage figure of 600,000.",
+      "Ukrainian officials reported that Starlink internet service was restricted or throttled, impacting military communications on the front line.",
+      "Euronews quoted a Zelenskyy adviser stating that Starlink operations were restricted overnight.",
+      "Politico reported that Ukraine experienced Starlink throttling after the strikes.",
+      "United24 Media reported that SpaceX tightened Starlink speed limits, which Ukraine said disrupted military missions."
+    ],
+    "timeline": [
+      "Russian strikes hit Ukrainian energy sites (date not specified in articles).",
+      "Resulting damage caused loss of electricity for about 600,000 civilians.",
+      "Following the strikes, Ukrainian officials reported Starlink internet service being restricted or throttled, affecting front‑line military operations.",
+      "Euronews reported an overnight restriction of Starlink operations as stated by a Zelenskyy adviser.",
+      "Politico and other outlets reported ongoing throttling of Starlink after the strikes.",
+      "United24 Media later reported that SpaceX had quietly tightened Starlink speed limits, which Ukraine said disrupted military missions."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=449",
+    "featured": true
+  },
+  {
     "id": 448,
     "title": "One stolen every four minutes - inside the police battle against vehicle thieves",
     "summary": "**Vehicle‑Theft Surge Prompts High‑Tech, Community‑Driven Policing in the UK, US and Canada**",
@@ -28,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=448",
-    "featured": true
+    "featured": false
   },
   {
     "id": 447,

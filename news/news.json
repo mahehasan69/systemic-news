@@ -1,5 +1,43 @@
 [
   {
+    "id": 458,
+    "title": "Trump Administration Sues California Over Voter Rolls",
+    "summary": "**DOJ Sues California Over Alleged Non‑Citizen Voter Registrations**",
+    "content": "**DOJ Sues California Over Alleged Non‑Citizen Voter Registrations**\n\nThe U.S. Department of Justice (DOJ) has filed a federal lawsuit against the State of California, alleging that thousands of non‑citizens are listed on the state’s voter rolls and that some have submitted mail‑in ballots in recent elections. Reported by outlets including *The New York Times*, ABC News, the Associated Press, Al Jazeera, Bloomberg and others, the suit represents a rare direct challenge by the federal government to a state’s voter‑registration system.\n\nThe complaint asserts that California’s voter rolls contain individuals who are ineligible to vote under federal law, creating a risk that illegal mail‑in ballots could affect election outcomes. The DOJ seeks an injunction that would bar California from counting any mail‑in ballots cast by the approximately 20,000 voters identified in the filing until their citizenship status is verified. The department has also demanded that the state complete the verification within 48 hours of the suit’s filing and has asked the court for a temporary restraining order (TRO) to enforce that deadline.\n\nCalifornia officials have not yet issued a formal response. State attorneys are expected to argue that existing registration procedures already include rigorous citizenship checks and that the DOJ’s claim lacks sufficient evidence. The timing of the lawsuit—unrelated to any specific election cycle—has amplified the ongoing national debate over voter‑fraud allegations, election integrity and the protection of voting rights. Legal analysts note that the case could set a precedent for how aggressively the DOJ may intervene in state election administration.\n\nThe dispute emerges amid heightened partisan scrutiny of voter rolls across the United States. Federal law requires that only U.S. citizens may vote in federal, state and local elections, and the DOJ is tasked with enforcing that requirement. However, multiple studies and audits have consistently found instances of non‑citizen voting to be exceedingly rare. Critics of the suit argue that the DOJ’s action is driven more by political considerations than by demonstrable fraud, while supporters contend that even a small number of illegal votes could erode public confidence in the electoral system.\n\nThe immediate next step is a court hearing on the DOJ’s request for an injunction. A judge will decide whether to grant the TRO, a ruling that could determine whether California proceeds with counting the contested mail‑in ballots in upcoming elections. State officials have described the 48‑hour verification demand as “unrealistic” given the scale of the task and the procedural safeguards normally required for voter‑status checks.\n\nIf the court grants the injunction, California may be forced to halt counting a subset of mail‑in ballots, potentially delaying election results and prompting a rapid verification effort. A denial would allow the state to continue its current ballot‑counting process while the broader legal challenge proceeds. Either outcome is likely to generate further litigation and could spur legislative action at both the state and federal levels to clarify standards for voter‑roll maintenance and mail‑in ballot verification.\n\nThe case underscores the tension between federal oversight and state autonomy in administering elections. As the judiciary weighs the DOJ’s claims, the dispute will test the limits of federal authority to intervene in state voter‑registration practices and may shape the procedural landscape for future elections nationwide.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-10-15",
+    "time": "22:45",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The U.S. Department of Justice (DOJ) filed a lawsuit against the State of California.",
+      "The lawsuit alleges that non‑citizens are registered on California voter rolls.",
+      "The lawsuit seeks to block California from counting certain mail‑in ballots that are alleged to have been cast by non‑citizens.",
+      "Multiple news outlets (The New York Times, ABC News, AP News, Al Jazeera, Bloomberg, New York Post, Boston Herald, Yahoo, CalMatters, Democracy Docket) reported on the lawsuit."
+    ],
+    "timeline": [
+      {
+        "event": "DOJ files lawsuit against California",
+        "date": "unknown"
+      },
+      {
+        "event": "DOJ demands California verify approximately 20,000 voters within 48 hours",
+        "date": "unknown"
+      },
+      {
+        "event": "Potential court hearing on the injunction request",
+        "date": "future, unspecified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=458",
+    "featured": true
+  },
+  {
     "id": 457,
     "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
     "summary": "**Former DUP Leader Jeffrey Donaldson Sentenced to 15 Years for Child Sexual‑Abuse Offences**",
@@ -31,7 +69,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=457",
-    "featured": true
+    "featured": false
   },
   {
     "id": 456,

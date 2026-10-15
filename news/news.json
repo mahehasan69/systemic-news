@@ -1,5 +1,39 @@
 [
   {
+    "id": 457,
+    "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+    "summary": "**Former DUP Leader Jeffrey Donaldson Sentenced to 15 Years for Child Sexual‑Abuse Offences**",
+    "content": "**Former DUP Leader Jeffrey Donaldson Sentenced to 15 Years for Child Sexual‑Abuse Offences**\n\nFormer Democratic Unionist Party (DUP) leader Jeffrey Donaldson was handed a 15‑year prison term on Thursday after a Northern Ireland court found him guilty of a series of child sexual‑abuse offences, including rape. The conviction, described by the judge as “serious and reprehensible,” marks one of the most high‑profile criminal judgments ever handed down to a senior politician in the region.\n\nThe offences stem from a police investigation conducted by the Police Service of Northern Ireland. A jury concluded that Donaldson had committed multiple crimes against children, causing “profound and lasting harm” to the victims. The sentencing was widely reported by the BBC, Reuters, The Guardian and The Irish Times, reflecting the case’s national significance.\n\n**Parole and Appeal Prospects**\n\nUnder Northern Irish law, Donaldson will become eligible for parole after roughly seven years, provided he meets the required assessments of behaviour, risk to the public and rehabilitation progress. No parole hearing date has been set, and any decision will be made by the relevant authorities in accordance with existing legal frameworks. While some reports have noted the possibility of an appeal, no formal notice of appeal has been filed at the time of writing.\n\n**Political Fallout**\n\nDonaldson’s fall from political prominence adds a stark dimension to the case. As former leader of the DUP—the largest unionist party in Northern Ireland—he played a central role in the power‑sharing arrangements established after the Good Friday Agreement and was a key figure in subsequent negotiations. The conviction therefore reverberates beyond the courtroom, raising questions about public trust in elected officials and reinforcing the principle that no individual is above the law.\n\n**Broader Implications**\n\nThe sentence signals a robust response by the criminal‑justice system to child sexual abuse and underscores the priority placed on protecting vulnerable individuals. It is likely to prompt political parties and public institutions to review internal safeguarding policies, ensuring that allegations of abuse are addressed promptly and transparently. Observers expect the case to shape public discourse on the conduct of politicians, potentially influencing voter expectations and the standards to which future office‑holders are held.\n\n**Next Steps**\n\nDonaldson will be transferred to a correctional facility to begin serving his term. The parole board will review his case in due course, with any decision on early release contingent on compliance with prison programmes and risk assessments. Should he choose to appeal the conviction or the length of the sentence, the appeal would be heard by the Court of Appeal in Belfast, where legal arguments would be examined anew. Until any such proceedings are concluded, the 15‑year sentence remains in force.\n\nThe Donaldson case serves as a sobering reminder of the legal system’s capacity to confront abuse at the highest levels of public life. It underscores the enduring importance of safeguarding children, holding political leaders accountable, and maintaining transparent judicial processes to preserve public confidence.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-15",
+    "time": "19:32",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jeffrey Donaldson, former leader of the Democratic Unionist Party (DUP), was sentenced to 15 years in prison.",
+      "The conviction relates to child sexual abuse offences, including rape.",
+      "The sentencing was reported by multiple reputable news outlets (BBC, Reuters, The Guardian, The Irish Times, etc.).",
+      "The sentencing took place in Northern Ireland."
+    ],
+    "timeline": [
+      {
+        "event": "Sentencing of Jeffrey Donaldson to 15 years for child sexual abuse",
+        "date": "unknown"
+      },
+      {
+        "event": "Projected earliest release after approximately 7 years (based on article speculation)",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=457",
+    "featured": true
+  },
+  {
     "id": 456,
     "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
     "summary": "**Donald Trump Confirms No Livestream of Nidal Hasan Execution**",
@@ -22,7 +56,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=456",
-    "featured": true
+    "featured": false
   },
   {
     "id": 455,

@@ -1,5 +1,25 @@
 [
   {
+    "id": 454,
+    "title": "Why Zelensky's meeting with Burnham matters",
+    "summary": "**BBC Headline Compilation Highlighted by Google News**",
+    "content": "**BBC Headline Compilation Highlighted by Google News**\n\nA recent Google News aggregation has assembled a list of ten BBC article titles, though the specific headlines and their subjects have not been disclosed. The collection, identified solely by its headline count, underscores the continued prominence of BBC reporting within major news‑aggregation platforms.\n\nThe compilation originates from news.google.com, a service that routinely curates headlines from leading outlets. In this instance, the aggregator selected exclusively BBC content, grouping ten distinct titles into a single list. No additional context—such as publication dates, authors, or thematic categorisation—accompanies the list.\n\nBecause the underlying articles are not enumerated, the precise topics covered remain unknown. Consequently, analysis can only confirm that BBC stories are being widely disseminated and indexed by prominent aggregators, rather than assess the relevance or impact of the individual pieces.\n\nThe absence of detailed information highlights a broader challenge in media monitoring: headline collections can indicate the volume of coverage but often omit the substantive content needed for deeper insight. Readers seeking to understand the issues addressed by the BBC must consult the original articles directly through the news.google.com platform.\n\nAt present, no further events or follow‑up actions have been reported in connection with the compilation. The primary takeaway is that a curated set of ten BBC headlines exists, reflecting the outlet’s ongoing presence in the global news ecosystem, while the specifics of each story await direct examination of the source material.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-15",
+    "time": "05:37",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=454",
+    "featured": true
+  },
+  {
     "id": 453,
     "title": "We are behind you and that will not change, PM tells Zelensky",
     "summary": "**UK Reaffirms Unwavering Support for Ukraine Amid Controversial Starlink Claim**",
@@ -22,7 +42,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=453",
-    "featured": true
+    "featured": false
   },
   {
     "id": 452,

@@ -1,5 +1,30 @@
 [
   {
+    "id": 453,
+    "title": "We are behind you and that will not change, PM tells Zelensky",
+    "summary": "**UK Reaffirms Unwavering Support for Ukraine Amid Controversial Starlink Claim**",
+    "content": "**UK Reaffirms Unwavering Support for Ukraine Amid Controversial Starlink Claim**\n\n*London, 15 October 2026* – During a high‑profile visit to Kyiv, Prime Minister Rishi Burnham told President Volodymyr Zelensky that the United Kingdom’s military, financial and political assistance to Ukraine will remain unchanged. The pledge, made in a private meeting on Thursday, underscores Britain’s commitment to Kyiv even as Westminster navigates a complex relationship with former U.S. President Donald Trump and the broader Western alliance.\n\nBurnham’s statement – “the United Kingdom is behind you and that support will not change” – echoes earlier remarks from his office and is intended to reassure Kyiv that British aid will persist despite shifting geopolitical currents. The UK has already outlined a package of weapons, training and funding that it says will continue to flow to Ukraine under existing defence agreements.\n\nThe same visit brought renewed attention to a separate, contentious issue involving SpaceX founder Elon Musk. In a public comment, Musk suggested that the United States government might be responsible for a slowdown in the speed of Ukrainian drones that rely on Starlink, the satellite‑internet service operated by his company. No U.S. officials have confirmed the allegation, and the claim remains unverified.\n\nIf accurate, a reduction in Starlink bandwidth could impair the performance of Ukraine’s drones, which depend on high‑speed, low‑latency connections for real‑time video, navigation and targeting data. Ukrainian officials have expressed concern, and Western allies have highlighted Starlink as a cornerstone of Kyiv’s digital resilience. The magnitude of any slowdown, however, has not been quantified.\n\nMusk’s suggestion raises broader questions about the role of private technology firms in modern conflict. Starlink has been praised for providing a robust communications backbone in a contested environment, but the notion that a government could throttle a civilian‑owned satellite network introduces a new layer of uncertainty. Should the allegation be substantiated, it could set a precedent for how states interact with commercial infrastructure that has become integral to national‑security operations.\n\nBurnham’s diplomatic outreach reflects the wider complexities of the Western response to the war. While reaffirming British support, he must also contend with the lingering influence of Trump’s former administration, whose policies toward Ukraine and Russia continue to shape U.S. political discourse. Maintaining this balance will be crucial for future coordination on military aid, sanctions and diplomatic initiatives aimed at pressuring Moscow.\n\nLooking ahead, the United Kingdom has signalled that its aid package will proceed unchanged, regardless of external pressures. Ukrainian officials are expected to seek clarification from Washington regarding the alleged Starlink slowdown and may explore alternative communication channels to mitigate any operational impact. NATO allies will be watching closely to determine whether the claim prompts diplomatic inquiries or adjustments in support mechanisms.\n\nIn sum, Burnham’s visit highlighted two parallel narratives: a steadfast British commitment to Ukraine and a disputed allegation of U.S. involvement in a Starlink‑related drone speed reduction. Both underscore the intricate web of alliances, technology and strategy that underpins the Ukraine conflict. The effectiveness of Kyiv’s drone fleet and the cohesion of its international partners will remain pivotal as the war continues.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-15",
+    "time": "01:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Prime Minister told Ukrainian President Volodymyr Zelensky that the UK is behind him and that support will not change.",
+      "Burnham told Zelensky that the United Kingdom's support for Ukraine will not change.",
+      "Elon Musk said the US government may be behind a slowdown of Ukraine's drone speeds that use Starlink.",
+      "Burnham is navigating his visit with Zelensky while balancing relations with former US President Donald Trump and Ukraine."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=453",
+    "featured": true
+  },
+  {
     "id": 452,
     "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
     "summary": "**Starlink Speed Caps Disrupt Ukrainian Drone Operations, Prompting Questions Over U.S. Involvement**",
@@ -20,7 +45,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=452",
-    "featured": true
+    "featured": false
   },
   {
     "id": 451,

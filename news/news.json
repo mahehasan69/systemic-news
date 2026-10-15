@@ -1,5 +1,30 @@
 [
   {
+    "id": 456,
+    "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+    "summary": "**Donald Trump Confirms No Livestream of Nidal Hasan Execution**",
+    "content": "**Donald Trump Confirms No Livestream of Nidal Hasan Execution**\n\nFormer President Donald Trump has clarified that the upcoming execution of former Fort Hood shooter Nidal Hasan will not be broadcast live. While the death sentence will be carried out by firing squad, the event will be conducted behind closed doors, with no livestream for the public or the media.\n\nThe statement, reported by a range of outlets including the BBC, Politico, NBC News, CNN, Axios, CBS News, CBC, Yahoo and The Independent, addresses recent speculation that the government might allow real‑time viewing of the execution. No specific date has been announced, and federal authorities have not released details about witnesses or media access.\n\n**Background on the Case**\n\nIn November 2009, Army Major Nidal Hasan opened fire at the Fort Hood military base in Texas, killing 13 people and wounding more than 30. Convicted of multiple counts of murder and attempted murder, Hasan has been on federal death row for over a decade. The decision to use a firing squad—a method employed only sparingly in recent U.S. history—places the case at the center of ongoing debates over capital punishment and military justice.\n\nHasan, a psychiatrist in the Army, was motivated by extremist ideology, a factor that continues to shape discussions about radicalization within the armed forces. The choice of a firing squad over lethal injection reflects broader challenges in procuring the drugs required for the latter, prompting several states to consider alternative execution methods.\n\n**Implications of the Announcement**\n\nTrump’s clarification touches on broader issues of transparency and public accountability in the criminal‑justice system. Advocates for open government argue that the public has a right to understand how the state administers its most severe punishments, while opponents warn that graphic exposure could have unintended societal effects. The decision to forgo a livestream also aligns with longstanding protocols that limit the dissemination of execution footage, citing concerns for dignity, the potential desensitization of viewers, and the impact on victims’ families.\n\nFamilies of the Fort Hood victims have expressed a desire for a dignified conclusion to the tragedy, and the absence of a public broadcast is likely to be welcomed by those seeking closure without sensationalism.\n\n**Next Steps**\n\nFederal officials are expected to issue formal notices to the Department of Justice and the Department of Defense outlining the logistical arrangements and confirming compliance with applicable legal standards. Until such notices are released, details about the timing of Hasan’s execution and the presence of witnesses remain undisclosed.\n\n**Conclusion**\n\nDonald Trump’s announcement that Nidal Hasan’s execution will not be livestreamed provides a limited but clear update on a high‑profile death‑penalty case. The use of a firing squad, coupled with the decision to keep the event off public airwaves, reflects a balance between procedural transparency and the sensitivities surrounding capital punishment. While the exact date of the execution remains unknown, officials indicate that it will proceed under established protocols, bringing a final chapter to a tragedy that has resonated within the military community for more than a decade.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-15",
+    "time": "15:24",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump stated the execution of Fort Hood shooter Nidal Hasan will not be livestreamed",
+      "The execution method mentioned is a firing squad",
+      "The shooter, Nidal Hasan, killed 13 people at Fort Hood",
+      "Multiple news outlets (BBC, Politico, NBC News, CNN, Axios, CBS News, CBC, Yahoo, The Independent) reported the same statement"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=456",
+    "featured": true
+  },
+  {
     "id": 455,
     "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
     "summary": "**Ukraine Resumes Missile and Drone Strikes on Russian Oil Refineries, President Zelensky Announces**",
@@ -25,7 +50,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=455",
-    "featured": true
+    "featured": false
   },
   {
     "id": 454,

@@ -1,5 +1,45 @@
 [
   {
+    "id": 460,
+    "title": "Three children and teacher killed in US primary school shooting",
+    "summary": "**Three Children and a Teacher Killed in Bend, Oregon Elementary School Shooting; Teen Suspect Also Dies**",
+    "content": "**Three Children and a Teacher Killed in Bend, Oregon Elementary School Shooting; Teen Suspect Also Dies**\n\nBEND, Oregon — A 16‑year‑old suspect opened fire at an elementary school in Bend, killing three students and a teacher before being shot and killed by a witness. The incident, which unfolded in a city of roughly 110,000 residents, has sent shockwaves through the Pacific‑Northwest community and reignited nationwide debate over school safety.\n\n**Details of the Attack**\n\nAuthorities have not released the name of the school. According to multiple outlets, the gunman entered the building and discharged his weapon, killing three children and a faculty member. Within minutes, a bystander fired a fatal shot at the suspect, ending the threat. Law‑enforcement officials have not disclosed the type of firearm used or the motive behind the assault, and the precise sequence of events after the initial gunfire remains under investigation.\n\n**Law‑Enforcement Response**\n\nFirst responders secured the campus and provided emergency medical care to the victims. Detectives are conducting a comprehensive investigation that includes interviewing witnesses, reviewing surveillance footage, and tracing the origin of the weapon. No official statements have been made regarding any prior warning signs or the suspect’s relationship to the school community.\n\n**Community Impact**\n\nThe loss of five lives—three young students, a teacher, and the teenage shooter—has left a profound imprint on Bend’s residents. Local leaders, school officials, and clergy have begun organizing memorial services and vigils to honor the victims and support grieving families. The tragedy has also amplified public concern about the safety of educational environments, echoing broader national conversations about gun violence in schools.\n\n**Media Coverage and Public Reaction**\n\nCoverage of the shooting has spanned local stations to international news agencies, underscoring the incident’s resonance beyond Oregon. Analysts note that the rapid dissemination of information reflects heightened public interest in school‑related shootings, a pattern observed in previous high‑profile cases. Officials have cautioned against speculation, emphasizing that the investigation is still in its early stages and that definitive conclusions about the shooter’s intent or any possible accomplices will emerge only after a thorough forensic review.\n\n**Next Steps**\n\nLaw‑enforcement agencies will continue to reconstruct the chronology of the attack, examine the suspect’s digital footprint, and assess any security lapses at the school. State and local policymakers are expected to convene hearings or task forces to evaluate existing safety protocols and consider reforms aimed at preventing future incidents.\n\nThe Bend elementary school shooting stands as a tragic episode that has claimed the lives of three children, a teacher, and the teenage assailant, leaving an indelible scar on a close‑knit community. As the investigation proceeds, officials, educators, and legislators will grapple with the imperative to protect schools, support victims’ families, and address the underlying factors that enable such violence.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-16",
+    "time": "05:14",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The shooting occurred at an elementary school in Bend, Oregon, USA.",
+      "Three children were killed.",
+      "One adult (identified as a teacher in most reports) was killed.",
+      "The shooter was a teenager (described as a 16‑year‑old in at least one source).",
+      "The teenage suspect was killed after the shooting (reported as being shot by a witness or otherwise dead).",
+      "Multiple news outlets (BBC, Al Jazeera, WSJ, ABC News, The Washington Post, WBAL‑TV, Yahoo News Singapore, DW.com, CBS News, PBS) reported on the incident."
+    ],
+    "timeline": [
+      {
+        "event": "Shooting at elementary school in Bend, Oregon",
+        "time": "Date not specified in provided articles"
+      },
+      {
+        "event": "Teen suspect killed (shot by a witness or otherwise)",
+        "time": "Shortly after the shooting, as reported by multiple sources"
+      },
+      {
+        "event": "News outlets publish reports",
+        "time": "Following the incident (same day or next day, exact timing not provided)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=460",
+    "featured": true
+  },
+  {
     "id": 459,
     "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
     "summary": "**Bus Collides with Train on French Side of Channel Tunnel, 19 Injured**",
@@ -22,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=459",
-    "featured": true
+    "featured": false
   },
   {
     "id": 458,

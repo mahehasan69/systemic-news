@@ -1,5 +1,38 @@
 [
   {
+    "id": 462,
+    "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+    "summary": "**Trump denounces Ukrainian strikes on Russian oil refineries; Zelensky defends right to self‑defence; EU leaders reaffirm support as €90 billion aid package faces funding shortfall**",
+    "content": "**Trump denounces Ukrainian strikes on Russian oil refineries; Zelensky defends right to self‑defence; EU leaders reaffirm support as €90 billion aid package faces funding shortfall**\n\n*Washington* – Former U.S. President Donald Trump condemned recent Ukrainian attacks on Russian oil refineries, calling them a “disgrace” during a televised appearance. The comment prompted an immediate response from Kyiv. President Volodymyr Zelensky defended the strikes as a legitimate element of Ukraine’s self‑defence against Russian aggression, and European leaders reiterated their political backing for Kyiv while warning that the European Union’s €90 billion assistance package could be exhausted in the near term.\n\nTrump’s criticism followed the collapse of his proposal for an “energy cease‑fire,” a plan that sought to halt attacks on energy infrastructure on both sides of the conflict. With the proposal failing to gain traction, Trump turned his attention to the Ukrainian operations, labeling them a breach of what he described as responsible conduct in war. He offered no detailed legal or strategic justification, framing the attacks as morally objectionable.\n\nIn a press briefing, Zelensky responded swiftly. He argued that the strikes were aimed at curbing Russia’s ability to fund its war machine through oil revenues and therefore constituted a lawful act of self‑defence. Zelensky also took the opportunity to criticize Trump, stating that “real leaders” stand with Ukraine while the former U.S. president seeks to denigrate its actions. His remarks were echoed by a chorus of European officials who condemned any attempt to delegitimize Ukraine’s defensive measures.\n\nAt a high‑level EU summit, heads of state and government publicly rallied behind Zelensky, underscoring the bloc’s political solidarity with Ukraine. Simultaneously, senior officials in Brussels warned that the €90 billion fund earmarked for reconstruction, military aid and humanitarian assistance could run out sooner than expected. The discussion highlighted the urgency of securing additional financing or reallocating existing resources to maintain the flow of support. No concrete decision on replenishing the fund was announced, but the prospect of a funding gap has entered the diplomatic calculus of both Brussels and Kyiv.\n\nThe episode illustrates several intersecting dynamics. First, it shows how former U.S. officials can still shape the narrative surrounding the war, even without official policy weight. Second, the EU’s renewed focus on the financial sustainability of its aid package signals a shift from purely political endorsement to pragmatic budgeting. If the €90 billion pool diminishes without replacement, Ukraine could face shortfalls in artillery resupply, energy reconstruction and civilian assistance. Finally, the incident underscores the divergent views among allies and adversaries on targeting energy infrastructure—a tactic that remains contentious.\n\nLooking ahead, EU officials are expected to convene further discussions on how to address the looming depletion of the aid fund. Options under consideration include additional contributions from member states, tapping other EU financial instruments, or revising allocation priorities within the existing budget. Trump has not indicated whether he will issue further comments on Ukrainian military actions, leaving open the possibility of additional statements that could influence public opinion and diplomatic posturing. Kyiv, for its part, is likely to continue its campaign against Russian oil facilities while seeking to solidify international backing, both political and financial.\n\nThe key takeaway is that Ukraine’s right to self‑defence remains widely supported among its Western partners, even as internal debates over funding and strategic messaging intensify. The convergence of a high‑profile criticism from a former U.S. president, a robust defence by Kyiv’s leader, and a renewed EU focus on the durability of its aid package highlights the complex, multi‑layered nature of the conflict’s international dimensions.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-16",
+    "time": "15:04",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump publicly called recent Ukrainian strikes on Russian oil refineries a “disgrace”.",
+      "Ukrainian President Volodymyr Zelensky said Ukraine has the right to defend itself after Trump’s comment.",
+      "EU leaders expressed support for Zelensky following Trump’s remarks.",
+      "The European Union discussed that its €90 billion fund for Ukraine could be exhausted soon.",
+      "Zelensky criticized Trump and praised other “real leaders” for backing Kyiv.",
+      "Trump’s criticism came after his proposal for an “energy cease‑fire” collapsed."
+    ],
+    "timeline": [
+      "Trump publicly labels Ukrainian strikes on Russian oil refineries a “disgrace”.",
+      "Zelensky responds, asserting Ukraine’s right to defend itself.",
+      "EU leaders issue statements rallying around Zelensky.",
+      "Brussels discusses the looming depletion of the €90 billion Ukraine support package.",
+      "Zelensky later swipes at Trump, praising other leaders for backing Kyiv."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=462",
+    "featured": true
+  },
+  {
     "id": 461,
     "title": "$137 Million in A.I.-Generated Ads Flood the Midterms",
     "summary": "**$137 Million in AI‑Generated Ads Flood the 2024 Midterms**",
@@ -25,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=461",
-    "featured": true
+    "featured": false
   },
   {
     "id": 460,

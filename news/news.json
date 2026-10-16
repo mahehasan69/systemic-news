@@ -1,5 +1,30 @@
 [
   {
+    "id": 459,
+    "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+    "summary": "**Bus Collides with Train on French Side of Channel Tunnel, 19 Injured**",
+    "content": "**Bus Collides with Train on French Side of Channel Tunnel, 19 Injured**\n\nA bus operating on the Eurotunnel loading platform on the French side of the Channel Tunnel struck a shuttle train, leaving 19 people injured, officials said. Emergency services responded promptly at the Eurotunnel terminal in Coquelles, where road vehicles are loaded onto trains that travel through the 31‑mile under‑sea tunnel linking Folkestone, England, and Coquelles, France.\n\nThe collision, reported by outlets including the BBC, The Guardian, The Times, DW.com, The Straits Times, The Times of India, Yahoo and AOL, occurred on the dedicated loading area that serves both buses and freight vehicles. While the precise moment of impact has not been disclosed, emergency crews treated the injured on site and transferred the most seriously hurt to nearby hospitals. Details of the injuries have not been released.\n\nFrench police and Eurotunnel safety teams have opened an investigation. Authorities will examine the bus’s movement onto the platform, the train’s positioning, and any mechanical or human factors that may have contributed. In the meantime, loading operations at the French terminal have been temporarily suspended while safety checks are carried out.\n\nThe Channel Tunnel, inaugurated in 1994, remains one of Europe’s busiest trans‑national transport corridors, handling millions of passengers and freight vehicles each year. The Eurotunnel shuttle service, which transports cars, buses and trucks on specially designed trains, is a vital link for commerce and tourism between the United Kingdom and continental Europe. Any disruption to this service can affect supply chains, travel itineraries and cross‑border logistics.\n\nEurotunnel officials have pledged full cooperation with investigators and reiterated that safety is the organisation’s top priority. Service operators will provide updates on the resumption of loading activities once the platform is cleared and a thorough safety assessment is completed. Passengers with bookings through the French terminal have been advised to check with their travel providers for possible schedule changes.\n\nThe incident highlights the complex coordination required to operate one of the world’s most heavily used underwater rail links. While the immediate focus remains on caring for the injured and restoring normal operations, the collision is expected to inform future safety reviews across the tunnel’s network. Authorities will release further details on the cause of the crash and any measures introduced to prevent a recurrence.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-16",
+    "time": "00:53",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Bus collided with a train on the French side of the Channel Tunnel",
+      "19 people were reported injured",
+      "The incident was reported by multiple news outlets (BBC, Yahoo, AOL, The Times, DW.com, The Times of India, The Guardian, The Straits Times)",
+      "The collision occurred at a Eurotunnel loading platform/terminal"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=459",
+    "featured": true
+  },
+  {
     "id": 458,
     "title": "Trump Administration Sues California Over Voter Rolls",
     "summary": "**DOJ Sues California Over Alleged Non‑Citizen Voter Registrations**",
@@ -35,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=458",
-    "featured": true
+    "featured": false
   },
   {
     "id": 457,

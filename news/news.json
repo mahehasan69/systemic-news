@@ -1,5 +1,33 @@
 [
   {
+    "id": 464,
+    "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+    "summary": "**Zelensky Reaffirms Ukraine’s Right to Self‑Defence Amid Trump’s Criticism**",
+    "content": "**Zelensky Reaffirms Ukraine’s Right to Self‑Defence Amid Trump’s Criticism**\n\nKyiv – Ukrainian President Volodymyr Zelensky reiterated on Tuesday that “Ukraine has the right to defend itself” after former U.S. President Donald Trump condemned the latest Ukrainian air and artillery strikes on Russian‑occupied territories as a “disgrace.” Trump’s remarks, widely reported in the United States, are expected to influence public opinion on military aid to Kyiv, where support for the conflict remains sharply divided.\n\nZelensky’s statement underscores the legal and moral foundation of Ukraine’s ongoing campaign and reinforces the message that has been central to Kyiv’s diplomatic outreach to Western allies. The president’s comments come as Ukraine’s “Operation Vivaldi” continues to push Russian forces back along the front line. While exact territorial changes have not been disclosed, the operation is reported to be forcing Russian units to withdraw from several contested positions, suggesting that Kyiv’s strategy is achieving measurable gains. The progress of Operation Vivaldi is being closely watched by NATO members as they assess the scale and timing of further assistance.\n\n**White House Turmoil Over Press Communications**\n\nIn Washington, Trump’s criticism extended to the White House press office, where he suggested that the newly appointed press secretary should “reconsider” the job. The comment arrived amid the brief tenure of Katie Zacharia, who served as a senior communications official for only five days and delivered a single briefing before departing. Zacharia’s rapid exit highlights the turnover that has characterized recent White House staffing decisions, though no further details about her departure have been released.\n\n**California Wildfire Response**\n\nOn the West Coast, emergency responders deployed aircraft to combat the Bryson fire in Malibu, California. The aerial assets were mobilised to contain the blaze and protect nearby communities, illustrating the coordinated response of state and federal agencies during wildfire season. The fire’s final size and damage assessment remain pending, but the deployment underscores the ongoing challenges posed by climate‑driven wildfires in the region.\n\n**Sunderland AFC’s Historic European Victory**\n\nIn sport, Sunderland AFC supporters celebrated a milestone achievement: the club’s first European away win in 53 years. The victory, secured in a continental competition, sparked jubilant scenes among fans and marked a historic moment for a team seeking to re‑establish itself on the European stage. The win reflects both the emotional resonance for the fan base and the broader resurgence of English clubs in continental tournaments after decades of limited exposure.\n\n**Implications and Outlook**\n\nZelensky’s reaffirmation of Ukraine’s defensive rights, set against Trump’s disparaging remarks, is likely to shape future U.S. discourse on aid to Kyiv. The incremental advances of Operation Vivaldi provide tangible evidence of Ukraine’s capacity to alter front‑line dynamics, a factor that will inform ongoing aid discussions among Western partners.\n\nIn Washington, the brief and turbulent tenure of communications staff signals continued volatility within the executive branch, suggesting that the White House’s messaging strategy may undergo further adjustments as officials respond to criticism from former leaders and navigate internal staffing changes.\n\nThe Bryson fire response highlights the persistent threat of wildfires to California communities, with fire officials monitoring the blaze’s progression and preparing additional resources for full containment.\n\nFinally, Sunderland’s historic European win offers a reminder that moments of collective joy can emerge even amid broader geopolitical tensions, as the club looks to build on its success in upcoming continental fixtures.\n\nCollectively, these developments illustrate how political rhetoric, military operations, administrative turnover, emergency management, and sporting triumphs each capture public attention and influence discourse across distinct spheres of global affairs.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-16",
+    "time": "22:17",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ukrainian President Volodymyr Zelensky said Ukraine has the right to defend itself.",
+      "Former US President Donald Trump called the latest strikes a \"disgrace\".",
+      "Ukraine is conducting an operation called \"Operation Vivaldi\" that is pushing Russian forces back on the frontline.",
+      "Katie Zacharia's tenure lasted five days and included one briefing.",
+      "Aircraft were deployed to fight the Bryson fire in Malibu.",
+      "Donald Trump said the new White House press secretary should \"reconsider\" the job.",
+      "Sunderland fans celebrated the club's first European away win in 53 years."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=464",
+    "featured": true
+  },
+  {
     "id": 463,
     "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
     "summary": "**BBC’s Recent Coverage Spans Ukraine’s Frontlines, Satellite Technology, and High‑Profile Incidents Across Europe and the United States**",
@@ -28,7 +56,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=463",
-    "featured": true
+    "featured": false
   },
   {
     "id": 462,

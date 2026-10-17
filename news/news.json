@@ -1,5 +1,47 @@
 [
   {
+    "id": 469,
+    "title": "Pope discharged from hospital days after lung cancer surgery",
+    "summary": "**Pope Leo XIV Discharged After Lung Cancer Surgery**",
+    "content": "**Pope Leo XIV Discharged After Lung Cancer Surgery**\n\n*Rome, Oct. 17* — Pope Leo XIV, the 71‑year‑old head of the Catholic Church, left the hospital on Saturday, four days after undergoing a right‑lung operation to remove cancerous tissue. In a brief address to the faithful, the pontiff said he felt “much better, thank you,” indicating a swift recovery that could allow him to resume his demanding schedule, including a planned trip to Latin America pending medical clearance.\n\nThe surgery, confirmed by NPR, CBS News, Reuters, the Catholic News Service of the United States Conference of Catholic Bishops and the *New York Times*, involved resecting a portion of the pope’s right lung after doctors identified a malignant growth. The procedure was performed at a Rome‑area medical center equipped for high‑risk operations on a public figure of the pope’s stature.\n\nHospital officials reported that the pope was under intensive observation for the first 24 hours before being transferred to a regular ward. During his four‑day stay he received standard post‑operative care, including respiratory therapy and pain management. Vatican medical sources cited by the *Washington Post* and the *New York Post* said his vital signs remained stable and no complications such as infection or bleeding occurred. By the fourth day he was able to walk unaided and his breathing had improved markedly, prompting doctors to clear him for discharge.\n\nVatican spokespeople said the pope will continue to be monitored but is expected to return to his duties at the Vatican in the coming weeks. The rapid discharge is notable for a procedure that typically requires a longer convalescence period; medical experts have pointed to early mobilization and the pontiff’s overall health as key factors in the favorable outcome.\n\nThe pope’s recovery removes an immediate obstacle to his upcoming itinerary, which includes a high‑profile visit to several Latin American nations later this month. The Associated Press reported that the trip will proceed only after the Vatican’s medical advisers give the green light.\n\nThe episode comes as the Catholic Church navigates a range of global challenges, from doctrinal debates to social‑justice initiatives. With more than 1.3 billion adherents worldwide, Pope Leo XIV’s health has been closely watched. His quick recuperation not only eases concerns about his capacity to lead but also reinforces the continuity of papal governance, essential for the Church’s diplomatic and charitable operations.\n\nLooking ahead, the Vatican’s medical team will continue to assess the pope’s respiratory function and stamina. If cleared, the Latin American tour could serve as a symbolic reaffirmation of his commitment to the continent’s Catholic communities, many of which face economic and social hardships. In the interim, the pontiff is expected to resume his daily schedule—presiding over liturgical celebrations, meeting senior clergy and engaging in ongoing theological discussions.\n\nThe discharge underscores both the effectiveness of modern thoracic surgery and the resilience of a leader whose health remains a matter of global interest. As the Vatican prepares for the next phase of his papacy, Pope Leo XIV’s simple message—“I am much better, thank you”—offers a reassuring note of optimism for Catholics around the world.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "16:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Pope Leo XIV underwent surgery on his right lung to treat lung cancer (NPR, CBS News, Reuters, OSV News, USCCB, Washington Post, New York Post, People.com, NY Times)",
+      "He was discharged from the hospital four days after the operation (NPR, CBS News, Reuters, OSV News, USCCB, Washington Post, New York Post, People.com, NY Times)",
+      "He told supporters he felt \"much better\" after discharge (NY Times quote, New York Post)",
+      "He is 71 years old (People.com)"
+    ],
+    "timeline": [
+      {
+        "event": "Lung cancer surgery on right lung",
+        "relative_day": 0
+      },
+      {
+        "event": "Hospital stay post‑surgery",
+        "relative_day": "1‑4"
+      },
+      {
+        "event": "Discharge from hospital (Saturday)",
+        "relative_day": 4
+      },
+      {
+        "event": "Public statement: \"I am much better, thank you\"",
+        "relative_day": 4
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=469",
+    "featured": true
+  },
+  {
     "id": 468,
     "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
     "summary": "**BBC Headlines Reveal a Broad Spectrum of Current Affairs**",
@@ -25,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=468",
-    "featured": true
+    "featured": false
   },
   {
     "id": 467,

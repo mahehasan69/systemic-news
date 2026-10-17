@@ -1,5 +1,33 @@
 [
   {
+    "id": 468,
+    "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+    "summary": "**BBC Headlines Reveal a Broad Spectrum of Current Affairs**",
+    "content": "**BBC Headlines Reveal a Broad Spectrum of Current Affairs**\n\nA recent compilation of ten BBC headlines, curated from news.google.com, offers a concise snapshot of the broadcaster’s coverage over the past weeks. The selection spans civil unrest in Europe, geopolitical tensions involving Ukraine, and lighter cultural pieces, illustrating the range of stories that have shaped public discourse.\n\n**European Street Protests**\n\nThree of the headlines focus on demonstrations that have erupted across the continent:\n\n* **Paris:** “Watch: ‘Mood has really shifted’ as Paris protesters clash with police” captures a sudden escalation in the French capital, where demonstrators and law‑enforcement officers engaged in direct confrontation.  \n* **Strasbourg:** “Tear gas deployed at Strasbourg protests” reports the use of crowd‑control agents during rallies in the eastern French city.  \n* **Albania:** “Violent clashes between police and protesters in Albania” details similarly intense street battles in the Balkan nation, underscoring a broader pattern of heightened public dissent.\n\nThese reports highlight a wave of civic activism that appears to be driven by a mix of economic, social and political grievances.\n\n**Geopolitical Spotlight**\n\nThe collection also includes a headline that turns to international security: “Watch: Will Ukraine get the support needed as tensions with US rise?” The piece examines the evolving relationship between Kyiv and Washington, questioning whether the United States will maintain the political and material backing Ukraine requires amid growing strains. While the headline does not specify policy moves, its inclusion signals the BBC’s focus on the high‑stakes dynamics of the Ukraine conflict.\n\n**Profile and Pop‑Culture Features**\n\nTwo items shift away from protest and politics to more personal narratives:\n\n* “Five days, one briefing: How Katie Zacharia’s short tenure unfolded” offers a concise chronicle of Zacharia’s five‑day stint in a notable position, summarising the key moments of her brief tenure.  \n* “Street Fighter’s Chun‑Li ate 12 eggs a day to prepare” provides a quirky glimpse into the regimen of the iconic video‑game character, noting the specific figure of twelve eggs consumed daily as part of her preparation routine.\n\n**Editorial Balance and Digital Curation**\n\nThe breadth of topics reflects the BBC’s editorial strategy of pairing hard‑news events with human‑interest stories. By juxtaposing reports of violent street clashes, analyses of diplomatic support for Ukraine, and light‑hearted cultural anecdotes, the broadcaster demonstrates a commitment to covering both immediate, high‑stakes developments and stories that engage audiences on a personal level.\n\nThe headlines were all sourced from the BBC and indexed on the Google News platform, underscoring the role of digital aggregators in curating and disseminating global reporting.\n\n**Implications and Outlook**\n\nThe compilation serves as a barometer of the challenges confronting societies today. The protests in Paris, Strasbourg and Albania point to a surge in civic activism, while the Ukraine‑US tension headline signals ongoing uncertainty in international security arrangements. Meanwhile, the profiles of Katie Zacharia and Chun‑Li remind readers that individual narratives and pop‑culture references continue to shape public conversation.\n\nLooking ahead, the BBC is expected to update its coverage as events evolve. Future headlines may detail the outcomes of the protests, any policy shifts in the Ukraine‑US relationship, or additional cultural stories that capture public imagination.\n\nIn sum, this ten‑item collection offers a concise yet comprehensive overview of recent developments in protest movements, diplomatic dynamics and cultural commentary, highlighting the interconnected nature of contemporary news and the importance of monitoring both the tumultuous and the trivial to understand the global narrative.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "13:20",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "All ten articles are sourced from news.google.com and attributed to the BBC.",
+      "The BBC article titled \"Watch: 'Mood has really shifted' as Paris protesters clash with police\" references protests in Paris, France.",
+      "The BBC article titled \"Violent clashes between police and protesters in Albania\" references protests in Albania.",
+      "The BBC article titled \"Tear gas deployed at Strasbourg protests\" references protests in Strasbourg, France.",
+      "The BBC article titled \"Watch: Will Ukraine get the support needed as tensions with US rise?\" references Ukraine and the United States.",
+      "The BBC article titled \"Five days, one briefing: How Katie Zacharia’s short tenure unfolded\" mentions Katie Zacharia.",
+      "The BBC article titled \"Street Fighter's Chun-Li ate 12 eggs a day to prepare\" mentions the number 12 eggs."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=468",
+    "featured": true
+  },
+  {
     "id": 467,
     "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
     "summary": "**Light Aircraft Crash Near Loch Lomond Claims Two Lives**",
@@ -35,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=467",
-    "featured": true
+    "featured": false
   },
   {
     "id": 466,

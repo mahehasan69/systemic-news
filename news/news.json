@@ -1,5 +1,31 @@
 [
   {
+    "id": 472,
+    "title": "Anti-government protesters battle with police in Albania",
+    "summary": "**Tirana Unrest Escalates as Demonstrators Demand Prime Minister’s Resignation**",
+    "content": "**Tirana Unrest Escalates as Demonstrators Demand Prime Minister’s Resignation**\n\n*Tirana, Albania –* Demonstrations erupted in Albania’s capital this week, with thousands taking to the streets to call for the resignation of Prime Minister Edi Rama. The protests, driven by a wave of anti‑government sentiment and growing dissatisfaction among students, quickly turned violent as police deployed tear gas and pepper spray in an effort to disperse the crowds.\n\n**Core Demands and Government Response**\n\nProtesters argue that Rama’s administration no longer represents the interests of the Albanian public, particularly younger citizens who feel marginalized by recent policies. Despite mounting pressure, Rama has publicly refused to step down, a stance that has further polarized public debate and intensified the demonstrators’ resolve.\n\n**Clashes and Public Disruption**\n\nLaw‑enforcement officers responded with crowd‑control measures, including tear gas and pepper spray. The confrontations resulted in injuries on both sides and have been described by observers as riots. The unrest forced the closure of several central avenues, disrupted daily life, and prompted a heightened security presence throughout the city’s downtown districts.\n\n**Underlying Discontent**\n\nWhile specific policy grievances have not been detailed in available reports, the protests reflect a broader perception that the current leadership is out of step with the aspirations of a significant segment of the population. Student groups and other civil‑society actors have joined the street actions, underscoring a deepening rift between the government and portions of the electorate.\n\n**Implications for Albania’s Strategic Goals**\n\nAlbania’s political stability is a cornerstone of its ongoing efforts to deepen integration with European institutions and attract foreign investment. Persistent unrest and a hard‑line governmental response could tarnish the country’s international image and hinder reform initiatives. Moreover, Rama’s refusal to resign despite sustained public pressure raises questions about the resilience of Albania’s democratic mechanisms and the capacity of civil society to effect change.\n\n**Outlook**\n\nAuthorities have not announced a concrete de‑escalation plan, and the situation remains fluid. Local and international media continue to monitor developments, warning that further demonstrations are likely if underlying grievances remain unaddressed. Law‑enforcement agencies appear poised to maintain a heightened state of readiness, while opposition groups are expected to explore additional avenues to amplify their demands.\n\n**Conclusion**\n\nThe clashes in Tirana illustrate a deepening divide between the Albanian government and a segment of its citizenry demanding political accountability. The combination of anti‑government sentiment, student dissatisfaction, and the prime minister’s steadfast refusal to resign has created a volatile environment that threatens both domestic stability and Albania’s broader strategic objectives. The next steps taken by the government and protest organizers will be pivotal in determining whether the capital can return to calm or whether the unrest will intensify.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "23:34",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Protests occurred in Tirana, Albania",
+      "Protesters clashed with police",
+      "Police used tear gas and pepper spray",
+      "Protesters demanded the resignation of Prime Minister Edi Rama",
+      "Prime Minister Edi Rama defied calls to resign"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=472",
+    "featured": true
+  },
+  {
     "id": 471,
     "title": "European diplomats attacked by Israeli settlers in West Bank",
     "summary": "**European Diplomats Assaulted by Israeli Settlers in the West Bank**",
@@ -41,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=471",
-    "featured": true
+    "featured": false
   },
   {
     "id": 470,

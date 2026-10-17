@@ -1,5 +1,41 @@
 [
   {
+    "id": 470,
+    "title": "More NHS staff sacked over attacks victims' records",
+    "summary": "**NHS Staff Dismissed Over Unauthorised Access to Nottingham Stabbing Victims’ Records**",
+    "content": "**NHS Staff Dismissed Over Unauthorised Access to Nottingham Stabbing Victims’ Records**\n\nA series of reports confirmed on Monday that multiple NHS employees have been dismissed after accessing the medical records of victims of the high‑profile stabbing attack in Nottingham without a legitimate clinical reason. Fifteen staff members were terminated specifically for viewing the victims’ files, and a broader investigation has identified more than 200 NHS workers across the health service who were removed for inappropriate handling of patient data.\n\nMetro.co.uk and the West Bridgford Wire first reported the firings of the fifteen employees after it emerged they had accessed the records of those injured in the Nottingham incident. A separate analysis published in *The BMJ* later revealed a much larger pattern, noting that over two hundred NHS staff members have been dismissed following investigations that uncovered widespread unauthorised access to patient information.\n\nIn response, an NHS executive told *The Guardian* that any employee suspected of unauthorised record viewing should be suspended without delay. The statement underscores growing concerns about the integrity of the service’s information systems and the need for swift disciplinary action to protect patient confidentiality. While the specific technical mechanisms that enabled the breach have not been disclosed, the scale of the dismissals points to systemic weaknesses in data‑access controls that regulators are now scrutinising.\n\nThe Nottingham attack, which left several individuals with serious injuries, has already prompted a series of public‑safety reviews. The additional breach of the victims’ medical records adds a further layer of trauma and raises questions about the NHS’s capacity to safeguard sensitive information in the aftermath of emergencies. Experts cited in the reports warn that such breaches can erode public trust and may deter patients from seeking timely care for fear that their personal details could be exposed.\n\n**Parallel Challenges in Public Services**\n\nThe NHS data‑security issue coincides with another pressing challenge for public services: the UK’s digital landline switchover. On 15 October 2026, consumer journalist Harry Kind appeared on BBC Morning Live to discuss the ongoing transition. According to the BBC, more than 1.2 million telephone connections still require conversion to digital technology, a task that remains incomplete months after the programme’s launch. Although unrelated to the NHS breach, the switchover highlights the broader pressures on public bodies to modernise legacy systems while maintaining reliability for millions of users.\n\n**Looking Ahead**\n\nThe NHS is expected to deepen its investigation into the data‑access violations, with the possibility of further disciplinary measures and policy reforms aimed at tightening electronic health‑record safeguards. Health‑service leaders have signalled that new protocols may be introduced to monitor and audit staff access more rigorously, although specific timelines have not been announced.\n\nSimilarly, the digital landline transition will continue until all remaining connections are upgraded, but a definitive deadline has yet to be made public.\n\nBoth revelations serve as a reminder that health and communications sectors are grappling with the complexities of digital transformation. For the NHS, restoring confidence that patient information is protected is an immediate priority; for telecom providers, completing the nationwide upgrade remains essential. Robust data governance and timely infrastructure updates are now recognised as critical to maintaining public trust in these essential services.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "18:56",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "NHS staff were dismissed for accessing medical records of Nottingham attack victims (BBC, Sky News, LBC, Metro, West Bridgford Wire).",
+      "15 NHS workers were fired for accessing Nottingham stabbing victims' records (Metro.co.uk, West Bridgford Wire).",
+      "More than 200 NHS staff were sacked over inappropriate access of patient data (The BMJ).",
+      "An NHS boss said staff suspected of snooping on patients' records should be suspended immediately (The Guardian).",
+      "On 15 October 2026, consumer journalist Harry Kind appeared on BBC Morning Live to discuss the digital landline switchover (BBC).",
+      "Over 1.2 million connections still need to be switched for the digital landline switchover (BBC)."
+    ],
+    "timeline": [
+      {
+        "event": "Harry Kind appears on BBC Morning Live discussing digital landline switchover",
+        "date": "15 October 2026"
+      },
+      {
+        "event": "Reports of NHS staff being sacked for unauthorized record access",
+        "date": "Not specified in articles"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=470",
+    "featured": true
+  },
+  {
     "id": 469,
     "title": "Pope discharged from hospital days after lung cancer surgery",
     "summary": "**Pope Leo XIV Discharged After Lung Cancer Surgery**",
@@ -39,7 +75,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=469",
-    "featured": true
+    "featured": false
   },
   {
     "id": 468,

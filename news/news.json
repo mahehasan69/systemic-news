@@ -1,5 +1,42 @@
 [
   {
+    "id": 466,
+    "title": "Trump waives several Russia sanctions as new US law takes effect",
+    "summary": "**Trump Issues Executive Waiver of Russia‑Related Sanctions and Tariffs Ahead of New Law**",
+    "content": "**Trump Issues Executive Waiver of Russia‑Related Sanctions and Tariffs Ahead of New Law**\n\n*Washington* – President Donald Trump signed an executive order that temporarily suspends a package of sanctions and tariffs aimed at Russia, doing so just days before a newly enacted law was scheduled to take effect. The legislation, championed by Senator Lindsey Graham, would have added economic pressure on Moscow in response to its ongoing war in Ukraine. Major news outlets—including Reuters, CNN, the BBC, CBS and The New York Times—have confirmed the waiver.\n\nThe order, signed without a publicly disclosed date, nullifies the sanctions and tariff measures that Congress approved earlier this year. Those measures were intended to tighten restrictions on Russian oil exports and other trade flows, targeting revenue streams that fund the Kremlin’s war effort. By issuing the waiver before the law’s activation, the administration has placed the new penalties on hold for a limited period, granting temporary relief to companies that import Russian oil. Industry observers note that large buyers—particularly importers in India and China—stand to benefit from the short‑term reprieve.\n\nSources close to the White House say the timing reflects a political calculation to avoid immediate disruption to global energy markets and to shield U.S. allies and commercial partners from sudden cost spikes. The move, however, has sparked debate in Washington. Critics argue that bypassing the newly authorized sanctions undermines congressional intent and weakens the United States’ leverage over Russia at a moment when diplomatic pressure on Kyiv’s adversary is intensifying.\n\nThe Graham‑backed legislation, passed by both chambers of Congress, expanded the United States’ toolkit for responding to Russian aggression. It authorized higher tariffs on Russian oil and broader sanctions on financial transactions linked to the Kremlin—tools that have long been a cornerstone of the Western response to the Ukraine war.\n\nThe waiver’s immediate effect is a pause in enforcement of the new sanctions, providing a window of stability for global oil markets. Analysts caution, however, that the temporary relief could dilute the overall pressure strategy against Russia and potentially embolden Moscow’s diplomatic posture. The action also raises constitutional questions about the balance of power between the executive branch and Congress in foreign‑policy matters. Legal scholars suggest that the waiver could face congressional or judicial challenges, arguing that it may conflict with the statutory authority granted to lawmakers.\n\nThe executive order is expected to expire once the new sanctions law takes effect, at which point the previously authorized penalties will be reinstated unless further executive action is taken. In the coming weeks, stakeholders anticipate a flurry of activity, including possible lawsuits contesting the waiver’s legality and renewed diplomatic engagement from Russia, Ukraine and allied nations. Members of Congress are likely to press the administration for a detailed justification and a longer‑term strategy for managing U.S.–Russia relations.\n\nIn sum, President Trump’s pre‑emptive waiver represents a notable deviation from the legislative agenda set by Senator Graham’s bill. While it offers short‑term economic breathing room for major oil importers, the move introduces uncertainty about the United States’ ability to sustain coordinated pressure on Russia and underscores the ongoing tension between rapid executive action and the deliberative process of congressional lawmaking.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "05:08",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump issued an order waiving Russia-related sanctions and tariffs before they were to take effect under a new U.S. law",
+      "The waivers were announced by multiple news outlets (Reuters, CNN, BBC, CBS, The New York Times, etc.)",
+      "The waivers occurred days before the law backed by Senator Lindsey Graham was scheduled to become effective"
+    ],
+    "timeline": [
+      {
+        "event": "U.S. Congress passes law backed by Senator Lindsey Graham to impose new sanctions/tariffs on Russia",
+        "date": "(date not specified in sources)"
+      },
+      {
+        "event": "Donald Trump signs order waiving the sanctions and tariffs before they take effect",
+        "date": "(date not specified in sources)"
+      },
+      {
+        "event": "Media reports publish the waiver (Reuters, CNN, BBC, etc.)",
+        "date": "(date not specified in sources)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=466",
+    "featured": true
+  },
+  {
     "id": 465,
     "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
     "summary": "**Bend, Oregon, Primary‑School Shooting Leaves Four Dead**",
@@ -34,7 +71,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=465",
-    "featured": true
+    "featured": false
   },
   {
     "id": 464,

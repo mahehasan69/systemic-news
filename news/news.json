@@ -1,5 +1,42 @@
 [
   {
+    "id": 465,
+    "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+    "summary": "**Bend, Oregon, Primary‑School Shooting Leaves Four Dead**",
+    "content": "**Bend, Oregon, Primary‑School Shooting Leaves Four Dead**\n\nA 16‑year‑old student opened fire at a primary school in Bend, Oregon, killing four people, including a teacher and a five‑year‑old student. The teenager entered the building armed with a shotgun that police say was purchased by his mother.\n\n**Sequence of events**\n\nWitnesses reported that the shooter began firing shortly after entering the school. A teacher who saw the gunman threw a cellphone at him and then tackled him in an attempt to stop the attack. Police described the teacher’s actions as “true heroism.” The confrontation resulted in the teacher’s death, as did the death of a five‑year‑old student. \n\nMoments later, an armed father of two students who was on the premises confronted the shooter. He opened fire, striking the suspect multiple times. Authorities said the father’s intervention halted the gunman and prevented further casualties.\n\n**Victims and suspect**\n\nLaw enforcement confirmed that four people were killed in the attack. The shooter, identified through school and police records as a 16‑year‑old male, used a shotgun that investigators traced to a purchase made by his mother. The incident has intensified scrutiny of firearm access within households.\n\n**Political and policy response**\n\nThe tragedy has revived national debate over gun‑control measures. Democratic lawmakers have cited the Bend shooting to call for stricter regulations on the sale and storage of firearms, especially those that could be accessed by minors. Advocates argue that mandatory safe‑storage laws and expanded background checks for family members are needed to keep weapons out of children’s hands. Opponents caution that such measures could infringe on lawful gun ownership.\n\n**Ongoing investigation and school safety review**\n\nPolice continue to investigate how the teenager obtained the shotgun and the precise timeline of the civilian interventions. Officials have pledged additional updates as the inquiry proceeds. In the meantime, school districts across Oregon and the United States are reviewing security protocols and considering new safety measures to protect students and staff.\n\n**Impact**\n\nThe Bend school shooting underscores the lethal potential of firearms in the hands of minors and highlights the decisive role that immediate civilian action can play in crisis situations. While the bravery of the teacher and the armed father likely averted further loss of life, the community mourns the victims and the nation confronts the enduring challenges of school safety and gun legislation.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "00:52",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A teacher at an Oregon school fought the attacker (BBC).",
+      "An armed father shot the suspect multiple times (BBC).",
+      "Police gave an update on a fatal primary school shooting in Bend, Oregon (Yahoo News Australia).",
+      "A teacher threw a cellphone and tackled a gunman who killed four people at an Oregon school (WKMG).",
+      "Police praised \"true heroism\" for efforts to halt the Oregon school shooter (Yahoo).",
+      "A teacher and a five‑year‑old student were killed in the Oregon school shooting (AOL).",
+      "A teacher tackled and fought the Oregon school shooter (Yahoo).",
+      "The man who killed the shooter was the father of two students and saw the gunman enter the building (AOL).",
+      "The shooter was identified as a 16‑year‑old whose mother purchased the shotgun he used (Yahoo, AOL)."
+    ],
+    "timeline": [
+      "Shooter entered the school building (AOL).",
+      "Teacher confronted the shooter, threw a cellphone, and tackled him (WKMG, Yahoo).",
+      "Armed father shot the suspect multiple times (BBC).",
+      "Father of two students killed the shooter after seeing him enter (AOL).",
+      "Police arrived and gave updates on the fatal shooting (Yahoo News Australia).",
+      "Police praised the heroism of those who halted the shooter (Yahoo)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=465",
+    "featured": true
+  },
+  {
     "id": 464,
     "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
     "summary": "**Zelensky Reaffirms Ukraine’s Right to Self‑Defence Amid Trump’s Criticism**",
@@ -25,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=464",
-    "featured": true
+    "featured": false
   },
   {
     "id": 463,

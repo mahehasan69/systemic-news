@@ -1,5 +1,49 @@
 [
   {
+    "id": 471,
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "summary": "**European Diplomats Assaulted by Israeli Settlers in the West Bank**",
+    "content": "**European Diplomats Assaulted by Israeli Settlers in the West Bank**\n\nEuropean officials travelling through the occupied West Bank were attacked by a group of masked Israeli settlers during the region’s olive‑harvest season. The assault, reported by the BBC, The Guardian, the Wall Street Journal, CNN, Reuters, The New York Times and Haaretz, left several diplomats and a French mayor seriously injured.\n\nAccording to eyewitness accounts compiled by Al Jazeera and Haaretz, the settlers surrounded the convoy, forced the vehicles to stop and then beat the occupants. The French mayor, who was part of the delegation, received a severe beating, as confirmed by Le Monde and Deutsche Welle. Palestinian olive‑harvesters working in the same area were also struck, indicating that the violence extended beyond the diplomatic party.\n\nBelgian officials, speaking through the foreign ministry, condemned the attack, a statement Reuters cited as reflecting growing unease within the European Union over the safety of its representatives in the territory. The incident comes amid a broader surge in settler‑Palestinian confrontations, which Euronews attributes to heightened tensions over olive‑harvest activities that settlers view as encroachments on land they claim.\n\nThe assault has immediate diplomatic repercussions. Injuries to the European diplomats and the French mayor have sparked concerns about the EU’s relationship with Israel and the protection of its personnel abroad. Security experts warn that the safety of diplomatic missions in the West Bank is now under heightened scrutiny, prompting calls for reinforced security protocols.\n\nIn the coming days, EU member states are expected to issue statements reaffirming their commitment to the safety of their representatives and to press Israeli authorities for a thorough investigation. Israeli officials, facing pressure from both domestic and international observers, are anticipated to launch inquiries into the perpetrators’ identities and motives. Advocacy groups and foreign ministries are urging the Israeli government to implement stronger protective measures for diplomats and humanitarian workers operating in the occupied territories.\n\nThe episode underscores the volatility of the West Bank, especially during the olive‑harvest season, which holds significant economic and cultural importance for Palestinians. The coordinated attack on European diplomats, a French mayor and Palestinian harvesters illustrates how settler opposition to olive‑harvest operations can spill over into broader acts of violence with international implications. As the European Union reassesses its diplomatic posture, the incident may catalyse a review of security arrangements and engagement strategies in the region, highlighting the need for robust mechanisms to safeguard foreign officials amid ongoing conflict.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "21:07",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "European diplomats were attacked by Israeli settlers in the occupied West Bank",
+      "The attackers were described as masked in multiple reports (BBC, The Guardian, WSJ, CNN)",
+      "The incident occurred during the olive harvest season, as noted by Al Jazeera and Haaretz",
+      "A French mayor was beaten during the attack, reported by Le Monde and DW",
+      "Belgian officials commented on the attack, as reported by Reuters",
+      "Palestinian harvesters were also targeted alongside the diplomats, reported by Reuters, NYT, Haaretz"
+    ],
+    "timeline": [
+      {
+        "date": null,
+        "event": "European diplomats traveling in the West Bank were confronted and attacked by a group of Israeli settlers"
+      },
+      {
+        "date": null,
+        "event": "Masked settlers assaulted the diplomats and also beat a French mayor"
+      },
+      {
+        "date": null,
+        "event": "Palestinian olive harvesters were attacked in the same incident"
+      },
+      {
+        "date": null,
+        "event": "Belgian foreign ministry issued a statement condemning the attack"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=471",
+    "featured": true
+  },
+  {
     "id": 470,
     "title": "More NHS staff sacked over attacks victims' records",
     "summary": "**NHS Staff Dismissed Over Unauthorised Access to Nottingham Stabbing Victims’ Records**",
@@ -33,7 +77,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=470",
-    "featured": true
+    "featured": false
   },
   {
     "id": 469,

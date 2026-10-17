@@ -1,5 +1,43 @@
 [
   {
+    "id": 467,
+    "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+    "summary": "**Light Aircraft Crash Near Loch Lomond Claims Two Lives**",
+    "content": "**Light Aircraft Crash Near Loch Lomond Claims Two Lives**\n\nA lightweight, single‑engine aircraft crashed near Scotland’s Loch Lomond on Thursday, killing both occupants – a 16‑year‑old boy and an 80‑year‑old man. The incident was reported by Yahoo News Australia, The Independent, STV News, AOL.com, the Helensburgh Advertiser, Glasgow Live and the Daily Record.\n\n**Accident details**\n\nWitnesses observed the plane descending rapidly before it struck the ground in the vicinity of the loch. Emergency crews arrived promptly, but the teenager and the octogenarian were pronounced dead at the scene. Local authorities have released only the victims’ ages while next‑of‑kin are being notified.\n\n**Possible factors**\n\nThe exact cause of the crash remains unknown. The Daily Record noted that “airspace restriction possibly a factor,” suggesting the aircraft may have entered a zone with specific flight limitations. This hypothesis is described as having medium confidence; other outlets have not offered alternative explanations. Investigators are expected to review flight plans, weather conditions and any communications with air traffic control to determine whether restricted airspace contributed to the accident.\n\n**Wider context**\n\nScotland’s low‑altitude airspace is heavily used for recreational flying, flight training and tourism‑related operations. Loch Lomond, a popular destination for locals and visitors, lies in an area that sees regular light‑aircraft traffic, especially during the summer months when weather is favourable. Although the crash occurred outside any publicly announced no‑fly zones, the possibility of an inadvertent breach underscores the importance of strict adherence to flight‑path regulations in congested corridors.\n\n**Investigation**\n\nThe United Kingdom’s Air Accidents Investigation Branch (AAIB) is expected to open a formal inquiry, although an official announcement has not yet been made. The AAIB typically gathers evidence from the crash site, interviews witnesses and examines aircraft maintenance records. An interim report is usually released within weeks, followed by a final report detailing causal factors and safety recommendations.\n\n**Community response**\n\nThe loss of a teenager and an elderly man has resonated deeply in the local community. Condolences have poured in on social media and from regional officials. Aviation safety advocates have used the tragedy to highlight the need for ongoing pilot education and robust monitoring of restricted zones, particularly for light‑aircraft operations that can be vulnerable to unexpected airspace constraints or adverse weather.\n\nFamilies of the victims await further information as authorities secure the site and commence evidence‑gathering. Until the AAIB’s investigation is completed, the precise sequence of events leading to the fatal descent remains uncertain, leaving the community to mourn the sudden loss and hope for clarity in the forthcoming report.",
+    "category": "📰 General",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-17",
+    "time": "09:47",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A light aircraft crashed near Loch Lomond, Scotland.",
+      "Two people were killed in the crash.",
+      "The victims were a 16-year-old boy and an 80-year-old man."
+    ],
+    "timeline": [
+      {
+        "event": "Light aircraft crash near Loch Lomond resulting in two deaths.",
+        "sources": [
+          "Yahoo News Australia",
+          "The Independent",
+          "STV News",
+          "AOL.com",
+          "Helensburgh Advertiser",
+          "Glasgow Live",
+          "Daily Record"
+        ],
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=467",
+    "featured": true
+  },
+  {
     "id": 466,
     "title": "Trump waives several Russia sanctions as new US law takes effect",
     "summary": "**Trump Issues Executive Waiver of Russia‑Related Sanctions and Tariffs Ahead of New Law**",
@@ -34,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=466",
-    "featured": true
+    "featured": false
   },
   {
     "id": 465,

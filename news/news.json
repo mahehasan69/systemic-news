@@ -1,5 +1,48 @@
 [
   {
+    "id": 476,
+    "title": "Why Are There Protests in France?",
+    "summary": "**France’s Cost‑of‑Living Protests Escalate into Nationwide Riots**",
+    "content": "**France’s Cost‑of‑Living Protests Escalate into Nationwide Riots**\n\nParis – What began as a cost‑of‑living rally organized by high‑school students has erupted into what French officials and international observers are calling the worst wave of rioting in years. Clashes, looting and fires have been reported in multiple cities, and police say more than 2,000 people have been detained.\n\nThe unrest started in Paris when students took to the streets to protest soaring living expenses. Al Jazeera reported that the demonstrations quickly turned violent, and AFP and *The New York Times* documented widespread looting, building fires and confrontations with police in several French cities. By the end of the week, French police announced that they had arrested over 1,800 individuals; the BBC cited a figure of more than 1,200, while Sky News relayed President Emmanuel Macron’s statement that the total number of arrests had exceeded 2,000. Organisers, however, claim that up to 800,000 demonstrators have taken to the streets, a number reported by *France 24* and *The Guardian*.\n\nThe protests were sparked by a sharp rise in living costs that is affecting households across Europe. Al Jazeera noted similar cost‑of‑living demonstrations in Belgium, Italy and Portugal, underscoring a broader regional malaise. In France, the movement acquired a distinctly youthful character; *Le Monde* described the high‑school protests as “historic.” As the weeks progressed, grievances broadened beyond education policy to encompass deeper social polarization, a trend highlighted by NPR and *DW*, which observed that the unrest had evolved into a nationwide expression of discontent.\n\nAuthorities are now grappling with both the immediate damage and the longer‑term implications. Reuters reported that the French government is assessing the financial toll of the riots, labeling the damage “the worst in years.” The assessment includes property destruction, street‑repair costs in Paris, disrupted commerce and heightened security expenditures. The scale of the police response—mass arrests and a visible street presence—has intensified public debate over law‑and‑order policies and the balance between civil liberties and public safety.\n\nPresident Emmanuel Macron addressed the nation after the peak of the violence, acknowledging the scale of the arrests and pledging a response to the underlying causes of the unrest. Sky News confirmed that Macron’s televised speech called for unity and hinted at forthcoming policy measures, though specific proposals were not disclosed at the time. The government is preparing additional police operations, expecting further detentions as investigations continue.\n\nAnalysts anticipate that Macron’s policy response could target the cost‑of‑living pressures that ignited the movement, potentially through wage adjustments, tax relief or reforms to social benefits. At the same time, police are likely to maintain a heightened presence in hotspots to deter further looting and violence. The possibility of the unrest spreading to other sectors—such as transport or public services—remains, given the broad base of grievances that have already mobilised students, workers and ordinary citizens.\n\nThe French riots represent a flashpoint where economic strain, youthful dissent and entrenched social divisions intersected, testing the nation’s public‑order apparatus and prompting a swift political response. The coming weeks will reveal whether the government’s fiscal assessments and policy initiatives can quell the unrest or whether the protests will continue to reshape France’s social landscape.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-10-18",
+    "time": "14:58",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Mass protests in France have escalated into riots described as the worst in years (Reuters).",
+      "Over 1,200 people were arrested during the protests (BBC).",
+      "More than 1,800 people were arrested after violent protests erupted across the country (CBS News, The Guardian).",
+      "French police reported arresting over 1,800 individuals (CBS News).",
+      "France is assessing the financial cost of the unrest, calling it the worst in years (Reuters).",
+      "Student‑led protests in Paris turned chaotic (Al Jazeera).",
+      "French high‑school students are protesting; the movement is being called historic (Le Monde).",
+      "Protests and unrest have spread across multiple French cities (The New York Times).",
+      "Cost‑of‑living protests have also occurred in Belgium, Italy, and Portugal (Al Jazeera).",
+      "Nationwide protests featured clashes with police and heightened social polarization (DW).",
+      "Student protests have broadened into wider social unrest (NPR).",
+      "Clashes, fires and large‑scale looting were reported on a day of protests (AFP).",
+      "Organisers claim up to 800,000 people have taken to the streets (France 24/Guardian).",
+      "French President Emmanuel Macron addressed the nation after the riots, noting more than 2,000 arrests (Sky News)."
+    ],
+    "timeline": [
+      "Early protests triggered by cost‑of‑living concerns spread to multiple European countries (Al Jazeera).",
+      "French high‑school students begin organized demonstrations (Le Monde).",
+      "Student‑led protests in Paris become chaotic (Al Jazeera).",
+      "Protests expand nationwide, with clashes, looting, and building fires reported (AFP, NYT, NPR).",
+      "Police respond with mass arrests – figures reported range from >1,200 to >2,000 (BBC, CBS, Sky News).",
+      "French government begins assessing the financial impact of the unrest (Reuters).",
+      "President Emmanuel Macron addresses the nation following the riots (Sky News)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=476",
+    "featured": true
+  },
+  {
     "id": 475,
     "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
     "summary": "**France’s Cost‑of‑Living Protests Turn Violent, Prompting Mass Arrests and Widespread Damage**",
@@ -24,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=475",
-    "featured": true
+    "featured": false
   },
   {
     "id": 474,

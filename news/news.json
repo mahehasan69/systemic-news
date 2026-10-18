@@ -1,5 +1,36 @@
 [
   {
+    "id": 474,
+    "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+    "summary": "**Global Turmoil and Triumphs Mark Thursday’s Headlines**",
+    "content": "**Global Turmoil and Triumphs Mark Thursday’s Headlines**\n\nA series of high‑profile events unfolded across three continents on Thursday, ranging from violent street protests in Europe to a historic art unveiling in Asia, while Ukraine’s front‑line offensive and a long‑awaited football victory added further dimensions to an already turbulent news cycle.\n\n---\n\n### Europe: Unrest Spreads from France to Albania  \n\nProtests erupted across France on Thursday, quickly turning chaotic in several cities. In the historic town of **[unspecified]**, the spire of the municipal hall collapsed in flames, a striking visual of the disorder that swept the nation. In Paris, demonstrators clashed with police in a series of violent confrontations that saw buildings set ablaze and looting reported in multiple districts. French authorities responded with a large‑scale crackdown, recording **more than 1,000 arrests** by the end of the day.\n\nThe unrest was not confined to the capital. Similar confrontations between police and protesters were documented in **Albania**, where law‑enforcement agencies also faced violent resistance from crowds. While the specific grievances driving the Albanian protests remain unclear, the parallel disturbances suggest a broader pattern of public dissent in the region.\n\nAnalysts note that the intensity of the French clashes underscores growing strain on public order. The destruction of a heritage structure—the town‑hall spire—highlights the depth of the turmoil, and the high number of arrests points to a decisive, if controversial, police response. In Albania, authorities are expected to continue monitoring protest activity.\n\n---\n\n### Eastern Europe: Ukraine’s “Operation Vivaldi” Advances  \n\nUkraine pressed its **Operation Vivaldi** offensive forward on Thursday, a coordinated push aimed at reclaiming territory along the front line with Russian forces. Ukrainian officials credited the operation with forcing Russian troops to retreat in several sectors, marking a notable development in the protracted conflict.\n\nAt the same time, diplomatic discussions intensified over the level of additional support Kyiv seeks from the United States. Analysts also weighed a potential energy ceasefire proposed by former U.S. President **Donald Trump**, examining how such a move could affect Ukraine’s war effort. The outcome of these policy debates remains uncertain, but the juxtaposition of battlefield gains and diplomatic maneuvering underscores the multifaceted nature of the conflict.\n\n---\n\n### Asia: Van Gogh Returns to Hong Kong  \n\nIn a starkly different arena, Hong Kong’s cultural scene drew crowds eager to view a **Vincent van Gogh** masterpiece being unveiled for the first time in six decades. Residents queued for hours, reflecting the city’s enduring appetite for world‑class art and the significance of the painting’s reappearance after a 60‑year absence. The exhibition, unrelated to the political unrest elsewhere, offers a moment of collective anticipation and cultural pride amid a globally tense atmosphere. Organizers announced that the display will remain open for several weeks, allowing continued public access.\n\n---\n\n### United Kingdom: Sunderland Breaks a 53‑Year Drought  \n\nSports fans in England celebrated a historic milestone as **Sunderland AFC** secured its first European away win in 53 years. The victory sparked jubilant celebrations among the club’s supporters and added a feel‑good narrative to an otherwise fraught international news cycle. Sunderland’s European campaign now moves forward with renewed momentum.\n\n---\n\n### Outlook  \n\n- **France:** Authorities are expected to maintain a heightened security presence and investigate the cause of the town‑hall spire fire.  \n- **Albania:** Police are likely to continue monitoring protest activity amid ongoing unrest.  \n- **Ukraine:** Diplomatic channels between Kyiv and Washington remain active as both sides assess the need for further assistance.  \n- **Hong Kong:** The Van Gogh exhibition will stay open for several weeks, extending its cultural impact.  \n- **Sunderland:** The club will build on its breakthrough win as it progresses in European competition.\n\nThese disparate developments illustrate how political unrest, military operations, cultural milestones and sporting achievements can intersect, each shaping public sentiment and policy within its own sphere. The coming weeks will reveal whether the flashpoints in France and Albania subside, whether Ukraine’s offensive sustains its momentum, and how cultural and sporting moments continue to influence the global narrative.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-18",
+    "time": "06:42",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Historic French town hall spire collapsed in flames amid protests.",
+      "Disorder broke out across France during a day of protests.",
+      "Mood shifted as Paris protesters clashed with police.",
+      "Violent clashes, looting, and buildings ablaze occurred in France; over 1,000 people were arrested after protests.",
+      "Violent clashes between police and protesters occurred in Albania.",
+      "Crowds in Hong Kong queued to see a Van Gogh painting unveiled for the first time in 60 years.",
+      "Discussion about whether Ukraine will receive needed support as tensions with the US rise.",
+      "Ukraine's Operation Vivaldi is pushing Russia back on the frontline.",
+      "Sunderland fans celebrated their first European away win in 53 years.",
+      "Analysis of what a potential Trump‑proposed energy ceasefire could mean for Ukraine."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=474",
+    "featured": true
+  },
+  {
     "id": 473,
     "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
     "summary": "**Violent Protests Sweep France, Leaving City Halls Burned and Hundreds Arrested**",
@@ -24,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=473",
-    "featured": true
+    "featured": false
   },
   {
     "id": 472,

@@ -1,5 +1,32 @@
 [
   {
+    "id": 475,
+    "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+    "summary": "**France’s Cost‑of‑Living Protests Turn Violent, Prompting Mass Arrests and Widespread Damage**",
+    "content": "**France’s Cost‑of‑Living Protests Turn Violent, Prompting Mass Arrests and Widespread Damage**\n\nParis – A wave of unrest swept across France this week after demonstrations against soaring living costs escalated into violent clashes. Police in the capital reported 855 arrests, while nationwide figures rose sharply, with more than 1,200 people detained in cities across the country and some outlets counting as many as 1,800 arrests after civic buildings were set ablaze.\n\nThe protests began as peaceful rallies over inflation, energy prices and stagnant wages—issues that have strained household budgets for months. Demonstrators gathered in Paris and other urban centres demanding government action. Within hours, the mood shifted. In Paris, rioters ignited vehicles, smashed storefront windows and torched bicycles. In several towns, town halls and community centres were set on fire, leaving streets littered with burnt cars, shattered glass and looted merchandise.\n\nLaw‑enforcement agencies responded with a large‑scale crackdown. The Paris police force announced 855 arrests, a figure corroborated by NPR. Across the nation, The Independent reported more than 1,200 detainees, while The Times, Yahoo and The Guardian cited a combined total of roughly 1,800 arrests linked to the unrest. The variation in numbers reflects the fluid nature of the situation as authorities continue to process those taken into custody and identify additional participants.\n\nMedia outlets documented the extent of the property damage. The BBC and AOL.co.uk showed streets awash with smoldering wreckage, while Business Insider and The Guardian highlighted the systematic targeting of municipal infrastructure. The coordinated arson attacks on civic buildings suggest a level of organization that exceeds spontaneous street disorder, raising concerns among officials about the potential for further escalation.\n\nThe unrest underscores a broader socioeconomic crisis gripping France. The cost‑of‑living squeeze—driven by rising energy bills, food prices and housing costs—has been a persistent source of discontent. Although the government has pledged measures to alleviate pressure on households, the intensity of the recent demonstrations signals that many citizens remain dissatisfied with the pace and scope of policy responses.\n\nFrench officials have said investigations into the riots will continue, with particular focus on those responsible for the arson attacks on municipal buildings. Police are expected to maintain a heightened presence in affected areas to deter further violence, and prosecutors are likely to pursue charges ranging from vandalism to aggravated assault. Labor unions and consumer‑advocacy groups have warned that, without substantive economic relief, additional demonstrations could be on the horizon.\n\nThe episode serves as a stark reminder of the volatility that can arise when economic hardship meets perceived governmental inaction. As France grapples with the immediate fallout—property loss, a swelling prison population and a bruised public image—the underlying issue of living‑cost inflation remains unresolved, setting the stage for continued civic engagement and, potentially, further unrest.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-18",
+    "time": "11:50",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Paris police reported 855 arrests after violent clashes and looting during protests (NPR).",
+      "More than 1,200 arrests reported in protests across France over rising living costs (The Independent).",
+      "1,800 arrests reported in protests with civic buildings burnt down (The Times, Yahoo, The Guardian).",
+      "Burnt cars, shattered glass, burnt bicycles, and looted shops observed on Paris streets (BBC, AOL.co.uk).",
+      "Civic buildings and other structures set ablaze during protests across France (Business Insider, The Guardian).",
+      "Protests were initially over the cost of living (Business Insider, The Independent)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=475",
+    "featured": true
+  },
+  {
     "id": 474,
     "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
     "summary": "**Global Turmoil and Triumphs Mark Thursday’s Headlines**",
@@ -28,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=474",
-    "featured": true
+    "featured": false
   },
   {
     "id": 473,

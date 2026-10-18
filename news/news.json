@@ -1,5 +1,63 @@
 [
   {
+    "id": 479,
+    "title": "Macron calls for 'calm and order' after riots across France",
+    "summary": "**French Unrest Escalates Ahead of Nationwide Cost‑of‑Living Protests; President Macron Calls for Calm**",
+    "content": "**French Unrest Escalates Ahead of Nationwide Cost‑of‑Living Protests; President Macron Calls for Calm**\n\nParis – France is experiencing its most severe wave of street unrest in years, with clashes intensifying over the past several days. President Emmanuel Macron has repeatedly appealed for calm, warning that any further escalation could deepen the nation’s challenges.\n\n**Scale of the disturbances**\n\nDemonstrations sparked by soaring living costs have erupted in multiple cities, leading to violent confrontations with police. Authorities report that between several hundred and as many as two thousand demonstrators have been detained. The scale of the arrests prompted the government to mobilise additional police resources in an effort to contain the disorder.\n\n**Government’s appeal**\n\nIn a series of televised and press‑briefing statements reported by the BBC, Reuters, France 24 and Le Monde, Macron urged citizens to respect the rule of law and avoid actions that could worsen the situation. “We must remain peaceful and refrain from any escalation,” he said, emphasizing that calm is essential to address the country’s broader problems.\n\n**Underlying grievances**\n\nThe immediate trigger for the unrest is a deepening cost‑of‑living crisis that has left many households struggling to meet basic expenses. Le Monde and AFP note that organized protests are scheduled for Saturday in cities across the country, with participants demanding stronger measures on wages, taxes and social support. Authorities have warned that any breach of public order could provoke further police interventions.\n\n**Broader political context**\n\nAnalysts cited by Reuters argue that the ferocity of the protests signals a loss of confidence in the government’s ability to tackle everyday hardships. The heightened tension has drawn concern from European partners, who are monitoring France’s stability as it approaches a critical period of social mobilisation.\n\n**Looking ahead**\n\nSecurity forces have signalled readiness to act swiftly should Saturday’s demonstrations turn violent, while protest organizers have pledged to keep the rallies peaceful but firm. The outcome of the weekend’s events will likely determine whether the current wave of unrest can be contained or whether it will trigger additional police actions and broader public disorder.\n\nFrance now stands at a crossroads where economic strain, public anger and governmental appeals for restraint intersect. The coming weekend will test the effectiveness of Macron’s calls for calm and the capacity of law‑enforcement agencies to manage large‑scale protests without inflaming the situation further, with lasting implications for social cohesion and the nation’s political landscape.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-18",
+    "time": "22:00",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Emmanuel Macron called for calm and warned against escalation of rioting (BBC, Reuters, France 24, Le Monde).",
+      "France is experiencing what sources describe as the worst unrest in years (Reuters).",
+      "The French government is seeking to contain the unrest (Bloomberg).",
+      "Cost‑of‑living demonstrations are planned across France on a Saturday (Le Monde, AFP).",
+      "Protesters have clashed with police, leading to arrests (incl, Guardian, France 24)."
+    ],
+    "timeline": [
+      {
+        "event": "Days of unrest and violence across France",
+        "source": "The Guardian"
+      },
+      {
+        "event": "Macron issues multiple calls for calm and respect",
+        "sources": [
+          "BBC",
+          "Reuters",
+          "France 24",
+          "Le Monde"
+        ]
+      },
+      {
+        "event": "Clashes erupt and protesters vow to make government \"tremble\"",
+        "source": "Le Monde"
+      },
+      {
+        "event": "Arrests made during clashes (hundreds to 2,000)",
+        "sources": [
+          "The Guardian",
+          "inkl"
+        ]
+      },
+      {
+        "event": "Scheduled cost‑of‑living demonstrations on Saturday",
+        "sources": [
+          "Le Monde",
+          "AFP"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=479",
+    "featured": true
+  },
+  {
     "id": 478,
     "title": "What we know so far about deadly fire at Canadian military base",
     "summary": "**Four Service Members Killed in Blaze at CFB Wainwright; Dozens Injured**",
@@ -27,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=478",
-    "featured": true
+    "featured": false
   },
   {
     "id": 477,

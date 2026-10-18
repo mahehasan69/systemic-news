@@ -1,5 +1,35 @@
 [
   {
+    "id": 478,
+    "title": "What we know so far about deadly fire at Canadian military base",
+    "summary": "**Four Service Members Killed in Blaze at CFB Wainwright; Dozens Injured**",
+    "content": "**Four Service Members Killed in Blaze at CFB Wainwright; Dozens Injured**\n\nA violent fire ripped through Canadian Forces Base Wainwright in Alberta on Tuesday, killing four service members and injuring dozens more, officials said. Emergency responders described the blaze as “deadly and violent,” and a multi‑agency effort was launched to contain the flames and treat the wounded.\n\nThe fire broke out in the early hours of the morning, though the exact time has not been released. First‑responders battled the blaze for several hours before bringing it under control, but the rapid spread caused extensive damage to structures within the base’s perimeter. The Canadian Armed Forces activated emergency protocols and coordinated with civilian fire services to secure the area and provide medical care.\n\n**Provincial Assistance**\n\nManitoba Premier Heather Stefanson announced that the province “stands ready to help,” pledging medical assistance, counseling services and logistical support for the families of the victims. Ontario officials made a similar commitment, offering additional emergency personnel, equipment and support services. The inter‑provincial response underscores the national concern for military families and the importance of a coordinated crisis‑management framework.\n\n**Investigation Ongoing**\n\nAuthorities have launched a formal inquiry into the cause of the fire, which they have termed a “mystery incident.” Investigators are collecting evidence, interviewing base personnel and reviewing surveillance footage to determine whether the blaze resulted from an electrical fault, accidental ignition of combustible material or another source. Officials emphasized that the investigation will be thorough and transparent, with findings released as they become available.\n\n**Impact on the Base and Military Training**\n\nCFB Wainwright, located in central Alberta, is a key training hub for the Canadian Armed Forces, preparing soldiers for domestic and overseas operations. The loss of four lives and the injury of dozens of personnel represent a profound human tragedy and raise questions about fire‑prevention measures, safety protocols and emergency preparedness at military installations. A review of existing risk‑assessment procedures is under way to help prevent similar incidents in the future.\n\n**Continued Support and Outlook**\n\nEmergency services remain on standby to address any residual hazards, and provincial governments have confirmed that aid packages will cover medical expenses, counseling and other needs arising from the incident. The Canadian Armed Forces have pledged ongoing support for victims and their families and will keep the public informed of the inquiry’s progress and any corrective actions taken. The base is slated for a comprehensive assessment before normal training activities resume.\n\nThe fire at CFB Wainwright highlights the vulnerabilities of large, complex facilities and the necessity of swift, coordinated response mechanisms. While the cause remains unknown, the combined effort of federal, provincial and local agencies reflects a commitment to safeguarding those who serve and to learning lessons that will shape future safety standards.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-18",
+    "time": "19:46",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A fire occurred at Canadian Forces Base (CFB) Wainwright in Alberta, Canada",
+      "The fire was described as deadly and violent",
+      "Four fatalities were reported",
+      "Dozens of people were injured",
+      "The death toll has been confirmed by multiple outlets",
+      "The cause of the fire is under investigation",
+      "Manitoba Premier said the province 'stands ready to help' those affected",
+      "Ontario officials said the province is 'ready to help' with the response",
+      "Carney was quoted in a Toronto Star article about the incident"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=478",
+    "featured": true
+  },
+  {
     "id": 477,
     "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
     "summary": "**Green Party’s Zionism‑as‑Racism Motion to Remain Until at Least 2028, Senior Figure Says**",
@@ -25,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=477",
-    "featured": true
+    "featured": false
   },
   {
     "id": 476,

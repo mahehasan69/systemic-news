@@ -1,5 +1,29 @@
 [
   {
+    "id": 480,
+    "title": "Major fire at Canada military base leaves four dead, dozens injured",
+    "summary": "**Four Service Members Killed, Dozens Injured in Fire at Alberta Military Base**",
+    "content": "**Four Service Members Killed, Dozens Injured in Fire at Alberta Military Base**\n\nA fire broke out at a Canadian Armed Forces installation in Alberta on an unspecified date, killing four service members and wounding dozens more. Emergency crews fought the blaze for several hours before gaining control, while medical teams rushed the injured to hospitals; at least 19 remain in intensive care.\n\nThe incident was accompanied by an explosion whose cause has not yet been determined. Early reports suggested a higher death toll, but officials have confirmed four fatalities. Investigators are treating the fire and the blast as separate, though potentially related, events.\n\nInjuries ranged from minor burns to severe trauma. The Canadian Armed Forces have deployed additional medical resources and begun a comprehensive assessment of damage to the base’s infrastructure and equipment. Families of the deceased have been notified, and support and counseling services are being provided.\n\nThe affected base, a long‑standing training and logistical hub in western Canada, plays a critical role in national defence and disaster‑relief operations. The fire and explosion represent a rare breach of safety at a military facility, prompting a review of fire‑prevention protocols and emergency‑response procedures across the armed forces.\n\nIn response, the Department of National Defence has ordered a full site inspection and suspended non‑essential activities at the installation. A joint task force of military engineers, fire‑safety experts and independent investigators will collect evidence, interview witnesses and analyse the sequence of events. A preliminary report is expected within two weeks, with a comprehensive final report to follow.\n\nThe tragedy underscores the inherent risks faced by service members even in peacetime settings and raises questions about safety standards in training environments. It also places additional strain on regional medical facilities, highlighting the need for coordinated emergency response between military and civilian agencies.\n\nThe Canadian government has pledged a transparent investigation and emphasized accountability in determining the root causes of the fire and explosion. As the inquiry proceeds, priority remains on honoring the fallen, caring for the injured and implementing lessons learned to prevent a recurrence.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-18",
+    "time": "23:53",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A fire occurred at a Canadian military base in Alberta.",
+      "Four service members were reported dead.",
+      "Dozens of people were reported injured."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=480",
+    "featured": true
+  },
+  {
     "id": 479,
     "title": "Macron calls for 'calm and order' after riots across France",
     "summary": "**French Unrest Escalates Ahead of Nationwide Cost‑of‑Living Protests; President Macron Calls for Calm**",
@@ -55,7 +79,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=479",
-    "featured": true
+    "featured": false
   },
   {
     "id": 478,

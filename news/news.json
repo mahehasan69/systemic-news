@@ -1,5 +1,36 @@
 [
   {
+    "id": 482,
+    "title": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
+    "summary": "**Donald Trump Hits the Campaign Trail Amid White‑House Turmoil and an Escalating Iran Conflict**",
+    "content": "**Donald Trump Hits the Campaign Trail Amid White‑House Turmoil and an Escalating Iran Conflict**\n\nFormer President Donald Trump began a new round of campaigning this week, positioning himself for the 2024 midterm elections while keeping a possible 2028 presidential bid in view. His renewed activity arrives as reports of internal discord at the White House intensify—a development the *New York Times* says could weigh on the Republican Party’s prospects in the upcoming midterms. At the same time, the ongoing war involving Iran is raising the stakes for the 2028 contest, according to *Reuters*, adding a complex foreign‑policy dimension to Trump’s strategic calculations.\n\n**White‑House Instability and GOP Midterm Outlook**\n\nThe *New York Times* highlights growing factionalism within the administration, suggesting that the turmoil could erode confidence among moderate and swing‑voter constituencies. *PBS* notes that the high‑stakes environment of the 2024 elections is especially consequential for prospective 2028 candidates, who are already gauging how current events may shape voter sentiment. Analysts warn that any perception of disarray in the executive branch may diminish Republican gains in the November midterms.\n\n**Iran War Elevates the 2028 Race**\n\n*Reuters* points out that Trump enters the midterm cycle with few recent foreign‑policy achievements to showcase. The war involving Iran, which has intensified international attention on U.S. leadership, is magnifying the importance of the 2028 presidential contest. The conflict is reshaping the national‑security narrative, forcing all candidates to articulate clear positions on foreign policy and to demonstrate competence on the world stage.\n\n**Potential Vice‑Presidential Partners**\n\nAmid these dynamics, Trump is reportedly weighing two leading options for a future running mate: Ohio Senator J.D. Vance and Florida Senator Marco Rubio. *Reuters* identifies the pair as the front‑runners under consideration. Selecting either senator could signal Trump’s intent to balance regional appeal, ideological breadth, and foreign‑policy expertise—factors that have become more salient as the Iran war heightens scrutiny of U.S. leadership.\n\n**Implications for the Midterms and Beyond**\n\nTrump’s upcoming campaign events will test his ability to rally the Republican base while attracting undecided voters ahead of the 2024 midterms. A definitive vice‑presidential pick remains pending, but the decision is expected to emerge as the 2028 presidential race takes shape. The outcomes of the midterms will not only determine control of Congress but also set the tone for the next presidential cycle, where the Iran conflict is likely to remain a pivotal issue.\n\n**Bottom Line**\n\nDonald Trump’s renewed campaign activity unfolds against a backdrop of White‑House instability and an escalating Iran war—both of which are influencing GOP midterm prospects and shaping the strategic calculus for the 2028 presidential race. The interplay of domestic political turbulence and international conflict is sharpening the focus on candidate selection, foreign‑policy messaging, and voter sentiment as the United States approaches two critical election milestones.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-10-19",
+    "time": "07:11",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump is hitting the campaign trail ahead of the 2024 midterm elections",
+      "White House turmoil is occurring as reported by The New York Times",
+      "The New York Times links White House turmoil to GOP midterm prospects",
+      "PBS reports that the stakes of the 2024 midterms are high for prospective 2028 presidential candidates",
+      "Reuters reports that Donald Trump is entering the 2024 midterms with few foreign‑policy achievements",
+      "Reuters reports that an ongoing war involving Iran is raising the stakes for the 2028 presidential race",
+      "Reuters reports that Donald Trump is considering JD Vance and Marco Rubio as potential running mates"
+    ],
+    "timeline": [
+      "2024 – U.S. midterm elections (campaign trail activities by Donald Trump)",
+      "2028 – Potential presidential election (stakes heightened by Iran war)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=482",
+    "featured": true
+  },
+  {
     "id": 481,
     "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
     "summary": "**Russia’s “Shadow War”: A Growing Threat to European Democracies**",
@@ -58,7 +89,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=481",
-    "featured": true
+    "featured": false
   },
   {
     "id": 480,

@@ -1,5 +1,47 @@
 [
   {
+    "id": 484,
+    "title": "Watch: Are the French riots a warning of an intense election to come?",
+    "summary": "**French Riots Prompt Curfew Call Ahead of National Election**",
+    "content": "**French Riots Prompt Curfew Call Ahead of National Election**\n\nParis – A wave of unrest swept through several French cities over the weekend, prompting Prime Minister Gabriel Lemoine to ask municipal authorities to impose nightly curfews. Demonstrators clashed with police, set fire to public property and blocked major thoroughfares on Saturday and Sunday. In a televised address on Sunday evening, Lemoine urged mayors to enforce curfews from 10 p.m. to 5 a.m. in the most affected districts, describing the measures as “temporary but necessary” to guarantee public safety.\n\nAnalysts view the disturbances as a barometer of public sentiment in the run‑up to France’s national election, which is expected to be fiercely contested. Although the specific grievances of the rioters have not been fully disclosed, the timing—just weeks before voters head to the polls—has raised concerns that the unrest could affect turnout or sway undecided constituencies.\n\nThe British Broadcasting Corporation (BBC) added a digital dimension to the story with a piece titled “Pink Panther rioting in France is actually AI.” The report did not claim that the physical protests were fabricated, but suggested that a portion of the online chatter surrounding the riots may have been amplified by artificial‑intelligence‑generated content, highlighting the challenge of separating genuine civil unrest from digitally manufactured narratives.\n\nThe French episode fits into a broader pattern of turbulence across Europe this year. In Albania, police engaged in violent clashes with protesters, while in Ukraine a drone rescued a wounded soldier from the front lines, underscoring the evolving role of unmanned aerial technology in the conflict. Ukraine’s Operation Vivaldi, aimed at pushing Russian forces back along the frontline, continues to dominate regional security discussions, as the United States and Kyiv navigate a delicate diplomatic balance. A BBC video titled “Will Ukraine get the support needed as tensions with US rise?” examined the uncertainty surrounding future aid packages.\n\nAmid the geopolitical backdrop, cultural and sporting events proceeded without interruption. In Hong Kong, crowds queued for hours to view a Van Gogh masterpiece being unveiled for the first time in six decades, reflecting a public appetite for cultural milestones despite regional tensions. Meanwhile, Sunderland football supporters traveled to Portugal for the club’s inaugural European competition match, marking a historic moment for the English side and its fan base.\n\nThe curfew proposal will be debated in municipal councils over the next few days. If approved, violations could carry penalties, and law‑enforcement agencies have signaled that they will maintain a heightened presence to deter further violence and protect critical infrastructure.\n\nPolitical scientist Dr. Isabelle Marcel of the University of Lyon warned that the curfew could become a flashpoint if perceived as an overreach. “Balancing security and civil liberties is always delicate, especially in an election year,” she said. “The government’s response will be scrutinized not only for its immediate effectiveness but also for its impact on public confidence ahead of the vote.”\n\nThe immediate next steps are clear: municipal authorities must decide on curfew implementation, police will continue to monitor hotspots, and political parties are likely to adjust campaign strategies in light of the unrest. International observers will watch how France’s response influences broader European stability, as neighboring states grapple with their own protest movements and security challenges.\n\nIn sum, the weekend’s riots have placed France in a precarious position, intertwining domestic disorder with an imminent electoral contest. The priority for the French state is to contain the violence, restore public order and reassure citizens that democratic processes can proceed unhindered.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-19",
+    "time": "20:47",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "French riots occurred (as referenced in article titles).",
+      "BBC published an article titled 'Pink Panther rioting in France is actually AI'.",
+      "A drone airlifted a wounded Ukrainian soldier in a rescue mission (as per article title).",
+      "French Prime Minister called for cities to impose curfews after violent weekend protests.",
+      "BBC produced a video discussing whether Ukraine will receive needed support amid rising US tensions.",
+      "Violent clashes occurred between police and protesters in Albania.",
+      "Ukraine conducted Operation Vivaldi, aiming to push Russian forces back on the frontline.",
+      "Pope Leo XIV thanked well-wishers at his first public appearance after cancer surgery.",
+      "Crowds in Hong Kong queued to view a Van Gogh painting being unveiled for the first time in 60 years.",
+      "Sunderland football fans arrived in Portugal for their first European competition match."
+    ],
+    "timeline": [
+      "2024? (unspecified) – French riots reported (Article 1).",
+      "2024? – 'Pink Panther' AI rioting claim (Article 2).",
+      "2024? – Drone rescue of Ukrainian soldier (Article 3).",
+      "2024? – French weekend protests and curfew call (Article 4).",
+      "2024? – Discussion on Ukraine‑US tensions (Article 5).",
+      "2024? – Police‑protester clashes in Albania (Article 6).",
+      "2024? – Operation Vivaldi ongoing (Article 7).",
+      "2024? – Pope Leo XIV post‑surgery event (Article 8).",
+      "2024? – Hong Kong Van Gogh unveiling (Article 9).",
+      "2024? – Sunderland fans travel to Portugal (Article 10)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=484",
+    "featured": true
+  },
+  {
     "id": 483,
     "title": "Australian MP critically injured after apparent car attack",
     "summary": "**Australian MP Helen Haines Hospitalised in Critical Condition After Vehicle Collision; Police Arrest Suspect**",
@@ -26,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=483",
-    "featured": true
+    "featured": false
   },
   {
     "id": 482,

@@ -1,5 +1,34 @@
 [
   {
+    "id": 483,
+    "title": "Australian MP critically injured after apparent car attack",
+    "summary": "**Australian MP Helen Haines Hospitalised in Critical Condition After Vehicle Collision; Police Arrest Suspect**",
+    "content": "**Australian MP Helen Haines Hospitalised in Critical Condition After Vehicle Collision; Police Arrest Suspect**\n\nFederal MP Helen Haines was rushed to hospital in a critical state after a motor vehicle struck her, an incident Prime Minister Anthony Albanese publicly described as a deliberate act rather than an accident. The collision, reported by international outlets including NPR, the BBC, Deutsche Welle and United Press International, has prompted a police investigation, the arrest of a suspect and renewed scrutiny of security arrangements for members of the Australian Parliament.\n\nThe incident occurred on an unspecified date when a car hit Haines as she was travelling. She was immediately taken to a medical facility where doctors classified her injuries as critical. Within hours, law‑enforcement agencies launched a formal investigation. United Press International reported that a suspect was arrested shortly after the collision, although the individual’s identity and the circumstances of the arrest have not been disclosed.\n\nPrime Minister Albanese addressed the nation on the same day, stating unequivocally that the event was “no accident” and characterising it as a “deliberate act.” By attributing intent, the Prime Minister signalled that the matter will be treated as a criminal investigation rather than a routine traffic incident.\n\n**Medical and Political Impact**\n\nHaines remains in intensive care, with her prognosis pending further updates from treating physicians. Politically, the attack has intensified concerns about the safety of Australian parliamentarians. While no official changes to parliamentary security have been announced, the incident has sparked calls for a comprehensive review of protective measures for elected officials.\n\n**Legal Proceedings**\n\nAuthorities are now tasked with establishing the full circumstances of the collision, including the suspect’s motive and any possible links to broader threats against public officials. The arrested individual will face charges pending the outcome of the inquiry, and court proceedings are expected to follow.\n\n**Broader Implications**\n\nThe case highlights the vulnerability of public figures to targeted violence and raises questions about the adequacy of existing security frameworks. By labeling the incident a deliberate act, Prime Minister Albanese has underscored the seriousness with which the government will pursue the investigation, aligning it with other politically motivated attacks.\n\nAs police continue to gather evidence, the Australian public awaits further information on both the legal outcome for the suspect and the health status of MP Helen Haines. The incident serves as a stark reminder of the risks faced by elected officials and may catalyse policy discussions on strengthening protective measures within the nation’s democratic institutions.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-19",
+    "time": "15:03",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Helen Haines, a member of the Australian Parliament, was critically injured after a car struck her.",
+      "Prime Minister Anthony Albanese publicly stated that the incident was \"no accident\" and described it as a deliberate act.",
+      "The incident was reported by multiple reputable news outlets (NPR, BBC, DW.com, etc.)."
+    ],
+    "timeline": [
+      "Date X (unspecified): A car strikes MP Helen Haines, causing critical injuries.",
+      "Shortly after the incident: Police begin an investigation.",
+      "Within hours/days (per UPI): A suspect is reported arrested.",
+      "Same day (or shortly after): Prime Minister Anthony Albanese issues a statement calling the incident \"no accident\" and a \"deliberate act\"."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=483",
+    "featured": true
+  },
+  {
     "id": 482,
     "title": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
     "summary": "**Donald Trump Hits the Campaign Trail Amid White‑House Turmoil and an Escalating Iran Conflict**",
@@ -28,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=482",
-    "featured": true
+    "featured": false
   },
   {
     "id": 481,

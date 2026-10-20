@@ -1,5 +1,38 @@
 [
   {
+    "id": 485,
+    "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+    "summary": "**France imposes curfews in parts of Paris, Nice and Lille after weekend riots**",
+    "content": "**France imposes curfews in parts of Paris, Nice and Lille after weekend riots**\n\nParis, Nice, Lille – The French interior ministry announced a curfew for Monday night in several urban districts after a wave of unrest that officials described as the most severe riots in decades. The restrictions, which apply to parts of Paris as well as the cities of Nice and Lille, are intended to calm tensions and reassure residents following days of violent protests over the cost of living and school conditions.\n\nThe disturbances erupted over the weekend and quickly spread across the country. Demonstrators took to the streets to voice frustration with rising living expenses and perceived shortcomings in the education system. Police reports indicate that the protests escalated into clashes, prompting authorities to intervene with force. In response, the ministry ordered a curfew to begin Monday night, limiting movement in the affected districts and aiming to prevent further violence.\n\nLocal officials in Nice and Lille confirmed that the same restrictions would be enforced in their jurisdictions, mirroring the approach taken in the capital. The decision was framed as a precautionary step to protect residents and restore public order after the weekend’s chaos, which has already drawn attention from international media. News agencies note that the riots represent a surge in civil disorder not seen for many years.\n\nWhile France contends with its own internal turmoil, a separate incident unfolded elsewhere in Europe. At a Berlin Pride event, a vehicle plowed into the crowd, killing one person and injuring sixteen others. Although unrelated to the French riots, the tragedy underscores a broader climate of public‑safety concerns across the continent and has amplified calls for heightened security at large gatherings.\n\nThe curfew is expected to remain in place for at least the immediate night, with authorities monitoring the situation closely. Government spokespeople said the restrictions could be extended if necessary, depending on how quickly order is reestablished. Political leaders are already facing scrutiny over their handling of the unrest; opposition parties are demanding clearer strategies to address the economic and educational grievances that sparked the protests. Civil‑society groups have urged the government to pair security measures with substantive policy reforms aimed at alleviating cost‑of‑living pressures.\n\nIn the coming days, French officials will assess the curfew’s effectiveness and decide whether additional measures—such as increased police presence or targeted social programs—are required to sustain calm. The episode highlights the fragile balance between public order and the socioeconomic challenges confronting France. As the nation works to contain the immediate fallout, the broader debate over housing affordability, wage stagnation and school funding is likely to dominate the political agenda in the weeks ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-20",
+    "time": "00:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "French government imposed curfews in parts of Paris after weekend riots (NYT, Reuters, BBC, Washington Post).",
+      "Curfews were also imposed in other French cities, including Nice and Lille (Facebook).",
+      "Curfews were ordered for Monday night following the weekend riots (Facebook).",
+      "Police issued a curfew in Paris after weekend rioting over cost of living and school conditions (CBC).",
+      "The riots were described as the worst in decades across France (Facebook, Washington Post).",
+      "The curfews were intended to reassure citizens (Facebook).",
+      "Several French cities imposed curfews after weekend chaos and protests that spread to parts of Europe (CNN).",
+      "One person was killed and 16 injured at a Berlin Pride event after a vehicle crashed into the crowd (BBC)."
+    ],
+    "timeline": [
+      "Weekend (date not specified) – riots erupted across France.",
+      "Monday night (following the weekend) – curfews ordered in parts of Paris and other cities.",
+      "Same period – Berlin Pride vehicle incident resulting in one death and 16 injuries (date not specified)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=485",
+    "featured": true
+  },
+  {
     "id": 484,
     "title": "Watch: Are the French riots a warning of an intense election to come?",
     "summary": "**French Riots Prompt Curfew Call Ahead of National Election**",
@@ -39,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=484",
-    "featured": true
+    "featured": false
   },
   {
     "id": 483,

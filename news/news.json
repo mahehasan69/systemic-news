@@ -1,5 +1,40 @@
 [
   {
+    "id": 490,
+    "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+    "summary": "**U.S. Intelligence Sharing with Ukraine Restored After Oslo Talks; Zelensky, Trump and Rubio Offer Divergent Views**",
+    "content": "**U.S. Intelligence Sharing with Ukraine Restored After Oslo Talks; Zelensky, Trump and Rubio Offer Divergent Views**\n\n*Kyiv –* After a week‑long suspension, the United States has resumed transmitting intelligence on Russian missile and drone attacks to Ukraine. Ukrainian President Volodymyr Zelensky announced on Friday that the early‑warning system is operational again, a development linked to high‑level meetings in Oslo that brought together Zelensky, a Trump‑appointed envoy identified as Witkoff, and U.S. Senator Marco Rubio.\n\nZelensky told reporters that “intelligence sharing works now,” confirming that Washington has re‑established the flow of data that allows Kyiv to scramble air‑defences and protect civilian infrastructure. He added that the system was re‑activated following a phone call with Senator Rubio and that the deployment of Patriot air‑defence batteries and the activation of the Starlink satellite‑internet network are expected to produce results within the next 48 hours.\n\nThe Oslo talks were convened after a pause in U.S. intelligence sharing left Ukraine without timely alerts for a week. While officials did not disclose the precise reason for the suspension, the meetings were intended to restore the critical information link and to discuss additional assistance. During the discussions, Zelensky emphasized that Ukraine is “losing people and time,” underscoring the urgency of re‑establishing the warning network.\n\nPresident Donald Trump, speaking to Zelensky in Oslo, offered a stark assessment of the bilateral relationship. He said the United States has “got nothing back” from Ukraine, citing high diesel prices and Ukrainian casualties as evidence of an uneven exchange, and urged the Ukrainian leader to “make a deal.” Senator Rubio, who has been vocal about the intelligence gap, publicly denied that the United States deliberately withheld information or issued any directive to harm Ukraine. His denial came after media reports suggested the gap might have resulted from a policy decision.\n\nThe restoration of intelligence sharing carries immediate operational significance for Kyiv. Early‑warning data enables Ukrainian forces to respond more quickly to Russian strikes, potentially reducing casualties and damage to critical infrastructure. Zelensky described the situation as a race against both loss of life and lost time, and he highlighted that the renewed flow of information, combined with forthcoming Patriot batteries and Starlink connectivity, will strengthen Kyiv’s layered defence.\n\nThe episode also illuminates broader tensions within the U.S.–Ukraine partnership. While Washington continues to provide material aid—including Patriot systems and satellite connectivity—public statements from Trump and Rubio reveal divergent views about the reciprocity of that support. Trump’s claim that the United States receives “nothing back” contrasts with Zelensky’s insistence that the intelligence channel is now functional and that additional defensive assets will bolster Ukraine’s resilience.\n\nIn the coming days, Ukraine expects the Patriot batteries to become operational and the Starlink network to be fully activated, as promised by Zelensky. Both measures are intended to complement the restored early‑warning system, creating a more robust shield against Russian attacks. Further diplomatic engagement is anticipated, with U.S. officials likely to meet Ukrainian representatives to address lingering questions about aid, intelligence coordination and the broader strategic outlook.\n\nThe incident serves as a reminder that even well‑established security collaborations can be vulnerable to political friction. The swift restoration of intelligence sharing after the Oslo talks demonstrates the capacity of diplomatic channels to resolve operational gaps, while the contrasting public statements from senior U.S. officials underscore ongoing debates over the terms of assistance. As Ukraine moves to integrate Patriot and Starlink capabilities within the next 48 hours, the effectiveness of the renewed intelligence flow will be a key metric for both Kyiv and Washington in assessing the durability of their partnership.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-20",
+    "time": "22:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ukrainian President Volodymyr Zelensky said US intelligence sharing 'works now' after talks in Oslo.",
+      "The United States resumed sharing intelligence with Ukraine about Russian strikes, as reported by BBC, Reuters, The Washington Post and The Guardian.",
+      "Zelensky met with a Trump‑appointed envoy (identified as Witkoff) in Oslo.",
+      "Zelensky said the early‑warning system for Russian missile attacks has resumed after a call with US Senator Marco Rubio.",
+      "Zelensky said he expects results from Patriot air‑defence systems and Starlink satellite internet within 48 hours.",
+      "Zelensky described Ukraine as 'losing people and time' after the Oslo discussions.",
+      "US President Donald Trump told Zelensky that the United States has 'got nothing back' from Ukraine, citing high diesel prices and casualties.",
+      "Senator Marco Rubio publicly denied that the United States deliberately withheld intelligence or issued a directive to harm Ukraine."
+    ],
+    "timeline": [
+      "Zelensky meets US envoys (including Trump envoy Witkoff and Senator Rubio) in Oslo – exact date not specified in the articles.",
+      "Following the Oslo talks, US resumes intelligence sharing with Ukraine – reported by multiple outlets on the same day.",
+      "Zelensky announces that the early‑warning system has resumed after his call with Rubio.",
+      "Zelensky states expectations for Patriot and Starlink results within 48 hours.",
+      "Trump tells Zelensky 'time to make a deal' and later claims the US got 'nothing back' from Ukraine."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=490",
+    "featured": true
+  },
+  {
     "id": 489,
     "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
     "summary": "**Two Men Re‑Arrested in Britain Over Alleged Assistance to Iran’s Intelligence Service**",
@@ -38,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=489",
-    "featured": true
+    "featured": false
   },
   {
     "id": 488,

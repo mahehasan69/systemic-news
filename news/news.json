@@ -1,5 +1,46 @@
 [
   {
+    "id": 489,
+    "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+    "summary": "**Two Men Re‑Arrested in Britain Over Alleged Assistance to Iran’s Intelligence Service**",
+    "content": "**Two Men Re‑Arrested in Britain Over Alleged Assistance to Iran’s Intelligence Service**\n\nBritish police have taken two men back into custody on suspicion that they aided Iran’s intelligence service in matters linked to RAF Fairford, a United States‑operated air base in Gloucestershire, England. The re‑arrests, reported by a coalition of international news outlets including CNN, Reuters, the Guardian, the BBC, CBS News, the Jerusalem Post, Yahoo, AppleValleyNewsNow, RiverBender.com and NewsCord, signal a deepening investigation into alleged foreign‑intelligence activity on UK soil.\n\nThe two suspects were previously detained, though police have not disclosed when the initial arrests occurred. Authorities say the men are believed to have provided assistance to Iran’s intelligence apparatus in connection with activities at RAF Fairford. No details of the evidence that prompted the renewed detentions have been released, and the identities of the individuals remain confidential.\n\nRAF Fairford is a strategic airfield operated by the United States Air Force. It supports the deployment of heavy aircraft and hosts high‑profile military exercises. While the base’s primary function is well known, the specific nature of the alleged Iranian‑linked activity has not been made public. Police confirmed that the investigation remains ongoing and that the two men are being held pending further inquiry.\n\nThe case has attracted considerable domestic and international media attention, reflecting broader concerns about espionage and foreign‑intelligence operations within the United Kingdom. Allegations of involvement by Iran’s intelligence service place the matter in a sensitive geopolitical context, given the historically strained relations between Tehran and Western governments. Officials have refrained from commenting on any diplomatic ramifications, focusing instead on procedural aspects of the investigation.\n\nLaw‑enforcement officials emphasized that the re‑arrests are part of a broader effort to determine the full extent of the alleged assistance to Iran. They described the inquiry as being in its early stages, with additional evidence expected to emerge from ongoing forensic and intelligence analyses. While prosecutors have not yet filed charges, they indicated that formal proceedings could follow if the evidence meets the required threshold.\n\nGoing forward, investigators will continue to question the suspects and conduct forensic examinations of any material linked to the alleged assistance. Prosecutors have signalled readiness to consider charges once a prosecutorial decision is reached. The outcome of the investigation will be communicated through official channels.\n\nThe re‑arrest underscores the vigilance of UK security services in monitoring potential foreign‑intelligence activity, particularly where it intersects with critical military infrastructure such as RAF Fairford. As the inquiry proceeds, observers will be watching for further developments that could clarify the scope of any foreign‑state involvement and the legal consequences for those implicated.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-20",
+    "time": "18:11",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Two men were re‑arrested by UK police.",
+      "The re‑arrests are on suspicion of assisting Iran's intelligence service.",
+      "The alleged activity is linked to RAF Fairford, a U.S.-run air base in England."
+    ],
+    "timeline": [
+      {
+        "event": "Re‑arrest of two men",
+        "reported_by": [
+          "CNN",
+          "Reuters",
+          "Guardian",
+          "BBC",
+          "CBS News",
+          "Jerusalem Post",
+          "Yahoo",
+          "AppleValleyNewsNow",
+          "RiverBender.com",
+          "NewsCord"
+        ],
+        "date": "Not specified in the articles"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=489",
+    "featured": true
+  },
+  {
     "id": 488,
     "title": "Key takeaways from Covid report on care homes",
     "summary": "**UK Covid‑19 Inquiry Finds Care‑Home Residents Treated as an Afterthought, Dismisses “Protective Ring” Claim**",
@@ -35,7 +76,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=488",
-    "featured": true
+    "featured": false
   },
   {
     "id": 487,

@@ -1,5 +1,47 @@
 [
   {
+    "id": 487,
+    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+    "summary": "**Chancellor Jeremy Healey Rules Out Capital Gains Tax Rise Ahead of Autumn 2024 Budget**",
+    "content": "**Chancellor Jeremy Healey Rules Out Capital Gains Tax Rise Ahead of Autumn 2024 Budget**\n\nLondon – Chancellor Jeremy Healey has confirmed that Capital Gains Tax (CGT) will remain unchanged in the government’s upcoming autumn 2024 budget, dismissing calls from various interest groups to increase the levy. The announcement was reported simultaneously by a broad cross‑section of media outlets, including Reuters, The Guardian, Bloomberg, AOL, the BBC, The Independent, The Times, the Financial Times, Citywire and Investment Week.\n\nHealey’s decision was delivered as the Treasury outlined its fiscal agenda for the budget. While the Chancellor did not name the organisations urging a higher rate, the pressure reflects an ongoing debate over how best to fund public services and address fiscal deficits. By keeping the current CGT structure, the government signals a preference for fiscal stability and a desire to avoid market disruption ahead of the budget statement.\n\nInvestment Week highlighted a key concern often raised by opponents of a CGT increase: a higher rate could prompt wealthy individuals to relocate assets—or themselves—out of the United Kingdom. Maintaining the existing rate therefore appears to be a trade‑off between securing additional revenue and preserving the UK’s attractiveness to high‑net‑worth investors.\n\nCGT, which applies to profits from the sale of assets such as property, shares and businesses, has been a focal point of fiscal policy discussions for several years. Adjustments to the tax have historically been used to address revenue shortfalls or to influence investment behaviour. The current decision preserves the status quo established after the last major reform, avoiding immediate implications for the property market, equity investors and private‑equity firms.\n\nThe Chancellor’s stance carries broader fiscal significance. With the autumn budget set to address public spending, tax fairness and economic recovery, the absence of a CGT hike removes a potentially contentious element from the policy mix. It also suggests that the government believes the existing tax framework is sufficient to meet short‑term revenue targets, while sidestepping a move that could trigger capital flight or dampen investment confidence.\n\nLooking ahead, the Treasury will deliver the autumn budget without altering CGT, but the issue is unlikely to disappear entirely. Analysts expect discussions on tax policy, including the appropriate level of CGT, to continue in the months after the budget as the government evaluates revenue performance and economic conditions. Stakeholders will be watching for any signals that could indicate a future shift in the tax landscape.\n\nIn short, Chancellor Jeremy Healey’s firm rejection of a Capital Gains Tax increase keeps the levy unchanged for the autumn 2024 budget, a decision echoed across a wide array of reputable news sources. By preserving the current rate, the government aims to maintain the UK’s appeal to affluent investors while focusing its budgetary priorities elsewhere, leaving the broader debate over CGT’s role in fiscal policy open for future deliberation.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-20",
+    "time": "08:57",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Healey, the UK Chancellor of the Exchequer, has ruled out any increase to Capital Gains Tax (CGT) in the forthcoming budget.",
+      "The rejection of CGT increase is reported by multiple outlets: Reuters, The Guardian, Bloomberg, AOL, BBC, The Independent, The Times, Financial Times, Citywire, and Investment Week.",
+      "The budget referenced is the UK national budget (described as the \"autumn budget\" by The Times).",
+      "All sources agree that no CGT hike will be implemented at this time."
+    ],
+    "timeline": [
+      {
+        "event": "Healey publicly rejects CGT increase",
+        "approximate_time": "Around the time of the UK budget announcement (autumn 2024)",
+        "sources": [
+          "Reuters",
+          "The Guardian",
+          "Bloomberg",
+          "AOL",
+          "BBC",
+          "The Independent",
+          "The Times",
+          "Financial Times",
+          "Citywire",
+          "Investment Week"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=487",
+    "featured": true
+  },
+  {
     "id": 486,
     "title": "Watch: Clean up begins after French riots but police remain",
     "summary": "**BBC Reports Highlight Emerging Threats Across Europe and the United States**",
@@ -17,7 +59,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=486",
-    "featured": true
+    "featured": false
   },
   {
     "id": 485,

@@ -1,5 +1,38 @@
 [
   {
+    "id": 496,
+    "title": "Websites taken down worldwide as critical cyber-security update issued",
+    "summary": "**Global Website Shutdowns Triggered by AI‑Discovered PHP Vulnerability**",
+    "content": "**Global Website Shutdowns Triggered by AI‑Discovered PHP Vulnerability**\n\nA critical flaw in PHP—the programming language that powers an estimated 78 percent of the web’s server‑side applications—was uncovered by artificial‑intelligence‑driven code‑analysis tools. The discovery set off an unprecedented wave of website takedowns worldwide as governments, businesses and other organisations rushed to apply emergency patches.\n\n**Discovery and Immediate Response**\n\nAI‑based scanners flagged anomalous behaviour in PHP’s core libraries, prompting a rapid verification of the issue. Within hours, the vulnerability was reported by Reuters and Fortune, and the story spread through major outlets such as Sky News, The Independent, the BBC, Global News and BetaKit. The media coverage spurred IT teams across the globe to assess exposure and, where necessary, disable affected sites to prevent exploitation.\n\nThe PHP development community responded swiftly, releasing patches that remediate the defect, which could have allowed attackers to execute arbitrary code on vulnerable servers. Security teams continue to monitor for exploitation attempts and are preparing additional takedowns should any critical infrastructure remain unpatched.\n\n**Government Action**\n\nIn Canada, the federal government took several public‑sector websites offline, a move documented by Global News and BetaKit. The States of Guernsey similarly removed a number of public‑sector sites, as reported by the BBC. Both actions were intended to protect citizens while patches were deployed.\n\n**Broader Impact**\n\nThe shutdowns disrupted a range of services. Government portals that provide essential public information and online transactions were temporarily inaccessible, and private‑sector sites—including e‑commerce platforms and news outlets—experienced downtime. The incident highlighted the interconnected nature of modern digital infrastructure and the systemic risk posed by a flaw in such a ubiquitous component.\n\n**Implications for Cybersecurity**\n\nThe episode underscores the growing reliance on AI for vulnerability research. By scanning massive codebases far faster than human analysts, AI can surface hidden defects that might otherwise persist for years. At the same time, the speed with which the vulnerability could be weaponised if left unpatched illustrates the double‑edged nature of AI in cybersecurity.\n\nIn response, organisations are reevaluating patch‑management strategies, investing in automated update mechanisms and strengthening real‑time monitoring capabilities. The rapid issuance of critical updates by the PHP community, highlighted by multiple news outlets, reflects the urgency with which the open‑source ecosystem acted to contain the threat.\n\n**Looking Ahead**\n\nSecurity teams are urged to verify that the PHP patches have been applied correctly and to scrutinise logs for any signs of exploitation. Additional website takedowns remain possible if unpatched systems persist, potentially prompting further governmental interventions similar to those already seen in Canada and Guernsey.\n\n**Conclusion**\n\nThe AI‑discovered PHP vulnerability triggered a coordinated, worldwide response that exposed the fragility of the internet’s underlying software stack. The swift shutdown of numerous sites, the rapid deployment of emergency patches, and heightened vigilance among IT professionals collectively demonstrate the high stakes of modern cyber‑security. The incident serves as a stark reminder that even the most entrenched technologies can harbor hidden dangers, and that proactive, AI‑enhanced detection combined with rapid remediation is essential to safeguarding the digital ecosystem.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-21",
+    "time": "22:52",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A vulnerability in the PHP programming language was identified.",
+      "Artificial intelligence helped discover the PHP flaw (reported by Reuters and Fortune).",
+      "The vulnerability prompted the takedown of websites worldwide, including many government sites.",
+      "Critical security updates were issued to mitigate the flaw (reported by Sky News, The Independent, BBC).",
+      "The Canadian government removed some federal websites in response (reported by Global News and BetaKit).",
+      "The States of Guernsey took its websites offline due to the threat (BBC)."
+    ],
+    "timeline": [
+      "AI discovers PHP vulnerability.",
+      "News of the flaw spreads (multiple outlets).",
+      "Governments and organizations begin taking websites offline.",
+      "Critical security/software updates are released.",
+      "Ongoing patch deployment and monitoring."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=496",
+    "featured": true
+  },
+  {
     "id": 495,
     "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
     "summary": "**Energy Policy and Cyber‑Extortion: Parallel Challenges in the UK and the US**",
@@ -24,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=495",
-    "featured": true
+    "featured": false
   },
   {
     "id": 494,

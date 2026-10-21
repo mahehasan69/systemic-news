@@ -1,5 +1,55 @@
 [
   {
+    "id": 491,
+    "title": "UK government to make Jackdaw gas field announcement",
+    "summary": "**UK Government Poised to Announce Decision on Jackdaw Gas Field Amid Cautious Stance**",
+    "content": "**UK Government Poised to Announce Decision on Jackdaw Gas Field Amid Cautious Stance**\n\nLondon – The British government is expected to announce its decision on the Jackdaw gas field, an offshore development off Aberdeen in the North Sea, within days. The BBC, The Herald and STV News have all reported that the ruling – whether to grant development consent – is imminent. The timing follows a series of public statements by senior ministers emphasizing a “cautious” approach to both the Jackdaw project and the nearby Rosebank oil and gas development.\n\nPrime Minister Andy Burnham has said the government is “not backing away” from its decisions on Jackdaw and Rosebank, adding that formal determinations on both projects are due “shortly.” Scottish Secretary Douglas Alexander echoed this sentiment in a Facebook post, describing the handling of the two cases as “cautious.” The language, noted by the Milford Mercury and Ireland Live News, signals a deliberate pacing of communications as officials balance regulatory, environmental and commercial considerations.\n\nThe Jackdaw field, located in the North Sea’s offshore basin near Aberdeen, has attracted intense scrutiny from industry stakeholders and environmental groups. While detailed technical data remain undisclosed, the field forms part of the UK’s broader offshore energy portfolio, which historically contributes to national energy security and fiscal revenue. The Rosebank development, also in the North Sea, is under review, and its outcome is linked to investment decisions by international partners.\n\nU.S.-based Ithaca Energy, a partner in the Rosebank project, has warned it may halt further British investment if the government does not grant approval, according to AOL.com. The potential withdrawal of capital could affect employment, supply chains and the UK’s energy‑transition strategy, as the nation seeks to reconcile fossil‑fuel production with climate commitments.\n\nOfficials have framed public statements about Jackdaw and Rosebank as tentative, indicating that final decisions will be based on comprehensive assessments of environmental impact, licensing requirements and market conditions. This measured communication aligns with the regulatory framework governing offshore hydrocarbon projects, which mandates rigorous scrutiny before any development consent is issued.\n\nEnergy analysts note that the North Sea remains a critical component of the United Kingdom’s energy mix, supplying a substantial share of domestic gas. Approval of Jackdaw could reinforce supply stability, support price moderation and bolster energy independence amid heightened geopolitical uncertainty. Conversely, a refusal or delay could signal a shift toward accelerated decarbonisation, reshaping the investment landscape for future offshore projects.\n\nThe forthcoming statement is expected to detail any conditions attached to approval, outline the timeline for subsequent licensing steps and explain how the decision fits within the UK’s broader energy policy. Industry participants, environmental organisations and Scottish regional authorities will be watching closely for indications of how the government intends to balance economic objectives with environmental responsibilities.\n\nIn sum, the pending decision on the Jackdaw gas field represents a pivotal moment for the United Kingdom’s offshore energy sector. While ministers have signalled a cautious and deliberate approach, the outcome will have immediate ramifications for investment flows, regional economies and the nation’s energy‑security strategy. The next few days will reveal whether the government proceeds with approval, imposes additional safeguards or adopts an alternative trajectory, setting the tone for future North Sea developments.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-21",
+    "time": "00:18",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The UK government plans to make an announcement about the Jackdaw gas field (BBC).",
+      "The UK government is set to approve the Jackdaw gas field located off the Aberdeen coast (The Herald).",
+      "A decision on the Jackdaw gas field in the North Sea is expected imminently (STV News).",
+      "Prime Minister Andy Burnham said the UK government is “not backing away” from its decisions on the Jackdaw and Rosebank oil and gas fields (Facebook post).",
+      "Scottish Secretary Douglas Alexander said ministers are being “cautious” about the Jackdaw and Rosebank decisions (Facebook post).",
+      "Government officials described the approach to public announcements on Jackdaw and Rosebank as ‘cautious’ (Milford Mercury, Ireland Live News).",
+      "Andy Burnham stated that decisions on Rosebank and Jackdaw oil and gas fields are coming ‘shortly’ (BBC).",
+      "Ithaca may halt British investment without approval for the Rosebank field (AOL.com)."
+    ],
+    "timeline": [
+      {
+        "event": "Media reports indicate decision on Jackdaw gas field expected imminently",
+        "source": "STV News"
+      },
+      {
+        "event": "UK government set to approve Jackdaw gas field off Aberdeen coast",
+        "source": "The Herald"
+      },
+      {
+        "event": "Government described as cautious about public announcements on Jackdaw and Rosebank",
+        "source": "Milford Mercury, Ireland Live News"
+      },
+      {
+        "event": "Andy Burnham says decisions on Rosebank and Jackdaw coming shortly",
+        "source": "BBC"
+      },
+      {
+        "event": "Government to make official announcement on Jackdaw gas field",
+        "source": "BBC"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=491",
+    "featured": true
+  },
+  {
     "id": 490,
     "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
     "summary": "**U.S. Intelligence Sharing with Ukraine Restored After Oslo Talks; Zelensky, Trump and Rubio Offer Divergent Views**",
@@ -32,7 +82,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=490",
-    "featured": true
+    "featured": false
   },
   {
     "id": 489,

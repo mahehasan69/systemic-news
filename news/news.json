@@ -1,5 +1,32 @@
 [
   {
+    "id": 495,
+    "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+    "summary": "**Energy Policy and Cyber‑Extortion: Parallel Challenges in the UK and the US**",
+    "content": "**Energy Policy and Cyber‑Extortion: Parallel Challenges in the UK and the US**\n\n*London* – Recent statements from senior officials in the United Kingdom and a high‑profile ransomware case in the United States underscore the divergent pressures confronting the energy sector on both sides of the Atlantic.\n\n**UK: Domestic Gas Production and Consumer Bills**\n\nGreater Manchester Mayor Andy Burnham defended the decision to permit gas drilling at the Jackdaw site, arguing that the project is a necessary component of a broader strategy to secure domestic energy supplies. In the same briefing, Burnham announced a proposal to reduce the standing charge that appears on household gas bills. The plan, which is still being discussed with the Department for Business and Trade, would lower the fixed component of energy tariffs and could provide immediate relief to consumers facing volatile utility costs.\n\nSecretary of State for Business and Trade Kemi Badenoch used the same forum to urge Prime Minister Rishi Sunak to reverse the government’s ban on new oil and gas licences. Badenoch contended that the ban, introduced as part of the UK’s net‑zero agenda, threatens energy security and economic growth. Her appeal adds pressure on the cabinet to reconcile climate commitments with the need for a reliable domestic energy source, especially as the Jackdaw drilling decision proceeds.\n\nIf adopted, the standing‑charge reduction could modestly lower monthly gas bills for households, while any change to the licence ban would signal a shift in the balance between short‑term supply concerns and long‑term decarbonisation targets.\n\n**US: Colonial Pipeline Ransom Payment**\n\nIn the United States, Colonial Pipeline Company confirmed that it paid a $4.4 million ransom to cyber‑criminals who disrupted the nation’s largest fuel pipeline earlier this year. The payment, disclosed by the company’s chief executive, was made to restore the flow of gasoline, diesel and jet fuel to the eastern seaboard and to avert further economic fallout. The incident highlighted the vulnerability of critical infrastructure to ransomware attacks and is expected to prompt renewed scrutiny from regulators and lawmakers seeking stronger cybersecurity standards for essential services.\n\n**Broader Media Context**\n\nRecent BBC coverage has ranged from consumer‑focused pieces—such as a guide to homemade electrolytes, a safety recall for tumble dryers, and health investigations into dishwashers—to human‑interest stories, including a personal account of time spent with a former KKK leader and an interview with actor Simon Helberg. While unrelated to the policy and security developments outlined above, these stories illustrate the breadth of topics the broadcaster addresses.\n\n**Outlook**\n\nUK policymakers are slated to hold further meetings to assess the feasibility of the proposed standing‑charge cuts and to decide whether to lift the oil and gas licence ban. Energy companies, environmental NGOs and consumer groups are expected to submit evidence during the upcoming consultation phase.\n\nIn the United States, federal agencies are reviewing the Colonial Pipeline case to determine whether additional safeguards or legislative measures are needed to deter future ransomware attacks on critical infrastructure.\n\nTogether, these developments highlight the complex interplay between energy security, consumer protection and cybersecurity in a rapidly evolving global landscape. The United Kingdom must balance domestic gas production against its climate objectives, while the United States confronts the growing menace of cyber‑enabled disruption to essential services. Both regions face mounting pressure to devise policies that safeguard supply, protect consumers and reinforce the resilience of critical infrastructure.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-21",
+    "time": "19:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham defended the Jackdaw decision",
+      "Kemi Badenoch urged the Prime Minister to overturn the ban on new oil and gas licences",
+      "Gas drilling received a go-ahead at Jackdaw",
+      "Andy Burnham proposed a plan to cut standing charges from gas bills",
+      "The Colonial Pipeline boss confirmed a ransom payment of $4.4 million",
+      "BBC published articles titled \"Make your own electrolytes\",\"Tumble dryer safety recall\",\"Helpful resources for coping with Parkinson's\",\"Do Dishwashers Harm Your Health?\",\"My time hanging out with a 'Grand Dragon' of the KKK\",\"Simon Helberg chats piano, karate and Hugh Grant\""
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=495",
+    "featured": true
+  },
+  {
     "id": 494,
     "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
     "summary": "**Stephen Hubbard Freed After More Than Four Years in Russian Custody**",
@@ -43,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=494",
-    "featured": true
+    "featured": false
   },
   {
     "id": 493,

@@ -1,5 +1,49 @@
 [
   {
+    "id": 493,
+    "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+    "summary": "**Russia Releases U.S. Citizen Stephen Hubbard After Diplomatic Intervention**",
+    "content": "**Russia Releases U.S. Citizen Stephen Hubbard After Diplomatic Intervention**\n\nMoscow — Russian authorities have freed Stephen Hubbard, a 74‑year‑old United States citizen who had been detained in Russia since 2022. President Vladimir Putin announced the release during a meeting with U.S. envoy Steve Witkoff, who was in Moscow for talks with the Russian leader. Shortly after the announcement, Hubbard was allowed to leave the country, ending more than two years of uncertainty.\n\nThe release follows a diplomatic appeal that officials say was initiated by former President Donald Trump. While the content of Trump’s outreach has not been made public, sources familiar with the matter indicated that the appeal played a decisive role in prompting Russian authorities to act. The involvement of a former U.S. president and the current U.S. envoy underscores the multi‑layered nature of the effort and suggests that high‑level engagement can influence outcomes for detained citizens abroad.\n\nDetails surrounding Hubbard’s detention in 2022 have not been disclosed, and the specifics of the Putin‑Witkoff meeting remain confidential. Nonetheless, the announcement has been corroborated by a wide range of international news outlets, including the BBC, Reuters, ABC News, NBC News, CBS News, The Washington Post and CNN.\n\nThe development comes at a time when U.S.–Russia relations are strained by sanctions, cyber‑security disputes and divergent positions on regional conflicts. Analysts note that while a single release does not resolve these broader tensions, it may open a modest channel for dialogue on consular cases. Russian officials have indicated that negotiations are ongoing to secure the freedom of additional U.S. nationals held in Russian custody, although the exact number of remaining detainees has not been disclosed.\n\nThe Hubbard case highlights the continued relevance of diplomatic outreach—whether from a former president, a current envoy, or direct talks between heads of state—in addressing the plight of citizens detained abroad. As the United States pursues the release of other detained Americans, this episode may serve as both a benchmark and a catalyst for future negotiations.",
+    "category": "🌍 World",
+    "image": "assets/images/news_card.jpg",
+    "date": "2026-10-21",
+    "time": "10:42",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Stephen Hubbard, a 74‑year‑old US citizen, was released by Russian authorities",
+      "The release was reported by multiple outlets including BBC, Reuters, ABC News, NBC News, CBS News, The Washington Post, CNN, and others",
+      "US envoy Steve Witkoff was present in Russia for a meeting with President Vladimir Putin when the release was announced",
+      "President Vladimir Putin publicly stated that Russia had freed Stephen Hubbard",
+      "The release followed a diplomatic appeal reportedly made by former President Donald Trump",
+      "Hubbard had been detained in Russia since 2022"
+    ],
+    "timeline": [
+      {
+        "event": "Stephen Hubbard detained in Russia",
+        "date": "2022"
+      },
+      {
+        "event": "US envoy Steve Witkoff meets President Putin in Russia",
+        "date": "unknown"
+      },
+      {
+        "event": "President Putin announces Hubbard's release",
+        "date": "unknown"
+      },
+      {
+        "event": "Stephen Hubbard released and departs Russia",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=493",
+    "featured": true
+  },
+  {
     "id": 492,
     "title": "Lawyer caught by BBC offering to make illegal worker penalty 'go away'",
     "summary": "**Lawyers, raids and policy shifts spotlight a wave of enforcement against illegal work and immigration across the UK, South Africa and the United States**",
@@ -28,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=492",
-    "featured": true
+    "featured": false
   },
   {
     "id": 491,

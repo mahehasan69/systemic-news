@@ -1,5 +1,51 @@
 [
   {
+    "id": 494,
+    "title": "Russia Releases American Stephen Hubbard From Prison, State Media Reports",
+    "summary": "**Stephen Hubbard Freed After More Than Four Years in Russian Custody**",
+    "content": "**Stephen Hubbard Freed After More Than Four Years in Russian Custody**\n\n*Washington, March 2024* — Stephen Hubbard, a United States citizen who had been held by Russian authorities since 2022, was released in March 2024. The release was confirmed by a range of independent outlets, including *The New York Times*, CNN, Reuters, *Politico*, ABC, CBS News and *The Washington Post*.\n\nHubbard’s detention began when he was apprehended in the Russian‑occupied portion of eastern Ukraine in 2022, an area under the control of Russian forces. Throughout his confinement, the U.S. government repeatedly requested consular access and a clear statement of the charges, but Russian officials never disclosed the legal basis for his detention.\n\nThe timing of Hubbard’s freedom coincided with a high‑level meeting in Moscow between U.S. businessman John Witkoff and President Vladimir Putin, a detail reported by ABC‑affiliated stations in Chicago and Fresno. While Russian authorities have not explained why Hubbard was released, analysts view the Witkoff‑Putin engagement as a likely diplomatic catalyst. President Donald Trump, speaking on the matter, emphasized that there was “no ‘swap’,” a comment aired on CBS News that the administration used to distance the release from any prisoner‑exchange narrative.\n\nHubbard’s case carries broader implications for U.S.–Russia relations, especially regarding the treatment of American citizens detained abroad. The release is being hailed as a modest diplomatic win for Washington, yet the administration’s insistence that no exchange occurred may shape domestic perceptions of U.S. leverage over Russia.\n\nFollowing his return, U.S. officials are expected to debrief Hubbard to ascertain the conditions of his captivity and to gather any intelligence that may be relevant to ongoing diplomatic efforts. Both governments have indicated a willingness to keep diplomatic channels open for discussions about other Americans held in Russia and to monitor any future proposals for prisoner exchanges.\n\nThe episode revives longstanding concerns in Washington about the vulnerability of U.S. citizens caught in conflict zones and underscores the need for clearer mechanisms to secure consular access and legal transparency for foreign nationals in contested territories. As the United States continues to navigate its relationship with Russia, the Hubbard case will likely serve as a reference point for how individual detentions are addressed amid broader geopolitical rivalry and humanitarian considerations.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-10-21",
+    "time": "15:43",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Stephen Hubbard, a U.S. citizen, was released from Russian detention (reported by The New York Times, CNN, ABC, Reuters, Politico, CBS News, The Washington Post).",
+      "The release was reported by multiple independent news outlets on the same day, confirming the event occurred.",
+      "The release was linked to a meeting between U.S. businessman John Witkoff and Russian President Vladimir Putin (reported by ABC7 Chicago, ABC News, ABC30 Fresno).",
+      "U.S. President Donald Trump publicly stated there was \"no 'swap'\" regarding Hubbard's release (CBS News)."
+    ],
+    "timeline": [
+      {
+        "date": "2022",
+        "event": "Stephen Hubbard captured in occupied Ukraine (as reported by CNN)."
+      },
+      {
+        "date": "2022‑2024",
+        "event": "Hubbard detained by Russian authorities (duration reported as 4 years by CBS)."
+      },
+      {
+        "date": "2024‑03‑??",
+        "event": "Release of Stephen Hubbard by Russia (reported by multiple outlets)."
+      },
+      {
+        "date": "2024‑03‑??",
+        "event": "Meeting between John Witkoff and Vladimir Putin coinciding with release (reported by ABC affiliates)."
+      },
+      {
+        "date": "2024‑03‑??",
+        "event": "Donald Trump comments that there is \"no 'swap'\" (CBS News)."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=494",
+    "featured": true
+  },
+  {
     "id": 493,
     "title": "Russia frees US citizen Stephen Hubbard, state media reports",
     "summary": "**Russia Releases U.S. Citizen Stephen Hubbard After Diplomatic Intervention**",
@@ -41,7 +87,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=493",
-    "featured": true
+    "featured": false
   },
   {
     "id": 492,

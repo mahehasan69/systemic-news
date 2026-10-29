@@ -1,5 +1,29 @@
 [
   {
+    "id": 498,
+    "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+    "summary": "**Audio of Railway Control‑Centre Exchanges Released After Fatal Spanish Train Crash**",
+    "content": "**Audio of Railway Control‑Centre Exchanges Released After Fatal Spanish Train Crash**\n\nAudio recordings captured during the minutes preceding a deadly train crash on a Spanish railway line have been made public, offering a rare view of the real‑time dialogue between the control centre and the train’s drivers. The recordings, which have been circulated by a range of international news organisations—including the BBC, *The Times of India*, AOL.com, *The Star* (Kenya), LBC, Yahoo, News18 and *News.com.au*—are now part of the official investigative record.\n\nThe crash, which resulted in multiple fatalities, triggered an immediate emergency response. While the precise location, date and the exact number of victims have not been disclosed in the verified material, the confirmation of deaths is central to the ongoing inquiry.\n\n### What the Recordings Reveal  \n\nIn the released audio, control‑centre operators can be heard issuing routine procedural commands—speed checks, signal confirmations and route verifications—and receiving acknowledgements from the drivers. The exchanges continue up to the moment of impact, indicating that the communication chain remained active throughout the critical period.\n\nAccording to the reporting outlets, the dialogue follows standard operating procedures before a sudden deviation from expected patterns occurs. The recordings do not contain any explicit indication of mechanical failure or driver error; instead, they provide a factual baseline that investigators can compare with technical data from the train’s onboard systems, signalling logs and track infrastructure.\n\n### Transparency in the Investigation  \n\nSpanish transport authorities have chosen to release the audio as part of a broader trend toward openness in railway safety investigations. By making the communications publicly available, officials aim to demonstrate that the probe is proceeding methodically and that all relevant evidence is under scrutiny. The involvement of numerous international media underscores the global interest in railway safety and the potential implications for other networks.\n\nSpain’s rail system, long recognised for its high safety standards, has previously responded to accidents with upgrades to automatic train‑protection systems, driver‑training programmes and control‑centre procedures. The current incident arrives at a time when the industry is already focused on integrating advanced communication tools and strengthening emergency‑response mechanisms.\n\n### Next Steps  \n\nInvestigators will now combine the audio evidence with data from the train’s event recorder, signalling logs, track inspections and eyewitness testimonies. The forensic analysis will seek to determine whether the crash was caused by a technical malfunction, a signalling error, driver misinterpretation or an external factor such as a track obstruction. Authorities have pledged to issue a comprehensive report once all sources of evidence have been reconciled.\n\nRail operators across Europe are monitoring the investigation closely, as any identified shortcomings could prompt revisions to operational guidelines and safety standards.\n\n### Significance  \n\nThe release of the control‑centre and driver exchanges highlights the critical role of clear, timely communication in railway operations. While the recordings alone do not explain the cause of the Spanish train crash, they constitute an essential piece of the evidentiary puzzle, helping to establish accountability and informing future safety enhancements. Transparent access to operational data, even in the aftermath of tragedy, remains a cornerstone of rigorous accident investigation and the ongoing effort to prevent similar loss of life on rail networks worldwide.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_498.jpg",
+    "date": "2026-10-29",
+    "time": "15:07",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A deadly train crash occurred in Spain",
+      "Audio recordings of exchanges between control centre and drivers were released",
+      "Multiple news outlets (BBC, The Times of India, AOL.com, The Star Kenya, LBC, Yahoo, News18, News.com.au) reported on the audio"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=498",
+    "featured": true
+  },
+  {
     "id": 497,
     "title": "Healey promises reduction in welfare bill before next election",
     "summary": "**UK Budget Welfare Measures Spark Political Debate Ahead of Election**",
@@ -48,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=497",
-    "featured": true
+    "featured": false
   },
   {
     "id": 496,

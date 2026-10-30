@@ -12,282 +12,111 @@ const themeButton = document.getElementById("themeButton");
 
 let NEWS = [];
 
-async function loadNews(){
+async function loadNews() {
+    try {
+        const response = await fetch("./news/news.json?v=20261030-2", { cache: "no-store" });
+        if (!response.ok) throw new Error("Unable to load news.");
 
-    try{
+        const data = await response.json();
+        NEWS = Array.isArray(data) ? data : [];
 
-        const response = await fetch("./news/news.json?v=" + Date.now(), { cache: "no-store" });
-
-        if(!response.ok){
-
-            throw new Error("Unable to load news.");
-
-        }
-
-        NEWS = await response.json();
-
-        console.log("Loaded:",NEWS);
-
-        if(NEWS.length===0){
-
-            heroTitle.textContent="No News Available";
-
-            heroSummary.textContent="The news feed is currently empty.";
-
+        if (NEWS.length === 0) {
+            heroImage.src = "assets/images/placeholder.jpg";
+            heroTitle.textContent = "No News Available";
+            heroSummary.textContent = "The news feed is currently empty.";
+            heroCategory.textContent = "Updates";
+            heroLink.removeAttribute("href");
+            newsGrid.replaceChildren();
+            trendingNews.replaceChildren();
             return;
-
         }
 
         buildHero();
-
         buildLatest();
-
         buildTrending();
-
-    }
-
-    catch(error){
-
+    } catch (error) {
         console.error(error);
-
-        heroTitle.textContent="Failed to load news.";
-
-        heroSummary.textContent="Please refresh later.";
-
+        NEWS = [];
+        heroImage.src = "assets/images/placeholder.jpg";
+        heroTitle.textContent = "Failed to load news.";
+        heroSummary.textContent = "Please refresh later.";
+        heroCategory.textContent = "Updates";
+        heroLink.removeAttribute("href");
+        newsGrid.replaceChildren();
+        trendingNews.replaceChildren();
     }
-
 }
 
-function buildHero(){
-
+function buildHero() {
     const article = NEWS[0];
-
-    heroImage.src = article.image;
-
-    heroImage.onerror = ()=>{
-
-        heroImage.src="assets/images/placeholder.jpg";
-
-    };
-
-    heroTitle.textContent=article.title;
-
-    heroSummary.textContent=article.summary;
-
-    heroCategory.textContent=article.category;
-
-    heroLink.href=article.url;
-
+    heroImage.src = article.image || "assets/images/placeholder.jpg";
+    heroImage.onerror = () => { heroImage.src = "assets/images/placeholder.jpg"; };
+    heroTitle.textContent = article.title || "";
+    heroSummary.textContent = article.summary || "";
+    heroCategory.textContent = article.category || "";
+    heroLink.href = article.url || "#";
 }
 
-function createCard(article){
-
+function createCard(article) {
     return `
-
     <article class="news-card">
-
-        <img
-            src="${article.image}"
-            alt="${article.title}"
-            onerror="this.src='assets/images/placeholder.jpg'">
-
+        <img src="${article.image || "assets/images/placeholder.jpg"}" alt="${article.title || "News"}" onerror="this.src='assets/images/placeholder.jpg'">
         <div class="news-content">
-
-            <div class="news-category">
-
-                ${article.category}
-
-            </div>
-
-            <h3 class="news-title">
-
-                ${article.title}
-
-            </h3>
-
-            <p class="news-summary">
-
-                ${article.summary}
-
-            </p>
-
+            <div class="news-category">${article.category || ""}</div>
+            <h3 class="news-title">${article.title || ""}</h3>
+            <p class="news-summary">${article.summary || ""}</p>
             <div class="news-footer">
-
-                <span>
-
-                    ${article.time}
-
-                </span>
-
-                <a href="${article.url}">
-
-                    Read →
-
-                </a>
-
+                <span>${article.time || ""}</span>
+                <a href="${article.url || "#"}">Read →</a>
             </div>
-
         </div>
-
-    </article>
-
-    `;
-
+    </article>`;
 }
 
-function buildLatest(){
-
-    newsGrid.innerHTML="";
-
-    NEWS.slice(1).forEach(article=>{
-
-        newsGrid.innerHTML += createCard(article);
-
-    });
-
+function buildLatest() {
+    newsGrid.innerHTML = "";
+    NEWS.slice(1).forEach(article => { newsGrid.innerHTML += createCard(article); });
 }
 
-function buildTrending(){
-
-    trendingNews.innerHTML="";
-
-    NEWS.slice(0,4).forEach(article=>{
-
-        trendingNews.innerHTML += createCard(article);
-
-    });
-
+function buildTrending() {
+    trendingNews.innerHTML = "";
+    NEWS.slice(0, 4).forEach(article => { trendingNews.innerHTML += createCard(article); });
 }
 
-searchBox.addEventListener("input",()=>{
-
-    const keyword =
-
-        searchBox.value
-
-        .trim()
-
-        .toLowerCase();
-
-    if(keyword===""){
-
+searchBox.addEventListener("input", () => {
+    const keyword = searchBox.value.trim().toLowerCase();
+    if (keyword === "") {
         buildLatest();
-
         return;
-
     }
-
-    const result = NEWS.filter(article=>
-
-        article.title.toLowerCase().includes(keyword)
-
-        ||
-
-        article.summary.toLowerCase().includes(keyword)
-
-        ||
-
-        article.category.toLowerCase().includes(keyword)
-
+    const result = NEWS.filter(article =>
+        (article.title || "").toLowerCase().includes(keyword) ||
+        (article.summary || "").toLowerCase().includes(keyword) ||
+        (article.category || "").toLowerCase().includes(keyword)
     );
-
-    newsGrid.innerHTML="";
-
-    result.forEach(article=>{
-
-        newsGrid.innerHTML += createCard(article);
-
-    });
-
+    newsGrid.innerHTML = "";
+    result.forEach(article => { newsGrid.innerHTML += createCard(article); });
 });
 
-/* ===========================
-   THEME
-=========================== */
-
-themeButton.addEventListener("click",()=>{
-
+themeButton.addEventListener("click", () => {
     document.body.classList.toggle("light");
-
-    const light =
-
-        document.body.classList.contains("light");
-
-    localStorage.setItem(
-
-        "theme",
-
-        light ? "light" : "dark"
-
-    );
-
-    themeButton.textContent =
-
-        light ? "☀️" : "🌙";
-
+    const light = document.body.classList.contains("light");
+    localStorage.setItem("theme", light ? "light" : "dark");
+    themeButton.textContent = light ? "☀️" : "🌙";
 });
 
-(function(){
-
-    const theme =
-
-        localStorage.getItem("theme");
-
-    if(theme==="light"){
-
+(function () {
+    if (localStorage.getItem("theme") === "light") {
         document.body.classList.add("light");
-
-        themeButton.textContent="☀️";
-
+        themeButton.textContent = "☀️";
     }
-
 })();
 
-/* ===========================
-   CARD CLICK
-=========================== */
+document.addEventListener("click", event => {
+    const card = event.target.closest(".news-card");
+    if (!card) return;
+    const link = card.querySelector("a");
+    if (link) window.location.href = link.href;
+});
 
-document.addEventListener(
-
-    "click",
-
-    (e)=>{
-
-        const card =
-
-            e.target.closest(".news-card");
-
-        if(!card) return;
-
-        const link =
-
-            card.querySelector("a");
-
-        if(link){
-
-            window.location.href =
-
-                link.href;
-
-        }
-
-    }
-
-);
-
-/* ===========================
-   PAGE LOAD
-=========================== */
-
-window.addEventListener(
-
-    "load",
-
-    ()=>{
-
-        loadNews();
-
-    }
-
-);
-
+window.addEventListener("load", loadNews);

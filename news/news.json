@@ -1,5 +1,48 @@
 [
   {
+    "id": 4,
+    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    "summary": "**Binance Confirms $6.3 Billion Crypto Heist, Freezes Half of Stolen Funds**",
+    "content": "**Binance Confirms $6.3 Billion Crypto Heist, Freezes Half of Stolen Funds**\n\nBinance, the world’s largest cryptocurrency exchange, has confirmed that it was the target of a cyber‑attack that resulted in the theft of approximately $6.3 billion in digital assets. The loss, described by Yahoo Finance Australia, the BBC, Reuters, Gulf Business and other outlets as the biggest crypto heist on record, is being linked by the BBC, Reuters and Gulf Business to actors with ties to North Korea.\n\n**Immediate Response**\n\nWithin hours of the breach, Binance announced that it had frozen roughly 50 percent of the stolen cryptocurrency. The exchange said the frozen assets are now being retrieved, marking the first concrete phase of a recovery effort that could extend over weeks or months. \n\nU.S. law‑enforcement agencies have joined the investigation. The FBI and the U.S. Secret Service are providing resources and expertise to trace the flow of the illicit funds and to identify the perpetrators behind the attack.\n\n**Scale and Industry Impact**\n\nThe $6.3 billion loss dwarfs previous high‑profile crypto thefts and raises systemic concerns about the security of platforms that hold trillions of dollars in user deposits. Analysts note that the magnitude of the breach not only inflicts a direct financial hit on Binance but also calls into question the adequacy of existing safeguards against coordinated, state‑linked attacks.\n\n**Legal and Regulatory Fallout**\n\nThe hack is expected to trigger a cascade of legal and regulatory actions. Affected customers may file lawsuits to recover their losses, while regulators worldwide are likely to intensify scrutiny of risk‑management practices at cryptocurrency exchanges. Although freezing half of the stolen funds is a positive development, the remaining assets could still be moved or laundered, posing additional risk.\n\nThe alleged involvement of North Korean actors adds a geopolitical dimension, potentially prompting diplomatic engagement alongside criminal investigations.\n\n**Recovery Strategy**\n\nBinance’s recovery plan centers on the frozen assets. The exchange will trace blockchain transactions, cooperate with other exchanges and wallet providers that may have received the stolen funds, and leverage the investigative capabilities of the FBI and the Secret Service. Law‑enforcement officials aim to follow the money trail, identify any accomplices and dismantle the infrastructure used to facilitate the theft. The joint effort highlights a growing trend of public‑private cooperation in combating cross‑border cybercrime.\n\n**Outlook**\n\nInvestors, regulators and the broader crypto community will be watching the next steps closely. Binance has pledged to continue its recovery operations and to cooperate fully with authorities. Both the FBI and the Secret Service have indicated that their investigation remains ongoing, suggesting that further details about the attack’s mechanics and the identities of those involved may emerge.\n\nPotential legal actions by customers and possible regulatory penalties could reshape the operating environment for Binance and its competitors. The $6.3 billion hack underscores the vulnerabilities inherent in the rapidly expanding digital‑asset ecosystem. While Binance’s swift move to freeze half of the stolen funds demonstrates a proactive stance, the incident highlights the need for stronger security frameworks, international cooperation and clearer regulatory standards. As the investigation unfolds, the breach will likely become a benchmark for how the crypto industry responds to large‑scale breaches and for the safeguards governments and private firms will adopt to protect the next generation of financial assets.",
+    "category": "₿ Crypto",
+    "image": "assets/images/news_4.jpg",
+    "date": "2026-10-30",
+    "time": "19:11",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Binance reported a hack resulting in the theft of approximately $6.3 billion in crypto assets.",
+      "Multiple outlets (Yahoo Finance Australia, BBC, Reuters, NewsCord, Gulf Business, Yahoo, Arise News, ScottishNews.com) describe the incident as the largest or record‑breaking crypto heist in history.",
+      "Binance has taken action to freeze roughly half of the stolen funds.",
+      "Binance announced it is beginning to recover the frozen crypto funds.",
+      "The FBI and U.S. Secret Service are cooperating with Binance in the investigation."
+    ],
+    "timeline": [
+      {
+        "event": "Hack resulting in $6.3 billion loss",
+        "date": null
+      },
+      {
+        "event": "Binance freezes about 50% of the stolen funds",
+        "date": null
+      },
+      {
+        "event": "FBI and U.S. Secret Service begin cooperation with Binance",
+        "date": null
+      },
+      {
+        "event": "Binance announces start of fund recovery process",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=4",
+    "featured": true
+  },
+  {
     "id": 3,
     "title": "What we know about Binance's $6.3bn hack",
     "summary": "**Binance Confirms $6.3 Billion Crypto Heist, the Largest in History**",
@@ -21,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=3",
-    "featured": true
+    "featured": false
   },
   {
     "id": 2,

@@ -1,5 +1,31 @@
 [
   {
+    "id": 5,
+    "title": "US approves sale of 500 Patriot missiles to Ukraine",
+    "summary": "**U.S. Approves $2.1 Billion Sale of Patriot Missiles to Ukraine**",
+    "content": "**U.S. Approves $2.1 Billion Sale of Patriot Missiles to Ukraine**\n\nWashington has authorized a $2.1 billion foreign military sale that will deliver 500 Patriot‑type missiles, including PAC‑3 interceptors, to the Ukrainian armed forces. The decision, announced by U.S. officials, marks the latest tranche of American defense assistance aimed at strengthening Kyiv’s air‑defence capabilities amid its ongoing war with Russia.\n\nThe package provides a substantial quantity of Patriot missiles—renowned for their precision against aircraft, cruise missiles and ballistic projectiles—and adds the advanced PAC‑3 interceptors, which are capable of engaging more sophisticated threats. The cost covers both the munitions and the support services required for their effective deployment.\n\n**Immediate impact**\n\nIntegrating the new missiles into Ukraine’s existing air‑defence network is expected to improve protection for critical infrastructure, military installations and civilian populations from Russian air strikes. Analysts say the influx of Patriot‑class weapons could shift the regional balance of air‑defence capabilities, giving Ukraine a more credible deterrent against high‑altitude and high‑speed attacks.\n\n**Logistics and training**\n\nPreparations are already under way to transport the missiles from U.S. depots to Ukrainian hands. The operation will involve secure conveyance, storage and handling of the sensitive equipment. Concurrently, Ukrainian personnel will receive training from U.S. and allied experts on the Patriot system’s operation, maintenance, launch procedures and integration with Ukraine’s broader air‑defence architecture.\n\n**Strategic context**\n\nThe sale underscores Washington’s continued commitment to Ukraine’s sovereignty. Since the conflict began, the United States has supplied a range of defensive weapons, financial aid and intelligence support. By providing a high‑end air‑defence solution, the United States aims to reduce Ukraine’s vulnerability to missile and drone attacks and preserve its operational freedom on the battlefield.\n\n**Next steps**\n\nFollowing delivery, Ukrainian crews will complete training and conduct operational testing of the system within the country’s air‑defence grid. Once fully integrated, the Patriot missiles are expected to become a core component of Kyiv’s defensive strategy, offering a credible shield against a spectrum of aerial threats.\n\n**Significance**\n\nThe approval of the $2.1 billion Patriot missile sale represents a notable escalation in U.S. military assistance to Ukraine. It not only expands the nation’s defensive toolkit but also signals Washington’s willingness to invest heavily in counter‑air capabilities for its Eastern European partner. The development will be closely monitored by allies and adversaries alike, serving as a barometer of the evolving security dynamics in the region.",
+    "category": "🌍 World",
+    "image": "assets/images/news_5.jpg",
+    "date": "2026-10-30",
+    "time": "23:35",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United States approved a sale valued at $2.1 billion.",
+      "The sale involves 500 Patriot missiles or PAC‑3 interceptors.",
+      "The sale is directed to Ukraine."
+    ],
+    "timeline": [
+      "Approval date not provided in the source articles."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=5",
+    "featured": true
+  },
+  {
     "id": 4,
     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
     "summary": "**Binance Confirms $6.3 Billion Crypto Heist, Freezes Half of Stolen Funds**",
@@ -40,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=4",
-    "featured": true
+    "featured": false
   },
   {
     "id": 3,

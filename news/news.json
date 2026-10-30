@@ -1,5 +1,62 @@
 [
   {
+    "id": 2,
+    "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+    "summary": "**Syria’s Post‑Conflict Economic and Humanitarian Landscape Remains Fragile One Year After Assad’s Exit**",
+    "content": "**Syria’s Post‑Conflict Economic and Humanitarian Landscape Remains Fragile One Year After Assad’s Exit**\n\nSyria is confronting soaring living costs, pervasive poverty and a massive reconstruction challenge as it marks the first anniversary of President Bashar al‑Assad’s removal. A June 2026 humanitarian situation report from the United Kingdom government, together with recent analyses from the World Bank, international NGOs and regional think‑tanks, depicts a nation still emerging from rubble while facing what analysts call its “biggest stress test” since the end of the civil war.\n\nThe war that devastated Syria between 2011 and 2023 left the country’s infrastructure in ruins and its economy in tatters. The Middle East Council on Global Affairs notes that “one year after the war, Syria is still emerging from rubble.” The physical destruction is mirrored by a humanitarian crisis: the UK’s June 2026 report highlights persistent food insecurity, limited access to health services and a sharp rise in the price of basic goods. BBC coverage confirms that Syrians are increasingly frustrated by these soaring costs, which threaten any momentum toward economic recovery.\n\nIn the first year without Assad, Syria’s economic profile has shifted markedly. Syria Direct observes that the removal of the long‑standing leader has triggered “economic changes” that are still being measured. The World Bank estimates that post‑conflict reconstruction will require **US$216 billion**. ReliefWeb adds that the conflict has left a “devastated economy, pervasive poverty and a challenging road to social and economic recovery.” These figures underscore the financial gap that the Syrian state and its international partners must bridge to restore basic services and rebuild housing, schools and hospitals.\n\nSecurity remains a parallel concern. The International Crisis Group points to lessons being drawn from stabilization efforts on Syria’s coast and in the Suweida region, where local security arrangements have been tested and refined. CNN describes the post‑Assad period as Syria’s “biggest stress test,” emphasizing that the ability to maintain public order while delivering humanitarian aid will be decisive for the country’s overall recovery. Refugees International reports that rebuilding initiatives have begun in earnest after Assad’s departure, but progress is constrained by limited funding and the need to coordinate among a fragmented set of local authorities and international donors.\n\nThe convergence of economic hardship, security challenges and massive reconstruction needs makes Syria a focal point for the international community. The World Bank’s US$216 billion estimate is not merely a budget line; it serves as a benchmark for donor commitments and a gauge of the political will required to prevent a protracted humanitarian emergency. The UK’s June 2026 humanitarian note, together with ongoing assessments from NGOs, signals that without sustained assistance the risk of renewed instability could rise, potentially undoing the modest gains made in the past year.\n\nLooking ahead, the next phase of Syria’s recovery will hinge on several interlinked actions. First, the Syrian government and its partners must secure financing to meet the World Bank’s reconstruction target, likely through a mix of multilateral loans, bilateral aid and private‑sector investment. Second, measures to curb inflation and stabilize the cost of essential goods are essential to alleviate public frustration, as highlighted by the BBC. Third, security reforms modeled on successful initiatives in the coastal and Suweida areas will need to be scaled up to protect civilians and enable the safe delivery of aid. Finally, continued monitoring by bodies such as the UK’s humanitarian office and ReliefWeb will provide the data needed to adjust policies in real time.\n\nIn sum, Syria stands at a crossroads where the legacy of a decade‑long war collides with the urgent demands of reconstruction and humanitarian relief. The country’s ability to navigate this “biggest stress test” will determine whether it can transition from a landscape of rubble and poverty to one of sustainable growth and stability. The coming months will be critical in translating the US$216 billion reconstruction blueprint into tangible improvements for a population that has endured years of conflict and now faces the daily reality of soaring living costs.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_2.jpg",
+    "date": "2026-10-30",
+    "time": "06:57",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Syrians are frustrated by soaring living costs that threaten economic recovery (BBC).",
+      "Post‑Assad Syria is described as facing its biggest stress test (CNN).",
+      "Security restoration lessons are being drawn from Syria’s coast and Suweida region (International Crisis Group).",
+      "One year after the war, Syria is still emerging from rubble (Middle East Council on Global Affairs).",
+      "Syria’s economy has changed in the first year without Bashar al‑Assad (Syria Direct).",
+      "A humanitarian situation note for Syria was published by the UK government for June 2026 (GOV.UK).",
+      "Rebuilding efforts are underway after Assad’s departure (Refugees International).",
+      "The World Bank estimates post‑conflict reconstruction costs at US$216 billion (World Bank Group).",
+      "The conflict has left a devastated economy, pervasive poverty and a challenging road to social and economic recovery (ReliefWeb)."
+    ],
+    "timeline": [
+      {
+        "event": "War devastation and rubble",
+        "approximate_time": "2023‑2024 (implied)"
+      },
+      {
+        "event": "One year after war, Syria still emerging from rubble",
+        "source": "Middle East Council on Global Affairs"
+      },
+      {
+        "event": "First year without Assad – economic changes examined",
+        "source": "Syria Direct"
+      },
+      {
+        "event": "Post‑Assad stress test highlighted",
+        "source": "CNN"
+      },
+      {
+        "event": "Humanitarian situation report",
+        "date": "June 2026",
+        "source": "GOV.UK"
+      },
+      {
+        "event": "World Bank reconstruction cost estimate",
+        "amount": "US$216 billion",
+        "source": "World Bank Group"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=2",
+    "featured": true
+  },
+  {
     "id": 1,
     "title": "Democrats have an identity crisis - it won't be an easy fix",
     "summary": "**Democrats’ Identity Crisis Dominates Media Coverage Across the Atlantic**",
@@ -26,6 +83,6 @@
       "news.google.com"
     ],
     "url": "article.html?id=1",
-    "featured": true
+    "featured": false
   }
 ]

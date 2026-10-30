@@ -16,7 +16,7 @@ async function loadNews(){
 
     try{
 
-        const response = await fetch("./news/news.json");
+        const response = await fetch("./news/news.json?v=" + Date.now(), { cache: "no-store" });
 
         if(!response.ok){
 

@@ -1,5 +1,92 @@
 [
   {
+    "id": 500,
+    "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
+    "summary": "**Sir Patrick Stewart, 86, Dies – Tributes Flood Media After Iconic Actor’s Passing**",
+    "content": "**Sir Patrick Stewart, 86, Dies – Tributes Flood Media After Iconic Actor’s Passing**\n\nSir Patrick Stewart, the 86‑year‑old actor celebrated for his definitive turn as Captain Jean‑Luc Picard in *Star Trek* and for a distinguished career on Shakespearean stages, died earlier this week. The BBC confirmed the news in a brief announcement, prompting a cascade of retrospectives, biographies and curated streaming guides that aim to honor a career spanning theatre, television and film.\n\n**BBC’s Immediate Coverage**\n\nWithin hours of the announcement, the BBC published three separate pieces:\n\n* A detailed biography tracing Stewart’s rise from a modest upbringing to global stardom.  \n* A “life in pictures” slideshow juxtaposing early stage productions with his later science‑fiction fame.  \n* A video compilation of his numerous BBC appearances over the decades.\n\nTogether, the features map a trajectory that saw Stewart move effortlessly between the gravitas of Shakespeare and the futuristic optimism of *Star Trek*.\n\n**Streaming Guides and Family Profile**\n\nEntertainment outlets quickly assembled concrete ways for audiences to revisit Stewart’s oeuvre. Page Six released a list of 17 movies and television shows—ranging from the classic *Star Trek* series to his acclaimed performances in *A Christmas Carol* and the *X‑Men* franchise—now available for streaming in celebration of his life. The guide serves both longtime fans and newcomers seeking to understand the actor’s versatility.\n\nEntertainment Weekly added a personal dimension by profiling Stewart’s family. The outlet confirmed that he was married and father to children, and noted the family’s decision to mourn privately while expressing gratitude for the outpouring of support.\n\n**Critical Assessment of a Dual Legacy**\n\nColleagues and critics have long praised Stewart’s ability to bring dignity and depth to roles that might otherwise be confined to genre conventions. His portrayal of Picard redefined the archetype of the starship captain, infusing it with intellectual curiosity and moral clarity. Equally, his Shakespearean work—particularly his turn as Macbeth and his tenure with the Royal Shakespeare Company—reinforced his reputation as a classically trained thespian.\n\nThe duality of his career explains why his death resonates across disparate fan bases, from sci‑fi conventions to West End aficionados. Stewart built a cultural bridge between highbrow theatre and mainstream popular culture, demonstrating that classical training and genre work need not be mutually exclusive. His willingness to traverse these worlds opened doors for future actors to pursue similarly eclectic paths.\n\n**Looking Ahead**\n\nThe BBC’s feature series and the curated streaming list will keep Stewart’s work in public view for months to come. Fans are expected to gather for virtual watch parties, and academic institutions may incorporate his performances into curricula that examine the intersection of classical acting techniques with modern media.\n\nWhile maintaining privacy, Stewart’s family has thanked supporters, a sentiment echoed in the millions of likes and shares that have already accumulated on social‑media tributes.\n\n**Conclusion**\n\nSir Patrick Stewart’s death marks the end of an era for an actor who navigated Shakespearean drama and interstellar exploration with equal mastery. The immediate response—a flurry of biographies, visual retrospectives and curated streaming recommendations—reflects both the depth of his influence and the public’s desire to celebrate a career that reshaped expectations of what a versatile actor can achieve. As audiences revisit his most memorable performances, Stewart’s legacy endures, reminding us that the power of storytelling transcends genre, medium and time.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_500.jpg",
+    "date": "2026-10-30",
+    "time": "00:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      {
+        "fact": "Sir Patrick Stewart died at age 86",
+        "source": "BBC article titled \"Star Trek actor Sir Patrick Stewart dies aged 86\""
+      },
+      {
+        "fact": "Sir Patrick Stewart was known for his role in Star Trek and for performing Shakespeare",
+        "source": "BBC article titled \"Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare\""
+      },
+      {
+        "fact": "A list of 17 Patrick Stewart movies and shows was compiled for streaming in celebration of his life",
+        "source": "Page Six article titled \"17 Patrick Stewart movies and shows to stream in celebration of his life\""
+      },
+      {
+        "fact": "Patrick Stewart was married and had children; his family is referenced in an Entertainment Weekly piece",
+        "source": "Entertainment Weekly article titled \"Patrick Stewart’s wife and children: Inside the late actor’s family life\""
+      },
+      {
+        "fact": "BBC produced multiple retrospectives on Stewart’s career (life in pictures, BBC appearances, biography)",
+        "source": [
+          "BBC article \"Sir Patrick Stewart: The life of an iconic actor\"",
+          "BBC article \"Sir Patrick Stewart: A life in pictures\"",
+          "BBC article \"Watch: Sir Patrick Stewart's BBC appearances over the years\""
+        ]
+      },
+      {
+        "fact": "Jim Bakker, US televangelist, died at age 86",
+        "source": "BBC article titled \"US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86\""
+      },
+      {
+        "fact": "RJ Mitte made a public statement: \"Disabled or not, everyone deserves an opportunity\"",
+        "source": "BBC article titled \"'Disabled or not, everyone deserves an opportunity' - RJ Mitte\""
+      },
+      {
+        "fact": "College students expressed shock about Cornell University rape investigation",
+        "source": "BBC article titled \"'I'm very shocked' - College students react to Cornell University rape investigation\""
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Death of Sir Patrick Stewart announced",
+        "date": null,
+        "source": "BBC death announcement article"
+      },
+      {
+        "event": "Publication of tributes, biographies, and streaming list",
+        "date": null,
+        "source": [
+          "BBC biography articles",
+          "Page Six streaming list",
+          "Entertainment Weekly family piece"
+        ]
+      },
+      {
+        "event": "Death of Jim Bakker announced",
+        "date": null,
+        "source": "BBC Jim Bakker death article"
+      },
+      {
+        "event": "RJ Mitte public statement released",
+        "date": null,
+        "source": "BBC RJ Mitte article"
+      },
+      {
+        "event": "Cornell University rape investigation reactions reported",
+        "date": null,
+        "source": "BBC Cornell reaction article"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=500",
+    "featured": true
+  },
+  {
     "id": 499,
     "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
     "summary": "**UK Leaders Call for Immediate Cuts to Welfare Spending Amid Fiscal Pressure**",
@@ -24,7 +111,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=499",
-    "featured": true
+    "featured": false
   },
   {
     "id": 498,

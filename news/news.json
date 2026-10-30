@@ -1,5 +1,29 @@
 [
   {
+    "id": 3,
+    "title": "What we know about Binance's $6.3bn hack",
+    "summary": "**Binance Confirms $6.3 Billion Crypto Heist, the Largest in History**",
+    "content": "**Binance Confirms $6.3 Billion Crypto Heist, the Largest in History**\n\nBinance, the world’s leading cryptocurrency exchange by trading volume, announced on Monday that it had been hit by a sophisticated cyber‑attack that resulted in the loss of approximately US$6.3 billion in digital assets. The company described the breach as the most extensive crypto theft ever recorded, highlighting the vulnerability of even the most well‑funded platforms to advanced digital threats.\n\nThe intrusion, which Binance labeled “complex,” involved the unauthorized removal of a massive quantity of tokens from its custodial wallets. While the exact method of the attack has not been disclosed, the scale of the loss surpasses previous high‑profile breaches, including the 2014 Mt. Gox collapse and the 2022 Ronin Network exploit, both of which resulted in multi‑hundred‑million‑dollar losses. Binance’s statement emphasized that the incident represents a record financial loss for both the firm and the broader crypto ecosystem.\n\nIn response, two major stablecoin issuers—Tether and Circle—have frozen assets worth $2.6 billion that were linked to the compromised wallets. The freeze, carried out in coordination with law‑enforcement agencies, is intended to prevent further dissipation of the stolen funds and to protect market integrity. The move signals a growing willingness among custodial service providers to intervene directly when large‑scale thefts threaten systemic stability.\n\nThe breach has already prompted a reassessment of risk‑management practices across the sector. Lloyd’s of London, a leading global insurer, announced that it will intensify scrutiny of crypto‑related and cyber‑insurance policies in light of the incident. Insurers now face the challenge of pricing coverage for an asset class that can be moved across borders in seconds, often without clear regulatory oversight. The Binance hack is expected to accelerate discussions among regulators, insurers, and industry participants about establishing more robust safeguards and clearer liability standards for digital‑asset custodians.\n\nIndustry observers note that the incident arrives amid a tightening regulatory environment worldwide. Governments have been increasing oversight of digital‑asset exchanges, citing concerns over money‑laundering, consumer protection, and systemic risk. The Binance breach adds urgency to calls for standardized security protocols and greater transparency in how exchanges protect user funds, while also raising questions about the adequacy of existing cyber‑defense measures in a rapidly evolving threat landscape.\n\nBinance has pledged full cooperation with investigative authorities and committed to providing regular updates as the inquiry progresses. The exchange’s leadership indicated that internal forensic teams, together with external cybersecurity experts, are working to trace the flow of the stolen assets and to identify any exploited vulnerabilities. Law‑enforcement agencies in multiple jurisdictions have opened parallel investigations, reflecting the cross‑border nature of the crime.\n\nThe broader crypto community is watching closely, as the outcome of these investigations could set precedents for handling future incidents. Recovery of a substantial portion of the $6.3 billion could restore confidence in the resilience of major exchanges, whereas failure to retrieve the funds may deepen skepticism about the safety of holding large sums on centralized platforms and could accelerate a shift toward decentralized custody solutions.\n\nIn sum, the Binance hack stands as the largest recorded theft in the history of digital assets, exposing both the lucrative allure of cryptocurrency and the pressing need for stronger security frameworks. The incident has already triggered concrete actions—freezing billions of dollars in assets, prompting insurers to revisit policy terms, and spurring regulatory dialogue—underscoring its significance beyond a single company’s loss. As investigations continue, the episode is likely to shape the trajectory of crypto security standards and influence how the industry balances innovation with the imperative of safeguarding user capital.",
+    "category": "₿ Crypto",
+    "image": "assets/images/news_3.jpg",
+    "date": "2026-10-30",
+    "time": "13:59",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Binance confirmed a hack resulting in a loss of approximately US$6.3 billion",
+      "The incident is described as the biggest or largest crypto heist in history",
+      "The hack is characterized as complex"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=3",
+    "featured": true
+  },
+  {
     "id": 2,
     "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
     "summary": "**Syria’s Post‑Conflict Economic and Humanitarian Landscape Remains Fragile One Year After Assad’s Exit**",
@@ -54,7 +78,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=2",
-    "featured": true
+    "featured": false
   },
   {
     "id": 1,

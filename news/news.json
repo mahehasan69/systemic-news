@@ -1,5 +1,28 @@
 [
   {
+    "id": 501,
+    "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+    "summary": "**Google’s Market Value Slumps by $500 Billion Amid AI‑Related Turmoil**",
+    "content": "**Google’s Market Value Slumps by $500 Billion Amid AI‑Related Turmoil**\n\nGoogle’s market capitalisation fell by roughly $500 billion in a matter of weeks, marking one of the steepest declines in corporate history, according to Yahoo Finance Australia, the BBC and AOL.com. The rapid erosion has rattled the technology sector and prompted analysts to dissect a mix of factors ranging from artificial‑intelligence (AI) anxieties to seasonal shifts in search traffic.\n\n**AI fears at the core**\n\nMarket observers point to a wave of AI‑related concerns as the primary catalyst. The rise of generative‑AI tools has unsettled investors who fear swift disruption to Google’s core advertising business, heightened data‑privacy scrutiny and tighter regulatory oversight. The unease was amplified after Alphabet, Google’s parent company, attributed a slowdown in Search activity to the 2022 FIFA World Cup. The global tournament captured massive online attention, diverting user queries away from Google and producing a measurable dip in traffic and ad revenue.\n\n**Regulatory pressure adds to the strain**\n\nCompounding the AI worries, a watchdog agency intervened when objectifying content appeared in advertisements for AI applications. The regulator banned the offending ads, underscoring growing scrutiny over how AI‑generated material is presented to consumers. Although the ban targeted a specific subset of ads, it reinforced investor wariness about broader ethical and compliance challenges facing the tech giant.\n\n**Market reaction and broader context**\n\nThe $500 billion wipe‑out has reshaped public perception of Google’s financial health. Analysts now refer to the episode as a “major market‑cap wipeout,” reflecting the scale of the loss. The decline coincided with unrelated developments that captured headlines: Palantir Technologies settled a contract dispute with a municipal City Hall, clearing a legal cloud from its balance sheet, and police officials reassured commuters that rail travel remains safe despite a rise in crime at busy stations.\n\n**Implications for the tech ecosystem**\n\nAs the world’s dominant search engine and a primary driver of digital advertising revenue, Google’s performance serves as a bellwether for the broader tech ecosystem. The sharp correction signals that investors are recalibrating expectations about AI’s impact on established business models and may prompt other firms to reassess exposure to AI‑related regulatory and reputational risks. The episode also highlights how external events—such as major sporting tournaments—can temporarily divert user attention and affect core revenue streams.\n\n**Looking ahead**\n\nMarket participants will watch several key developments:\n\n* **Alphabet guidance** – The company is expected to outline strategies for mitigating AI‑driven volatility and restoring confidence in its Search platform.  \n* **Regulatory oversight** – Authorities may intensify scrutiny of AI‑related advertising, potentially leading to further bans or stricter compliance frameworks.  \n* **Revenue diversification** – Investors will gauge Google’s moves to broaden its income base, including expansion of cloud services and investment in emerging technologies.\n\n**Conclusion**\n\nThe $500 billion market‑cap decline underscores the fragility of even the most entrenched tech behemoths when confronted with rapid technological change, regulatory pressure and shifting consumer behaviour. While the immediate financial impact is stark, the episode could catalyse a period of strategic realignment for Google and its peers, prompting a reassessment of risk, innovation pathways and the balance between growth and governance.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_501.jpg",
+    "date": "2026-10-30",
+    "time": "02:27",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Google's market value fell by approximately $500 billion (reported by Yahoo Finance Australia, BBC, and AOL.com)",
+      "The $500 billion drop is described as one of the largest market‑cap declines in history (reported by Yahoo Finance Australia, BBC, and AOL.com)"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=501",
+    "featured": true
+  },
+  {
     "id": 500,
     "title": "Watch: Life and career of iconic actor Sir Patrick Stewart",
     "summary": "**Sir Patrick Stewart, 86, Dies – Tributes Flood Media After Iconic Actor’s Passing**",
@@ -84,7 +107,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=500",
-    "featured": true
+    "featured": false
   },
   {
     "id": 499,

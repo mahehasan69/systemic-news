@@ -1,5 +1,29 @@
 [
   {
+    "id": 10,
+    "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+    "summary": "**John Healey’s Minimum‑Wage Pledge Under Scrutiny Ahead of UK Election**",
+    "content": "**John Healey’s Minimum‑Wage Pledge Under Scrutiny Ahead of UK Election**\n\nThe United Kingdom’s upcoming national election has brought renewed attention to a manifesto commitment to raise the minimum wage for younger workers, a pledge now in doubt, according to reports from the BBC and London Now.\n\nBoth outlets – the BBC’s “John Healey risks breaking minimum‑wage promise for younger workers” and London Now’s “Healey hints manifesto pledge on young‑worker pay not certain before election” – focus on the same issue: a declared intention to increase the minimum wage for employees under a certain age that may not be realised before voters head to the polls. The articles cite Labour front‑bencher John Healey, who has suggested the promise could be delayed, prompting concern among supporters and critics.\n\nThe pledge forms part of a broader electoral platform, although the exact wording was not disclosed in the reports. Its repeated mention across the two sources underscores its significance within the campaign narrative. Healey’s comments imply that internal or external pressures are affecting the party’s ability to deliver the policy in the short term, though the reports do not specify what those pressures are.\n\nMinimum‑wage policy has long been a focal point in UK politics, often used to attract younger voters and address low‑pay employment. An increase for younger workers would target a demographic that frequently occupies part‑time and entry‑level positions, potentially improving living standards and reducing reliance on supplemental income. Conversely, failure to implement the change could damage the party’s credibility, especially among younger constituents who view wage policy as a barometer of economic responsiveness.\n\nThe exact date of the election was not provided in the coverage, but analysts expect the issue to feature prominently in the final weeks of campaigning. Political strategists are likely to monitor voter sentiment in key demographics, as the outcome could influence both party messaging and electoral performance.\n\nIn summary, BBC and London Now reporting highlight a growing tension between a manifesto commitment to raise the minimum wage for younger workers and the practical challenges of delivering that promise before an imminent election. John Healey’s central role in the debate places the pledge at the forefront of political discourse, with potential ramifications for the party’s fortunes and the economic prospects of younger employees across the country.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_10.jpg",
+    "date": "2026-10-31",
+    "time": "23:15",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "John Healey is mentioned in both articles",
+      "Both articles discuss a promise regarding minimum wage for younger workers",
+      "Both articles reference a political manifesto pledge"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=10",
+    "featured": true
+  },
+  {
     "id": 9,
     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
     "summary": "**Ukrainians Return to Oleshky Amid Cease‑Fire; Blockade in the South Deepens Humanitarian Crisis, While South Africans Reportedly Fight for Russia**",
@@ -26,7 +50,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=9",
-    "featured": true
+    "featured": false
   },
   {
     "id": 8,

@@ -1,5 +1,43 @@
 [
   {
+    "id": 8,
+    "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+    "summary": "**U.S.-Brokered Ceasefire Enables Evacuation of Oleshky Residents**",
+    "content": "**U.S.-Brokered Ceasefire Enables Evacuation of Oleshky Residents**\n\nA short‑term ceasefire negotiated by the United States allowed dozens of civilians to leave the Russian‑occupied city of Oleshky and cross into Ukrainian‑controlled territory. The operation, confirmed by a coalition of mainstream outlets—including CBS News, the BBC, The New York Times, WKMG, The Seattle Times and London Now—resulted in emotional reunions at a Ukrainian‑Belarusian border crossing, where families who had been separated for weeks were finally able to meet.\n\nThe ceasefire was announced in the early hours of the day as a diplomatic pause intended to ease the worsening humanitarian crisis in Oleshky. U.S. diplomats facilitated the truce, creating a narrow window for organized evacuations. Within hours, convoys of trucks and vans moved residents from the city’s streets to designated crossing points.\n\nEyewitness reports from WKMG and The Seattle Times described a coordinated effort involving local volunteers, humanitarian NGOs and border officials. Ukrainian authorities processed evacuees at the crossing, providing immediate assistance such as food, water and medical care. The New York Times highlighted the reunifications as a vivid reminder of the human cost of the conflict and the relief felt by both the displaced and their relatives.\n\nThe evacuation was prompted by intensified fighting in Oleshky and a sharp decline in essential services. As Russian forces tightened their grip, access to food, clean water and medical treatment deteriorated, prompting local leaders to appeal for international intervention. The United States, seeking to reduce civilian casualties and open a diplomatic channel, brokered the temporary truce that made the evacuation possible. Although described as provisional, the pause immediately enabled a safe passage of residents back to Ukrainian control.\n\nThe operation also sparked a wave of misinformation. Social‑media posts falsely claimed that former First Lady Melania Trump had been involved in the ceasefire negotiations. The same outlets that reported the evacuation quickly debunked the claim, clarifying that the truce resulted from official U.S. diplomatic channels, not individual political figures. The episode underscores the persistent challenge of information warfare in conflict zones, where propaganda can obscure genuine humanitarian efforts.\n\nLooking ahead, officials on both sides of the border are evaluating the possibility of extending or renewing the ceasefire to permit additional humanitarian aid and further evacuations. Ukrainian authorities have pledged continued support for displaced Oleshky residents, including shelter, medical treatment and integration assistance. Diplomatic contacts involving the United States and other international partners remain active, monitoring the situation for signs that a more durable cessation of hostilities could be achieved.\n\nThe evacuation of Oleshky’s civilians demonstrates how brief diplomatic interventions can produce tangible humanitarian outcomes even amid a protracted war. While the temporary pause has already allowed families to reunite and residents to return to Ukrainian soil, the episode also highlights the fragility of such arrangements and the ongoing need for sustained diplomatic engagement and humanitarian assistance. The next steps will depend on whether the ceasefire can be prolonged and how the international community responds to the broader needs of those displaced by the fighting in Oleshky and surrounding areas.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_8.jpg",
+    "date": "2026-10-31",
+    "time": "16:01",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Residents of the Russian‑occupied city of Oleshky were evacuated to Ukraine.",
+      "The evacuations were reported by multiple mainstream news outlets (CBS News, BBC, The New York Times, WKMG, The Seattle Times, London Now).",
+      "Evacuees were reunited with family members at the Ukrainian‑Belarusian border.",
+      "The evacuations occurred during a temporary ceasefire that was described as being brokered by the United States."
+    ],
+    "timeline": [
+      {
+        "event": "Temporary ceasefire announced/brokered by the United States.",
+        "source": "CBS News, BBC, NYT, WKMG, Seattle Times, London Now"
+      },
+      {
+        "event": "Evacuation of Oleshky residents to Ukraine begins.",
+        "source": "CBS News, BBC, NYT, WKMG, Seattle Times, London Now"
+      },
+      {
+        "event": "Evacuees reunite with relatives at the Ukrainian‑Belarusian border.",
+        "source": "WKMG, Seattle Times, London Now"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=8",
+    "featured": true
+  },
+  {
     "id": 7,
     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
     "summary": "**Binance Suffers $6.3 Billion Crypto Heist; North Korean Hackers Implicated**",
@@ -27,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=7",
-    "featured": true
+    "featured": false
   },
   {
     "id": 6,

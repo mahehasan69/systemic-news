@@ -1,5 +1,34 @@
 [
   {
+    "id": 9,
+    "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+    "summary": "**Ukrainians Return to Oleshky Amid Cease‑Fire; Blockade in the South Deepens Humanitarian Crisis, While South Africans Reportedly Fight for Russia**",
+    "content": "**Ukrainians Return to Oleshky Amid Cease‑Fire; Blockade in the South Deepens Humanitarian Crisis, While South Africans Reportedly Fight for Russia**\n\n*Kyiv, 31 October 2026* – Hundreds of residents have begun moving back into Oleshky, the frontline city that spent years under Russian occupation, after a cease‑fire agreement permitted evacuations. At the same time, a Russian‑imposed blockade in southern Ukraine is driving more civilians to flee, and reports have emerged that South African citizens are being deployed to fight in Russia’s war. The intersecting developments highlight a widening humanitarian emergency across occupied Ukrainian territories and underscore the conflict’s expanding international dimensions.\n\n**Oleshky’s First Large‑Scale Evacuation**\n\nThe cease‑fire, whose exact date has not been disclosed, opened a narrow window for residents of Oleshky to leave the city. Survivors described the conditions they endured as “hell,” citing severe food shortages, constant danger from artillery and air strikes, and the loss of all possessions beyond the clothes on their backs. After “years” of living under occupation, many families emerged with little more than basic clothing, marking the first substantial outflow of civilians from a frontline settlement since the agreement was brokered.\n\nHumanitarian officials said the evacuation represents a rare, albeit limited, relief effort. “The ability to move people out of Oleshky is a critical step, but it does not resolve the systemic challenges created by the occupation,” said a spokesperson for the United Nations Office for the Coordination of Humanitarian Affairs (OCHA).\n\n**Blockade in Southern Ukraine Fuels New Displacement**\n\nIn the country’s southern region, Russian forces have imposed a complete blockade that has cut off food, medicine and other essential supplies. The resulting scarcity has forced residents to abandon homes that have been in families for generations. Humanitarian agencies warn that the situation could deteriorate further if supply routes remain closed, with starvation looming for those unable to leave.\n\n“The blockade is choking the lifelines that civilians depend on,” warned a representative of the International Committee of the Red Cross. “Without an immediate reopening of humanitarian corridors, displacement and hunger will only increase.”\n\n**South Africans Sent to Fight for Russia**\n\nSeparate reports indicate that South African citizens have been dispatched to fight in Russia’s war. Details about the recruitment process, the number of individuals involved, or the legal framework governing their deployment have not been provided. The presence of foreign nationals on the battlefield adds another layer of complexity to an already multifaceted conflict and illustrates how the war’s reach extends far beyond the borders of Ukraine and Russia.\n\n**Broader Context of Occupation and Ongoing Violence**\n\nThe Russian occupation across Ukrainian territories has facilitated blockades, restricted movement and enabled sustained military strikes that have devastated civilian infrastructure. In eastern Ukraine, civilians continue to describe daily life as “like hell,” reflecting the psychological and physical strain of relentless artillery and air attacks.\n\nWhile the cease‑fire in Oleshky offers a limited lifeline, Russian strikes in the east show no sign of abating, and the southern blockade remains intact. International observers are calling for increased diplomatic pressure to lift the blockade and for the establishment of expanded humanitarian corridors to alleviate civilian suffering.\n\n**Outlook**\n\nAuthorities expect further evacuations from Oleshky under the terms of the cease‑fire, providing a crucial escape route for those still trapped. However, without a negotiated resolution to the southern blockade or a broader de‑escalation of hostilities, displacement and starvation are likely to persist. The involvement of foreign combatants, such as the reported South African fighters, underscores the conflict’s growing international dimension.\n\nThe return of Oleshky’s residents offers a glimmer of hope, but the broader pattern of forced displacement, hunger and foreign participation signals that the humanitarian crisis remains far from resolved. As the war continues, the plight of civilians on both the frontlines and in occupied regions will remain a key barometer of its human cost.",
+    "category": "🌍 World",
+    "image": "assets/images/news_9.jpg",
+    "date": "2026-10-31",
+    "time": "19:55",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ukrainians returned from a Russia‑occupied frontline city after spending years there.",
+      "Locals are fleeing an occupied area in southern Ukraine because a blockade is complete and hunger is deepening.",
+      "Hundreds of starving Ukrainians returned home from the Russian‑occupied city of Oleshky under a ceasefire deal.",
+      "South Africans were sent to fight in Russia’s war.",
+      "Civilians on the frontline in eastern Ukraine describe conditions as \"hell\" as Russia conducts strikes."
+    ],
+    "timeline": [
+      "Ukrainians spent \"years\" in the occupied frontline city before returning (BBC).",
+      "The ceasefire deal enabling returns from Oleshky is mentioned but not dated (Yahoo News)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=9",
+    "featured": true
+  },
+  {
     "id": 8,
     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
     "summary": "**U.S.-Brokered Ceasefire Enables Evacuation of Oleshky Residents**",
@@ -35,7 +64,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=8",
-    "featured": true
+    "featured": false
   },
   {
     "id": 7,

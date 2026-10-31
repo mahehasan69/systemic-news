@@ -1,5 +1,35 @@
 [
   {
+    "id": 7,
+    "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "summary": "**Binance Suffers $6.3 Billion Crypto Heist; North Korean Hackers Implicated**",
+    "content": "**Binance Suffers $6.3 Billion Crypto Heist; North Korean Hackers Implicated**\n\n*The world’s largest cryptocurrency exchange reported a breach in October 2026 that resulted in the theft of digital assets valued at roughly $6.3 billion, making it the biggest crypto robbery on record. Investigators have quickly focused on North Korean state‑sponsored hacking groups as the leading suspects.*\n\nBinance first detected the incident when its internal monitoring systems flagged an unusual surge of unauthorized transfers. While the exact method of entry has not been disclosed, the loss—affecting both the exchange’s balance sheet and user holdings—has been confirmed by a range of outlets, including the BBC, ABC News, WHEC.com, 조선일보, open.kg, LBC and CTV News. The breadth of coverage underscores the global attention the breach has attracted.\n\nEarly forensic analysis points to technical signatures and operational patterns that match previous North Korean cyber‑operations. These groups, often described in intelligence circles as “elite” hackers, have a documented history of targeting financial institutions and cryptocurrency platforms to generate revenue for the regime. Attribution remains under investigation, but the consensus among the reporting agencies is that the evidence aligns with known North Korean tactics.\n\nThe immediate financial impact on Binance is severe. The exchange now faces a multi‑billion‑dollar shortfall that will likely be reflected in its upcoming financial statements and could affect liquidity and operational capacity. Users with assets stored on the platform are also exposed to potential losses, although Binance has pledged full cooperation with law‑enforcement agencies and is exploring avenues for restitution.\n\nBeyond the direct monetary loss, the hack has intensified calls for tighter security standards across the cryptocurrency industry. Regulators and market participants are urging the adoption of stronger authentication mechanisms, clearer contingency plans, and more robust oversight of digital‑asset custodians. The incident highlights the need for multi‑factor authentication, hardware‑based key storage and real‑time anomaly detection to guard against similarly sophisticated attacks.\n\nGeopolitically, the breach adds a new layer of tension to the already fraught relationship between the international community and North Korea. If investigators can conclusively link the theft to a North Korean entity, governments may consider additional sanctions, travel bans or other diplomatic measures aimed at curbing the regime’s cyber‑funding capabilities. Such actions could further isolate Pyongyang but also risk escalating cyber‑related hostilities in a domain where attribution is often contested.\n\nLaw‑enforcement agencies in several jurisdictions have launched coordinated investigations, while cybersecurity firms are conducting forensic analyses to trace the stolen cryptocurrency, identify laundering pathways and recover assets where possible. Binance has engaged external experts to reinforce its defenses and assist in the ongoing inquiry, reflecting a broader industry shift toward collaborative threat‑intelligence sharing—a practice that gained momentum after earlier high‑profile cyber incidents.\n\nThe trajectory of the investigation will shape both Binance’s financial recovery and the policy response to state‑backed cyber‑crime. A definitive link to North Korean actors could trigger targeted sanctions and other diplomatic tools, while the cryptocurrency sector is expected to accelerate the implementation of advanced security frameworks to mitigate future risks.\n\nThe Binance hack stands as a watershed moment for the digital‑asset ecosystem. It demonstrates that even the most prominent exchanges are vulnerable to well‑resourced, state‑aligned adversaries and underscores the urgent need for heightened security standards and international cooperation. As investigations progress, the incident is likely to serve as a catalyst for regulatory reforms and a benchmark for measuring the resilience of the cryptocurrency market against sophisticated cyber threats.",
+    "category": "₿ Crypto",
+    "image": "assets/images/news_7.jpg",
+    "date": "2026-10-31",
+    "time": "10:53",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Binance suffered a cryptocurrency theft valued at approximately $6.3 billion.",
+      "The theft is described as the largest crypto heist in history.",
+      "Multiple news outlets (BBC, ABC News, WHEC.com, 조선일보, open.kg, LBC, CTV News) report the incident.",
+      "North Korean state‑sponsored hacking groups, often referred to as \"elite\" hackers, are identified as prime suspects by several sources."
+    ],
+    "timeline": [
+      {
+        "event": "Hack discovered and reported",
+        "approximate_date": "2026-10-??"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=7",
+    "featured": true
+  },
+  {
     "id": 6,
     "title": "Burnham 'open' to calls for slavery apology but not reparations",
     "summary": "**Greater Manchester Mayor Open to UK Apology for Slave‑Trade Involvement, Rules Out Reparations**",
@@ -31,7 +61,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=6",
-    "featured": true
+    "featured": false
   },
   {
     "id": 5,

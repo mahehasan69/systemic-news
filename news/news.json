@@ -1,5 +1,82 @@
 [
   {
+    "id": 12,
+    "title": "Five teenagers stabbed at Halloween party",
+    "summary": "**Five Teenagers Stabbed at Halloween Party in Chandler’s Ford**",
+    "content": "**Five Teenagers Stabbed at Halloween Party in Chandler’s Ford**\n\n*Chandler’s Ford, Hampshire – 1 November 2026* – Five teenagers, aged 16 and 17, were stabbed during a Halloween house party on the night of 31 October. The attack took place at a private residence in the Chandler’s Ford/Eastleigh area, a suburb of Southampton. All five victims were taken to hospital with serious injuries and remain in critical condition.\n\nHampshire Police confirmed the incident in a statement released on 1 November and announced that a full investigation has been launched. The force has appealed for information from anyone who witnessed the assault or can identify the individuals responsible. No arrests have been made and the perpetrators remain at large.\n\nPolice describe the event as a “stabbing by unidentified individuals” and are treating it as a violent crime. While a motive has not been disclosed, investigators are reviewing CCTV footage, interviewing party attendees and canvassing the neighbourhood for leads. If identified, the suspects could face charges for violent assault and possession of a weapon.\n\nThe incident has heightened community concerns about safety at private gatherings, particularly during the Halloween period when parties are common. Chandler’s Ford, a typically quiet residential district near Southampton, has not previously been linked to knife‑related offences of this magnitude. Local authorities are now considering additional security measures for private events involving large numbers of teenagers.\n\nThe stabbing underscores the broader issue of knife crime in England, a problem that police and government officials have repeatedly warned about. It also highlights the vulnerability of young people at social gatherings, prompting schools, parents and community groups to reinforce messages about personal safety and the importance of reporting suspicious behaviour.\n\nFamilies of the victims have called for swift justice and for assurances that such violence will not recur in their community. Police continue to urge anyone with relevant information—no matter how minor it may seem—to come forward, emphasizing that even small details can be crucial to solving the case.\n\nThe investigation remains ongoing. As authorities work to identify and apprehend those responsible, the focus remains on supporting the injured teenagers, their families, and the wider community in the aftermath of this tragic event.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_12.jpg",
+    "date": "2026-11-01",
+    "time": "18:26",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      {
+        "fact": "Five teenagers were stabbed at a house party on Halloween night.",
+        "sources": [
+          "The Guardian",
+          "BBC",
+          "Daily Echo",
+          "Portsmouth News",
+          "Metro.co.uk"
+        ]
+      },
+      {
+        "fact": "The incident occurred in Chandler's Ford, Hampshire, England (near Southampton).",
+        "sources": [
+          "BBC",
+          "Daily Echo",
+          "Portsmouth News",
+          "Rayo"
+        ]
+      },
+      {
+        "fact": "All five victims were taken to hospital with serious injuries.",
+        "sources": [
+          "Daily Echo",
+          "Portsmouth News",
+          "Metro.co.uk"
+        ]
+      },
+      {
+        "fact": "Hampshire Police issued a public statement confirming the stabbing and launching an investigation.",
+        "sources": [
+          "Daily Echo (full police statement)"
+        ]
+      },
+      {
+        "fact": "The victims were teenagers aged 16 and 17 (as reported by The Sun).",
+        "sources": [
+          "The Sun"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "event": "Halloween party held at a private house in Chandler's Ford/Eastleigh.",
+        "date": "31 October (Halloween night, year not specified in sources)"
+      },
+      {
+        "event": "Five teenagers were stabbed during the party.",
+        "date": "31 October (same night as party)"
+      },
+      {
+        "event": "Victims were taken to hospital with serious injuries.",
+        "date": "31 October – early 1 November"
+      },
+      {
+        "event": "Hampshire Police released a full statement and opened an investigation.",
+        "date": "1 November (date of Daily Echo article)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=12",
+    "featured": true
+  },
+  {
     "id": 11,
     "title": "Shops looted as German cost of living protests turn violent",
     "summary": "**Violent “Gen Z” Protests Sweep Germany, France and Switzerland Over Halloween Weekend**",
@@ -36,7 +113,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=11",
-    "featured": true
+    "featured": false
   },
   {
     "id": 10,

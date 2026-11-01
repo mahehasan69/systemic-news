@@ -1,5 +1,44 @@
 [
   {
+    "id": 11,
+    "title": "Shops looted as German cost of living protests turn violent",
+    "summary": "**Violent “Gen Z” Protests Sweep Germany, France and Switzerland Over Halloween Weekend**",
+    "content": "**Violent “Gen Z” Protests Sweep Germany, France and Switzerland Over Halloween Weekend**\n\n*Frankfurt, Germany –* A wave of unrest that police and media have labeled “Gen Z” protests erupted across Germany on Saturday, the height of the Halloween weekend, and quickly spread into neighboring France and Switzerland. What began as demonstrations over cost‑of‑living pressures and broader generational grievances escalated into street violence, with shops looted, petrol bombs hurled and fireworks ignited in several cities, most notably Frankfurt.\n\n**Escalation in Frankfurt and Other German Cities**\n\nIn Frankfurt, a cluster of storefronts was broken into and looted, prompting a rapid police response. Witnesses reported demonstrators throwing petrol‑filled bottles and setting off fireworks, creating plumes of fire and smoke that forced nearby residents to seek shelter. Similar incidents were documented in other German urban centres, where law‑enforcement agencies recorded a surge in vandalism and confrontations with demonstrators.\n\n**Cross‑Border Spill‑over**\n\nBy the end of the day, the unrest had crossed national borders. French and Swiss authorities confirmed parallel disturbances, reporting looting and the use of incendiary devices that mirrored the German incidents. While each country’s police response differed, the tactics—looting, arson‑type attacks and the deployment of fireworks—were strikingly similar.\n\n**Underlying Drivers**\n\nParticipants cited the rising cost of living as the primary catalyst, a sentiment amplified by a perception that older generations have failed to address the financial challenges facing younger Europeans. The “Gen Z” label reflects the demographic composition of many demonstrators and underscores the inter‑generational dimension of the grievances. Although no single organisation coordinated the protests, shared concerns over housing affordability, wages and social policy provided a common rallying point that resonated across borders.\n\n**Halloween as a Catalyst**\n\nThe timing of the riots coincided with Halloween, a holiday traditionally associated with costumes and public gatherings. Authorities in the three countries reported that fireworks—normally part of Halloween celebrations—were repurposed as weapons, while petrol bombs signalled a willingness among some participants to confront police directly. The resulting street violence disrupted local commerce, with several shops reporting significant damage and loss of inventory.\n\n**Implications and Outlook**\n\nAnalysts note that the cross‑border nature of the disturbances could indicate an emerging trans‑national network of discontent, although concrete evidence of coordinated planning remains unverified. As the weekend concluded, officials in Germany, France and Switzerland have not announced a definitive timetable for further action. Police continue to investigate, collect forensic evidence from the scenes of looting and fire‑bomb attacks, and identify participants. Local authorities have urged residents to remain vigilant, report suspicious activity and help protect commercial districts from further damage.\n\nThe Halloween‑weekend riots illustrate how economic strain and generational frustration can ignite rapid, cross‑border unrest when amplified by cultural moments that facilitate mass mobilisation. The incidents have reignited debate over social policy, youth engagement and public safety across the three nations. How governments respond—through policy adjustments, law‑enforcement measures or dialogue with youth representatives—will shape whether the violence subsides or becomes a recurring feature of European civic life.",
+    "category": "📰 General",
+    "image": "assets/images/news_11.jpg",
+    "date": "2026-11-01",
+    "time": "05:31",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Riots and looting occurred in Germany during demonstrations described as 'Gen Z' protests.",
+      "Shops were looted in German cities, including Frankfurt.",
+      "Violence included use of petrol bombs and fireworks.",
+      "Protests also took place in France and Switzerland, with similar violent incidents.",
+      "The unrest coincided with the Halloween weekend."
+    ],
+    "timeline": [
+      {
+        "event": "Protests and riots escalated",
+        "date": "Saturday during Halloween weekend (exact date not specified in sources)"
+      },
+      {
+        "event": "Shops looted in Frankfurt",
+        "date": "Same Saturday"
+      },
+      {
+        "event": "Violent incidents reported across Germany, France, Switzerland",
+        "date": "Same weekend"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=11",
+    "featured": true
+  },
+  {
     "id": 10,
     "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
     "summary": "**John Healey’s Minimum‑Wage Pledge Under Scrutiny Ahead of UK Election**",
@@ -21,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=10",
-    "featured": true
+    "featured": false
   },
   {
     "id": 9,

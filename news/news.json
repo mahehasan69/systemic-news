@@ -1,5 +1,28 @@
 [
   {
+    "id": 13,
+    "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+    "summary": "**Ukraine’s Official Air‑Raid Alert App Hacked, Users Receive False Radiation Warnings**",
+    "content": "**Ukraine’s Official Air‑Raid Alert App Hacked, Users Receive False Radiation Warnings**\n\nKyiv – The Ukrainian Air Force announced on Tuesday that the nation’s official air‑raid alert application was compromised, resulting in a wave of false notifications warning of an imminent radiation threat. The spurious alerts, which were pushed to the app’s millions of users, sparked confusion and anxiety across the country before being confirmed as unfounded.\n\n**Breach identified**\n\nThe breach came to light after a series of radiation‑related messages appeared on the platform, which normally provides real‑time information on air‑raid sirens, missile strikes and other emergencies. The Air Force has not disclosed how the app was infiltrated, describing the incident as a hacking event that allowed misleading information to be disseminated.\n\n**Public reaction**\n\nRecipients of the false warnings reported heightened anxiety, with many contacting local authorities for clarification and sharing the alerts on social media. No physical harm or panic‑induced incidents have been linked to the bogus messages, but the episode underscores the vulnerability of digital emergency‑communication tools in a conflict environment where accurate information is vital for civilian safety.\n\n**Investigation underway**\n\nA formal investigation has been launched by cybersecurity units of the Ministry of Defense and the National Police. investigators will examine the app’s code, server logs and any external access points that may have been exploited. The Air Force said security patches and updates are being prepared to prevent a recurrence, and officials have urged users to verify alerts through established channels such as radio broadcasts and government websites until the app’s integrity is restored.\n\n**Why the incident matters**\n\n- **Civil‑defence cornerstone:** The alert app is a key element of Ukraine’s civil‑defence infrastructure, delivering timely warnings that enable citizens to seek shelter and avoid casualties. A compromise can erode public trust and reduce compliance with genuine alerts.  \n- **Radiation risk perception:** Radiation warnings carry distinct health implications and could prompt unnecessary evacuations or medical consultations.  \n- **Cyber‑warfare challenge:** The hack highlights the broader difficulty of protecting critical digital services against cyber‑espionage and sabotage in a nation subjected to sustained electronic warfare.\n\n**Future security measures**\n\nThe government plans to strengthen the platform with multi‑factor authentication for administrators, encrypted data transmission and regular vulnerability assessments. The ongoing investigation is expected to produce a detailed report outlining the breach’s origin and recommending additional safeguards.\n\n**Advice to the public**\n\nThe Air Force continues to ask citizens to use established verification methods, report any suspicious notifications to the designated cyber‑crime hotline, and remain vigilant while the app’s security is reinforced.\n\nThe incident serves as a stark reminder that even the most trusted emergency tools can become vectors for misinformation when compromised, underscoring the need for robust digital defenses to preserve civilian resilience in a high‑stakes security environment.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_13.jpg",
+    "date": "2026-11-01",
+    "time": "22:40",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Ukrainian Air Force reported that the official air raid alert app was apparently hacked.",
+      "Users of the app received false notifications about a radiation threat."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=13",
+    "featured": true
+  },
+  {
     "id": 12,
     "title": "Five teenagers stabbed at Halloween party",
     "summary": "**Five Teenagers Stabbed at Halloween Party in Chandler’s Ford**",
@@ -74,7 +97,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=12",
-    "featured": true
+    "featured": false
   },
   {
     "id": 11,

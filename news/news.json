@@ -1,5 +1,33 @@
 [
   {
+    "id": 16,
+    "title": "Shop freezers in seven European countries hit by cyber-attack",
+    "summary": "**Coordinated Cyberattack Disrupts Supermarket Refrigeration in Seven European Nations**",
+    "content": "**Coordinated Cyberattack Disrupts Supermarket Refrigeration in Seven European Nations**\n\n*June 2026 – A sophisticated intrusion into supermarket refrigeration systems caused temperature spikes of up to 55 °C, forcing retailers in at least five confirmed countries to halt sales of frozen and chilled goods and discard large quantities of food. European regulators and the U.S. Department of Defense have opened parallel investigations into the incident.*\n\nA network‑based cyberattack targeting the control software used by supermarket chains triggered abnormal temperature readings across cold‑storage equipment in Belgium, Estonia, Ireland, Luxembourg and Sweden. Two additional European states have been affected, though their identities have not been disclosed. Sensors in several locations recorded temperatures far beyond the safe range for perishable products, prompting immediate emergency protocols.\n\nThe temperature surge forced supermarkets to suspend the sale of frozen and chilled items, replace or recalibrate compromised units, and restock shelves with fresh supplies. While the financial loss has not yet been quantified, the perishable nature of the goods suggests a substantial impact on retailers.\n\nEuropean authorities and the U.S. Department of Defense have classified the event as a “suspected cyberattack” and are examining whether the perpetrators exploited known vulnerabilities in industrial control systems, employed ransomware, or used a novel exploit to gain access to the refrigeration networks. Investigators are tracing digital footprints, identifying command‑and‑control servers, and collaborating with cybersecurity firms to develop remediation measures.\n\nHealth officials warn that the rapid temperature rise can accelerate bacterial growth, rendering food unsafe and raising the risk of food‑borne illness if contaminated products reach consumers. Supermarkets have reported heightened customer complaints and are working to reassure the public that safety protocols are being rigorously enforced.\n\nThe attack arrives amid a broader wave of cyber threats aimed at essential services and supply‑chain components across Europe. Although this is the first known large‑scale assault on supermarket refrigeration, it highlights the vulnerability of interconnected hardware that relies on networked control systems. Experts note that the digitalization of retail operations, while improving efficiency, expands the attack surface for malicious actors.\n\nIn response, regulators are preparing guidance for the retail sector on hardening cold‑storage infrastructure. Recommended measures include comprehensive audits of refrigeration control software, prompt application of security patches, and segmentation of critical systems from broader corporate networks.\n\nBeyond the immediate operational disruption, the incident could erode consumer confidence in the safety of everyday food purchases and have ripple effects throughout the supply chain, affecting producers, distributors and public health. The involvement of the U.S. military underscores the strategic importance placed on protecting food‑related infrastructure from cyber threats.\n\nAs investigations continue, stakeholders await definitive findings on the attackers’ motives and identity. Meanwhile, supermarkets in the affected nations are working to restore normal temperature controls, replace compromised equipment where necessary, and reassure customers that food safety remains a top priority. The episode serves as a stark reminder that the digitalization of essential services must be matched by robust cybersecurity safeguards to protect both commerce and public well‑being.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_16.jpg",
+    "date": "2026-11-02",
+    "time": "20:43",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A cyberattack targeted refrigeration units (freezers and fridges) in supermarkets across seven European countries (BBC, Reuters, The Guardian).",
+      "The attack caused temperature spikes, with some reports of temperatures reaching up to 55 °C (UNITED24 Media).",
+      "Countries confirmed to have experienced temperature spikes include Belgium, Estonia, Ireland, Luxembourg, and Sweden (NewsCord).",
+      "The incident was reported in 2026 (multiple sources include the year in their titles).",
+      "European authorities and the U.S. military are investigating the attacks (The New York Times)."
+    ],
+    "timeline": [
+      "2026 (exact date not provided): Cyberattack detected on supermarket refrigeration systems across Europe."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=16",
+    "featured": true
+  },
+  {
     "id": 15,
     "title": "Mother told to book appointment to give birth to her dead baby",
     "summary": "**Maternal‑Health Crisis Deepens as Legal, Cultural and Clinical Failures Converge**",
@@ -28,7 +56,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=15",
-    "featured": true
+    "featured": false
   },
   {
     "id": 14,

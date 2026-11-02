@@ -1,5 +1,58 @@
 [
   {
+    "id": 14,
+    "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+    "summary": "**Learjet 60 Crash in Greenacres, Florida Kills Nine**",
+    "content": "**Learjet 60 Crash in Greenacres, Florida Kills Nine**\n\nA private Learjet 60 bound for the Bahamas crashed onto a roadway in Greenacres, Florida, on Tuesday, killing all nine occupants. The aircraft entered an uncontrolled descent, struck the road and erupted in a massive fireball that engulfed the wreckage. Emergency crews responded immediately, and the affected stretch of highway was closed to traffic.\n\nAccording to a timeline compiled from multiple news outlets, the jet departed for its Bahamas‑bound flight earlier in the day, as reported by ABC 7 Chicago. While en route, the aircraft began a rapid loss of altitude and slammed into the Greenacres roadway, creating the fireball described by WPEC. Air‑traffic‑control (ATC) recordings captured the pilots’ distress calls, including the final words “We’re out of time” (AOL.com, New York Post) and, moments later, “We’re gonna die” (7NEWS). BBC and NBC News confirmed that all nine people on board were pronounced dead at the scene.\n\nLocal fire and police units worked to extinguish the blaze, secure the crash site and divert traffic. The impact caused significant roadway damage, prompting a temporary closure and traffic disruptions throughout the Greenacres area.\n\nThe National Transportation Safety Board (NTSB) has opened an investigation. Investigators will retrieve and analyze the aircraft’s flight‑data and cockpit‑voice recorders, review maintenance logs, and assess weather conditions to determine the cause of the fatal descent. No definitive factor has been identified at this stage, underscoring the complexity of aviation accident investigations, which often require weeks or months of analysis.\n\nThe Learjet 60 is a midsize business jet commonly used for short‑haul flights such as the one intended for the Bahamas. While its overall safety record is well documented, the crash raises renewed concerns about private‑aviation safety, especially when flights pass over densely populated areas. The fireball and roadway damage illustrate the potential for collateral harm when an aircraft impacts ground infrastructure.\n\nIn the coming days the NTSB will conduct on‑site examinations, retrieve the black boxes, and interview witnesses and ATC personnel. Findings from the investigation will inform any recommendations for regulatory changes or operational adjustments. Families of the victims are expected to hold memorial services, though details have not yet been released. Authorities have pledged to keep the public informed and to provide support to those affected by the tragedy.\n\nThe Greenacres crash serves as a stark reminder of the inherent risks of aviation, even under routine conditions. As the NTSB works to uncover the factors that led to the Learjet 60’s fatal descent, the aviation community and regulators will be watching closely for lessons that could help prevent similar incidents in the future.",
+    "category": "📰 General",
+    "image": "assets/images/news_14.jpg",
+    "date": "2026-11-02",
+    "time": "02:17",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Nine people were killed in the crash.",
+      "The aircraft was a Learjet 60.",
+      "The crash occurred in Florida on a roadway in Greenacres.",
+      "The jet was heading toward the Bahamas (as reported by ABC7 Chicago).",
+      "A massive fireball erupted after impact.",
+      "Air traffic control (ATC) audio was recorded during the incident.",
+      "The pilot transmitted final words before the crash."
+    ],
+    "timeline": [
+      {
+        "event": "Learjet 60 departs for Bahamas-bound flight",
+        "source": "ABC7 Chicago"
+      },
+      {
+        "event": "Aircraft descends and crashes into Greenacres roadway, creating a fireball",
+        "source": "WPEC"
+      },
+      {
+        "event": "Pilot transmits final words (e.g., \"We’re out of time\")",
+        "source": "AOL.com, New York Post"
+      },
+      {
+        "event": "ATC audio captures pilots' distress and statements like \"We’re gonna die\"",
+        "source": "7NEWS"
+      },
+      {
+        "event": "Emergency responders arrive; all nine on board are confirmed dead",
+        "source": "BBC, NBC News"
+      },
+      {
+        "event": "News outlets publish reports of the crash",
+        "source": "All listed articles"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=14",
+    "featured": true
+  },
+  {
     "id": 13,
     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
     "summary": "**Ukraine’s Official Air‑Raid Alert App Hacked, Users Receive False Radiation Warnings**",
@@ -20,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=13",
-    "featured": true
+    "featured": false
   },
   {
     "id": 12,

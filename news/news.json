@@ -1,5 +1,36 @@
 [
   {
+    "id": 15,
+    "title": "Mother told to book appointment to give birth to her dead baby",
+    "summary": "**Maternal‑Health Crisis Deepens as Legal, Cultural and Clinical Failures Converge**",
+    "content": "**Maternal‑Health Crisis Deepens as Legal, Cultural and Clinical Failures Converge**\n\n*By [Senior Editor], SYSTEMIC NEWS – November 2 2026*\n\nA series of investigative reports from major news outlets and medical institutions is exposing a troubling intersection of systemic health‑care failures, restrictive abortion legislation, and unregulated birth practices that together are worsening outcomes for mothers and newborns across the United States.\n\n**Communication breakdowns and legal constraints**\n\nThe BBC revealed a stark example of clinical miscommunication when a mother was instructed to schedule an appointment to give birth to a baby that had already died. In a separate investigation, *ProPublica* documented a 39‑week stillbirth, attributing the tragedy to a health system that “doesn’t always listen to mothers.” Both stories echo findings from *ABC News*, which reports that, in the post‑Roe era, many women feel compelled to continue pregnancies that are medically non‑viable. The *Texas Tribune* detailed the case of Miranda Michel, who was forced by Texas’s stringent abortion law to carry twin fetuses that were not expected to survive to term.\n\nThese accounts illustrate how legal restrictions can trap women in high‑risk pregnancies, denying them agency over their bodies and jeopardizing fetal outcomes.\n\n**Cultural forces encouraging risky births**\n\nThe cultural landscape is adding another layer of danger. *The Guardian* uncovered a multi‑million‑dollar industry built around social‑media influencers who promote “wild” or unassisted births. The Free Birth Society, an organization linked to unassisted deliveries, has been associated with infant deaths worldwide. *PBS* reported that both physicians and mothers are now urging the medical community to acknowledge the lasting physical and psychological damage that can result when standard obstetric safeguards are ignored.\n\nAdding a criminal dimension, *A&E* investigated the case of Taylor Parker, who fabricated a pregnancy, murdered a Texas mother, and stole her baby. The case underscores the vulnerability of expectant mothers to exploitation and violence.\n\n**Medical data confirm rising risks**\n\nClinical data reinforce the human‑interest narratives. *Yale Medicine* documented a steady rise in maternal mortality rates, a trend that aligns with the Centers for Disease Control and Prevention’s recent FAQs on Vitamin K deficiency bleeding—a preventable condition that can cause severe hemorrhage in newborns if not treated promptly. The BBC also highlighted deficiencies in post‑Cesarean‑section care, noting that many mothers experience complications that current postpartum protocols fail to address adequately.\n\nTogether, these findings point to gaps in both preventive and emergency care that are contributing to higher rates of stillbirth, neonatal bleeding disorders, and maternal death.\n\n**Policy and practice implications**\n\nThe convergence of restrictive abortion statutes, unregulated “wild” birth movements, and systemic communication failures creates a perfect storm for maternal and infant health. Legal experts are calling for revisions to state abortion laws that would incorporate clear medical exceptions for non‑viable fetuses. Meanwhile, CDC guidance on routine Vitamin K administration offers an immediate, evidence‑based step to reduce newborn bleeding risks.\n\nHospitals are being urged to adopt standardized post‑Cesarean follow‑up programs, and legislators are facing pressure to fund research into the root causes of the rising maternal‑mortality trend. In the media sphere, continued investigative reporting is shedding light on influencer‑driven birth trends, prompting calls for stricter regulation of unlicensed birth practices.\n\n**A call for coordinated reform**\n\nThe compiled investigations paint a stark picture: without coordinated reforms that address legal, cultural, and clinical dimensions, the United States risks further erosion of maternal and infant health outcomes. Systemic neglect, restrictive policy, and unregulated birth practices demand urgent attention from lawmakers, health providers, and the public alike.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_15.jpg",
+    "date": "2026-11-02",
+    "time": "10:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "BBC reported a mother was told to book an appointment to give birth to her dead baby",
+      "A&E reported that Taylor Parker faked a pregnancy and murdered a Texas mother to steal her baby",
+      "BBC reported that mothers need more support after C‑sections",
+      "Yale Medicine reported that maternal mortality is on the rise",
+      "ProPublica reported a child was stillborn at 39 weeks and the mother blames a system that doesn’t always listen to mothers",
+      "ABC News reported that in post‑Roe America women describe being forced to carry non‑viable pregnancies to term",
+      "PBS reported that doctors and mothers say it is time to recognize the damage of childbirth",
+      "The Guardian reported that influencers made millions pushing ‘wild’ births and that the Free Birth Society is linked to baby deaths worldwide",
+      "The Texas Tribune reported that Texas abortion law made Miranda Michel carry twins who wouldn’t survive",
+      "CDC published FAQs about Vitamin K Deficiency Bleeding"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=15",
+    "featured": true
+  },
+  {
     "id": 14,
     "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
     "summary": "**Learjet 60 Crash in Greenacres, Florida Kills Nine**",
@@ -50,7 +81,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=14",
-    "featured": true
+    "featured": false
   },
   {
     "id": 13,

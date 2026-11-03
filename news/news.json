@@ -1,5 +1,52 @@
 [
   {
+    "id": 17,
+    "title": "Mahmood scraps settlement plans for migrant care workers",
+    "summary": "**UK Government Drops 15‑Year Settlement Wait for Migrant Care Workers**",
+    "content": "**UK Government Drops 15‑Year Settlement Wait for Migrant Care Workers**\n\nLondon – The Home Secretary announced today that the United Kingdom will no longer require migrant care workers to wait 15 years before becoming eligible for settlement. The change applies to both workers already employed in the country and to new arrivals, and it forms part of a wider review of the nation’s immigration framework.\n\nThe decision, reported by Business Insider Africa, the BBC, LBC, AOL and About Manchester, overturns a proposal that would have barred migrant care staff – many recruited from African nations – from applying for permanent residence until they had completed a decade‑and‑a‑half of service. The new guidance replaces that long‑term hurdle with a set of settlement conditions that have not yet been disclosed.\n\nAdvocacy groups and industry stakeholders had warned that the 15‑year requirement would deepen an already acute shortage of care staff. A report by *The i Paper* estimates that the number of migrant carers in the UK has fallen by roughly 75,000. Officials said the change was driven by a need to “reform immigration rules and address concerns about long settlement waiting periods.”\n\nThe announcement arrives alongside reports of a broader overhaul of the UK’s immigration system. Separate sources indicate that the government is considering a suspension of the asylum system for up to five years – a move that would represent one of the most significant shifts in the country’s refugee policy in recent decades. The suspension has not been formalised, but it underscores the breadth of the current reform agenda.\n\nRemoving the 15‑year wait is expected to have immediate implications for the care sector. By eliminating a barrier that discouraged long‑term commitment, the government hopes to stabilise recruitment and retain existing staff. However, the “unspecified conditions” attached to the new settlement route mean that employers and prospective migrants will need to await further guidance to understand the exact requirements. Analysts note that the impact on the supply of care workers will depend on how restrictive or permissive those conditions prove to be.\n\nImplementation of the revised settlement pathway is slated to begin shortly, with the Home Office expected to publish detailed criteria in the coming weeks. Parallel to this rollout, the broader immigration reforms – including the possible suspension of asylum claims – are likely to be debated in Parliament. Lawmakers are expected to scrutinise the balance between tightening border controls and meeting the labour needs of critical public services such as health and social care.\n\nThe policy reversal highlights the government’s recognition that the care sector cannot afford to lose skilled workers to protracted immigration hurdles. With an estimated 75,000 fewer migrant carers already having left the workforce, the stakes are high for both service users and providers. By easing the path to settlement, the UK aims to make the profession more attractive to overseas talent, addressing a gap that has widened since the pandemic and the subsequent strain on health‑social care systems.\n\nIn sum, the cancellation of the 15‑year settlement wait marks a decisive step toward reshaping immigration policy for a key segment of the economy. While the precise terms of the new settlement conditions remain to be clarified, the move reflects a broader governmental effort to align immigration rules with labour‑market realities. The coming weeks will reveal how quickly the changes translate into increased recruitment and whether they can stem the decline in migrant care workers that has plagued the sector in recent years.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_17.jpg",
+    "date": "2026-11-03",
+    "time": "02:52",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The UK government has cancelled a proposed 15‑year waiting period for settlement for migrant care workers.",
+      "The decision applies to migrant care workers already in the UK and those arriving from abroad.",
+      "The policy change was announced by the Home Secretary.",
+      "The announcement was reported by multiple outlets including Business Insider Africa, BBC, LBC, AOL, and About Manchester.",
+      "The original proposal would have required migrant care workers to wait 15 years before being eligible for settlement.",
+      "The new policy includes unspecified conditions attached to the settlement route.",
+      "Thousands of migrant care workers from Africa were among those affected by the original proposal.",
+      "Separate reports indicate that the UK government is planning broader immigration reforms, including a possible suspension of the asylum system for up to five years.",
+      "A report by The i Paper states that the number of migrant carers in the UK has fallen by about 75,000."
+    ],
+    "timeline": [
+      {
+        "event": "Proposal of 15‑year settlement wait for migrant care workers introduced",
+        "date": "unknown"
+      },
+      {
+        "event": "UK government announces cancellation of the 15‑year wait and introduces conditions",
+        "date": "unknown"
+      },
+      {
+        "event": "Reports of broader immigration reforms and possible suspension of asylum system",
+        "date": "unknown"
+      },
+      {
+        "event": "Report of 75,000 drop in migrant carers numbers",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=17",
+    "featured": true
+  },
+  {
     "id": 16,
     "title": "Shop freezers in seven European countries hit by cyber-attack",
     "summary": "**Coordinated Cyberattack Disrupts Supermarket Refrigeration in Seven European Nations**",
@@ -25,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=16",
-    "featured": true
+    "featured": false
   },
   {
     "id": 15,

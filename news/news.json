@@ -1,5 +1,38 @@
 [
   {
+    "id": 20,
+    "title": "When will we know the results?",
+    "summary": "**Election‑Night Coverage of the 2026 U.S. Midterms: A Real‑Time Timeline**",
+    "content": "**Election‑Night Coverage of the 2026 U.S. Midterms: A Real‑Time Timeline**\n\nAs polls close on the night of the 2026 United States midterm elections, a coordinated effort by national and local news organizations will shift the focus from ballot casting to result reporting. Outlets ranging from **The Guardian** and the **BBC** to regional papers such as the **Star Tribune**, the **Detroit News**, and the **Lexington Herald‑Leader** have published detailed guides that outline when voters can expect the first counts, provisional results, and final certifications.\n\n**National timelines and live‑update platforms**\n\nThe Guardian’s feature, “Midterm elections 2026: how are votes counted and when will we know the results?” explains the procedural steps that will shape the flow of information. The BBC’s “When will we know the US midterms results?” and Time Magazine’s “When Will We Know the Results of the Midterm Elections?” echo this timeline, noting that initial results will appear shortly after polls close, with subsequent updates as absentee, mail‑in, and provisional ballots are processed.\n\nLive‑update hubs will include:\n\n* **NBC News** – “U.S. Senate Midterm Election Live Results 2026”  \n* **PBS** – “Live 2026 Midterm Elections”  \n* **The New York Times** – “A Guide to What We’ll Know on Election Night, Hour by Hour”\n\nThese platforms will track vote tallies in real time, providing hour‑by‑hour data as it becomes available.\n\n**State‑specific reporting**\n\nResult timing varies by jurisdiction. KVUE’s article, “When can Texas midterm election results be expected?” details the Lone Star State’s schedule, while the Star Tribune’s “Everything you need to know about when Minnesota will see election results” outlines the timeline for the Upper Midwest. In Fayette County, the Lexington Herald‑Leader warns that local results “may be late” and explains the reasons for potential delays. The Detroit News’ “When will Michigan election results come out?” offers a similar state‑focused outlook, and KGW’s “What to know for election night: When polls close, ballot counting and results” provides a broader perspective on the mechanics influencing when counts become public.\n\n**Why timing matters**\n\nPrompt, transparent reporting is essential for maintaining public confidence in the electoral process, especially in a year when control of Congress and numerous state legislatures hangs in the balance. Market participants, policy analysts, and civic leaders rely on timely data to gauge the emerging political landscape and to plan subsequent actions. The staggered release of results—initial precinct totals followed by the incorporation of absentee and provisional ballots—reflects the decentralized nature of U.S. elections, where each state and many counties operate under distinct rules and deadlines.\n\n**What comes next**\n\nLive reporting will continue through the early hours of November 4 and beyond, as vote tabulation proceeds. State election officials will certify results according to local statutes, a process that may extend into the following weeks for closely contested races. News organizations will update their dashboards and articles to reflect certified outcomes, and analysts will begin interpreting the implications for the upcoming legislative session.\n\n**Bottom line**\n\nThe 2026 midterm election result timeline is being mapped in real time by a broad coalition of news outlets, each offering a mix of national overviews and granular state or county insights. Voters and observers can expect an initial wave of results shortly after polls close, followed by a progressive rollout of more comprehensive counts as additional ballot categories are processed. This coordinated reporting effort underscores the importance of transparent, timely information in sustaining confidence in the democratic process and in shaping the nation’s political trajectory.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_20.jpg",
+    "date": "2026-11-03",
+    "time": "23:57",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Guardian published an article titled \"Midterm elections 2026: how are votes counted and when will we know the results?\" on news.google.com.",
+      "BBC published an article titled \"When will we know the US midterms results?\" on news.google.com.",
+      "Time Magazine published an article titled \"When Will We Know the Results of the Midterm Elections?\" on news.google.com.",
+      "BBC published a live‑updates article titled \"Live updates: 2026 US midterm elections and results\" on news.google.com.",
+      "NBC News published an article titled \"U.S. Senate Midterm Election Live Results 2026\" on news.google.com.",
+      "PBS published an article titled \"Live 2026 Midterm Elections\" on news.google.com.",
+      "The New York Times published an article titled \"A Guide to What We’ll Know on Election Night, Hour by Hour\" on news.google.com.",
+      "KVUE published an article titled \"When can Texas midterm election results be expected?\" on news.google.com.",
+      "Star Tribune published an article titled \"Everything you need to know about when Minnesota will see election results\" on news.google.com.",
+      "Lexington Herald Leader published an article titled \"When will Fayette County’s voting results be released? It may be late. Here’s why\" on news.google.com.",
+      "KGW published an article titled \"What to know for election night: When polls close, ballot counting and results\" on news.google.com.",
+      "The Detroit News published an article titled \"When will Michigan election results come out?\" on news.google.com."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=20",
+    "featured": true
+  },
+  {
     "id": 19,
     "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
     "summary": "**Extensive Media Coverage Tracks 2026 U.S. Midterm Elections**",
@@ -29,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=19",
-    "featured": true
+    "featured": false
   },
   {
     "id": 18,

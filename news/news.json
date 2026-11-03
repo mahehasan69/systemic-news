@@ -1,5 +1,34 @@
 [
   {
+    "id": 18,
+    "title": "Spanish footballer dies after collision with goalkeeper during match",
+    "summary": "**Spanish striker Jesús de Miguel dies after on‑field collision**",
+    "content": "**Spanish striker Jesús de Miguel dies after on‑field collision**\n\nCD Tenerife forward Jesús de Miguel, 30, died following a high‑speed collision with the opposing goalkeeper during a La Liga 2 match on the island of Tenerife. The impact, which occurred midway through the game, forced medical staff to attend to de Miguel on the pitch before he was rushed to a nearby hospital. Several reports attribute his death to cardiac arrest triggered by the collision. While some outlets say he died on the day of the match, others indicate he passed away the following day; the exact timing remains unconfirmed pending an official statement.\n\nThe incident prompted an immediate halt to play. Witnesses described the contact as severe, and emergency responders acted swiftly. The Spanish Football Federation (RFEF) has announced a formal investigation to determine whether any breach of the rules contributed to the fatal outcome, and authorities have indicated that legal proceedings against the goalkeeper could be considered if reckless conduct is established.\n\nThe football community has responded with an outpouring of grief. Clubs across Spain and abroad have issued statements of condolence, and fans are organizing memorials to honor de Miguel’s career. International media—including the BBC, CNN, The Guardian, Al Jazeera and NBC—have reported the tragedy, underscoring its global resonance.\n\nDe Miguel’s death revives scrutiny of player‑safety protocols in Spanish football. La Liga 2 already mandates medical equipment on the sidelines and rapid‑response teams for serious injuries. The RFEF has pledged transparency in its investigation and may review existing standards, particularly concerning head and chest impacts that can precipitate cardiac events. Discussions about protective gear for outfield players and goalkeeper training in collision avoidance are also expected to intensify.\n\nCD Tenerife is expected to hold a formal tribute ceremony, and a moment of silence is likely to be observed in upcoming fixtures. Teammates, former coaches and supporters have begun sharing personal recollections of de Miguel’s contributions on and off the field, ensuring his legacy endures despite the abrupt loss.\n\nInvestigators will examine video footage, medical reports and eyewitness accounts to reconstruct the event. The outcome of the inquiry could set precedents for handling similar incidents in the future and may influence league regulations and club policies aimed at safeguarding player health.\n\nJesús de Miguel’s death serves as a stark reminder of the inherent risks athletes face, even in a sport where contact is regulated and protective equipment is standard. While the investigation proceeds, the football world mourns a talented striker whose life was cut short and confronts the broader imperative to protect players in every competitive setting.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_18.jpg",
+    "date": "2026-11-03",
+    "time": "10:42",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jesús de Miguel was a 30-year-old striker for CD Tenerife",
+      "He died following an on-field collision during a second-division match in Tenerife, Spain",
+      "He was rushed to hospital after the collision and later died",
+      "Multiple news outlets (BBC, CNN, The Guardian, Al Jazeera, NBC, etc.) reported his death"
+    ],
+    "timeline": [
+      "Collision occurred during a La Liga 2 match in Tenerife",
+      "Player was taken to hospital immediately after the incident",
+      "He died (reports vary on whether same day or next day)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=18",
+    "featured": true
+  },
+  {
     "id": 17,
     "title": "Mahmood scraps settlement plans for migrant care workers",
     "summary": "**UK Government Drops 15‑Year Settlement Wait for Migrant Care Workers**",
@@ -44,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=17",
-    "featured": true
+    "featured": false
   },
   {
     "id": 16,

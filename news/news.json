@@ -1,5 +1,37 @@
 [
   {
+    "id": 19,
+    "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+    "summary": "**Extensive Media Coverage Tracks 2026 U.S. Midterm Elections**",
+    "content": "**Extensive Media Coverage Tracks 2026 U.S. Midterm Elections**\n\nAs the United States approaches the November 2026 midterm elections, a broad coalition of news organizations is delivering continuous, real‑time reporting on the contests for control of the House of Representatives and the Senate. Outlets ranging from Salon, the BBC, NBC News, Reuters, NPR, and The Boston Globe to Al Jazeera, The Globe and Mail, Fox News and Global News have dedicated teams to monitor ballot counts, provide minute‑by‑minute updates, and supply contextual analysis as results roll in.\n\n**Live Data and Analysis**\n\nEach participating outlet maintains a live feed on news.google.com, displaying incoming vote totals alongside commentary that explains the significance of individual races. The coordinated effort underscores the national importance of the midterms, where dozens of tightly contested districts will determine the balance of power in Congress.\n\n**Trump’s Political Legacy as a Central Theme**\n\nArticle headlines across the spectrum prominently reference former President Donald Trump, positioning his political legacy as a key narrative thread. Reporters frame the 2026 midterms as a de facto referendum on Trump’s policy agenda and his continuing influence on the Republican Party. This focus reflects a broader journalistic perception that voter sentiment toward Trump will shape the election’s outcome and, by extension, the legislative direction of the next Congress.\n\n**High Stakes for Congressional Control**\n\nControl of the House and Senate hinges on the aggregate results of these individual contests. Analysts note that shifts in voter turnout and district‑level outcomes could alter the partisan composition of Congress, affecting legislative priorities, the passage of bills, and the ability of the incumbent administration to advance its agenda. While no definitive projections have been offered, the consensus among commentators is that the midterms represent a pivotal moment for the nation’s political trajectory.\n\n**Historical Context**\n\nThe coverage situates the 2026 elections within the traditional role of midterms as a barometer of public approval for the sitting president. Historically, voters use these elections to signal satisfaction or discontent with the administration’s performance. In 2026, the focus turns to how the electorate evaluates Trump‑related policies and the broader political climate that has evolved since his tenure.\n\n**Post‑Election Process**\n\nAfter polls close, the counting and certification of votes will extend into the weeks following Election Day. Once results are officially validated, the newly elected members of Congress are slated to be inaugurated in early January 2027. The same media outlets that have provided live coverage will continue to monitor the certification process and report on the final composition of the House and Senate.\n\n**Conclusion**\n\nThe coordinated, real‑time reporting by a diverse set of news organizations highlights the 2026 midterm elections as a critical democratic milestone. By emphasizing live results, the influence of Donald Trump, and the potential for a shift in congressional control, the coverage offers a comprehensive view of why these elections matter and what the nation can expect as the vote count moves toward certification and the inauguration of a new Congress.",
+    "category": "🌍 World",
+    "image": "assets/images/news_19.jpg",
+    "date": "2026-11-03",
+    "time": "18:23",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Multiple news organizations published articles about the 2026 United States midterm elections.",
+      "The articles were published on news.google.com and reference live updates, analysis, and election night coverage.",
+      "Sources include Salon.com, BBC, NBC News, Reuters, NPR, The Boston Globe, Al Jazeera, The Globe and Mail, Fox News, and Global News.",
+      "Donald Trump is mentioned in several article titles as a focal point of the election coverage.",
+      "The elections involve contests for control of the U.S. House of Representatives and the U.S. Senate."
+    ],
+    "timeline": [
+      {
+        "event": "2026 U.S. midterm elections",
+        "description": "Midterm elections scheduled for November 2026, with polls opening and results reported live.",
+        "date": "November 2026 (exact date not specified in sources)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=19",
+    "featured": true
+  },
+  {
     "id": 18,
     "title": "Spanish footballer dies after collision with goalkeeper during match",
     "summary": "**Spanish striker Jesús de Miguel dies after on‑field collision**",
@@ -26,7 +58,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=18",
-    "featured": true
+    "featured": false
   },
   {
     "id": 17,

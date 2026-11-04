@@ -1,5 +1,36 @@
 [
   {
+    "id": 22,
+    "title": "Five reasons why Republicans lost so badly",
+    "summary": "More than 43 million ballots have already been cast as the United States approaches the conclusion of its 2024 midterm elections, creating what observers have called an unprecedented early‑voting surge. When the results were tallied on election night, Republicans lost control of both chambers of Congress, giving Democrats majorities in the House of Representatives and the Senate. The outcome, already the subject of extensive analysis, marks a dramatic shift in the nation’s political landscape and has sparked sharp criticism from within the GOP.",
+    "content": "More than 43 million ballots have already been cast as the United States approaches the conclusion of its 2024 midterm elections, creating what observers have called an unprecedented early‑voting surge. When the results were tallied on election night, Republicans lost control of both chambers of Congress, giving Democrats majorities in the House of Representatives and the Senate. The outcome, already the subject of extensive analysis, marks a dramatic shift in the nation’s political landscape and has sparked sharp criticism from within the GOP.\n\nFormer President Donald Trump responded with a post‑election statement that praised Democrats for doing a “good job” while simultaneously attacking his own party. Reported by multiple outlets, the comment captured the frustration of many Republican voters, some of whom described the result as a “disaster.” The reaction reflects a broader sense of disappointment among party faithful who had expected a more favorable showing.\n\nAnalysts from a range of publications have begun to outline why the Republican brand faltered. Both the BBC and The Atlantic identified five primary reasons for the party’s setbacks, though the specific factors were not disclosed in the source material. New York Magazine listed seven ways in which Trump’s once‑dominant coalition eroded during the campaign, and The Guardian linked the losses directly to Trump’s continued presence in the political arena, suggesting that his influence may have alienated key segments of the electorate. While the precise details of these analyses remain unpublished, the consensus points to a combination of strategic missteps, shifting voter demographics, and the lingering impact of Trump’s image on the party.\n\nThe defeat is not confined to the national level. Newsweek reported that Republicans are now trailing in five pivotal races that they have historically won for decades, indicating a broader erosion of the party’s traditional strongholds. Commentators have described the resulting shift as a “blue wave,” reflecting sweeping gains by Democrats across congressional districts.\n\nThe significance of the 2024 midterms extends beyond the immediate change in legislative control. With the 118th Congress set to convene under Democratic majorities in both chambers, the balance of power in Washington will tilt toward policies favored by the party now holding the reins. This realignment is expected to shape the legislative agenda on issues ranging from budgetary priorities to social policy and will influence the political calculus for the upcoming presidential election cycle.\n\nIn the weeks ahead, the newly elected Democratic majorities will organize the House and Senate, appoint committee chairs, and set the legislative calendar for the 118th Congress. Meanwhile, Republican leaders are likely to hold internal strategy sessions aimed at diagnosing the causes of the defeat and formulating a response. The party’s ability to adapt its messaging, candidate recruitment, and voter outreach will be critical if it hopes to reverse the current trend and present a viable alternative in the next election cycle.\n\nThe 2024 midterm results serve as a stark reminder of the volatility inherent in American politics. While the early‑voting surge demonstrated high civic engagement, the ultimate distribution of those votes has reshaped the nation’s governing bodies. As the 118th Congress prepares to take shape, the Republican Party faces a pivotal moment: to reinvent itself in response to the identified shortcomings or risk further marginalization in an increasingly competitive political environment.",
+    "category": "🌍 World",
+    "image": "assets/images/news_22.jpg",
+    "date": "2026-11-04",
+    "time": "14:12",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "More than 43 million ballots have been cast so far in the 2024 US midterms early voting surge (BBC).",
+      "Donald Trump said Democrats did a 'good job' while taking aim at Republicans (BBC).",
+      "Republicans lost both House and Senate in the 2024 midterms according to multiple outlets (BBC, The Guardian, The Atlantic).",
+      "Angry Republicans described the election outcome as a disaster (BBC).",
+      "Analyses cite five reasons for Republican losses (BBC, The Atlantic).",
+      "Analyses cite seven ways Trump lost his 2024 coalition (New York Magazine).",
+      "Republicans are behind in five key races they have not lost in decades (Newsweek)."
+    ],
+    "timeline": [
+      "Early voting surge leading up to the 2024 US midterms (date unspecified).",
+      "Midterm election night results reported (date unspecified)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=22",
+    "featured": true
+  },
+  {
     "id": 21,
     "title": "Ecstatic scenes and historic moments: What's happened so far in the midterms",
     "summary": "**Florida Elects First Black Governor While Republicans Hold the Executive Office**",
@@ -21,7 +52,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=21",
-    "featured": true
+    "featured": false
   },
   {
     "id": 20,

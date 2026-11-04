@@ -1,5 +1,39 @@
 [
   {
+    "id": 23,
+    "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
+    "summary": "**Democrats Unveil Dual‑Track Agenda in New House Majority**",
+    "content": "**Democrats Unveil Dual‑Track Agenda in New House Majority**\n\nWASHINGTON — After recapturing the House of Representatives in the November 2022 midterm elections, Democratic leaders announced a comprehensive agenda that pairs an extensive series of investigations into former President Donald Trump and his family with a legislative push on affordability and anti‑corruption measures.\n\nThe plan, detailed in statements to multiple news outlets, signals the party’s intention to use its renewed control of the 118th Congress—set to convene in January 2023—to address what Democrats describe as “corruption” and “unaffordable” pressures on American households.\n\n**Investigative Focus**\n\nThe New York Times reported that Democrats entered the new Congress with a clear “agenda to investigate Trump and his family.”  NPR characterized the list of investigations as “long,” while NBC News highlighted the dual goals of the Democratic majority: pursuing Trump‑related inquiries and tackling affordability challenges.  Time, ABC, Axios, Politico, CNBC, MS NOW and CBS echoed the same theme, confirming that party leadership has publicly outlined both the investigative focus and a complementary legislative program.\n\nCongressional committees are expected to launch hearings, issue subpoenas and employ other oversight tools aimed at the former president, his business interests and close associates.  The timing follows the 2022 midterms, which restored Democratic control of the House after two years of Republican leadership.\n\n**Legislative Priorities**\n\nAlongside the investigations, Democrats plan to introduce bills targeting health‑care costs, housing affordability, consumer protection and broader anti‑corruption reforms.  By linking accountability for alleged misconduct with tangible policy outcomes, the party hopes to demonstrate that oversight can translate into concrete benefits for voters.\n\nAxios noted that while the party is committed to pursuing Trump investigations, many Americans remain more concerned with everyday economic pressures.  The success of the dual agenda, therefore, will hinge on the ability of Democratic leaders to convert investigative findings into legislative wins that resonate with the electorate.\n\n**Next Steps**\n\nIn the coming weeks, the House is slated to schedule its first hearings, issue subpoenas and formally commence the investigative process.  Simultaneously, Democratic committees will draft and introduce affordability and anti‑corruption legislation, with debates expected in the early months of the session.  Press conferences and public statements from Democratic leaders are anticipated to outline procedural steps, set timelines for investigations and explain how the results will inform forthcoming bills.\n\n**Outlook**\n\nWith the House back under Democratic control, the party is poised to leverage its institutional authority to scrutinize former President Trump and his network while advancing a legislative agenda centered on economic relief and ethical governance.  The coming months will test the party’s capacity to balance high‑profile investigations with the delivery of policy solutions that address the pressing concerns of American voters.",
+    "category": "🏥 Health",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-04",
+    "time": "21:13",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The New York Times reports Democrats have an agenda to investigate Trump and his family.",
+      "NPR reports Democrats, back in the majority, have plans for a long list of Trump investigations.",
+      "NBC News reports Democrats take Congress with dual goals: investigate Trump and tackle affordability.",
+      "Time Magazine reports Democrats have plans to take on Trump.",
+      "ABC News reports Democrats have taken the House and outlined what they plan to investigate and their legislative agenda.",
+      "Axios reports Democrats vow Trump investigations, though voters have other priorities.",
+      "Politico reports Democrats are ready to run Congress and investigate all things Trump.",
+      "CNBC reports Democrats map out an agenda to address affordability and corruption after a midterm sweep.",
+      "MS NOW reports the new Democratic majority is preparing a slate of Trump investigations and urging lawyers to be ready.",
+      "CBS News reports Democrats, after retaking the House majority, aim to derail Trump’s agenda."
+    ],
+    "timeline": [
+      "Midterm elections (November 2022) resulted in Democrats regaining the House majority.",
+      "Following the 2022 midterms, Democrats announced plans for investigations and legislative priorities in the new Congress (2023)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=23",
+    "featured": true
+  },
+  {
     "id": 22,
     "title": "Five reasons why Republicans lost so badly",
     "summary": "More than 43 million ballots have already been cast as the United States approaches the conclusion of its 2024 midterm elections, creating what observers have called an unprecedented early‑voting surge. When the results were tallied on election night, Republicans lost control of both chambers of Congress, giving Democrats majorities in the House of Representatives and the Senate. The outcome, already the subject of extensive analysis, marks a dramatic shift in the nation’s political landscape and has sparked sharp criticism from within the GOP.",
@@ -28,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=22",
-    "featured": true
+    "featured": false
   },
   {
     "id": 21,

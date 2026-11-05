@@ -1,5 +1,62 @@
 [
   {
+    "id": 24,
+    "title": "Inside Team Trump’s Historic Collapse in the 2026 Midterm Elections",
+    "summary": "**Midterm Election Outcomes and Their Impact on Donald Trump**",
+    "content": "**Midterm Election Outcomes and Their Impact on Donald Trump**\n\nThe 2022 U.S. midterm elections produced a decisive “blue wave” that reshaped the nation’s political map and dealt a historic blow to former President Donald Trump and his campaign operation. Voters across the country turned against Trump‑aligned candidates, flipping long‑standing Republican bastions and setting off a cascade of consequences that continue to reverberate within the GOP and the broader political landscape.\n\nOn November 8, 2022, Democrats captured a commanding majority in the House of Representatives and narrowed Republican margins in the Senate. The Guardian called the night “a bad night for Donald Trump,” while the New York Times described it as a “historic collapse” of Team Trump’s electoral prospects. In North Texas, counties that had voted Republican for decades shifted to Democratic candidates—a change KERA labeled “historic.” The Washington Post noted that the swing represented a “historic” rebuke of Trump, with many voters explicitly using their midterm choices to punish the former president.\n\nEarly‑2023 polling reinforced the narrative of a broad‑based repudiation. Forbes reported that 44 percent of respondents said their congressional votes were a direct rebuke of Trump, and his overall approval rating settled at 44 percent. The Guardian added that both red‑leaning and blue‑leaning Americans expressed a unified dislike for Trump, underscoring the depth of the backlash. The electoral defeat also translated into a tangible financial hit; the Guardian documented a reduction in Trump’s personal wealth following the Democratic sweep.\n\nBeyond the numbers, the midterms re‑energized Democratic control of the House and forced the Republican Party to confront internal divisions. CNN highlighted growing fears of a post‑midterm “Trump‑led rampage,” prompting GOP leaders to scramble for a post‑Trump strategy. By early 2023, intense jockeying within the party was evident as Republicans debated whether to double down on Trump’s brand of politics or pivot toward a broader coalition. The internal conflict was further illustrated by the appointment of Katie Zacharia as White House press secretary in 2025—a move reported by PBS that signaled a shift toward a more conventional administration and resulted in a brief, low‑key briefing that attracted few questions.\n\nThe election outcomes matter because they altered the balance of power in Congress, reshaped competitive districts, and set the stage for the 2024 presidential race. Democratic victories in traditionally red states, such as the North Texas counties, have turned former strongholds into battlegrounds where policy battles and campaign resources will intensify. The reduction in Trump’s wealth and approval rating weakens his leverage within the party, potentially limiting his ability to fund and influence future campaigns. At the same time, the GOP’s internal debate over direction could affect candidate selection, messaging, and fundraising ahead of the next presidential cycle.\n\nLooking ahead, the Republican Party is expected to continue its internal negotiations, with possible leadership changes as factions vie for control. Both parties are likely to commission further polling to gauge Trump’s standing and broader voter sentiment. Legislative agendas in the newly competitive states will be closely watched, as Democrats seek to consolidate gains while Republicans aim to reclaim lost ground. The 2024 presidential election will test whether the “blue wave” of 2022 was a temporary surge or the beginning of a longer‑term realignment.\n\nIn sum, the 2022 midterms marked a turning point for Donald Trump and the Republican Party. A historic swing toward Democrats reshaped congressional representation, inflicted financial and reputational damage on Trump, sparked internal GOP conflict, and set the political agenda for the next two years. The unfolding dynamics will determine whether the GOP can regroup and present a unified front for 2024, or whether the fallout from the midterms will continue to reverberate, reshaping American politics for the foreseeable future.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-05",
+    "time": "02:09",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Team Trump experienced a historic collapse (NYT).",
+      "Democrats achieved a \"blue wave\" in the U.S. midterm elections (The Guardian).",
+      "Donald Trump had a bad night in the midterms (The Guardian).",
+      "Voters punished Trump with a historic swing toward Democrats (Washington Post).",
+      "In North Texas, counties that were long‑time Republican strongholds voted Democratic in a historic election (KERA).",
+      "The 2022 midterm elections reshaped the political map, putting conservative states back in play (News4JAX).",
+      "Donald Trump’s personal wealth was reduced after Democrats trounced Republicans in the midterms (The Guardian).",
+      "Both red‑leaning and blue‑leaning Americans expressed unified hatred toward Donald Trump (The Guardian).",
+      "44% of respondents said their midterm votes for Congress were a rebuke of Trump, and Trump’s approval rating was reported at 44% (Forbes).",
+      "There are fears of a post‑midterm Trump‑led rampage, prompting internal jockeying within the GOP (CNN).",
+      "Katie Zacharia became the new White House press secretary and conducted a brief first briefing with few questions (PBS)."
+    ],
+    "timeline": [
+      {
+        "event": "2022 U.S. midterm elections",
+        "date": "November 8, 2022"
+      },
+      {
+        "event": "Democratic \"blue wave\" and Republican losses reported",
+        "date": "Nov‑Dec 2022"
+      },
+      {
+        "event": "Reports of historic swing against Trump and wealth dent",
+        "date": "Dec 2022 – Jan 2023"
+      },
+      {
+        "event": "Public opinion poll showing 44% view midterm votes as rebuke of Trump",
+        "date": "Early 2023"
+      },
+      {
+        "event": "Internal GOP jockeying over post‑midterm strategy",
+        "date": "Early 2023"
+      },
+      {
+        "event": "Katie Zacharia appointed White House press secretary and holds first briefing",
+        "date": "2025 (per PBS report)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=24",
+    "featured": true
+  },
+  {
     "id": 23,
     "title": "On the Democrats’ Agenda: Investigations of Trump and His Family",
     "summary": "**Democrats Unveil Dual‑Track Agenda in New House Majority**",
@@ -31,7 +88,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=23",
-    "featured": true
+    "featured": false
   },
   {
     "id": 22,

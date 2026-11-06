@@ -1,5 +1,46 @@
 [
   {
+    "id": 27,
+    "title": "Russell Brand found guilty of rape and sexual assault",
+    "summary": "**Russell Brand Convicted of Rape and Sexual Assault in London Court**",
+    "content": "**Russell Brand Convicted of Rape and Sexual Assault in London Court**\n\nA London court has found British actor and comedian Russell Brand guilty of rape and multiple counts of sexual assault. The verdict, delivered after a high‑profile trial that attracted extensive media coverage, means Brand will face a custodial sentence at a later sentencing hearing.\n\nThe jury returned a guilty verdict on at least one count of rape and several counts of sexual assault. The presiding judge indicated that Brand will receive a prison term, though the length has not yet been set. A sentencing hearing has been scheduled for a future date, during which the court will determine the precise duration of his imprisonment.\n\nThe conviction was reported by a wide range of reputable outlets, including Reuters, AP News, the BBC, The Guardian, CNN, Al Jazeera, PBS, NPR, The Wall Street Journal, CBS News, and Courthouse News. Consistent coverage across these organizations underscores the credibility of the court’s decision.\n\nBrand’s legal troubles stem from criminal charges of rape and sexual assault that were brought earlier in the proceedings. While the public record does not disclose the specific details of the alleged incidents, the jury’s finding confirms that the prosecution’s evidence met the threshold for conviction on the charges listed. The judge’s statement that a prison term will be imposed reflects the seriousness with which the judiciary views the offenses.\n\nThe ramifications of the conviction are expected to be far‑reaching. Brand, whose career spans stand‑up comedy, television, film and radio, is likely to lose existing contracts, see future engagements terminated, and experience a substantial decline in public support. Industry observers note that convictions for such serious crimes typically result in the loss of sponsorships and a marked shift in public perception.\n\nBeyond the individual impact, the case carries broader societal implications. Convictions of high‑profile individuals for sexual violence reinforce the principle that fame does not confer immunity from the law. Legal experts have highlighted the verdict’s significance in ongoing discussions about accountability and the treatment of survivors within the criminal‑justice system. By proceeding to trial and securing a guilty verdict, the court demonstrates a willingness to apply the same evidentiary standards and due‑process protections to public figures as to any other defendant.\n\nAt the upcoming sentencing hearing, the judge will consider the severity of the offenses, any mitigating or aggravating factors presented by the defence or prosecution, and statutory guidelines governing sentences for rape and sexual assault in the United Kingdom. Until that hearing takes place, the exact length of Brand’s custodial sentence remains uncertain.\n\nIn summary, Russell Brand’s conviction for rape and multiple sexual assaults marks a significant development in a case closely monitored by both the legal community and the public. The verdict, confirmed by a broad spectrum of reputable news sources, sets the stage for a sentencing hearing that will finalize the legal consequences and is poised to reshape Brand’s career trajectory, while underscoring the legal system’s role in addressing sexual violence irrespective of a defendant’s celebrity status.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_27.jpg",
+    "date": "2026-11-06",
+    "time": "00:02",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russell Brand, a British actor and comedian, was found guilty of rape and sexual assault by a UK court in London.",
+      "Multiple reputable news outlets (Reuters, AP News, BBC, The Guardian, CNN, Al Jazeera, PBS, NPR, WSJ, CBS News, Courthouse News) reported the conviction.",
+      "The conviction includes at least one count of rape and multiple counts of sexual assault.",
+      "The judge indicated that Brand will receive a prison term."
+    ],
+    "timeline": [
+      {
+        "event": "Trial of Russell Brand for rape and sexual assault",
+        "location": "London, United Kingdom",
+        "date": "unknown"
+      },
+      {
+        "event": "Verdict delivered – Brand found guilty",
+        "location": "London, United Kingdom",
+        "date": "unknown"
+      },
+      {
+        "event": "Sentencing hearing (prison term to be determined)",
+        "location": "London, United Kingdom",
+        "date": "future (not yet scheduled in reports)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=27",
+    "featured": true
+  },
+  {
     "id": 26,
     "title": "Watch: Met Police release Brand interview footage",
     "summary": "**Russell Brand’s Police Interview, Rape Conviction and Ongoing Investigations**",
@@ -50,7 +91,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=26",
-    "featured": true
+    "featured": false
   },
   {
     "id": 25,

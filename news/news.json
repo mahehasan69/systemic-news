@@ -1,5 +1,45 @@
 [
   {
+    "id": 28,
+    "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+    "summary": "**U.S. Tech Stocks Plunge After Midterms Amid AI‑Regulation Concerns**",
+    "content": "**U.S. Tech Stocks Plunge After Midterms Amid AI‑Regulation Concerns**\n\nU.S. equity markets opened sharply lower on Tuesday, Nov. 6, 2024, the day after the nation’s midterm elections. The Dow Jones Industrial Average fell roughly 1,800 points, while the Nasdaq Composite dropped about 5 percent, pushing the index into correction territory and erasing the modest rally that had followed the election results. The decline was driven primarily by a steep sell‑off in technology and semiconductor shares.\n\nThe slide was reported by a range of outlets, including the BBC, CNBC, Reuters, the Financial Times and NBC News. By the close of trading, analysts estimated that the technology sector had lost between $2 trillion and $3 trillion in market capitalization. The S&P 500 also fell, wiping out gains accumulated in the immediate post‑election period. The downturn was not confined to U.S. exchanges; European and Asian indices posted comparable losses as investors reassessed risk amid heightened political and regulatory uncertainty.\n\nTwo interrelated factors appear to have fueled the rapid reversal. First, investors voiced anxiety over a perceived slowdown in artificial‑intelligence development and the prospect of stricter regulatory oversight, fearing that progress could stall or that new rules might curb growth. Second, the outcome of the Nov. 5 midterms introduced political uncertainty, prompting market participants to question the future direction of technology‑related policy. While the exact composition of the new Congress is still being parsed, the possibility of a more aggressive stance on AI oversight was enough to trigger a swift reallocation of capital away from high‑growth tech stocks.\n\nThe episode underscores the sensitivity of the technology sector to both policy signals and broader macro‑economic sentiment. Over the past two years, AI has been a central driver of equity valuations, with many high‑profile companies posting record earnings and investors betting on a wave of innovation. A sudden shift in expectations—whether due to regulatory proposals, funding constraints, or slower‑than‑anticipated breakthroughs—can translate quickly into market corrections.\n\nLooking ahead, investors will be watching for official statements or legislative proposals concerning AI regulation. Analysts warn that further announcements could either stabilize the market, if they provide clarity, or exacerbate the sell‑off if they signal tighter controls. The political landscape remains fluid, with potential changes in congressional committees and leadership that could affect technology‑related legislation. Continued volatility is expected as domestic and international investors digest the evolving policy environment and its implications for the tech industry.\n\nIn sum, the post‑midterm market reaction highlights the intertwined nature of political outcomes and technological innovation in shaping equity performance. The abrupt erosion of up to $3 trillion in tech market value serves as a stark reminder that even sectors buoyed by rapid advances can be vulnerable to shifts in regulatory sentiment and political stability. Corporate executives, investors and other stakeholders will need to navigate an uncertain regulatory horizon while monitoring the broader economic repercussions of a technology sector in flux.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_28.jpg",
+    "date": "2026-11-06",
+    "time": "06:30",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "US stock markets fell sharply on the day following the November 5, 2024 midterm elections",
+      "Dow Jones Industrial Average dropped about 1,800 points",
+      "Nasdaq fell roughly 5% and entered correction territory",
+      "S&P 500 also declined, erasing post‑election rally gains",
+      "The sell‑off was concentrated in technology and chip stocks",
+      "Multiple reputable outlets (BBC, CNBC, Yahoo Finance, Reuters, NPR, Financial Times, NBC News, ABC, The Telegraph, Fortune) reported the decline"
+    ],
+    "timeline": [
+      {
+        "date": "2024-11-05",
+        "event": "US midterm elections held"
+      },
+      {
+        "date": "2024-11-06",
+        "event": "US markets open lower; Dow down ~1,800 points, Nasdaq down ~5%, tech stocks plunge"
+      },
+      {
+        "date": "2024-11-06 onward",
+        "event": "Global markets react; continued volatility reported"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=28",
+    "featured": true
+  },
+  {
     "id": 27,
     "title": "Russell Brand found guilty of rape and sexual assault",
     "summary": "**Russell Brand Convicted of Rape and Sexual Assault in London Court**",
@@ -38,7 +78,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=27",
-    "featured": true
+    "featured": false
   },
   {
     "id": 26,

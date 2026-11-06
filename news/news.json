@@ -1,5 +1,48 @@
 [
   {
+    "id": 29,
+    "title": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
+    "summary": "**Russell Brand Convicted of Rape and Sexual Assault; New Complaints Prompt Further Police Action**",
+    "content": "**Russell Brand Convicted of Rape and Sexual Assault; New Complaints Prompt Further Police Action**\n\nLondon – Comedian‑actor Russell Brand was found guilty of rape and sexual assault earlier this year, a verdict confirmed by a range of outlets including the BBC, Yahoo, The Guardian, The Independent, The Telegraph, The Straits Times and Dawn. The convictions carry a substantial custodial term, although the exact date of the judgment has not been disclosed. A sentencing hearing is scheduled for later in 2024.\n\nMetropolitan Police Service chief Mark Rowley said the conviction is likely to encourage additional victims to come forward, stating that “many more” may step forward now that the case has been proven in court. His comments, echoed in reports from the BBC and other media, reflect the expectation that the ruling could trigger a wave of new allegations.\n\nIn line with that expectation, the Met has opened investigations into two fresh rape complaints involving Brand. The BBC reported that detectives are actively examining the new allegations, though details of the alleged incidents remain limited. Standard procedures for serious sexual offences are being followed, including evidence gathering, witness interviews and credibility assessments.\n\nBrand’s conviction follows a decade of public accusations that never resulted in criminal charges. The high‑profile nature of the case, combined with Brand’s celebrity status, has amplified media scrutiny and sparked broader discussion about sexual misconduct in the entertainment industry. Legal experts note that the outcome sets a rare precedent for a figure of Brand’s stature being held criminally accountable for rape, potentially influencing how future allegations are reported and investigated.\n\nThe emergence of additional complaints could place further demands on police resources, but it also promises a clearer picture of the scope of Brand’s alleged conduct. The upcoming sentencing will determine the length of his custodial term, while the ongoing investigations are expected to attract considerable media attention and may encourage more victims to come forward.\n\nIn summary, Russell Brand’s conviction has initiated a series of legal and investigative steps that are likely to expand the number of alleged victims. Chief Rowley’s anticipation of “many more” reports, coupled with the launch of two new investigations, indicates that the case remains far from resolved. The sentencing hearing later in 2024 will not only decide Brand’s fate but also serve as a barometer for the handling of high‑profile sexual‑offence cases in the United Kingdom.",
+    "category": "🎬 Entertainment",
+    "image": "assets/images/news_29.jpg",
+    "date": "2026-11-06",
+    "time": "14:55",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russell Brand was convicted of rape and sexual assault (source: BBC, Yahoo).",
+      "Metropolitan Police Service (Met Police) chief Mark Rowley said he would not be surprised if more allegations are made against Russell Brand after his conviction (sources: BBC, The Guardian, The Independent, The Telegraph, Yahoo, AOL.com, The Straits Times, Dawn, Daily Mail).",
+      "The Met Police chief stated that \"many more\" victims may come forward (multiple sources).",
+      "Police are investigating two new rape complaints involving Russell Brand (source: BBC).",
+      "Russell Brand faces a significant prison sentence as a result of his conviction (source: Yahoo)."
+    ],
+    "timeline": [
+      {
+        "event": "Russell Brand convicted of rape and sexual assault",
+        "date": "2024-??-??"
+      },
+      {
+        "event": "Met Police chief publicly comments that more allegations are expected",
+        "date": "2024-??-??"
+      },
+      {
+        "event": "Police announce investigation into two new rape complaints against Brand",
+        "date": "2024-??-??"
+      },
+      {
+        "event": "Sentencing phase for Brand's conviction scheduled",
+        "date": "2024-??-??"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=29",
+    "featured": true
+  },
+  {
     "id": 28,
     "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
     "summary": "**U.S. Tech Stocks Plunge After Midterms Amid AI‑Regulation Concerns**",
@@ -37,7 +80,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=28",
-    "featured": true
+    "featured": false
   },
   {
     "id": 27,

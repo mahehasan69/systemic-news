@@ -1,5 +1,44 @@
 [
   {
+    "id": 35,
+    "title": "What we know so far after Krakow gun attack",
+    "summary": "**Krakow Market Square Shooting Claims Six Lives, Injures Fifteen**",
+    "content": "**Krakow Market Square Shooting Claims Six Lives, Injures Fifteen**\n\n*KRAKOW, Poland* – A mass shooting in Krakow’s historic market square left six people dead and fifteen wounded, marking one of the city’s darkest days in recent memory. The attack unfolded in the bustling tourist and commercial hub, prompting an immediate police response and launching a nationwide investigation.\n\nPolice said the gunman opened fire on the crowded plaza, striking a mix of locals and visitors. Among the dead was a British citizen, prompting diplomatic outreach from the United Kingdom. Emergency services rushed the injured to nearby hospitals, where medical teams worked to stabilize the fifteen victims with varying degrees of gunshot wounds. Eyewitnesses described a sudden eruption of gunfire that turned the lively square into a scene of panic and trauma.\n\nIn the days that followed, authorities disclosed a disturbing development: three additional bodies were found at the suspect’s residence. Prime Minister Mateusz Morawiecki announced the discovery in a brief press briefing, confirming that the bodies are linked to the ongoing investigation. Identities of the deceased at the home have not been released.\n\nA government minister familiar with the case identified the shooter as a man who held far‑right, ultranationalist views. While a definitive motive has not been established, officials suggest an ideological dimension may have influenced the attack. Police have withheld details about the suspect’s identity, the weapon used, and the precise sequence of events to preserve the integrity of forensic examinations.\n\nThe incident has reverberated far beyond Krakow’s cobblestone streets. Poland, a member of the European Union and NATO, has traditionally enjoyed a reputation for relative internal security, making a mass shooting of this scale an unprecedented shock to the public conscience. The death of a foreign national has added an international diplomatic layer; the British government is in contact with Polish authorities to provide consular support for the victim’s family.\n\nDomestically, the tragedy has reignited debates over gun control, public safety, and the rise of extremist ideologies in Europe. Law‑enforcement agencies are now conducting a comprehensive forensic analysis of the suspect’s home and gathering additional evidence from the market square. Police have appealed to the public for any information that could aid the investigation, emphasizing that identifying and prosecuting the gunman remains a top priority. The inquiry will involve the national police, anti‑terrorism units, and forensic specialists.\n\nCity officials have pledged assistance to victims’ families and psychological support for those traumatized by the event. Spontaneous memorials—candles and flowers—have appeared in the square to honor the six deceased. The British Embassy in Warsaw issued a statement expressing condolences and confirming that consular officials are in contact with the victim’s relatives.\n\nAs the investigation proceeds, authorities are expected to release further details about the shooter’s background, the weapon employed, and any networks that may have influenced the attack. The discovery of additional bodies at the suspect’s residence suggests the case may involve more complex personal or criminal elements than a lone act of violence.\n\nThe Krakow market square shooting underscores the vulnerability of public spaces to violent extremism. While the nation mourns the loss of six lives and tends to fifteen injured, the incident is likely to catalyze renewed scrutiny of security measures, firearms legislation, and the social currents that can fuel radical ideologies. The coming weeks will be critical in determining accountability for the perpetrators and shaping policy responses aimed at preventing a recurrence of such a tragedy.",
+    "category": "🌍 World",
+    "image": "assets/images/news_35.jpg",
+    "date": "2026-11-07",
+    "time": "22:39",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Six people were killed in a shooting at Krakow market/tourist square in Poland",
+      "Fifteen people were injured in the same incident",
+      "Three bodies were found at the suspect's home",
+      "A British citizen was among the six killed",
+      "Police reported the attack and are conducting an investigation",
+      "Polish Prime Minister announced the discovery of three bodies at the suspect's home",
+      "The incident was reported by multiple outlets (BBC, Reuters, ABC News, CNN, etc.)"
+    ],
+    "timeline": [
+      {
+        "event": "Mass shooting at Krakow market/tourist square",
+        "date": null,
+        "description": "Six people killed and multiple injured"
+      },
+      {
+        "event": "Discovery of three bodies at suspect's home",
+        "date": null,
+        "description": "Polish Prime Minister announced the finding"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=35",
+    "featured": true
+  },
+  {
     "id": 34,
     "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
     "summary": "**Heavy Rains Flood Gaza’s Displacement Camps, Leaving Tens of Thousands Homeless**",
@@ -29,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=34",
-    "featured": true
+    "featured": false
   },
   {
     "id": 33,

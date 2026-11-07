@@ -1,5 +1,37 @@
 [
   {
+    "id": 34,
+    "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+    "summary": "**Heavy Rains Flood Gaza’s Displacement Camps, Leaving Tens of Thousands Homeless**",
+    "content": "**Heavy Rains Flood Gaza’s Displacement Camps, Leaving Tens of Thousands Homeless**\n\nHeavy rains that swept the Mediterranean coast have inundated tens of thousands of displacement tents across the Gaza Strip, rendering an estimated 70,000 families without shelter and intensifying an already severe humanitarian emergency.\n\nThe deluge began as a series of intense storm systems struck Gaza, turning narrow alleys in refugee settlements into rushing waterways. Gaza’s Civil Defence recorded roughly 1,500 distress calls as residents struggled to escape rising waters that swamped canvas tents and collapsed temporary flooring. Local authorities confirmed that the flooding affected tens of thousands of individuals, stripping them of the limited protection offered by the makeshift shelters that have served as homes since the latest round of hostilities. In many locations, water pooled to depths that made the tents unusable, forcing families to seek refuge in public buildings, open spaces or directly on the streets.\n\nBeyond the immediate loss of shelter, the floods have raised alarms about the structural integrity of buildings already weakened by prior Israeli airstrikes. Officials warned that structures damaged in earlier bombings are now at heightened risk of collapse when saturated by rainwater. Compromised foundations, broken walls and water infiltration create a precarious environment where a single additional storm could trigger catastrophic failures, endangering both displaced residents and the broader civilian population.\n\nThe crisis unfolds against a backdrop of sustained conflict that has left much of Gaza’s housing stock in ruins. Repeated bombardments over the past months have reduced large swaths of the urban landscape to rubble, leaving many families dependent on temporary shelters that lack basic resilience to weather extremes. The displacement tents, often erected on uneven ground without proper drainage, were never designed to withstand prolonged heavy rain. The recent storms have therefore exposed the fragility of the humanitarian response infrastructure, highlighting gaps in shelter planning, water management and emergency coordination.\n\nHumanitarian agencies and Gaza’s civil authorities now face a dual challenge: providing immediate relief to those rendered homeless by the floods while preventing further loss of life from potential building collapses. The loss of shelter compounds existing shortages of food, clean water, medical supplies and sanitation facilities, increasing the risk of disease outbreaks and exacerbating psychological stress among a population already traumatized by conflict. International donors and aid organizations have been urged to accelerate the delivery of emergency assistance, including dry‑shelter kits, temporary housing units and engineering assessments of at‑risk structures.\n\nGaza officials have issued stark warnings of an impending humanitarian crisis if the rainstorms persist. They indicated that additional assistance may be requested from the United Nations and partner NGOs to address the surge in needs. Efforts are already under way to relocate displaced families to dry shelters, though the limited availability of safe spaces hampers rapid resettlement. Civil Defence teams continue to monitor distress calls and coordinate rescue operations, while engineers assess the stability of bomb‑damaged buildings to prioritize evacuations where collapse appears imminent.\n\nThe flooding of displacement tents underscores the vulnerability of Gaza’s civilian population to secondary hazards that follow armed conflict. As rain continues to batter the strip, the convergence of weather‑related disasters with the lingering effects of war threatens to deepen the humanitarian emergency. Prompt, coordinated action to provide dry shelter, reinforce compromised structures and replenish essential supplies will be critical to averting a further escalation of suffering. The situation serves as a stark reminder that in conflict zones, the aftermath of hostilities can be amplified by natural forces, demanding a comprehensive approach to disaster preparedness and humanitarian response.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_34.jpg",
+    "date": "2026-11-07",
+    "time": "18:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Heavy rains caused flooding of displacement tents in Gaza",
+      "Tens of thousands to about 70,000 tents were reported flooded across Gaza",
+      "Civil Defence received roughly 1,500 distress calls during the floods",
+      "Local authorities reported tens of thousands of people left without shelter",
+      "Gaza officials warned of an impending humanitarian crisis as rainstorms continue",
+      "Buildings damaged by earlier Israeli bombings are at risk of collapse when inundated by rain"
+    ],
+    "timeline": [
+      "Recent heavy rains struck Gaza (date not specified in source articles)",
+      "Storms caused immediate flooding of displacement tents",
+      "During the same period Gaza Civil Defence logged about 1,500 distress calls",
+      "Following the floods, Gaza officials and local authorities issued warnings about an escalating crisis"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=34",
+    "featured": true
+  },
+  {
     "id": 33,
     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
     "summary": "**Brexit Negotiations and the UK‑EU Relationship – Statements, Denials and Policy Analyses (Nov 2026)**",
@@ -63,7 +95,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=33",
-    "featured": true
+    "featured": false
   },
   {
     "id": 32,

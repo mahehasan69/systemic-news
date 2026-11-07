@@ -1,5 +1,39 @@
 [
   {
+    "id": 32,
+    "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+    "summary": "**Donald Trump Appoints Stephen Miller as Chief of Staff, Replacing Susie Wiles**",
+    "content": "**Donald Trump Appoints Stephen Miller as Chief of Staff, Replacing Susie Wiles**\n\nFormer President Donald Trump announced the appointment of Stephen Miller, a former White House policy adviser, as his new chief of staff, ending Susie Wiles’s tenure in the role. The decision was disclosed in a series of statements released in November 2023 and was reported by a wide range of outlets, including the BBC, Politico, the New York Post, The Times of India and the media‑monitoring service NewsCord.\n\nThe personnel change comes as Trump prepares for a series of political battles that analysts say will shape the next phase of his post‑presidential agenda. Miller, known for his hard‑line positions on immigration, trade and cultural issues, signals a strategic shift toward a more confrontational policy stance.\n\n**Media Framing of the Appointment**\n\nNewsCord’s analysis of coverage by 44 media organizations highlighted divergent narratives. Some outlets portrayed Miller as a disciplined architect of the administration’s most controversial policies, interpreting the appointment as a reinforcement of Trump’s core agenda. Others emphasized the abrupt nature of the change, suggesting internal discord or a tactical response to mounting external pressures. By cataloguing language and emphasis across the sample, the study illustrated how editorial choices can shape public perception of the administration’s direction.\n\n**Implications for Policy and Campaign Strategy**\n\nMiller’s return to a senior White House post carries immediate implications. During his previous stint as senior adviser, he oversaw aggressive immigration enforcement measures and challenged established diplomatic norms. Elevating him to chief of staff could extend that hard‑line philosophy to broader operational decisions, potentially influencing legislative priorities, messaging tactics and campaign coordination ahead of upcoming elections.\n\nThe move also raises questions about the future role of Susie Wiles, who had been instrumental in managing Trump’s political outreach and fundraising efforts.\n\n**Strategic Context**\n\nThe appointment arrives as Trump’s political network mobilizes for a range of contests, from primary challenges to broader electoral campaigns. Analysts expect Miller’s influence to be felt in the coordination of campaign resources, the framing of policy proposals and the management of internal staff dynamics. At the same time, the varied media portrayals of the change may affect how supporters and critics interpret the administration’s evolving strategy.\n\nLooking ahead, the Trump organization is likely to leverage Miller’s experience to shape its next moves on the national stage. Stakeholders will watch for adjustments in policy messaging, shifts in staff appointments and any new initiatives that reflect Miller’s ideological imprint. Ongoing media analysis suggests that public opinion will continue to be swayed by how the story is reported, making the framing of Miller’s appointment a focal point for both allies and opponents.\n\n**Conclusion**\n\nStephen Miller’s elevation to chief of staff marks a decisive recalibration of Donald Trump’s inner circle as the former president gears up for forthcoming political contests. The breadth of coverage and the nuanced media framing underscore the significance of the move, while its potential policy and strategic ramifications point to a more assertive posture for the Trump enterprise in the months ahead.",
+    "category": "🌍 World",
+    "image": "assets/images/news_32.jpg",
+    "date": "2026-11-07",
+    "time": "06:58",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Donald Trump announced Stephen Miller as his chief of staff.",
+      "Stephen Miller is replacing Susie Wiles in the chief of staff role.",
+      "The announcement was reported by multiple news outlets including BBC, Politico, NewsCord, New York Post, and The Times of India.",
+      "44 media outlets were analyzed in a NewsCord study regarding how they framed the announcement."
+    ],
+    "timeline": [
+      {
+        "event": "Announcement that Stephen Miller will replace Susie Wiles as chief of staff",
+        "date": "unknown (reported in November 2023 articles)"
+      },
+      {
+        "event": "Media analysis of 44 outlets framing the announcement",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=32",
+    "featured": true
+  },
+  {
     "id": 31,
     "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
     "summary": "**Thomas Markle Sr., Father of Meghan Markle, Charged with Possessing Child Sexual Abuse Material**",
@@ -42,7 +76,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=31",
-    "featured": true
+    "featured": false
   },
   {
     "id": 30,

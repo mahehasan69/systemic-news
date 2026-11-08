@@ -1,5 +1,52 @@
 [
   {
+    "id": 39,
+    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    "summary": "**Nvidia Board Launches Formal Inquiry into CEO’s Alleged Ties to Chinese Intelligence**",
+    "content": "**Nvidia Board Launches Formal Inquiry into CEO’s Alleged Ties to Chinese Intelligence**\n\nThe board of Nvidia has opened a formal, board‑level investigation into chief executive Jensen Huang’s personal relationship that may have involved a suspected Chinese intelligence operative. The move, announced after a series of reports from major news outlets, has intensified scrutiny of the company by U.S. authorities and sent ripples through the technology sector.\n\n**Background**\n\nReuters was the first to report that Huang had been targeted by Chinese intelligence. Subsequent coverage by the BBC confirmed that Nvidia’s board would probe the alleged affair, while Axios said Huang had reportedly admitted to the relationship. The Financial Times added that U.S. officials believe the romance involved a person described as a spy or intelligence operative, though the individual’s identity has not been disclosed. Other outlets—including NBC News, CNBC, Bloomberg, Israel Hayom and the Sydney Morning Herald—have echoed these claims.\n\n**Scope of the Investigation**\n\nThe board’s inquiry will assess whether the alleged liaison created any security breaches, conflicts of interest, or opportunities for foreign influence within Nvidia. As the company’s founder and long‑time leader, Huang has overseen Nvidia’s evolution from a graphics‑processing‑unit (GPU) maker to a dominant supplier of artificial‑intelligence hardware. Nvidia’s chips power data‑center AI workloads, autonomous‑vehicle platforms and a range of defense systems, making the firm a strategic asset in the ongoing U.S.–China technology rivalry.\n\n**National‑Security Implications**\n\nU.S. officials’ belief that the relationship involved a Chinese intelligence operative underscores the national‑security dimension of the case. If the liaison provided a conduit for foreign influence, it could raise concerns about intellectual‑property leakage, insider access to proprietary roadmaps, and broader risks of interference in a company that supplies hardware to the Pentagon and other sensitive agencies.\n\n**Investigation Process**\n\nBoard‑appointed investigators will gather evidence, interview relevant parties and coordinate with legal counsel and, likely, federal authorities. Nvidia has said that findings will be communicated as they become available and that any necessary remedial actions will follow. Depending on the outcome, the probe could trigger further regulatory reviews, civil or criminal proceedings, or corporate‑governance reforms.\n\n**Industry Impact**\n\nAnalysts expect the investigation to prompt heightened oversight of other U.S. technology firms with significant exposure to China, reinforcing a broader trend of intensified scrutiny of corporate ties to foreign intelligence services. The episode highlights the fragile intersection of high‑tech leadership, geopolitical rivalry and corporate responsibility.\n\n**Conclusion**\n\nNvidia’s decision to launch a board‑level inquiry into Jensen Huang’s alleged affair with a suspected Chinese spy reflects a convergence of personal‑misconduct allegations and national‑security concerns. As the investigation proceeds, the technology industry and policymakers will be watching closely to see how Nvidia navigates the potential fallout and what precedents may be set for handling similar cases in the future.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_39.jpg",
+    "date": "2026-11-08",
+    "time": "21:06",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Nvidia announced a board‑level investigation into CEO Jensen Huang's personal relationship that may involve a suspected Chinese intelligence operative.",
+      "Multiple reputable news outlets (BBC, Axios, The Washington Post, Reuters, Financial Times, NBC News, CNBC, Bloomberg, Israel Hayom, SMH) reported on the investigation.",
+      "Jensen Huang is identified as Nvidia's chief executive.",
+      "The alleged Chinese individual is described as a spy or intelligence operative, but no name is provided.",
+      "The United States government is reported to believe the relationship existed (Financial Times)."
+    ],
+    "timeline": [
+      {
+        "event": "Reports emerge that Jensen Huang was targeted by Chinese intelligence.",
+        "source": "Reuters"
+      },
+      {
+        "event": "Nvidia board announces it will probe the alleged affair.",
+        "source": "BBC"
+      },
+      {
+        "event": "Axios reports Huang admits to the affair and board launches investigation.",
+        "source": "Axios"
+      },
+      {
+        "event": "Financial Times states the US believes Huang had a romantic relationship with an alleged Chinese spy.",
+        "source": "Financial Times"
+      },
+      {
+        "event": "NBC News, CNBC, Bloomberg, Israel Hayom, SMH repeat the board investigation story.",
+        "source": "Various"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=39",
+    "featured": true
+  },
+  {
     "id": 38,
     "title": "King leads solemn Remembrance Sunday service at Cenotaph",
     "summary": "**King Charles Leads National Remembrance Sunday Service at the Cenotaph**",
@@ -43,7 +90,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=38",
-    "featured": true
+    "featured": false
   },
   {
     "id": 37,

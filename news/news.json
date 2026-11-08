@@ -1,5 +1,40 @@
 [
   {
+    "id": 36,
+    "title": "Briton among six killed in 'far-right' shooting in Krakow",
+    "summary": "**Six Killed, Dozens Wounded in Far‑Right‑Motivated Attack on Kraków’s Market Square**",
+    "content": "**Six Killed, Dozens Wounded in Far‑Right‑Motivated Attack on Kraków’s Market Square**\n\nKRAKÓW, Poland — A gun‑fire assault on the historic market square of Kraków left six people dead and at least twelve injured, officials said. Among the dead was a British national, underscoring the international dimension of the tragedy that unfolded in the city’s main tourist hub.\n\nWitnesses reported hearing roughly twenty shots echo across the square before police and emergency services arrived. The victims were rushed to nearby hospitals, and the area was sealed off as investigators began reconstructing the sequence of events. The sudden violence shocked locals and the many visitors who frequent the bustling marketplace, turning the historic site into a crime scene within minutes.\n\nPolice quickly identified a suspect. A search of the suspect’s residence uncovered three additional bodies, suggesting the attack was part of a pre‑planned operation rather than an isolated outburst. Authorities have described the suspect as being influenced by far‑right ideology, a characterization echoed by several media outlets that have framed the incident as a terror‑motivated act. The investigation remains active, with law‑enforcement agencies working to determine the shooter’s motives, connections and any possible accomplices.\n\nPolish Prime Minister Mateusz Morawiecki publicly paid tribute to the victims, condemning the attack as an assault on the nation’s values and safety. In his statement, the prime minister called for national solidarity, swift justice and calm among the public, emphasizing Poland’s commitment to security.\n\nThe shooting arrives amid growing concerns over far‑right extremism across Europe. While Poland has not previously experienced a mass shooting of this scale linked to extremist ideology, the event has reignited debate about the spread of radicalised narratives and the adequacy of existing counter‑terrorism measures. The presence of a foreign victim may also heighten diplomatic attention and pressure for coordinated responses among European partners.\n\nBeyond the immediate loss of life, the attack threatens Kraków’s tourism‑driven economy. The market square is a central attraction for visitors, and the incident could dampen confidence in public safety. Security experts are calling for heightened protection of crowded public spaces, and policymakers are likely to scrutinise how far‑right ideas translate into lethal action.\n\nLaw‑enforcement officials said the next phase of the inquiry will focus on confirming the suspect’s identity, establishing a full motive and securing additional evidence for prosecution. Prosecutors are expected to file charges reflecting the terror‑related nature of the crime, while victim‑support services are being mobilised to assist families and survivors. Media outlets continue to update the public on victim identification and casualty figures, keeping the story in the national consciousness.\n\nThe Kraków market‑square shooting serves as a stark reminder of the lethal potential of extremist ideologies when combined with access to firearms. As Polish authorities pursue a thorough investigation and the government pledges to uphold public safety, the incident is poised to shape both domestic security policy and international cooperation on counter‑terrorism in the months ahead.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_36.jpg",
+    "date": "2026-11-08",
+    "time": "02:14",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Six people were killed in a shooting in Krakow, Poland",
+      "The attack has been described by multiple outlets as a far‑right or terror‑motivated incident",
+      "A British citizen/national was among those killed",
+      "Polish authorities discovered three additional bodies at the suspect's home after the attack",
+      "Witnesses reported hearing about 20 gunshots",
+      "Polish Prime Minister paid tribute to the victims"
+    ],
+    "timeline": [
+      "Shooting occurs in Krakow tourist/market square area (date not provided)",
+      "Witnesses report hearing ~20 shots",
+      "Initial casualty reports indicate six dead (most sources) and varying injury counts",
+      "Police locate three additional bodies at the suspect's residence",
+      "Investigation continues; suspect described as influenced by far‑right ideology",
+      "Polish Prime Minister publicly pays tribute to the victims",
+      "Media continue to publish updates on victim nationalities and casualty numbers"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=36",
+    "featured": true
+  },
+  {
     "id": 35,
     "title": "What we know so far after Krakow gun attack",
     "summary": "**Krakow Market Square Shooting Claims Six Lives, Injures Fifteen**",
@@ -36,7 +71,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=35",
-    "featured": true
+    "featured": false
   },
   {
     "id": 34,

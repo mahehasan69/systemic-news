@@ -1,5 +1,51 @@
 [
   {
+    "id": 38,
+    "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+    "summary": "**King Charles Leads National Remembrance Sunday Service at the Cenotaph**",
+    "content": "**King Charles Leads National Remembrance Sunday Service at the Cenotaph**\n\nLondon – King Charles presided over the nation’s principal Remembrance Sunday ceremony at the Cenotaph on 10 November, honoring the men and women who have died in war. The service, broadcast live by the BBC and covered by a range of media outlets, brought together senior members of the Royal Family, veterans, and a crowd of citizens gathered to pay tribute to the fallen of the World Wars and subsequent conflicts.\n\nThe monarch arrived at the war memorial accompanied by Prince William, who laid a wreath on the Cenotaph’s stone plinth, and by the Duchess of Cambridge, Kate, who joined the King on the palace balcony for a brief moment of collective reflection. Following the wreath‑laying, a two‑minute silence was observed across the United Kingdom; Scotland observed a one‑minute pause in line with local tradition. When the silence ended, veterans standing on the forecourt received spontaneous applause from the assembled public – a gesture highlighted by *The Guardian* as a poignant acknowledgment of their service.\n\nThe ceremony took place shortly after the Royal Family returned from an overseas tour, a transition noted by *HELLO!* magazine, underscoring the swift shift from diplomatic duties to domestic commemoration. The official Royal Family website lists the Remembrance Sunday events among its scheduled engagements, confirming the coordinated nature of the observance. In addition to the central service in London, local ceremonies were held throughout the country, each incorporating the traditional silence and the laying of wreaths by community leaders and military representatives.\n\nRemembrance Sunday, observed on the second Sunday of November, was instituted after the First World War to provide a dedicated day for the nation to remember those who died in that conflict and in later wars. The Cenotaph, unveiled in 1920, has become the focal point of the national ceremony, symbolising collective sacrifice. Over the decades the ritual has expanded to recognise service personnel from subsequent conflicts, reflecting an evolving understanding of the cost of war. The presence of the monarch and senior royals reinforces the constitutional role of the Crown in national remembrance, linking present generations with the memory of past sacrifices.\n\nBy leading the service, King Charles reaffirmed the United Kingdom’s commitment to honouring its veterans, a demographic that continues to receive strong public support and governmental attention. The spontaneous applause directed at the veterans highlighted a societal appreciation that goes beyond formal ceremony, while the nationwide silence offered a moment of shared contemplation amid a climate of geopolitical uncertainty. Observers noted that the involvement of younger royals, such as Prince William and the Duchess of Cambridge, signals continuity of royal participation in civic duties and may strengthen public connection to the monarchy.\n\nThe Royal Family’s official schedule indicates further commemorative activities in the weeks ahead, including visits to military hospitals and participation in local remembrance services across the United Kingdom. These engagements aim to sustain public gratitude and provide ongoing support to service members and their families, while reminding policymakers and citizens of the enduring impact of conflict and the need for continued investment in veteran welfare and historical education.\n\nKing Charles’s leadership of the Remembrance Sunday ceremony at the Cenotaph encapsulated a nation’s collective reverence for its war dead and reinforced the Crown’s ceremonial role in national life. The event’s blend of solemnity, public participation and royal presence underscored the enduring relevance of remembrance in contemporary Britain, ensuring that the sacrifices of past generations remain central to the country’s cultural and civic consciousness.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_38.jpg",
+    "date": "2026-11-08",
+    "time": "17:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "King Charles led a solemn Remembrance service at the Cenotaph (BBC).",
+      "King Charles led royals at a Remembrance Sunday ceremony (People.com, AOL.com).",
+      "King Charles and Prince William laid wreaths during the Remembrance Sunday service (AOL.co.uk).",
+      "The nation observed a solemn tribute at the Cenotaph led by the King (London Business News).",
+      "Scotland observed a two‑minute silence on Remembrance Sunday (BBC).",
+      "King Charles led royals at a ceremony after returning from a royal tour (HELLO!).",
+      "The Royal Family lists Remembrance events on its official website (The Royal Family).",
+      "Second World War veterans were applauded as the King led Remembrance Sunday tributes (The Guardian).",
+      "Kate appeared on a balcony for the Remembrance Sunday service (The Independent)."
+    ],
+    "timeline": [
+      {
+        "event": "Remembrance Sunday service at the Cenotaph",
+        "date": null,
+        "description": "King Charles led the national ceremony; Prince William laid a wreath."
+      },
+      {
+        "event": "Two‑minute silence in Scotland",
+        "date": null,
+        "description": "Observed on Remembrance Sunday."
+      },
+      {
+        "event": "Royal balcony appearance",
+        "date": null,
+        "description": "Kate appeared on a balcony during the service."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=38",
+    "featured": true
+  },
+  {
     "id": 37,
     "title": "How the deadly shooting in Krakow unfolded",
     "summary": "**Krakow Shooting Leaves Six Dead, Dozens Injured; Police Pursue Mobile Gunman**",
@@ -35,7 +81,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=37",
-    "featured": true
+    "featured": false
   },
   {
     "id": 36,

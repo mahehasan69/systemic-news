@@ -1,5 +1,43 @@
 [
   {
+    "id": 37,
+    "title": "How the deadly shooting in Krakow unfolded",
+    "summary": "**Krakow Shooting Leaves Six Dead, Dozens Injured; Police Pursue Mobile Gunman**",
+    "content": "**Krakow Shooting Leaves Six Dead, Dozens Injured; Police Pursue Mobile Gunman**\n\nA mass shooting erupted in the centre of Krakow, Poland, on an undisclosed date when a gunman opened fire from a moving vehicle. The attack killed six people and wounded at least 11, with later reports raising the number of injured to 15. A video captured by CNN showed gunshots echoing through the streets, confirming the violence in an otherwise bustling urban area.\n\nIn the days that followed, authorities discovered three additional bodies at the suspect’s residence. Prime Minister Mateusz Morawiecki announced the find, noting that the home had become a secondary crime scene. Details about the identities of the deceased or the circumstances of their deaths have not been released.\n\nPolice have launched an intensive investigation to locate the shooter and determine a motive. Early evidence indicates that the perpetrator fired from a vehicle in motion, a tactic that hampered the immediate police response and allowed the gunman to escape. Forensic teams are analysing the shooting site and the suspect’s home for ballistic evidence, DNA, and digital traces. Investigators are also reviewing surveillance footage from surrounding streets and collecting witness statements to reconstruct the gunman’s route.\n\nThe incident has shocked a country that historically records low levels of mass gun violence. The loss of six lives and the injuries to dozens more have prompted public grief and renewed calls for stronger security measures in public spaces. Political leaders, including the prime minister, have expressed condolences to victims’ families and stressed the need for swift justice. The shooting has also revived debate over firearm regulations and the capacity of law‑enforcement agencies to respond to rapidly evolving threats in densely populated areas.\n\nPolice officials say the investigation will continue to focus on identifying and apprehending the shooter. Ongoing forensic work at both the crime scene and the suspect’s domicile is expected to yield further leads, while coordination with national security services aims to prevent any additional attacks. No charges have been filed at this stage, but authorities have pledged to keep the public informed as new information emerges.\n\nThe Krakow shooting underscores the vulnerability of public spaces to sudden, coordinated violence. With six fatalities, a growing tally of injured civilians, and three additional bodies found at the suspect’s home, the tragedy highlights the urgent need for robust emergency‑response protocols and comprehensive investigative resources. As Poland grapples with the aftermath, the nation watches closely for the outcome of the police inquiry, hoping that swift justice and preventive measures will restore confidence in Krakow’s streets.",
+    "category": "🌍 World",
+    "image": "assets/images/news_37.jpg",
+    "date": "2026-11-08",
+    "time": "10:05",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A mass shooting occurred in Krakow, Poland.",
+      "Six people were reported dead in the initial attack.",
+      "At least 11 people were reported wounded in some reports.",
+      "Other reports state at least 15 people were injured.",
+      "Three additional bodies were found at the suspect's home.",
+      "The suspect fired from a moving car in the city centre.",
+      "A video of gunshots from the site was captured and released by CNN."
+    ],
+    "timeline": [
+      {
+        "event": "Mass shooting in Krakow city centre, gunman opened fire from a moving car, killing six people and injuring many."
+      },
+      {
+        "event": "Video of gunshots from the site was released by CNN."
+      },
+      {
+        "event": "Police discovered three additional bodies at the suspect's home; Polish Prime Minister announced the finding."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=37",
+    "featured": true
+  },
+  {
     "id": 36,
     "title": "Briton among six killed in 'far-right' shooting in Krakow",
     "summary": "**Six Killed, Dozens Wounded in Far‑Right‑Motivated Attack on Kraków’s Market Square**",
@@ -32,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=36",
-    "featured": true
+    "featured": false
   },
   {
     "id": 35,

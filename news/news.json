@@ -1,5 +1,55 @@
 [
   {
+    "id": 41,
+    "title": "What do we know about Jensen Huang's affair?",
+    "summary": "**Nvidia Launches Board‑Level Probe After CEO’s Admission of Relationship With Suspected Chinese Spy**",
+    "content": "**Nvidia Launches Board‑Level Probe After CEO’s Admission of Relationship With Suspected Chinese Spy**\n\n*Silicon Valley, Nov. 9, 2026* – Nvidia’s board of directors has ordered an internal investigation following chief executive Jensen Huang’s public acknowledgment that he had been involved in a personal relationship with an individual identified by the company as a suspected Chinese intelligence operative. Huang disclosed the affair in a letter to employees on Tuesday, prompting the board to act the same day.\n\nThe staff memorandum did not name the person involved, but Huang expressed regret for any distraction the relationship might cause the company and affirmed that he had reported the matter to senior leadership. In response, the board commissioned a comprehensive review to determine whether the liaison posed any risk to corporate security, intellectual‑property protection, or compliance with U.S. export‑control regulations.\n\nThe development has attracted extensive media coverage. Outlets including the BBC, Reuters, Bloomberg, The New York Times and Al Jazeera have reported on the board’s decision, underscoring the story’s global reach.\n\n### Market Impact\n\nInvestors reacted quickly. Bloomberg noted that Nvidia’s share price slipped shortly after the news broke, reflecting concerns about reputational damage and the prospect of heightened regulatory scrutiny. Although the decline was modest relative to the company’s multitrillion‑dollar market capitalization, the movement highlights shareholders’ sensitivity to any indication of foreign influence within a firm that sits at the core of the United States’ semiconductor and artificial‑intelligence hardware supply chain.\n\n### Political Reactions\n\nThe episode has also drawn commentary from political figures on both sides of the Pacific. Former President Donald Trump publicly voiced support for Huang, a statement reported by Yahoo Finance. In contrast, U.S. Senator Marco Rubio had previously warned about the individual in a congressional memo, according to the New York Post, indicating that concerns over Chinese espionage have been circulating in Washington for some time. The Chinese government dismissed the allegations as “unsubstantiated,” a response cited by ABC News Australia, adding a diplomatic dimension to the controversy.\n\n### Strategic Significance\n\nNvidia is a leading designer of graphics‑processing units (GPUs) and a primary supplier of hardware for artificial‑intelligence applications. Its products are integral to a range of U.S. defense and commercial systems, making the company a focal point for national‑security considerations. Any real or perceived breach of security could have far‑reaching implications, especially amid intensified scrutiny of Chinese espionage activities in the technology sector.\n\nThe board’s investigation therefore serves a dual purpose: it seeks to uncover any internal policy violations and it aims to reassure regulators, investors and international partners that Nvidia is taking the matter seriously.\n\n### Outlook\n\nNvidia has indicated that the internal review will be completed “in due course,” with any resulting corporate actions disclosed thereafter. Should the investigation uncover evidence of export‑control violations or other statutory breaches, the company could face additional regulatory or legal scrutiny. Stakeholders will be watching for the final report, which is expected to address whether confidential information or corporate‑governance standards were compromised.\n\n### Conclusion\n\nThe incident highlights the delicate intersection of personal conduct, corporate responsibility and geopolitical tension in today’s high‑tech environment. By initiating a board‑level probe, Nvidia is attempting to contain potential fallout and preserve confidence among investors, partners and policymakers. The findings of the investigation are likely to shape not only Nvidia’s internal policies but also broader industry practices concerning foreign‑related security risks.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_41.jpg",
+    "date": "2026-11-09",
+    "time": "09:34",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jensen Huang is the chief executive officer of Nvidia.",
+      "Nvidia announced an internal investigation into Jensen Huang's personal relationship that is described as an affair with a suspected Chinese spy.",
+      "Jensen Huang publicly admitted to the affair in a letter to staff.",
+      "Multiple reputable news outlets (BBC, Reuters, Bloomberg, The New York Times, Al Jazeera) reported the investigation.",
+      "Nvidia's shares experienced a dip on the market following the news, as reported by Bloomberg.",
+      "Former U.S. President Donald Trump publicly expressed support for Jensen Huang after the admission (Yahoo Finance).",
+      "U.S. Senator Marco Rubio had previously warned about the individual involved in a memo (New York Post).",
+      "The Chinese government stated that the allegations are \"unsubstantiated\" (ABC News Australia)."
+    ],
+    "timeline": [
+      {
+        "event": "Jensen Huang admits affair in a letter to Nvidia staff",
+        "date": null,
+        "source": "Axios"
+      },
+      {
+        "event": "Nvidia announces internal investigation into the affair",
+        "date": null,
+        "source": "BBC"
+      },
+      {
+        "event": "Nvidia shares dip on market following news",
+        "date": null,
+        "source": "Bloomberg"
+      },
+      {
+        "event": "China publicly states allegations are unsubstantiated",
+        "date": null,
+        "source": "ABC News"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=41",
+    "featured": true
+  },
+  {
     "id": 40,
     "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
     "summary": "**Democrats, led by Hakeem Jeffries, push for accountability and possible impeachment of Defense Secretary Pete Hegseth after 2022 midterm elections**",
@@ -35,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=40",
-    "featured": true
+    "featured": false
   },
   {
     "id": 39,

@@ -1,5 +1,43 @@
 [
   {
+    "id": 40,
+    "title": "Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability",
+    "summary": "**Democrats, led by Hakeem Jeffries, push for accountability and possible impeachment of Defense Secretary Pete Hegseth after 2022 midterm elections**",
+    "content": "**Democrats, led by Hakeem Jeffries, push for accountability and possible impeachment of Defense Secretary Pete Hegseth after 2022 midterm elections**\n\nWASHINGTON — In the weeks following the 2022 midterm elections, House Democrats have intensified efforts to hold senior members of the Trump administration accountable, beginning with Defense Secretary Pete Hegseth. On Dec. 1, 2022, Democratic leader Hakeem Jeffries publicly called for Hegseth’s removal. The statement was quickly reported by *The New York Times*, NPR, *The Hill* and *Inquirer.com*.\n\nJeffries’ demand comes as the Democratic caucus, which secured control of the House on Nov. 8, 2022, prepares a broader investigative agenda targeting former President Donald Trump and the Justice Department. While the public record does not detail specific allegations against Hegseth, Democratic leaders framed the call as part of a “democratic desire for accountability” for what they describe as misconduct within the Defense Department under his watch. The timing—one day before Democratic leaders announced a sweeping investigative plan on Dec. 2—suggests a coordinated strategy to leverage the party’s new legislative leverage.\n\nThe Dec. 2 agenda includes a series of committee hearings focused on both the Defense Department and the Justice Department. Lawmakers have indicated that these hearings could lay the groundwork for formal impeachment articles against Hegseth, although no articles have yet been introduced. The prospect of impeachment adds a new dimension to the political calculus in Washington, where the House now holds the constitutional authority to initiate such proceedings. At the same time, the broader investigative focus on former President Trump reflects the party’s intent to examine alleged wrongdoing tied to the previous administration’s policies and actions.\n\nThe push traces back to the 2022 midterms, in which voters shifted the balance of power in the House to the Democrats. The victory gave the party a legislative platform to pursue oversight initiatives that were previously constrained by a Republican majority. In the immediate aftermath, Democratic leaders outlined a two‑pronged approach: first, to investigate the former president’s conduct and any potential interference with the Justice Department; second, to examine the performance and decisions of key cabinet officials, beginning with the Defense Secretary.\n\nIf impeachment proceedings were to commence, it would be the first time a sitting Defense Secretary faces such a challenge, underscoring the heightened scrutiny of executive‑branch officials in a sharply divided political environment. The initiative also signals that the Democratic‑controlled House intends to use its oversight powers aggressively, potentially reshaping norms of post‑presidential accountability.\n\nCommittee hearings on the Defense Department are expected in the coming weeks, providing a forum for lawmakers to request documents, summon witnesses and delineate the specific grounds for any impeachment inquiry. Parallel hearings on the Justice Department are also slated, reflecting the dual focus announced on Dec. 2. Should the committees find sufficient cause, formal articles of impeachment could be drafted and brought to the full House for a vote, a step that would trigger a Senate trial if passed.\n\nIn sum, the Democratic push for Pete Hegseth’s removal, spearheaded by Hakeem Jeffries, illustrates the party’s broader commitment to oversight following its 2022 electoral gains. The move places the Defense Secretary under unprecedented political pressure and sets the stage for potential impeachment proceedings, while simultaneously advancing a wider investigative agenda targeting former President Trump and the Justice Department. The outcome of the upcoming hearings will determine whether the House moves from calls for accountability to formal legislative action, a development with lasting implications for executive oversight in the United States.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-09",
+    "time": "01:35",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Hakeem Jeffries publicly called for the removal of Defense Secretary Pete Hegseth.",
+      "Multiple news outlets (The New York Times, NPR, The Hill, Inquirer.com) reported Jeffries' statements regarding Hegseth.",
+      "Democrats gained control of the U.S. House of Representatives in the 2022 midterm elections.",
+      "Democratic lawmakers announced plans to investigate former President Donald Trump and his Justice Department."
+    ],
+    "timeline": [
+      {
+        "event": "2022 U.S. midterm elections result in Democratic control of the House",
+        "date": "2022-11-08"
+      },
+      {
+        "event": "Hakeem Jeffries publicly urges removal of Pete Hegseth",
+        "date": "2022-12-01"
+      },
+      {
+        "event": "Democratic leaders announce investigative agenda targeting former President Trump and the Justice Department",
+        "date": "2022-12-02"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=40",
+    "featured": true
+  },
+  {
     "id": 39,
     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
     "summary": "**Nvidia Board Launches Formal Inquiry into CEO’s Alleged Ties to Chinese Intelligence**",
@@ -44,7 +82,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=39",
-    "featured": true
+    "featured": false
   },
   {
     "id": 38,

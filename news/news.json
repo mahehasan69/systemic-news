@@ -1,5 +1,35 @@
 [
   {
+    "id": 42,
+    "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+    "summary": "**Russell Brand sentenced to 10½ years in prison for rape and sexual assault**",
+    "content": "**Russell Brand sentenced to 10½ years in prison for rape and sexual assault**\n\nLondon – A judge at Southwark Crown Court sentenced former comedian and broadcaster Russell Brand to ten years and six months’ imprisonment after finding him guilty of rape and sexual assault. The verdict, reported by Reuters, the BBC, The New York Times, The Guardian and AP News, concludes a high‑profile criminal trial that has attracted intense public and media attention.\n\nThe convictions relate to offences that carry severe penalties under United Kingdom law. In delivering the sentence, the presiding judge stressed the seriousness of the crimes and the need for a punishment that reflects both the gravity of the conduct and its impact on the victims. The term is to be served in full; the court gave no indication that any portion will be suspended or reduced.\n\nLegal analysts note that a ten‑and‑a‑half‑year term is consistent with sentencing guidelines for comparable sexual offences, which take into account factors such as the level of violence, abuse of power and the harm inflicted. While the specific evidence presented at trial has not been disclosed publicly, the unanimity of the verdict across multiple reputable outlets underscores the strength of the prosecution’s case and the court’s confidence in its findings.\n\nThe sentence carries significant ramifications beyond the immediate punishment. Brand, whose career has spanned comedy, television and activism, built his public persona on a personal brand that now faces severe damage. The conviction is expected to terminate existing contracts, cancel forthcoming engagements and curtail future opportunities.\n\nThe legal process may continue if Brand’s counsel files an appeal against the conviction or the length of the sentence. No appeal has been reported at this stage. Should an appeal be lodged, a higher court would review the case for possible errors in law or sentencing and could uphold, modify, or overturn the judgment.\n\nThe case highlights the criminal‑justice system’s role in addressing sexual violence, even when the accused is a public figure. It reinforces the importance of thorough investigations, the willingness of victims to come forward, and the capacity of courts to impose substantial penalties when warranted. As the public digests the outcome, the sentencing is likely to shape ongoing discussions about consent, power dynamics in the entertainment industry and the mechanisms designed to protect survivors of sexual assault.",
+    "category": "📰 General",
+    "image": "assets/images/news_42.jpg",
+    "date": "2026-11-09",
+    "time": "20:37",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Russell Brand was sentenced to ten years and six months (10.5 years) in prison.",
+      "The conviction was for rape and sexual assault.",
+      "The sentencing took place in Southwark Crown Court in London, United Kingdom.",
+      "Multiple reputable news outlets (Reuters, BBC, The New York Times, The Guardian, AP News, etc.) report the same sentence length and charges."
+    ],
+    "timeline": [
+      {
+        "event": "Sentencing of Russell Brand for rape and sexual assault",
+        "date": "Not specified in the provided articles"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=42",
+    "featured": true
+  },
+  {
     "id": 41,
     "title": "What do we know about Jensen Huang's affair?",
     "summary": "**Nvidia Launches Board‑Level Probe After CEO’s Admission of Relationship With Suspected Chinese Spy**",
@@ -47,7 +77,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=41",
-    "featured": true
+    "featured": false
   },
   {
     "id": 40,

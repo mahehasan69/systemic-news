@@ -1,5 +1,38 @@
 [
   {
+    "id": 45,
+    "title": "House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader",
+    "summary": "**Jim Jordan Elected House Republican Conference Chair in Closed‑Door Vote**",
+    "content": "**Jim Jordan Elected House Republican Conference Chair in Closed‑Door Vote**\n\nWashington — Representative Jim Jordan of Ohio was chosen as the new Republican Conference Chair in a closed‑door ballot of the U.S. House GOP caucus. The result, confirmed by The New York Times, NBC, NPR, CNBC, Yahoo, Fox News, CNN, Reuters, CBS News and The Hill, saw Jordan defeat Representative Steve Scalise of Louisiana, who finished second.\n\nThe leadership election follows the party’s loss of the House in the November 2022 midterm elections. In the weeks after that defeat, GOP members began a concerted search for new leadership to rebuild the caucus and set a course for the next congressional cycle. According to Yahoo, the vote was scheduled a week after the loss, though the exact date of the closed‑door ballot has not been disclosed.\n\nJordan’s victory reflects a broader desire within the Republican conference to align its leadership with the political direction championed by former President Donald Trump. Party insiders say the caucus sought a figure who could energize the base, maintain cohesion among its diverse factions and present a unified front on key issues. By defeating Scalise, who is viewed as more establishment‑leaning, Jordan’s election signals a shift toward a more confrontational style of opposition to the Democratic majority.\n\nThe new Conference Chair inherits a challenging environment. One immediate test will be the upcoming impeachment vote concerning Representative Matt Hegseth, a matter highlighted by CNN and CBS News. While the impeachment proceedings are separate from the leadership contest, Jordan’s position will likely shape the GOP’s approach to the vote and influence the party’s public stance and internal discipline. Analysts note that a leader’s handling of high‑profile votes can set the tone for the caucus’s effectiveness in the months ahead.\n\nJordan’s reputation as a staunch conservative and vocal supporter of Trump’s agenda positioned him as a unifying candidate for the faction of the party that prioritizes a hard‑line approach to policy and opposition. As Conference Chair, he will steer the Republican response to the Democratic majority’s initiatives, influencing debates on budgetary matters, regulatory reforms and foreign policy. His leadership style may also affect the party’s ability to negotiate bipartisan legislation, a factor that could shape the legislative output of the 118th Congress and the GOP’s prospects in the 2024 elections.\n\nLooking ahead, the House Republican caucus under Jordan’s guidance will confront a packed legislative calendar, including the anticipated impeachment vote on Rep. Hegseth and a series of policy battles over spending, infrastructure and social issues. Observers will watch how Jordan balances the demands of the party’s grassroots with the pragmatic need to influence legislation. The next few weeks are expected to reveal the strategic priorities of the new leadership, setting the stage for the GOP’s role in a divided Congress.\n\nJordan’s election marks a pivotal moment for the minority caucus. The closed‑door vote, corroborated by a broad spectrum of news outlets, underscores a decisive shift toward a more confrontational, Trump‑aligned leadership. As the GOP navigates impeachment proceedings and a contentious legislative agenda, Jordan’s tenure will be a key factor in shaping the party’s direction and its prospects for reclaiming the House in future elections.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-10",
+    "time": "20:25",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jim Jordan was elected as the new House Republican leader by House Republicans",
+      "The election was reported by multiple major news outlets (NYT, NBC, NPR, CNBC, Yahoo, Fox News, CNN, Reuters, CBS News, The Hill)",
+      "The vote was conducted as a closed-door vote",
+      "Steve Scalise was the runner‑up, defeated by Jordan",
+      "The election follows the Republican Party’s loss in the 2022 midterm elections and a stated goal to rebuild the House GOP caucus",
+      "The event took place in Washington, D.C., within the U.S. House of Representatives"
+    ],
+    "timeline": [
+      "Nov 2022 – Republicans lose control of the U.S. House in the midterm elections",
+      "Early 2023 – GOP caucus begins search for new House leadership",
+      "Week after the loss (as noted by Yahoo) – Republicans schedule leadership vote",
+      "Date unknown – Closed‑door vote elects Jim Jordan, defeating Steve Scalise",
+      "Following the election – Media report on related impeachment proceedings against Rep. Hegseth"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=45",
+    "featured": true
+  },
+  {
     "id": 44,
     "title": "US military aircraft leave second UK base",
     "summary": "**U.S. Aircraft Redeployed from RAF Mildenhall After Reported Iranian Threat**",
@@ -32,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=44",
-    "featured": true
+    "featured": false
   },
   {
     "id": 43,

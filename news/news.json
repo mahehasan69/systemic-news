@@ -1,5 +1,40 @@
 [
   {
+    "id": 44,
+    "title": "US military aircraft leave second UK base",
+    "summary": "**U.S. Aircraft Redeployed from RAF Mildenhall After Reported Iranian Threat**",
+    "content": "**U.S. Aircraft Redeployed from RAF Mildenhall After Reported Iranian Threat**\n\n*Multiple news outlets reported Wednesday that U.S. military aircraft were withdrawn from a second United Kingdom base and moved to undisclosed locations in Germany and Spain following a threat attributed to Iran.*\n\nThe relocation was confirmed by a coalition of media organizations that included **The Wall Street Journal, BBC, NBC, CBS, Bloomberg, Yahoo News Canada, The Times of Israel, The Korea Times** and **LBC**. CBS, citing a source known as NewsCord, identified the affected installation as **RAF Mildenhall**, a United States‑operated airfield that has hosted American aircraft for decades. According to the report, the aircraft were flown to secret sites in Germany and Spain shortly after the threat was assessed.\n\nWhile the precise nature of the Iranian warning was not disclosed, the consensus among the reporting agencies was that the perceived risk was sufficient to trigger an immediate protective response. U.S. officials framed the move as a precautionary measure intended to safeguard both personnel and equipment.\n\nThe redeployment temporarily reduces the United States’ air presence on British soil. By removing the fleet from RAF Mildenhall, the United States has lessened its operational footprint in the United Kingdom, a shift that could affect joint NATO exercises, rapid‑response capabilities, and broader transatlantic strategic planning.\n\nAnalysts note that the decision to disperse the aircraft to two separate NATO‑member states reflects a desire to mitigate risk while maintaining operational continuity. Germany and Spain host established U.S. air facilities, allowing the aircraft to remain within the alliance’s defensive perimeter yet farther from the immediate threat environment.\n\nThe episode underscores the sensitivity of forward‑deployed forces to regional geopolitical tensions, particularly those involving Iran’s posture in the Middle East. It also highlights the close defense partnership between the United Kingdom and the United States; any alteration in force posture may signal shifts in diplomatic or security priorities.\n\nDiplomatic channels are expected to become more active as Washington, London and Tehran seek clarification of the threat and explore de‑escalation pathways. No further relocations have been confirmed, and officials have not issued additional statements beyond the initial reports, leaving the situation fluid.\n\nThe coordinated coverage by a broad array of reputable news sources suggests that the evacuation of U.S. aircraft from RAF Mildenhall will continue to be closely monitored. As the international community awaits further official communication, the move serves as a reminder of how regional security concerns can prompt rapid adjustments to forward‑deployed military assets.",
+    "category": "🌍 World",
+    "image": "assets/images/news_44.jpg",
+    "date": "2026-11-10",
+    "time": "12:25",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "US military aircraft were moved from a second United Kingdom base",
+      "Multiple news outlets (WSJ, BBC, NBC, CBS, Bloomberg, Yahoo News Canada, The Times of Israel, The Korea Times, LBC) reported the evacuation",
+      "The base identified by CBS and NewsCord is RAF Mildenhall",
+      "The relocation was reportedly prompted by a threat from Iran",
+      "Aircraft were redeployed to locations in Germany and Spain"
+    ],
+    "timeline": [
+      {
+        "event": "Reports of US aircraft evacuation published by various outlets",
+        "status": "reported"
+      },
+      {
+        "event": "Aircraft relocated to Germany and Spain according to CBS report",
+        "status": "reported"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=44",
+    "featured": true
+  },
+  {
     "id": 43,
     "title": "Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
     "summary": "**Russell Brand Sentenced for Rape; Former Partner Jemima Goldsmith Accuses Him of Physical Abuse**",
@@ -35,7 +70,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=43",
-    "featured": true
+    "featured": false
   },
   {
     "id": 42,

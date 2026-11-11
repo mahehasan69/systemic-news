@@ -1,5 +1,55 @@
 [
   {
+    "id": 46,
+    "title": "US Army soldier suspected of spying for Russia arrested in UK",
+    "summary": "**U.S. Army Soldier Arrested in Britain on Suspicion of Spying for Russia**",
+    "content": "**U.S. Army Soldier Arrested in Britain on Suspicion of Spying for Russia**\n\nBritish authorities detained a United States Army service member on Thursday on suspicion of providing classified information to Russian intelligence operatives. The arrest, carried out in a coordinated operation that included the United Kingdom’s counter‑terrorism police, is being described as one of the most high‑profile security incidents involving an American military personnel on British soil in recent years.\n\nThe case has been reported by a wide range of outlets, including CNN, the BBC, NBC News, The New York Times, ABC News, Al Jazeera, CBS News, Fox News, MS NOW, Sky News, PBS, Bloomberg, DW.com, Forbes, The Guardian, The Washington Post, Stars and Stripes, AP News and the Kyiv Post, underscoring its international significance.\n\nAccording to statements from UK law‑enforcement agencies, investigators gathered sufficient evidence to believe the soldier was passing classified or otherwise sensitive material to Russian contacts. While the specific nature of the alleged intelligence‑gathering has not been disclosed, espionage under British law carries severe penalties and triggers a comprehensive national‑security investigation. The suspect remains in custody while authorities assess the scope of the alleged collaboration.\n\nThe operation involved multiple branches of the United Kingdom’s security apparatus. Counter‑terrorism police, which routinely handle threats to national security, worked alongside other law‑enforcement units to execute the arrest. The involvement of these specialized forces signals that officials view the alleged espionage as a serious breach of both British and allied security protocols. Details such as the exact location of the arrest or the identity of the service member have not been released, in line with standard practice for ongoing investigations.\n\nCases that implicate allied military personnel are rare but carry profound diplomatic implications. The United States and the United Kingdom share a close intelligence partnership through the “Five Eyes” arrangement, which facilitates the exchange of classified information among the United States, the United Kingdom, Canada, Australia and New Zealand. An incident of this nature raises immediate concerns about the integrity of those shared channels and the potential for compromised operations. Historically, both governments have responded to similar incidents with diplomatic engagement to evaluate the impact on bilateral security cooperation.\n\nThe arrest comes amid heightened vigilance toward Russian intelligence activities across Europe and North America. Western intelligence services have reported an increase in covert operations aimed at acquiring military and technological secrets over the past several years. Although the current case has not yet revealed the extent of any damage, the allegation that a U.S. Army member acted as a conduit for Russian intelligence underscores the persistent threat posed by state‑sponsored espionage networks and reinforces the need for robust counter‑intelligence measures within allied armed forces.\n\nLegal proceedings are expected to begin in the coming weeks. Under British law, espionage charges can result in lengthy custodial sentences, and the case will likely be heard in a Crown Court with national‑security considerations. Simultaneously, diplomatic channels between Washington and London are anticipated to be activated. U.S. officials are expected to seek clarification on the evidence, discuss the implications for joint operations, and coordinate any necessary legal assistance for the service member, should the United States choose to be involved in the defense.\n\nThe episode serves as a stark reminder that even the most trusted partners are vulnerable to infiltration attempts by hostile intelligence services. It highlights the ongoing need for rigorous vetting, continuous monitoring, and swift inter‑agency cooperation when potential breaches are identified. As the investigation unfolds, the outcome will shape not only the legal fate of the accused soldier but also the broader discourse on security collaboration between the United States and its key allies.",
+    "category": "🌍 World",
+    "image": "assets/images/news_46.jpg",
+    "date": "2026-11-11",
+    "time": "01:12",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A member of the U.S. Army was arrested in the United Kingdom on suspicion of espionage linked to Russia.",
+      "The arrest was reported by multiple news outlets (CNN, BBC, NBC News, The New York Times, ABC News, Al Jazeera, CBS News, Fox News, MS NOW, Sky News, PBS, Bloomberg, DW.com, Forbes, The Guardian, The Washington Post, Stars and Stripes, AP News, Kyiv Post).",
+      "UK law‑enforcement agencies (including counter‑terrorism police) were involved in the arrest."
+    ],
+    "timeline": [
+      {
+        "event": "Arrest of U.S. Army personnel in the United Kingdom",
+        "date": null,
+        "sources": [
+          "CNN",
+          "BBC",
+          "NBC News",
+          "The New York Times",
+          "ABC News",
+          "Al Jazeera",
+          "CBS News",
+          "Fox News",
+          "MS NOW",
+          "Sky News",
+          "PBS",
+          "Bloomberg",
+          "DW.com",
+          "Forbes",
+          "The Guardian",
+          "The Washington Post",
+          "Stars and Stripes",
+          "AP News",
+          "Kyiv Post"
+        ]
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=46",
+    "featured": true
+  },
+  {
     "id": 45,
     "title": "House Republicans Pick Jim Jordan, a Close Trump Ally, as Their Next Leader",
     "summary": "**Jim Jordan Elected House Republican Conference Chair in Closed‑Door Vote**",
@@ -30,7 +80,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=45",
-    "featured": true
+    "featured": false
   },
   {
     "id": 44,

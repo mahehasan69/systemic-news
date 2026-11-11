@@ -1,5 +1,71 @@
 [
   {
+    "id": 47,
+    "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+    "summary": "**Jonathan Ross Calls Allegations Against David Walliams and Russell Brand “Horrifying”**",
+    "content": "**Jonathan Ross Calls Allegations Against David Walliams and Russell Brand “Horrifying”**\n\n*London* – Television presenter Jonathan Ross said he was “horrified” by the sexual‑assault allegations now facing comedian‑author David Walliams and fellow entertainer Russell Brand. Ross’s reaction, reported by outlets in the United Kingdom and Canada—including Yahoo News Canada, Female First, Metro.co.uk, HuffPost UK, The Sun, the Irish Independent and cedarnews.net – is one of the most prominent media responses to the claims that have surfaced in recent weeks.\n\nThe comments followed the wide circulation of a resurfaced video clip from 2004 in which Brand and Walliams joke that they are gay as a “smokescreen.” The clip, originally a light‑hearted exchange, was first highlighted by AOL.com and later verified by Tyla as dating to 2004. Its re‑emergence has added a new dimension to the public discourse, prompting commentators to revisit past material for possible relevance to the current allegations.\n\nThe accusations themselves involve alleged sexual assault by both Walliams and Brand. While the specific details have not been disclosed in the sources consulted, no formal legal proceedings have been reported, and neither entertainer has issued a public response to date.\n\nRoss’s statement has amplified media attention on the case. As a long‑standing figure in British broadcasting, his condemnation has drawn additional coverage from a range of outlets, underscoring the cross‑regional interest in the matter. The breadth of reporting – from Metro.co.uk to the Irish Independent – reflects a broader cultural conversation about accountability within the entertainment industry.\n\nThe episode illustrates how high‑profile personalities are responding to heightened scrutiny of alleged misconduct. By publicly expressing revulsion, Ross joins a growing list of public figures who have chosen to address the allegations directly rather than remain silent. This trend mirrors a wider shift in media and industry circles toward confronting historic and contemporary claims of sexual misconduct, reshaping expectations of transparency and responsibility.\n\nBoth Walliams and Brand have built substantial public profiles over the past two decades. Walliams is best known for his work on children’s television and his best‑selling books, while Brand has earned recognition for his stand‑up comedy and broadcasting work. The resurfaced 2004 clip, once a harmless joke, is now being re‑examined in light of the allegations, demonstrating how past content can acquire new relevance when viewed through contemporary concerns about abuse of power.\n\nThe immediate effect of Ross’s remarks is heightened media focus, but the next steps remain uncertain. Observers anticipate further statements from the accused parties, as well as possible updates from law‑enforcement or legal representatives, as the situation develops. The story is expected to dominate headlines in both the United Kingdom and Canada in the coming days.\n\nIn sum, Jonathan Ross’s declaration of horror reflects a broader societal shift toward confronting alleged sexual‑assault claims against prominent entertainers. The resurfacing of a decades‑old joke between Russell Brand and David Walliams has intensified public scrutiny, prompting a cascade of reports that span continents. As the allegations continue to be examined, the entertainment industry and its audiences will be watching closely for legal outcomes and additional commentary from those directly involved.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_47.jpg",
+    "date": "2026-11-11",
+    "time": "09:08",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jonathan Ross publicly stated he was horrified about allegations involving David Walliams and Russell Brand (reported by Yahoo News Canada, Female First, Metro.co.uk, HuffPost UK, The Sun, Irish Independent, cedarnews.net).",
+      "Multiple outlets reported Ross’s comment using the phrasing “I am horrified” or “horrified”.",
+      "A clip resurfaced in which Russell Brand and David Walliams joked about being gay as a “smokescreen” (reported by AOL.com).",
+      "The joke referenced by Ross was originally made in 2004 (reported by Tyla)."
+    ],
+    "timeline": [
+      {
+        "order": 1,
+        "source": "Yahoo News Canada"
+      },
+      {
+        "order": 2,
+        "source": "Female First"
+      },
+      {
+        "order": 3,
+        "source": "Metro.co.uk"
+      },
+      {
+        "order": 4,
+        "source": "HuffPost UK"
+      },
+      {
+        "order": 5,
+        "source": "The Sun"
+      },
+      {
+        "order": 6,
+        "source": "AOL.com"
+      },
+      {
+        "order": 7,
+        "source": "Irish Independent"
+      },
+      {
+        "order": 8,
+        "source": "The i Paper"
+      },
+      {
+        "order": 9,
+        "source": "Tyla"
+      },
+      {
+        "order": 10,
+        "source": "cedarnews.net"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=47",
+    "featured": true
+  },
+  {
     "id": 46,
     "title": "US Army soldier suspected of spying for Russia arrested in UK",
     "summary": "**U.S. Army Soldier Arrested in Britain on Suspicion of Spying for Russia**",
@@ -47,7 +113,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=46",
-    "featured": true
+    "featured": false
   },
   {
     "id": 45,

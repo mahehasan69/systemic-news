@@ -1,5 +1,29 @@
 [
   {
+    "id": 50,
+    "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future",
+    "summary": "**Nvidia Board Reviews CEO Jensen Huang Amid Misconduct Allegations, Shares Slide**",
+    "content": "**Nvidia Board Reviews CEO Jensen Huang Amid Misconduct Allegations, Shares Slide**\n\nNvidia’s board of directors convened this week to assess the future of chief executive Jensen Huang, a development that sent the company’s stock sharply lower. The meeting, reported by outlets including *The New York Times*, Bloomberg, Al Jazeera, Yahoo Finance, Forbes and the *Seattle Times*, has heightened investor uncertainty about Nvidia’s leadership.\n\nThe board’s deliberations are being driven by allegations that Huang engaged in one or more extramarital affairs. While the specifics of the accusations have not been disclosed publicly, the board’s fiduciary duty to evaluate the suitability of its top executive has compelled a formal review. This marks a rare instance of a technology company’s governance body addressing a CEO’s private conduct as a factor in corporate oversight.\n\nIn the hours after news of the board’s consideration emerged, Nvidia’s shares fell markedly, reflecting investor concerns about both operational stability and the broader strategic direction of the company. Analysts note that Nvidia— a dominant force in graphics‑processing units and artificial‑intelligence hardware—has historically benefited from Huang’s steady leadership since he co‑founded the firm in 1993.\n\nThe episode underscores the growing scrutiny of executive behavior in the tech sector, where personal conduct can affect corporate reputation and financial performance. The board must weigh the alleged misconduct against Huang’s record of driving growth, securing key partnerships and maintaining a competitive edge in a rapidly evolving industry. The outcome could set a precedent for how similar allegations are handled at other high‑profile technology firms.\n\nNo timeline for a decision has been provided, and the board has not issued an official statement confirming whether Huang will remain in his role. Investors, employees and partners are awaiting the board’s final determination, expected in the coming days. Should a leadership change be announced, Nvidia would need to manage the transition while preserving its product pipeline and market momentum.\n\nThe immediate market reaction highlights how governance concerns can quickly translate into tangible financial repercussions. As Nvidia’s board concludes its review, the technology sector will be watching closely to see how the company balances leadership continuity with the expectations of corporate accountability.",
+    "category": "💰 Finance",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-12",
+    "time": "08:09",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Nvidia's board is meeting to discuss Jensen Huang's future",
+      "Multiple news outlets (The New York Times, Bloomberg, Al Jazeera, Yahoo Finance, Forbes, Seattle Times) reported the board consideration",
+      "Nvidia shares dropped or plunged after reports of the board discussion"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=50",
+    "featured": true
+  },
+  {
     "id": 49,
     "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
     "summary": "**Barcelona Clashes Follow Spain’s First General Strike in 14 Years**",
@@ -39,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=49",
-    "featured": true
+    "featured": false
   },
   {
     "id": 48,

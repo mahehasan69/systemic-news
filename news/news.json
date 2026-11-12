@@ -1,5 +1,38 @@
 [
   {
+    "id": 51,
+    "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+    "summary": "**Nvidia CEO Jensen Huang Resigns Amid China‑Espionage Allegations and Personal Scandal**",
+    "content": "**Nvidia CEO Jensen Huang Resigns Amid China‑Espionage Allegations and Personal Scandal**\n\n*Tuesday, November 12, 2026 – The Guardian*\n\nNvidia’s co‑founder and chief executive Jensen Huang announced his resignation on Tuesday, citing a “honeytrap” investigation that linked him to an alleged Chinese espionage operation and a personal affair with national‑security implications. The abrupt departure marks the first major leadership change at the semiconductor giant in more than two decades and triggered a sharp decline in the company’s market value.\n\n**Scandal unfolds**\n\nThe resignation first entered the public record when NPR reported that Huang stepped down amid a spy scandal involving China’s chip‑technology programs. The Seattle Times added that officials said an extramarital affair had compromised national security, while Fast Company quoted government sources describing the episode as “really, really bad.” Reuters confirmed that Huang had become entangled in a China‑related chip and espionage controversy, and Bloomberg suggested the episode could undermine the long‑held perception of Huang as an “irreplaceable CEO.”\n\n**Market reaction**\n\nFollowing the disclosure, Nvidia’s market capitalization fell sharply. The Guardian linked the drop directly to investor anxiety over potential security breaches and leadership instability. The Washington Post compiled a month‑by‑month account of Huang’s downfall, noting how the AI “rock star” once celebrated by the BBC saw his reputation erode within weeks. The Wall Street Journal reported that the scandal has also strained Taiwan’s admiration for Huang, describing the affair as a blow to the nation’s pride in its hometown tech icon.\n\n**Huang’s rise and the stakes**\n\nCNN recalled that Huang first imagined Nvidia while working at a Denny’s restaurant, a story that has become part of the company’s lore. Under his stewardship, Nvidia grew from a modest graphics‑card maker into a dominant force in artificial‑intelligence hardware, earning him the moniker of AI’s “rock star.” The BBC highlighted this meteoric ascent before the “dramatic career unraveling” now dominating headlines.\n\nBeyond Nvidia’s balance sheet, the alleged espionage ties intersect with China’s pursuit of advanced semiconductor capabilities—a sector at the core of the United States’ strategic competition with Beijing. If substantiated, the case could reveal a broader pattern of intelligence operations targeting U.S. tech firms, prompting tighter regulatory scrutiny and possible legislative action. It also underscores how personal conduct can intersect with national security when corporate leaders operate at the nexus of innovation and defense.\n\n**Next steps**\n\nNvidia’s board is expected to appoint an interim chief executive while conducting an internal review. The company has pledged full cooperation with federal investigators, though no official statement on the probe’s scope has been released. Analysts anticipate that the board will reassess security protocols governing access to sensitive chip designs and collaborations with overseas partners.\n\nChinese officials have denied any involvement in the spying allegations, a stance reported by The Guardian, leaving the diplomatic dimension of the case unresolved.\n\n**Implications**\n\nHuang’s resignation highlights the fragile balance between technological leadership and geopolitical risk. As Nvidia navigates the immediate turbulence, the episode serves as a cautionary tale for the broader tech industry: even the most celebrated innovators are vulnerable to the intersecting pressures of personal conduct, national security, and international rivalry. The ultimate impact on Nvidia’s market position and on U.S.–China tech relations will unfold in the coming weeks, reshaping perceptions of what it means to be an “irreplaceable” CEO in an era where corporate actions are inseparable from global security concerns.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_51.jpg",
+    "date": "2026-11-12",
+    "time": "17:30",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jensen Huang is the CEO of Nvidia (BBC, NPR, Seattle Times).",
+      "Jensen Huang stepped down amid an alleged spy scandal (NPR).",
+      "Jensen Huang resigned after his affair raised national security concerns (Seattle Times).",
+      "Jensen Huang was described as AI's rock star before a dramatic career unraveling (BBC).",
+      "Jensen Huang dreamed up Nvidia at a Denny’s (CNN).",
+      "Government officials confirmed the Jensen Huang scandal is \"really, really bad\" (Fast Company).",
+      "Nvidia's market value tumbled after a \"honeytrap\" investigation was launched (The Guardian).",
+      "China denied the spying claims linked to the scandal (The Guardian).",
+      "Jensen Huang's affair strained Taiwan's devotion to its hometown hero (Wall Street Journal).",
+      "Bloomberg reported that Huang may prove the \"Irreplaceable CEO\" is a myth.",
+      "Reuters reported that Huang got entangled in a China chip and spy scandal.",
+      "The Washington Post published a month‑by‑month account of Huang’s downfall."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=51",
+    "featured": true
+  },
+  {
     "id": 50,
     "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future",
     "summary": "**Nvidia Board Reviews CEO Jensen Huang Amid Misconduct Allegations, Shares Slide**",
@@ -21,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=50",
-    "featured": true
+    "featured": false
   },
   {
     "id": 49,

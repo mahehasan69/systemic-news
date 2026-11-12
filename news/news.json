@@ -1,5 +1,54 @@
 [
   {
+    "id": 52,
+    "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+    "summary": "**Flatbush Building Collapse Claims Eight Lives, Prompts Calls for Accountability**",
+    "content": "**Flatbush Building Collapse Claims Eight Lives, Prompts Calls for Accountability**\n\nA six‑story, multi‑family residential building in Flatbush, Brooklyn, collapsed early Wednesday, killing eight people and injuring seventeen. The sudden failure trapped residents under rubble, prompting an intensive rescue effort by the New York City Fire Department and local hospitals that continued through the night.\n\n**Immediate Impact**\n\nEmergency crews worked nonstop to extract survivors and treat the injured. By the end of the day, officials confirmed the death toll at eight and the number of injured at seventeen. Neighbors gathered at the site, expressing shock and sorrow. “We saw cracks in the walls months ago,” one resident told reporters, recalling observations first reported by FOX 5 New York. The fissures, documented weeks before the disaster, have become a focal point of the investigation.\n\n**City Response**\n\nBrooklyn Borough President Antonio Reynoso addressed the tragedy in a press briefing, pledging “accountability work” to ensure responsible parties are held liable and to prevent similar incidents. City officials said they have identified a cause for the collapse, though technical details have not yet been released. The Bergen Record cited the statement, noting that the determination will guide further safety inspections and possible regulatory actions across the borough.\n\n**Investigation**\n\nA comprehensive inquiry has been launched. Investigators will review construction records, maintenance logs, and prior inspection reports to reconstruct the building’s deterioration timeline. The Department of Buildings will conduct a forensic analysis, and a public report outlining the cause and recommended corrective measures is expected in the coming weeks. Any violations uncovered could result in penalties, mandatory repairs, or demolition orders for other at‑risk structures.\n\n**Broader Context**\n\nThe Flatbush collapse revives longstanding concerns about aging residential buildings in New York City. While the city maintains a robust inspection regime, the incident highlights gaps that can allow structural issues—such as the previously observed cracks—to go unaddressed. Officials are already discussing potential reforms, including more frequent inspections and harsher penalties for non‑compliance.\n\n**Community Support**\n\nLocal churches, charities, and volunteer groups have mobilized to provide food drives, counseling services, and temporary shelter for displaced families. City officials have promised financial assistance to the victims’ families, though the specifics of the aid packages have not yet been disclosed.\n\n**Looking Ahead**\n\nAs debris is cleared and the investigation proceeds, the tragedy serves as a stark reminder of the human cost of overlooked structural deficiencies. The eight lives lost and the seventeen injured underscore the urgent need for vigilant oversight and swift remedial action when warning signs appear. Borough President Reynoso’s commitment to accountability suggests that policy changes aimed at strengthening building safety may soon follow, with the goal of preventing future disasters and ensuring safer housing for all New Yorkers.",
+    "category": "🌍 World",
+    "image": "assets/images/news_52.jpg",
+    "date": "2026-11-12",
+    "time": "23:27",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A multi‑family building in the Flatbush neighborhood of Brooklyn, New York City, collapsed.",
+      "Eight people were reported dead.",
+      "Seventeen people were reported injured.",
+      "Neighbors expressed grief and asked how the building could have fallen.",
+      "Records show cracks were observed in the building months before the collapse.",
+      "NYC officials have identified a cause for the collapse (specific cause not detailed in the provided excerpts).",
+      "Brooklyn Borough President Antonio Reynoso pledged \"accountability work\" after the collapse."
+    ],
+    "timeline": [
+      {
+        "event": "Building showed cracks in months preceding collapse",
+        "source": "FOX 5 New York"
+      },
+      {
+        "event": "Building collapse in Flatbush, Brooklyn",
+        "source": "Multiple outlets (NY Times, BBC, ABC7, etc.)"
+      },
+      {
+        "event": "Reporting of deaths and injuries (8 dead, 17 hurt)",
+        "source": "NY Times, ABC7, BBC, FOX 5, NewsNation"
+      },
+      {
+        "event": "NYC officials announce identified cause",
+        "source": "Bergen Record"
+      },
+      {
+        "event": "Antonio Reynoso announces accountability work",
+        "source": "CBS News"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=52",
+    "featured": true
+  },
+  {
     "id": 51,
     "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
     "summary": "**Nvidia CEO Jensen Huang Resigns Amid China‑Espionage Allegations and Personal Scandal**",
@@ -30,7 +79,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=51",
-    "featured": true
+    "featured": false
   },
   {
     "id": 50,

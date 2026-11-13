@@ -1,5 +1,39 @@
 [
   {
+    "id": 54,
+    "title": "What we know about the global outage",
+    "summary": "**Global Microsoft Outage Disrupts Services Worldwide**",
+    "content": "**Global Microsoft Outage Disrupts Services Worldwide**\n\nA widespread technical failure at Microsoft has left millions of users unable to access core cloud‑based applications, including Outlook email, across multiple continents. The outage began on a weekday, persisted into a second day, and crippled government agencies, courts, railway operators and hospitals throughout North America, while also affecting the Isle of Man’s public‑sector email systems.\n\n**Scope and Progression of the Failure**\n\nThe incident first manifested as an inability to send or receive email through Outlook, a service that underpins daily communication for both private individuals and institutions. Within hours, the problem spread to other Microsoft 365 services that share the same backend infrastructure, halting a suite of productivity tools that many organizations consider mission‑critical.\n\nMicrosoft’s status pages and public statements describe the situation as “not going as expected,” but also note “encouraging recovery progress.” The company’s timeline shows an evolution from initial service degradation to a full‑scale outage, followed by a gradual, though uneven, restoration of functionality. As of the second day, many services remain partially unavailable, and Microsoft continues to issue periodic updates.\n\n**Impact on Critical Sectors**\n\n*North America* – Federal, state and local government offices reported that internal email channels were offline, forcing staff to rely on slower, alternative communication methods. Judicial bodies were unable to issue electronic notices or file documents, creating bottlenecks in legal proceedings. Railway operators, which depend on real‑time scheduling updates delivered through Microsoft’s cloud, experienced service delays and cancellations. Hospital networks faced interruptions that complicated patient coordination and administrative workflows, underscoring the life‑critical nature of the disruption.\n\n*Isle of Man* – The government confirmed that its public‑sector email systems were also caught in the outage, highlighting the global reach of the failure.\n\n**Broader Implications**\n\nThe incident arrives at a time when cloud‑based productivity suites have become ubiquitous across sectors. Microsoft 365, and Outlook in particular, serve as the backbone of digital communication for a vast swath of the global economy. When such a platform falters, the consequences extend beyond inconvenience; they can stall legal processes, impede emergency response and disrupt commercial transactions.\n\nIndustry analysts and policymakers are using the outage as a reminder of the systemic risks inherent in concentrated digital infrastructure. Calls are growing for greater resilience planning, diversified communication channels and robust backup strategies.\n\n**Microsoft’s Response and Outlook**\n\nMicrosoft has pledged to maintain a steady flow of information while its technical teams conduct a thorough investigation to pinpoint the root cause and implement safeguards against future incidents. Organizations affected by the outage are advised to monitor Microsoft’s official communications for restoration timelines and to activate any pre‑established contingency plans—such as alternative email platforms or manual processing procedures—to mitigate ongoing operational disruptions.\n\n**Conclusion**\n\nThe global Microsoft outage has laid bare the extent to which modern institutions depend on a single provider for essential communication tools. While recovery efforts show signs of progress, the episode underscores the need for robust backup strategies and heightened awareness of the vulnerabilities that accompany digital centralization. As services gradually come back online, the incident is likely to fuel broader discussions about cloud reliability, risk management and the future architecture of critical public‑sector IT systems.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_54.jpg",
+    "date": "2026-11-13",
+    "time": "15:16",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Microsoft experienced a global outage affecting services such as Outlook, impacting millions of users.",
+      "The outage impacted governments, courts, trains, and hospitals in North America.",
+      "The outage persisted into its second day, causing chaos for businesses.",
+      "The Isle of Man government systems were hit by the Microsoft email outage.",
+      "Microsoft reported \"encouraging recovery progress\" during the outage.",
+      "Microsoft said attempts to fix the outage were not going \"as expected\"."
+    ],
+    "timeline": {
+      "start": null,
+      "progression": [
+        "Outage reported as ongoing across multiple days.",
+        "Second day of outage mentioned."
+      ],
+      "status": "ongoing at time of reporting"
+    },
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=54",
+    "featured": true
+  },
+  {
     "id": 53,
     "title": "How the Deadly Brooklyn Building Collapse Unfolded",
     "summary": "**Eight Dead, Including Two Children, After Flatbush Building Collapse; Investigation Underway**",
@@ -40,7 +74,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=53",
-    "featured": true
+    "featured": false
   },
   {
     "id": 52,

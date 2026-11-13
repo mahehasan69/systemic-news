@@ -1,5 +1,48 @@
 [
   {
+    "id": 53,
+    "title": "How the Deadly Brooklyn Building Collapse Unfolded",
+    "summary": "**Eight Dead, Including Two Children, After Flatbush Building Collapse; Investigation Underway**",
+    "content": "**Eight Dead, Including Two Children, After Flatbush Building Collapse; Investigation Underway**\n\nA three‑story residential building in Flatbush, Brooklyn, collapsed early this week, killing eight people—two of them children. The disaster, reported by ABC 7, The New York Times, CNN, BBC, USA Today, AP, CBS, Fox News and ABC News, has shifted the city’s response from rescue to investigation and renewed scrutiny of New York’s building‑safety oversight.\n\nThe structure, which housed several families, gave way without warning, sending debris onto the street and trapping residents inside. New York City Fire Department crews, emergency‑medical services and police arrived within minutes and conducted a coordinated rescue operation that lasted several hours. All survivors were eventually accounted for, and the search for additional victims was halted after no further bodies were found. City officials confirmed the final death toll at eight.\n\nInvestigators disclosed that the building exhibited visible cracks and other structural hazards months before the collapse, a fact first reported by Fox 5 New York and documented in municipal records. While a definitive cause has not yet been announced, officials are treating those pre‑existing deficiencies as a possible contributing factor. The inquiry, now in the evidence‑gathering phase, will examine the building’s maintenance history, any prior violations, and the adequacy of inspections performed by city agencies.\n\nThe tragedy comes amid a broader housing crisis and growing concern over aging infrastructure in New York City. Flatbush, a densely populated neighborhood, has experienced heightened demand for affordable housing, prompting the conversion of older structures into multi‑unit dwellings. The collapse highlights the risks of deferred maintenance and the challenges of enforcing building codes when landlords and tenants may lack the resources to address structural problems promptly. Community leaders have called for a thorough review of inspection protocols, arguing that earlier intervention could have prevented the loss of life.\n\nCity officials have pledged to accelerate the investigation and to consider regulatory reforms aimed at averting similar incidents. The Department of Buildings is expected to issue a preliminary report outlining any compliance lapses and recommending corrective actions for other at‑risk properties. Advocacy groups are urging state legislators to allocate additional funding for building‑safety audits, particularly in neighborhoods with older housing stock, and to strengthen mandatory disclosure requirements for structural concerns to tenants and prospective buyers.\n\nIn the aftermath, families of the victims have been offered counseling services and temporary housing assistance. Local schools and religious institutions have organized memorials, reflecting the deep personal impact on the close‑knit Flatbush community. The incident has also sparked a surge of public interest in the condition of other aging buildings across the borough, with residents demanding greater transparency from landlords and more rigorous oversight from municipal authorities.\n\nThe key lesson from the Flatbush collapse is stark: early warning signs such as cracks and documented hazards must be addressed swiftly and decisively. As investigators piece together the chain of events that led to the building’s failure, the hope is that accountability will be established and that the findings will drive concrete measures to strengthen New York’s overall framework for building safety, restoring confidence in the city’s residential architecture.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_53.jpg",
+    "date": "2026-11-13",
+    "time": "06:04",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A residential building in the Flatbush neighborhood of Brooklyn, New York, collapsed.",
+      "The collapse resulted in eight fatalities, including two children.",
+      "Cracks and structural hazards were reported in the building months before the collapse.",
+      "Rescue operations concluded after the collapse, with investigators continuing the inquiry.",
+      "Multiple news outlets (ABC7, The New York Times, CNN, BBC, USA Today, AP, CBS, Fox News, ABC News) reported on the incident."
+    ],
+    "timeline": [
+      {
+        "event": "Building showed cracks and hazards in records months before collapse",
+        "source": "Fox 5 New York"
+      },
+      {
+        "event": "Building collapsed in Flatbush, Brooklyn",
+        "source": "ABC News, BBC, CNN, etc."
+      },
+      {
+        "event": "Rescue operations conducted and later ended",
+        "source": "CBS News"
+      },
+      {
+        "event": "Investigation continued and search for survivors completed",
+        "source": "AP News, ABC News"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=53",
+    "featured": true
+  },
+  {
     "id": 52,
     "title": "What to Know About the Deadly Building Collapse in Brooklyn",
     "summary": "**Flatbush Building Collapse Claims Eight Lives, Prompts Calls for Accountability**",
@@ -46,7 +89,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=52",
-    "featured": true
+    "featured": false
   },
   {
     "id": 51,

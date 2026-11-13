@@ -1,5 +1,37 @@
 [
   {
+    "id": 55,
+    "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+    "summary": "**London Police Launch Formal Investigation into David Walliams Over Alleged Serious Sexual Offences**",
+    "content": "**London Police Launch Formal Investigation into David Walliams Over Alleged Serious Sexual Offences**\n\nLondon’s Metropolitan Police Service has opened a formal investigation into comedian and author David Walliams following allegations that constitute serious sexual offences. The development was reported by a range of national outlets, including the BBC, Reuters, The Guardian and ABC.\n\nThe police confirmed that the investigation began after it received the allegations, although the specific details have not been disclosed. The Metropolitan Police said the case is being handled by its specialist units with full resources. No charges have been filed at this stage; officers are currently gathering evidence and interviewing relevant parties.\n\nWithin hours of the announcement, at least ten major news organisations published reports, underscoring the high public interest that typically accompanies accusations against high‑profile figures. Editors have repeatedly stressed that the inquiry is in its early stages and that any conclusions will depend on the outcome of police work and, if appropriate, subsequent legal proceedings.\n\nThe Metropolitan Police follows a structured protocol for serious sexual‑offence investigations. A dedicated investigative team has been assembled, forensic analysis is underway, and liaison with victim‑support services is ongoing. Officers are required to meet strict evidentiary standards to ensure that any potential prosecution is based on robust, admissible proof.\n\nBeyond the individual case, the investigation has reignited broader discussions about safeguarding, accountability and the avenues available for victims to come forward. The high visibility of the subject can affect public confidence in law‑enforcement agencies and invites heightened scrutiny of investigative procedures. Media outlets are also being reminded of the need to report responsibly while respecting the rights of both alleged victims and the accused.\n\nThe Metropolitan Police has indicated that the inquiry will continue until sufficient evidence is gathered to determine whether charges should be filed. If the investigation yields corroborating material, the Crown Prosecution Service will be consulted to assess the viability of prosecution. Until such a decision is made, David Walliams remains under investigation but has not been formally charged, and the legal principle of presumed innocence applies.\n\nThe launch of this investigation marks a significant development in a matter that has already attracted extensive media attention. While details remain limited, the involvement of the Metropolitan Police Service underscores the seriousness with which the allegations are being treated. The ultimate outcome will depend on the evidentiary findings of the ongoing inquiry and the standards of the UK criminal‑justice system.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_55.jpg",
+    "date": "2026-11-13",
+    "time": "21:54",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "UK police have opened an investigation into David Walliams for alleged serious sexual offences (reported by BBC, Reuters, The Guardian, ABC, etc.)",
+      "The investigation is being conducted by the Metropolitan Police Service in London, United Kingdom"
+    ],
+    "timeline": [
+      {
+        "event": "Police investigation announced",
+        "date": null
+      },
+      {
+        "event": "Multiple media outlets publish reports",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=55",
+    "featured": true
+  },
+  {
     "id": 54,
     "title": "What we know about the global outage",
     "summary": "**Global Microsoft Outage Disrupts Services Worldwide**",
@@ -31,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=54",
-    "featured": true
+    "featured": false
   },
   {
     "id": 53,

@@ -1,5 +1,52 @@
 [
   {
+    "id": 57,
+    "title": "What we know about the US ground stop and what to do if your flight is affected",
+    "summary": "**U.S. Nationwide FAA Ground Stop Lifted After Hours‑Long Shutdown**",
+    "content": "**U.S. Nationwide FAA Ground Stop Lifted After Hours‑Long Shutdown**\n\nThe Federal Aviation Administration (FAA) ended a nationwide ground stop early this year after more than four hours of suspension, marking the longest air‑traffic shutdown in the United States since the September 11, 2001 attacks. The halt, triggered by a system failure in the agency’s air‑traffic control network, stranded thousands of passengers, generated massive delays and cancellations, and prompted swift responses from the White House and aviation authorities.\n\nThe interruption began in the early morning when the FAA announced a nationwide ground stop due to a “general system failure” in its air‑traffic control technology. Officials linked the problem to outdated and overloaded equipment but stopped short of a detailed technical diagnosis. As the stop took effect, airports across the country experienced a cascade of disruptions: flights were held on the tarmac, departure slots vanished, and passengers were confined to terminals with limited information. By mid‑day, after more than four hours of paralysis, the FAA lifted the restriction and began the painstaking process of restoring normal operations.\n\nMajor news outlets—including the BBC, Reuters, CNN, NBC, the Associated Press and USA Today—reported thousands of flight delays and cancellations nationwide. Airport staff scrambled to re‑schedule flights, reunite families and manage the logistical chaos of stranded travelers. Even after the ground stop was lifted, the ripple effect persisted; cancellations and delays continued into the weekend, extending the disruption for both passengers and airlines.\n\nIn a statement released while the ground stop remained in effect, the White House emphasized that there was no indication of a “nefarious act” behind the outage. Officials stressed that the failure appeared technical rather than malicious, a conclusion supported by the absence of evidence of sabotage or a cyber‑attack. The reassurance was intended to calm public concern and signal that the incident, while severe, was not the result of hostile interference.\n\nThe event revives longstanding concerns about the resilience of the United States’ air‑traffic control infrastructure. Much of the FAA’s system predates modern digital standards and is increasingly strained by growing traffic volumes. The network coordinates more than 5,000 daily flights and serves as the backbone of both domestic and international air travel. The shutdown’s designation as the longest since 9/11 underscores the rarity of a nationwide halt and raises questions about the adequacy of current safeguards.\n\nIn the days following the incident, the FAA announced a formal investigation into the technical failure that precipitated the ground stop. The inquiry will examine the performance of legacy equipment, assess capacity constraints, and identify procedural gaps that may have amplified the disruption. Preliminary findings point toward the need for significant upgrades—or outright replacement—of the aging air‑traffic control systems, a move that could require substantial investment and a multi‑year rollout. Industry stakeholders are watching closely, as modernization will have far‑reaching implications for airline scheduling, airport operations and passenger experience.\n\nAirlines and airports are bracing for continued operational challenges through the weekend as the backlog of delayed and canceled flights is gradually cleared. Passengers are advised to monitor airline communications and remain prepared for further schedule changes. The FAA’s investigation, slated to produce recommendations later this year, is expected to shape policy discussions on aviation safety and infrastructure funding at the federal level.\n\nThe episode serves as a stark reminder that even a highly regulated, technologically advanced sector can be vulnerable to systemic failures. While no malicious intent was identified, the incident underscores the urgency of modernizing the nation’s air‑traffic control architecture to prevent future widescale disruptions. As the FAA works to restore confidence in the system, the aviation community and travelers alike will be watching for concrete steps toward a more resilient and reliable air‑travel network.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_57.jpg",
+    "date": "2026-11-14",
+    "time": "10:02",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Federal Aviation Administration (FAA) imposed a nationwide ground stop on U.S. flights in early 2024.",
+      "The ground stop was lifted after more than four hours of suspension.",
+      "The event was described by multiple outlets (BBC, Reuters, CNN, NBC, AP, USA Today) as causing thousands of flight delays and cancellations.",
+      "The White House stated there was no indication of a \"nefarious act\" related to the outage.",
+      "The shutdown was reported as the longest nationwide air‑traffic shutdown since the September 11, 2001 attacks."
+    ],
+    "timeline": [
+      {
+        "event": "FAA initiates nationwide ground stop due to system failure",
+        "time": "early morning, 2024 (exact hour not specified)"
+      },
+      {
+        "event": "Airports across the United States experience massive delays and passenger strandings",
+        "time": "during the ground stop"
+      },
+      {
+        "event": "White House issues statement denying nefarious act",
+        "time": "while ground stop ongoing"
+      },
+      {
+        "event": "FAA lifts the ground stop after >4 hours",
+        "time": "mid‑day, 2024"
+      },
+      {
+        "event": "Flight cancellations and delays continue into the weekend",
+        "time": "following day(s)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=57",
+    "featured": true
+  },
+  {
     "id": 56,
     "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
     "summary": "**Microsoft 365 Global Outage Disrupts Outlook, Teams and Other Core Services**",
@@ -55,7 +102,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=56",
-    "featured": true
+    "featured": false
   },
   {
     "id": 55,

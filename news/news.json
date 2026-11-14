@@ -1,5 +1,35 @@
 [
   {
+    "id": 59,
+    "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+    "summary": "**Ukrainian President Says U.S. Tied NATO Membership to Ceding Donbas**",
+    "content": "**Ukrainian President Says U.S. Tied NATO Membership to Ceding Donbas**\n\nKyiv – President Volodymyr Zelenskyy has publicly disclosed that United States officials suggested Ukraine could accelerate its accession to the North Atlantic Treaty Organization (NATO) by relinquishing control of the Donbas region. The claim, reported by a range of international outlets including the BBC, CNN, Bloomberg, the Financial Times, Al Jazeera and the Kyiv Independent, marks the first time the Ukrainian leader has identified the specific content of a U.S. proposal linking NATO membership to territorial concessions.\n\nAccording to the reports, American negotiators indicated that a conditional offer—ceding the Donbas, a territory contested by Ukrainian forces and Russian‑backed separatists since 2014—could smooth Kyiv’s path into the alliance. The suggestion reflects a broader U.S. interest in coupling NATO enlargement with a resolution to the eastern‑Ukraine conflict, potentially creating a diplomatic lever to pressure Russia to withdraw its support for the separatists.\n\nThe proposal carries immediate implications for Ukraine’s ongoing NATO accession talks. By introducing a territorial concession, the United States appears to be seeking a dual outcome: a clearer route for Kyiv into the Western security architecture and a mechanism to encourage a Russian pull‑back. NATO members, many of whom have expressed caution about extending the alliance’s collective defence to a country still engaged in active hostilities, will now have to weigh the strategic benefits of Ukrainian membership against the precedent of accepting a state that alters its borders under external pressure.\n\nDomestically, the prospect of ceding the Donbas has sparked vigorous debate. Opposition parties and civil‑society groups warn that any concession could embolden further territorial demands and undermine Ukraine’s long‑term security. Proponents argue that NATO membership, even at the cost of the Donbas, would provide a stronger deterrent against future incursions and could pave the way for a more stable peace settlement.\n\nWashington’s stance aligns with a longstanding policy of linking security guarantees to conflict resolution. Since the war in eastern Ukraine began, the United States has sought ways to pressure Moscow while maintaining support for Kyiv’s sovereignty. Tying NATO enlargement to a withdrawal from the Donbas represents a test of a diplomatic formula that could advance NATO’s strategic interests and address the humanitarian toll of the protracted fighting.\n\nLooking ahead, the revelation is expected to shape the next round of diplomatic engagements among Kyiv, Washington and NATO capitals. Ukrainian officials are likely to clarify their position on the conditional offer, while NATO members will assess whether the concession meets alliance standards and the political will of individual states. The United States may refine its approach based on feedback from both Kyiv and its European partners, potentially opening a series of negotiations that could either set a formal accession timetable or stall the process amid domestic opposition in Ukraine.\n\nThe disclosure that the United States has floated a Donbas‑for‑NATO trade‑off underscores the complex interplay between security guarantees and territorial integrity in the Ukraine conflict. The ultimate impact will depend on how Ukrainian leadership balances the appeal of NATO protection against the political cost of conceding a contested region, and on whether NATO members are prepared to endorse an accession framework conditioned on such a significant territorial adjustment. The coming weeks will reveal whether this diplomatic gambit can bridge Kyiv’s aspirations for Western integration with the geopolitical realities of the eastern Ukraine battlefield.",
+    "category": "🌍 World",
+    "image": "assets/images/news_59.jpg",
+    "date": "2026-11-14",
+    "time": "21:16",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ukrainian President Volodymyr Zelenskyy publicly stated that the United States floated the idea of Ukraine ceding the Donbas region in exchange for NATO membership.",
+      "The claim was reported by multiple news outlets (BBC, CNBC, CNN, France 24, Al Jazeera, Bloomberg, Financial Times, POLITICO.eu, NDTV, The Kyiv Independent, South China Morning Post, ASHARQ AL‑AWSAT, NewsCord, ABC News, RTE.ie, ANI News, MLQ.ai, 联合早报).",
+      "The reports cite that US negotiators raised the withdrawal from Donbas as a condition for NATO accession."
+    ],
+    "timeline": [
+      {
+        "event": "Zelenskyy reports US proposal",
+        "date": null,
+        "source": "Multiple outlets (see verified_facts)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=59",
+    "featured": true
+  },
+  {
     "id": 58,
     "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
     "summary": "**Former Labour Minister Calls for Legal Guarantee of Jobs or Training for Young People**",
@@ -21,7 +51,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=58",
-    "featured": true
+    "featured": false
   },
   {
     "id": 57,

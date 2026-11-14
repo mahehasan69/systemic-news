@@ -1,5 +1,29 @@
 [
   {
+    "id": 58,
+    "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+    "summary": "**Former Labour Minister Calls for Legal Guarantee of Jobs or Training for Young People**",
+    "content": "**Former Labour Minister Calls for Legal Guarantee of Jobs or Training for Young People**\n\nFormer Labour minister Alan Milburn has urged the UK government to give people under 25 a statutory right to employment or training. His comments, reported by *The Independent*, the BBC, Radio News Hub, *The Telegraph* and cedarnews.net, have reignited debate over how to tackle persistent youth unemployment and the rising proportion of NEETs—young people not in education, employment or training.\n\nMilburn’s proposal arrives as the government prepares to publish a new review of the NEET population. The BBC has described the forthcoming analysis as a “test of Burnham’s appetite for a welfare fight,” referring to the current welfare minister. The review is expected to assess the scale of youth disengagement, identify structural barriers and outline possible reforms. While the report’s details remain confidential, officials have indicated that its findings will feed directly into discussions about the feasibility of a legal guarantee for youth employment or training.\n\nThe push for a statutory right is grounded in two interlinked challenges. First, youth unemployment has remained stubbornly high despite broader economic recovery, leaving many young adults without a clear pathway to stable work. Second, NEET rates have risen in recent years, prompting concerns that a growing segment of the population is being left behind by both the education system and the labour market. Proponents argue that a legal guarantee would compel employers, training providers and local authorities to deliver concrete opportunities, reducing the risk of long‑term exclusion. Critics, however, warn that mandating placements could strain businesses and public resources and question whether a legal right would translate into quality employment.\n\nPolitical reaction has been swift. Opposition parties have called for a detailed impact assessment, while some members of the governing party have expressed cautious support, emphasising the need for “targeted interventions” for disadvantaged youth. The debate is also spilling into the wider welfare‑reform agenda, with commentators suggesting that a legal guarantee could become a cornerstone of a more expansive social contract for young people. If adopted, the policy would shift the current voluntary framework of apprenticeships and training schemes to a compulsory model backed by legislation.\n\nAnalysts expect the NEET review to be released within the next few weeks, after which parliamentary committees are likely to hold hearings to scrutinise its findings. Should the review endorse Milburn’s suggestion, a formal legislative proposal could be tabled, triggering votes and possible amendments. Employer groups, trade unions, education providers and youth charities have all signalled intensive lobbying during this period, each seeking to shape the final form of any guarantee.\n\nIn the short term, the conversation around youth employment has moved from policy speculation to a concrete legislative proposition. Milburn’s public endorsement has placed pressure on the government to articulate a clear response, while the NEET review promises to provide the empirical foundation for any future action. Whether the UK will adopt a legal guarantee of jobs or training for its young people remains uncertain, but the issue is now firmly on the parliamentary agenda and is set to dominate welfare and education debates in the weeks ahead.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_58.jpg",
+    "date": "2026-11-14",
+    "time": "16:35",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Alan Milburn publicly stated that young people should have a legal guarantee of jobs or training.",
+      "The statement was reported by multiple news outlets: The Independent, BBC, Radio News Hub, The Telegraph, and cedarnews.net.",
+      "A NEETs review is planned and described as a test of Burnham's appetite for a welfare fight (BBC)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=58",
+    "featured": true
+  },
+  {
     "id": 57,
     "title": "What we know about the US ground stop and what to do if your flight is affected",
     "summary": "**U.S. Nationwide FAA Ground Stop Lifted After Hours‑Long Shutdown**",
@@ -44,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=57",
-    "featured": true
+    "featured": false
   },
   {
     "id": 56,

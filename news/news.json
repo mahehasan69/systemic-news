@@ -1,5 +1,33 @@
 [
   {
+    "id": 62,
+    "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
+    "summary": "**Jensen Huang’s Reported Downfall at Nvidia**",
+    "content": "**Jensen Huang’s Reported Downfall at Nvidia**\n\nThe technology sector is reeling from the sudden resignation of Jensen Huang, Nvidia’s long‑time chief executive, after a series of allegations surfaced in the media. Major outlets—including *The New York Times*, *The Free Press*, *The Guardian*, *조선일보*, *Fortune*, *ABC News*, *CBS News* and *The Korea Daily*—have published detailed accounts of the rapid unraveling of Huang’s tenure, describing it as a “stunning fall” for the once‑unassailable leader of the AI‑chip powerhouse.\n\n**Chronology of the crisis**\n\nTimeline pieces from *ABC News* and *CBS News* trace the events that led to Huang’s departure over a brief period, culminating in his abrupt resignation. While the exact dates of the reports are not disclosed, the coverage collectively depicts a crisis that moved swiftly from rumor to resignation.  \n\n* The *New York Times* references an alleged secret that precipitated the downfall.  \n* *The Free Press* points to a sex scandal as a key factor.  \n* Korean publications *조선일보* and *The Korea Daily* cite “arrogance and personal scandals.”  \n* *The Guardian* adds that Huang may have been “deceived by an old trick.”\n\nAlthough the specifics of each allegation remain undisclosed, the convergence of these narratives underscores the breadth of the controversy surrounding the CEO.\n\n**Impact on Nvidia**\n\nThe fallout extends far beyond Nvidia’s boardroom. *Fortune* links the scandal to the company’s staggering $5.7 trillion valuation tied to artificial‑intelligence (AI) technologies, highlighting how closely the firm’s market perception has been intertwined with its charismatic leader. As the primary supplier of GPUs that power data‑center workloads and generative‑AI models, any disruption at the top raises questions about strategic stability and investor confidence.\n\n**Why Huang’s exit matters**\n\nSince co‑founding Nvidia in 1993, Huang transformed the company from a modest graphics‑card maker into a dominant force in AI hardware. Under his leadership, Nvidia’s market cap surged and its AI‑related products became industry standards, accelerating advances in autonomous vehicles, cloud computing and other sectors. The $5.7 trillion valuation cited by *Fortune* reflects both Nvidia’s financial performance and its symbolic status as a bellwether for the broader AI ecosystem.\n\n**Looking ahead**\n\nAnalysts expect Nvidia to appoint an interim or permanent successor quickly in order to reassure shareholders and maintain momentum on its AI roadmap. The leadership vacuum may also prompt a reassessment of corporate‑governance practices, particularly regarding executive conduct and transparency. Moreover, the episode could influence how the AI industry views the concentration of power in a few high‑profile CEOs, potentially spurring calls for stronger oversight mechanisms.\n\nNvidia’s board is anticipated to convene an emergency meeting to determine the next steps in leadership succession. While no official statement has been released about a replacement, the company’s continued focus on AI product development and its extensive ecosystem of partners suggest that operational continuity will be a priority. Stakeholders will be watching for any signals of strategic shifts, especially in areas where Huang’s vision previously drove aggressive expansion.\n\n**Conclusion**\n\nA convergence of allegations—including undisclosed secrets, personal misconduct and alleged deception—has led to Jensen Huang’s abrupt resignation, shaking the foundations of a company synonymous with AI innovation. The episode highlights the vulnerability of even the most high‑valued tech firms to leadership crises and sets the stage for a period of transition that could reshape Nvidia’s trajectory and, by extension, the broader AI landscape.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_62.jpg",
+    "date": "2026-11-15",
+    "time": "16:55",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jensen Huang is identified as the CEO of Nvidia in multiple article titles.",
+      "Several news outlets (The New York Times, The Free Press, The Guardian, 조선일보, Fortune, ABC News, CBS News, The Korea Daily) have published articles about a scandal or downfall involving Jensen Huang.",
+      "Fortune's article title references a $5.7 trillion valuation associated with AI and Jensen Huang.",
+      "Both ABC News and CBS News have published timeline‑style articles about the events surrounding Jensen Huang's resignation."
+    ],
+    "timeline": [
+      "ABC News published a \"Timeline of the stunning fall of powerful Nvidia CEO Jensen Huang\" (date not provided).",
+      "CBS News published a \"Timeline of a scandal: How Jensen Huang's abrupt resignation unfolded at Nvidia\" (date not provided)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=62",
+    "featured": true
+  },
+  {
     "id": 61,
     "title": "What to Know About Continued Flight Disruptions",
     "summary": "**FAA Lifts Nationwide Ground Stop, but Flight Disruptions Persist Across Major Airports**",
@@ -37,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=61",
-    "featured": true
+    "featured": false
   },
   {
     "id": 60,

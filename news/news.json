@@ -1,5 +1,45 @@
 [
   {
+    "id": 61,
+    "title": "What to Know About Continued Flight Disruptions",
+    "summary": "**FAA Lifts Nationwide Ground Stop, but Flight Disruptions Persist Across Major Airports**",
+    "content": "**FAA Lifts Nationwide Ground Stop, but Flight Disruptions Persist Across Major Airports**\n\nThe Federal Aviation Administration announced the removal of the unprecedented nationwide ground stop that had been imposed to address a critical air‑traffic‑control (ATC) malfunction. While the directive now allows aircraft to depart and arrive across the United States and Canada, airlines and travelers continue to confront widespread delays, cancellations, and operational backlogs.\n\n**Scope of the Ongoing Disruption**\n\nThe ATC glitch—described by the BBC as an “air traffic control glitch”—triggered the cancellation of hundreds of flights before the FAA intervened. Since the ground stop was lifted, several key hubs have reported persistent problems:\n\n- **Phoenix Sky Harbor International Airport** – Gate assignments and crew schedules are being reshuffled, creating a cascade of delays for both domestic and international services.  \n- **Albany International Airport** – A surge in cancellations is straining regional travelers who depend on the airport for business and leisure trips.  \n- **Miami International and Fort Lauderdale‑Hollywood International Airports** – Both gateways to Latin America and the Caribbean are experiencing long boarding queues and baggage‑claim backlogs.  \n- **Washington, D.C., Area Airports (Ronald Reagan Washington National, Dulles International, and Baltimore/Washington International)** – A backlog of aircraft awaiting take‑off slots has forced airlines to issue revised departure windows.  \n- **Tampa International Airport** – Similar congestion and delayed departures are reported.  \n- **Toronto Pearson International Airport** – NAV Canada has warned that “possible continued delays” may affect the airport, underscoring the cross‑border nature of the fallout.\n\nThe ripple effect extends beyond North America. Middle‑East carriers have suspended services to destinations such as Dubai, and Condé Nast Traveller Middle East notes that flight disruptions in the region remain ongoing, complicating itineraries that connect through U.S. hubs.\n\n**Implications for the Aviation System**\n\nThe lingering disruptions highlight several critical issues:\n\n1. **System Vulnerability** – Even swift corrective actions, such as a nationwide ground stop, cannot fully shield the national air‑traffic system from technical failures.  \n2. **Economic Impact** – Airlines, airports, ground‑handling firms, and hospitality businesses that rely on predictable flight schedules are facing revenue losses and operational strain.  \n3. **International Propagation** – A domestic ATC malfunction can quickly affect global routes, as evidenced by service suspensions in the Middle East and potential delays at Canada’s primary international airport.\n\n**Regulatory and Industry Response**\n\nThe FAA has pledged ongoing monitoring of air‑traffic flow and urges airlines to continue adjusting schedules as needed. NAV Canada’s advisory to Pearson reflects a similarly vigilant stance from Canadian authorities, who are preparing for additional delays while airlines recalibrate their operations.\n\nAirlines are expected to issue further flight updates in the coming hours. Passengers are advised to stay in contact with their carriers for the latest information on rebooking, compensation, and any changes to travel plans.\n\n**Outlook**\n\nA gradual return to normal service is anticipated, but the timeline remains uncertain. Additional delays could arise if airlines encounter difficulties re‑sequencing flights or if new technical issues emerge. Continuous communication from the FAA, NAV Canada, and individual carriers will be essential to provide real‑time guidance to operators and the traveling public.\n\n**Bottom Line**\n\nThe FAA’s decision to lift the nationwide ground stop restores the fundamental ability for aircraft to move, yet the aftereffects of the ATC glitch—and related airline suspensions—continue to ripple through major airports across North America and beyond. Travelers should expect ongoing schedule adjustments and remain alert to updates from airlines and air‑traffic authorities as the industry works toward full recovery from one of the most extensive disruptions in recent aviation history.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_61.jpg",
+    "date": "2026-11-15",
+    "time": "09:03",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "FAA ground stop was lifted (multiple articles report lift)",
+      "Flight delays and cancellations continued after lift (NY Times, Cincinnati Enquirer, CBS News, FOX 5 DC, WRGB, CBC, FOX 13 Tampa Bay)",
+      "Disruptions reported at Phoenix Sky Harbor Airport, Albany, Miami International Airport, Fort Lauderdale–Hollywood International Airport, Washington DC area airports, Tampa International Airport, Pearson Airport (Toronto)",
+      "NAV Canada reported possible continued delays at Pearson Airport",
+      "Air traffic control glitch caused hundreds of flight cancellations (BBC)",
+      "Dubai and Middle East flight disruptions continued due to airline suspensions (Condé Nast Traveller Middle East)"
+    ],
+    "timeline": [
+      {
+        "event": "FAA ground stop implemented",
+        "date": "unspecified"
+      },
+      {
+        "event": "FAA ground stop lifted",
+        "date": "unspecified, reported in multiple sources"
+      },
+      {
+        "event": "Continued flight disruptions reported",
+        "date": "unspecified, after lift"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=61",
+    "featured": true
+  },
+  {
     "id": 60,
     "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
     "summary": "**BBC News Coverage Spans Welfare, Finance, Culture and Sport in a Week of Diverse Reporting**",
@@ -28,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=60",
-    "featured": true
+    "featured": false
   },
   {
     "id": 59,

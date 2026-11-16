@@ -1,5 +1,34 @@
 [
   {
+    "id": 64,
+    "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+    "summary": "**Milburn Review Recommends Cutting National Insurance for Workers Under 25 to Boost Youth Employment**",
+    "content": "**Milburn Review Recommends Cutting National Insurance for Workers Under 25 to Boost Youth Employment**\n\nA government‑commissioned assessment of the United Kingdom’s fiscal approach to youth employment, known as the Milburn review, has put forward a proposal to reduce National Insurance (NI) contributions for people under the age of 25. The recommendation is presented as a direct response to persistently high youth unemployment and a growing “NEET” (Not in Education, Employment or Training) population, with the aim of stimulating job creation for the nation’s youngest workers.\n\n**Key recommendation**\n\nThe review calls for a lower NI rate on earnings of under‑25s, applying to both employers and employees. By decreasing the cost of hiring young people, the review argues that businesses will have a stronger financial incentive to expand their junior workforce and create entry‑level positions that have been scarce in recent years. The measure is framed not merely as tax relief but as a targeted policy tool to address structural barriers that keep many young adults out of the labour market.\n\n**Why the change is needed**\n\nYouth unemployment remains a persistent problem, with a significant share of the under‑25 cohort struggling to secure stable, full‑time work after leaving school or university. At the same time, the NEET population has been rising, signalling broader social and economic challenges that affect public health, social cohesion and long‑term productivity. The Milburn review cites these trends as the primary drivers behind its call for fiscal relief.\n\n**Anticipated impact**\n\nIf implemented, the NI cuts could produce two immediate effects:\n\n1. **More job opportunities** – Reduced payroll costs would make it more attractive for employers to take on younger staff, potentially increasing the number of entry‑level roles.\n2. **Fewer NEETs** – By easing the transition into paid employment or apprenticeships, the policy could lower the number of young people who are disengaged from both education and work.\n\nBoth outcomes align with the review’s overarching goal of revitalising the youth labour market.\n\n**Policy context**\n\nNational Insurance contributions have traditionally been a uniform source of funding for the welfare state, supporting the National Health Service, state pensions and other services. Adjusting the rate for a specific age group marks a departure from this uniform approach and reflects a broader trend of using tax policy to influence labour‑market behaviour. The review does not provide a detailed fiscal impact analysis, but it signals a willingness to experiment with age‑targeted fiscal levers.\n\n**Long‑term considerations**\n\nExtended periods of youth unemployment can lead to lower lifetime earnings, reduced tax contributions and higher reliance on social‑support programmes. By lowering the barriers to entry for young workers, the Milburn review seeks to mitigate these long‑term costs and foster a more inclusive economy where the transition from education to work is smoother and more predictable.\n\n**Next steps**\n\nThe full Milburn report, which will contain the detailed analysis and formal recommendation, is slated for publication, though a specific release date has not been disclosed. Once released, the report is expected to trigger a policy debate within the UK government. Ministers and parliamentary committees will assess the feasibility, fiscal implications and political appetite for enacting the NI cuts. Business groups, trade unions and youth‑advocacy organisations are likely to weigh in during this deliberative phase.\n\n**Conclusion**\n\nThe Milburn review’s call to cut National Insurance for under‑25s represents a focused attempt to use tax policy as a lever for improving youth employment outcomes. By directly targeting the cost of hiring young workers, the proposal aims to create a more favourable environment for job creation and to address the growing NEET crisis. The forthcoming publication of the report and the ensuing policy discussion will determine whether the recommendation moves from theory to practice, potentially reshaping the fiscal landscape for the United Kingdom’s youngest labour force.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_64.jpg",
+    "date": "2026-11-16",
+    "time": "01:44",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Milburn review will call for cuts to National Insurance for people under 25.",
+      "The purpose of the cuts is to create jobs for young people.",
+      "The cuts are also presented as a way to help tackle the NEETs (Not in Education, Employment or Training) crisis."
+    ],
+    "timeline": [
+      {
+        "event": "Milburn review recommendation to cut National Insurance for under‑25s",
+        "date": "not specified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=64",
+    "featured": true
+  },
+  {
     "id": 63,
     "title": "Staggered age of consent to be discussed after Brand case, minister says",
     "summary": "**UK Government to Review Age‑of‑Consent Law Following Russell Brand Allegations**",
@@ -44,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=63",
-    "featured": true
+    "featured": false
   },
   {
     "id": 62,

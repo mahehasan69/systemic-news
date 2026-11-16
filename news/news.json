@@ -1,5 +1,41 @@
 [
   {
+    "id": 65,
+    "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+    "summary": "**UK Has Lost More Than It Gained From Brexit, Says Labour Mayor Andy Burnham**",
+    "content": "**UK Has Lost More Than It Gained From Brexit, Says Labour Mayor Andy Burnham**\n\nLondon – Labour Greater Manchester Mayor Andy Burnham has warned that the United Kingdom “has lost more than it gained” from Brexit, reigniting a national debate over the country’s post‑EU future. Burnham is set to repeat the claim at an upcoming address to a City of London audience – a venue chosen for its symbolic link to Britain’s financial sector – and to use the remarks as a springboard for a “win‑win” deal with the EU, should the UK be willing to make concessions.\n\nIn his forthcoming speech, Burnham will argue that the Brexit experiment “has not worked” and that a mutually beneficial arrangement remains possible. Media outlets have framed his stance as a “war on Brexit,” noting his call to draw a line under the prevailing narrative that the departure from the bloc has delivered net benefits.\n\nThe mayor’s comments come as former prime minister Boris Johnson, speaking to the BBC, reiterated his personal support for Brexit and warned that a proposed ban on zero‑hours contracts could cost the country billions of pounds. Johnson’s remarks highlight the divergent views within the political establishment about the economic fallout of the 2020 departure.\n\nBritain’s negotiations with the EU have intensified in recent weeks. Reuters reported that the UK is seeking closer ties with the bloc and that trade‑offs from the original Brexit deal are under active discussion. At the same time, the BBC noted the launch of a new anti‑EU campaign ahead of the forthcoming summit, suggesting that public sentiment remains sharply divided. The campaign, timed to coincide with the summit, aims to mobilise opposition to further integration while underscoring the perceived costs of the current arrangement.\n\nAnalysts point to a range of factors that Burnham’s comments seek to foreground. The “costs associated with Brexit” – including regulatory divergence, reduced market access and changes to customs procedures and labour‑market regulations – have been cited as primary drivers of the claimed net loss. A growing chorus of economists argues that the UK’s GDP growth has lagged behind that of its EU neighbours since the split, reinforcing Burnham’s assertion that the loss “exceeds the gains.”\n\nThe political ramifications are significant. By publicly questioning the economic logic of Brexit, Burnham challenges the core premise that underpinned the 2016 referendum. His statement also adds pressure on the government to justify ongoing trade negotiations and to address the “potential billions” in costs highlighted by Johnson’s zero‑hours‑contract warning. As the UK‑EU summit approaches, both sides are expected to sharpen their narratives in order to influence future policy decisions.\n\nThe summit – date yet to be confirmed – will follow a sequence of events that includes the anti‑EU campaign, Burnham’s City of London address and a series of preparatory statements from key political figures. Observers anticipate that the summit will serve as a platform for negotiating a new EU deal, potentially incorporating concessions that could mitigate the losses Burnham cites. The outcome could determine whether the UK pursues deeper alignment with EU standards or maintains a more divergent path.\n\nIn the short term, Burnham’s remarks are likely to fuel further public campaigning on EU membership, as indicated by the BBC’s coverage of the newly launched anti‑EU drive. His call for a pragmatic “win‑win” arrangement suggests he will continue to press for a solution that acknowledges economic realities while preserving political sovereignty. Meanwhile, the government’s stance, reinforced by Johnson’s reaffirmation of support for Brexit, indicates that any compromise will need to balance domestic political imperatives with the practicalities of trade and regulatory alignment.\n\nThe key takeaway is that the Brexit debate remains far from settled. With the UK‑EU summit looming, the country faces a pivotal moment in which the balance between economic loss and political autonomy will be reassessed. Burnham’s claim that the UK “has lost more than it gained” adds a potent counter‑argument to the narrative of Brexit success, setting the stage for a potentially transformative discussion on the nation’s future relationship with Europe.",
+    "category": "🌍 World",
+    "image": "assets/images/news_65.jpg",
+    "date": "2026-11-16",
+    "time": "09:21",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Andy Burnham said the UK has lost more than it gained through Brexit (BBC, Guardian, Reuters, Bloomberg, BBC EU‑summit article)",
+      "Burnham is prepared to confront the \"obvious truth\" of Brexit's costs (Reuters)",
+      "Burnham will address a City of London audience and claim Brexit has not worked (Bloomberg)",
+      "Burnham declared a \"war on Brexit\" and said he is drawing a line under the debate while justifying concessions in a new EU deal (Daily Mail)",
+      "Ex‑PM Boris Johnson said Britain would back Brexit again (BBC)",
+      "Johnson also claimed a zero‑hours ban would cost billions (BBC)",
+      "Britain is seeking closer ties with the EU and Brexit trade‑offs are being discussed (Reuters)",
+      "A new campaign against EU membership was launched ahead of a UK‑EU summit (BBC)",
+      "Burnham said a \"win‑win\" deal can be agreed between the UK and the EU (BBC)",
+      "Burnham is set to repeat the claim that the UK lost more than it gained from Brexit ahead of the EU summit (BBC)"
+    ],
+    "timeline": [
+      "Burnham prepares statements ahead of an upcoming UK‑EU summit (date not specified)",
+      "Launch of anti‑EU‑membership campaign before the summit",
+      "Burnham’s City of London address scheduled before the summit",
+      "EU summit expected to occur after these events"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=65",
+    "featured": true
+  },
+  {
     "id": 64,
     "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
     "summary": "**Milburn Review Recommends Cutting National Insurance for Workers Under 25 to Boost Youth Employment**",
@@ -26,7 +62,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=64",
-    "featured": true
+    "featured": false
   },
   {
     "id": 63,

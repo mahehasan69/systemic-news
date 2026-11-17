@@ -1,5 +1,35 @@
 [
   {
+    "id": 67,
+    "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+    "summary": "**Milburn Review Calls for “Complete System Reset” to Tackle UK Youth‑NEET Crisis**",
+    "content": "**Milburn Review Calls for “Complete System Reset” to Tackle UK Youth‑NEET Crisis**\n\nA comprehensive assessment of the United Kingdom’s youth‑employment landscape, known as the Milburn review, has urged a “complete system reset” to address a deepening NEET (Not in Education, Employment or Training) crisis. The findings, released in a series of reports covered by the BBC, Politics.co.uk, FE News, Newswav and the Manchester Evening News, set an ambitious target: move 440,000 young people into work and avert a scenario in which as many as 1.25 million could remain outside both employment and education.\n\n**A Legal Guarantee of Work or Training**\n\nThe review’s principal author, former Labour minister Alan Milburn, proposes a structural shift from the traditional welfare model to what he describes as a “working state” for the next generation. Central to the proposal is a legal guarantee that every young person aged 16‑24 be offered either a job or a place in a training programme. Milburn argues that such a guarantee is essential to close the current shortfall of 440,000 young workers.\n\n**Underlying Drivers**\n\nTwo interlinked factors underpin the call for reform. First, youth unemployment remains persistently high. Second, the NEET population has continued to grow despite earlier policy interventions, signalling a systemic failure to translate education and training into sustainable employment. By quantifying the risk that 1.25 million young people could slip further into inactivity, the review highlights the urgency of re‑engineering the pathways that connect schooling, vocational preparation and the workplace.\n\n**Political and Policy Reactions**\n\nStakeholders across the political spectrum have taken note. Politics.co.uk and Newswav have described the review as a “major plan to tackle the NEET crisis,” suggesting that its recommendations could shape forthcoming legislative agendas. Government officials are now expected to scrutinise the proposals, with the possibility of drafting new laws that would enshrine the legal guarantee of jobs or training for young people—a departure from existing welfare provisions that would tie public support more directly to labour‑market outcomes.\n\n**Economic Implications**\n\nBeyond individual career prospects, a large cohort of idle youth can depress consumer spending, increase reliance on social benefits and erode the future tax base. By targeting a net influx of 440,000 young workers, the plan aims to mitigate these macro‑economic risks while fostering a more resilient, skills‑aligned workforce. The shift toward a “working state” signals a broader policy reorientation, positioning the state as a facilitator of employment rather than merely a provider of financial safety nets.\n\n**Next Steps**\n\nIn the coming weeks the government is set to deliberate on the Milburn review’s recommendations. Anticipated actions include commissioning impact assessments, consulting industry bodies and education providers, and drafting legislation to operationalise the legal guarantee of employment or training. If adopted, the reforms could trigger a cascade of programmatic changes, from expanding apprenticeships to revising eligibility criteria for youth benefits.\n\n**A Pivotal Moment**\n\nThe Milburn review marks a pivotal moment in the United Kingdom’s approach to youth unemployment. By quantifying the scale of the problem, proposing a radical systemic reset and calling for legally binding employment guarantees, it offers a clear roadmap for policymakers. Whether the government translates these recommendations into concrete action will shape the trajectory of the nation’s next generation and the broader health of its labour market.",
+    "category": "🌍 World",
+    "image": "assets/images/news_67.jpg",
+    "date": "2026-11-17",
+    "time": "03:38",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Milburn review states a \"complete system reset\" is needed to get young people into work (BBC).",
+      "The review cites a target of 440,000 young people to be moved into work (BBC).",
+      "The review warns that 1.25 million young people could be out of work or education without action (Manchester Evening News).",
+      "Alan Milburn says young people should have a legal guarantee of a job or training (BBC).",
+      "The review proposes moving from a welfare state to a working state for the next generation (FE News).",
+      "The review is described as a major plan to tackle the NEET (Not in Education, Employment or Training) crisis (Politics.co.uk, Newswav)."
+    ],
+    "timeline": [
+      "Milburn review released (date not specified in provided articles).",
+      "Media coverage of the review appears across multiple outlets (BBC, Politics.co.uk, FE News, Newswav, Manchester Evening News)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=67",
+    "featured": true
+  },
+  {
     "id": 66,
     "title": "Trump Says He’s Open to Reinstatement of Jensen Huang as Nvidia Chief",
     "summary": "**Trump Says He Would Not Mind Reinstating Jensen Huang as Nvidia CEO; Board Rules Out the Move**",
@@ -55,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=66",
-    "featured": true
+    "featured": false
   },
   {
     "id": 65,

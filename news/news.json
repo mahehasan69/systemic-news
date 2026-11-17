@@ -1,5 +1,41 @@
 [
   {
+    "id": 68,
+    "title": "Watch: What's in the Milburn review?",
+    "summary": "**Alan Milburn’s Review of NEETs Sparks Wide‑Ranging Media Debate**",
+    "content": "**Alan Milburn’s Review of NEETs Sparks Wide‑Ranging Media Debate**\n\nA government‑commissioned review of young people who are not in education, employment or training (NEETs) has been published, setting off a flurry of analysis across the UK press. The report, authored by former Labour minister Alan Milburn, puts forward a suite of policy proposals aimed at curbing youth unemployment and overhauling the support system for under‑25s.\n\n### Core Recommendations\n\nMilburn’s paper calls for a “complete reset” of the current framework for young people. Among the headline proposals are:\n\n* **Legal guarantee of work or training** – every person aged 16‑24 should have a statutory right to a job or a place on a recognised training programme.  \n* **Targeted benefit reductions** – certain under‑25s would receive lower welfare payments, intended to encourage entry into work or training.  \n* **Broad system overhaul** – the review argues that incremental tweaks are insufficient and that a radical restructuring of youth‑employment policy is required.\n\n### Media Coverage\n\n**BBC**  \nThe broadcaster produced several pieces dissecting the report. “At a glance: Key proposals from Milburn’s NEETs report” summarises the main points, while “Breaking down what’s in the Milburn review” offers a detailed examination of each recommendation. A third article, “‘Complete reset’ needed to get young people into work, says Milburn review,” repeats the call for sweeping reform. The BBC also highlighted the political dimension, noting that the proposals “won’t be for the faint‑hearted – and will test Burnham’s appetite for a welfare fight.”\n\n**ITVX**  \nITVX framed the publication as a pivotal moment for policymakers. Its headlines – “The latest headlines – as Milburn review into youth unemployment published” and “Milburn review: ‘Complete system reset’ needed to tackle youth unemployment” – echo the review’s demand for radical change and suggest the findings will shape forthcoming policy debates.\n\n**Wonkhe**  \nThe higher‑education platform examined sector‑specific implications in “What’s in Alan Milburn’s NEET report for the higher education sector?” The article discusses how a legal guarantee of training could affect universities and colleges and considers the potential impact of reallocating benefits for younger adults.\n\n### Context and Significance\n\nNEETs are defined as individuals aged 16‑24 who are not engaged in formal education, paid employment, or recognised training. Their numbers have long served as a barometer of the UK’s broader economic health, and successive governments have sought ways to reduce the share of young people in this category. Milburn’s review therefore tackles a well‑documented challenge, proposing measures that move beyond modest adjustments toward a comprehensive restructuring of the youth‑employment landscape.\n\nThe call for a “complete reset” signals a departure from incremental policy tweaks. Introducing a statutory guarantee of jobs or training would create a new legal obligation for the state, while the recommendation to cut benefits for some under‑25s raises questions about the balance between incentive structures and the social safety net. Collectively, these proposals could reshape the relationship between young people, the welfare system and the labour market.\n\n### Next Steps\n\nThe review does not set a timetable, but the intensity of media attention suggests that the government will face pressure to act swiftly. Parliamentary committees are expected to scrutinise the findings, and consultations with education providers, industry bodies and the voluntary sector are likely to follow. Key issues on the agenda will include:\n\n* The feasibility and funding of a legal guarantee of work or training.  \n* The design and targeting of any benefit reforms for under‑25s.  \n* The resources required to implement a systemic overhaul.\n\nHigher‑education institutions, highlighted by Wonkhe, will be among the stakeholders called upon to comment on implementation pathways.\n\n### Outlook\n\nAlan Milburn’s NEET and youth‑unemployment review has ignited a multi‑platform conversation about how the United Kingdom can more effectively transition its young people into work or training. Its bold recommendations—ranging from a comprehensive policy overhaul to specific legal and fiscal measures—have placed youth employment firmly on the national agenda, setting the stage for substantive debate in the months ahead.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_68.jpg",
+    "date": "2026-11-17",
+    "time": "13:00",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A report by Milburn on NEETs (young people not in education, employment or training) was published.",
+      "BBC published an article titled \"At a glance: Key proposals from Milburn's Neets report\".",
+      "BBC published an article titled \"Breaking down what's in the Milburn review\".",
+      "BBC published an article titled \"'Complete reset' needed to get young people into work, says Milburn review\".",
+      "BBC published an article titled \"Young people should have legal guarantee of job or training, Milburn tells BBC\".",
+      "BBC published an article titled \"Some under-25s should get fewer benefits, Milburn review to say\".",
+      "BBC published an article titled \"Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight\".",
+      "ITVX published an article titled \"The latest headlines - as Milburn review into youth unemployment published\".",
+      "ITVX published an article titled \"Milburn review: 'Complete system reset' needed to tackle youth unemployment\".",
+      "Wonkhe published an article titled \"What’s in Alan Milburn’s NEET report for the higher education sector?\"."
+    ],
+    "timeline": [
+      "Milburn (or Burnham) review on NEETs and youth unemployment is published (date not provided).",
+      "BBC releases multiple articles summarising key proposals, detailed breakdown, calls for a 'complete reset', legal guarantee suggestion, and benefit reduction recommendation.",
+      "ITVX publishes headlines and analysis on the review's publication and its implications for youth unemployment.",
+      "Wonkhe publishes sector‑specific analysis for higher education."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=68",
+    "featured": true
+  },
+  {
     "id": 67,
     "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
     "summary": "**Milburn Review Calls for “Complete System Reset” to Tackle UK Youth‑NEET Crisis**",
@@ -27,7 +63,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=67",
-    "featured": true
+    "featured": false
   },
   {
     "id": 66,

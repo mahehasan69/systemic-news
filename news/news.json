@@ -1,5 +1,37 @@
 [
   {
+    "id": 69,
+    "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+    "summary": "**Nvidia’s Founder Signals Willingness to Return as CEO Amid Board Deliberations and Upcoming Earnings**",
+    "content": "**Nvidia’s Founder Signals Willingness to Return as CEO Amid Board Deliberations and Upcoming Earnings**\n\nNvidia co‑founder Jensen Huang, who transformed the company from a niche graphics‑card maker into a dominant supplier of artificial‑intelligence chips, told reporters he would be “honored” to resume the chief‑executive role if the board formally asked him to return. The remarks, made in a series of interviews that marked Huang’s first public comments since stepping down as CEO, come as the board weighs its next move and the chipmaker prepares to release its quarterly earnings.\n\nHuang’s resignation was confirmed by multiple outlets, including *Fortune*, which reported that he had officially left the chief‑executive post. In the weeks that followed, he spoke with the *Wall Street Journal*, NPR, *Forbes*, *CTech*, *The Guardian*, *SFist*, Anadolu Ajansı and NBC News, each time reiterating that a board request would be met with gratitude and a willingness to lead again. At the same time, Huang agreed to testify before the U.S. Congress, a commitment noted by NPR, underscoring his continued involvement in matters affecting the company.\n\nThe board has not yet indicated whether it intends to invite Huang back. Both *Forbes* and Reuters reported that deliberations are ongoing, with no public indication of a decision. The uncertainty arrives as analysts describe Nvidia as a “scandal‑hit chipmaker” heading into its earnings release, a characterization that reflects recent corporate turbulence without specifying the nature of the scandal.\n\nThe controversy, whose details have not been disclosed in the verified sources, has intensified scrutiny of Nvidia’s governance and strategic direction. Huang’s upcoming congressional testimony is expected to address issues related to the scandal and may provide additional context for regulators and lawmakers.\n\nThe board’s pending decision carries implications beyond internal management. Nvidia’s earnings report, scheduled for release in the coming weeks, will be the first set of financial data presented under the current leadership vacuum. Analysts and shareholders typically assess a company’s health and outlook through both earnings performance and executive stability. A swift appointment—whether of a new CEO or a reinstated Huang—could reassure markets, while prolonged indecision might heighten volatility, especially given the heightened attention the scandal has drawn.\n\nLooking ahead, the board is expected to convene soon to determine whether to re‑appoint Huang or pursue an alternative candidate. Simultaneously, Nvidia will publish its quarterly earnings, a data point that will likely influence the board’s calculus and investor reactions. Huang’s congressional testimony will also take place, offering a platform for the company to address regulatory concerns and potentially shape the narrative surrounding the recent controversy.\n\nIn sum, Jensen Huang’s expressed willingness to return as CEO underscores the pivotal role he continues to play in Nvidia’s story, even after his resignation. The board’s forthcoming decision, set against the backdrop of a scandal‑tainted reputation and an imminent earnings release, will be a decisive factor in shaping the company’s short‑term stability and long‑term trajectory.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_69.jpg",
+    "date": "2026-11-17",
+    "time": "21:44",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jensen Huang publicly stated he would be \"honored\" to return as Nvidia CEO if the board requests it (WSJ, NPR, Forbes, CTech, The Guardian, Fortune, SFist, Anadolu Ajansı, NBC News).",
+      "Huang agreed to testify before the U.S. Congress (NPR).",
+      "Huang has resigned from his role as Nvidia CEO (Fortune).",
+      "The Nvidia board has not yet indicated whether it will ask Huang to return (Forbes, Reuters).",
+      "Nvidia is described as a \"scandal‑hit chipmaker\" heading into its earnings results (Reuters)."
+    ],
+    "timeline": [
+      "Huang resigns as Nvidia CEO (date not specified).",
+      "Huang makes first public statement since resignation, saying he would be honored to return if asked (Fortune).",
+      "Huang repeats willingness to return in multiple interviews/articles (WSJ, NPR, Forbes, CTech, The Guardian, etc.).",
+      "Board deliberations mentioned as pending (Forbes, Reuters).",
+      "Nvidia prepares to release earnings results while the leadership question remains open (Reuters)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=69",
+    "featured": true
+  },
+  {
     "id": 68,
     "title": "Watch: What's in the Milburn review?",
     "summary": "**Alan Milburn’s Review of NEETs Sparks Wide‑Ranging Media Debate**",
@@ -33,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=68",
-    "featured": true
+    "featured": false
   },
   {
     "id": 67,

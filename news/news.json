@@ -1,5 +1,59 @@
 [
   {
+    "id": 72,
+    "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+    "summary": "**Ukraine’s Underground Warfare in Old Soviet‑Era Gas Pipelines**",
+    "content": "**Ukraine’s Underground Warfare in Old Soviet‑Era Gas Pipelines**\n\nUkrainian forces have opened a new subterranean front in the war against Russia, conducting combat operations inside a network of disused Soviet‑era gas pipelines near the town of Kupyansk in the Kharkiv region. Journalists from the BBC, The Atlantic, the Wall Street Journal and other outlets have reported that Ukrainian troops are fighting Russian forces within the cramped, rusted conduits, using the hidden passages to launch attacks behind enemy lines.\n\nThe fighting began at least 45 days ago and has been described by *The Telegraph* as “45 days in hell,” underscoring the intensity and duration of the underground engagements. According to CBS News, Ukrainian soldiers move from one chamber to another, striking Russian positions that would otherwise be out of reach. The pipelines—remnants of a Soviet‑era gas distribution system—provide a concealed route that bypasses the heavily monitored surface battlefield.\n\nSeven media outlets catalogued by NewsCord highlight the use of the Kupyansk metro and the adjacent underground gas‑pipeline network as a tactical innovation. Their reports converge on several key points: the pipelines are no longer operational for gas transport; they are extensive enough to allow movement of infantry units; and they have become a contested space where both sides exchange fire. The environment—limited visibility, narrow passages and a constant risk of collapse—creates a uniquely hazardous combat zone that differs markedly from conventional open‑field engagements.\n\nThe emergence of this subterranean theater reflects a broader pattern of Ukrainian ingenuity in targeting Russian infrastructure. Earlier, the BBC reported a Ukrainian strike that led to the collapse of the Crimean Bridge, a strategic link across the Kerch Strait. While the bridge incident is unrelated to the pipeline fighting, it illustrates Kyiv’s willingness to strike high‑value Russian assets, both above and below ground, to disrupt supply lines and morale.\n\nStrategically, the underground operations matter for several reasons. First, they allow Ukrainian forces to infiltrate areas that are otherwise fortified by Russian troops, creating a surprise element that can destabilize enemy positions. Second, the repurposing of legacy Soviet infrastructure shows how both sides are turning civilian or obsolete facilities into military assets in a protracted conflict. Finally, the prolonged nature of the fighting—spanning more than a month and a half—signals that the subterranean front is not a fleeting tactic but a sustained component of Ukraine’s broader war effort.\n\nLooking ahead, Ukrainian commanders are expected to continue exploiting the pipeline network to sustain pressure on Russian forces entrenched near Kupyansk. Sources familiar with the situation suggest the underground route will remain active as long as it offers a viable avenue for surprise attacks. Conversely, Russian forces are likely to intensify counter‑measures, potentially sealing off sections of the pipeline or deploying specialized units to clear the tunnels. The evolution of this hidden battlefield will depend on each side’s ability to adapt to the logistical and safety challenges inherent in fighting beneath the earth’s surface.\n\nIn sum, the discovery of a 45‑day underground war inside Soviet‑era gas pipelines adds a stark new dimension to the Ukraine‑Russia conflict. It underscores Kyiv’s adaptive tactics, the strategic value of repurposing obsolete infrastructure, and the lengths to which both armies will go to gain an advantage. As the fighting beneath Kupyansk continues, the world will be watching how this clandestine front shapes the broader trajectory of the war.",
+    "category": "🌍 World",
+    "image": "assets/images/news_72.jpg",
+    "date": "2026-11-18",
+    "time": "21:17",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ukrainian forces are conducting combat operations inside old Soviet‑era underground gas pipelines in Ukraine (BBC, CBS News, The New York Times, Wall Street Journal, The Atlantic).",
+      "The underground fighting is reported near Kupyansk in the Kharkiv region (NewsCord).",
+      "Ukrainian troops have battled Russian forces within these pipelines to launch attacks behind Russian lines (CBS News).",
+      "The pipelines used are part of a Soviet‑era network (Wall Street Journal, The Atlantic).",
+      "The underground war has lasted at least 45 days, as described by The Telegraph (\"45 days in hell\").",
+      "Seven media outlets reported on the use of the Kupyansk metro and underground gas pipeline (NewsCord title).",
+      "A Ukrainian attack caused the collapse of the Crimean Bridge, reported by the BBC (though not directly about pipelines, it shows Ukrainian attacks on Russian infrastructure)."
+    ],
+    "timeline": [
+      {
+        "event": "Ukrainian forces reported using underground gas pipelines for combat near Kupyansk",
+        "source": "NewsCord",
+        "date": "not provided"
+      },
+      {
+        "event": "Ukrainian troops say they battled through an underground gas pipeline to launch attacks behind Russian lines",
+        "source": "CBS News",
+        "date": "not provided"
+      },
+      {
+        "event": "Journalists describe fighting inside old Soviet‑era pipelines as a new subterranean front",
+        "source": "BBC, The Atlantic, Wall Street Journal",
+        "date": "not provided"
+      },
+      {
+        "event": "\"45 days in hell\" – description of prolonged underground fighting",
+        "source": "The Telegraph",
+        "date": "not provided"
+      },
+      {
+        "event": "Crimean Bridge collapse attributed to a Ukrainian attack",
+        "source": "BBC",
+        "date": "not provided"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=72",
+    "featured": true
+  },
+  {
     "id": 71,
     "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
     "summary": "**UK Energy Bills Set to Rise 26 % in January, Adding £443 per Household to an Annual Total of £2,166**",
@@ -31,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=71",
-    "featured": true
+    "featured": false
   },
   {
     "id": 70,

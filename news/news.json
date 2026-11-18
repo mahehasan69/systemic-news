@@ -1,5 +1,39 @@
 [
   {
+    "id": 71,
+    "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+    "summary": "**UK Energy Bills Set to Rise 26 % in January, Adding £443 per Household to an Annual Total of £2,166**",
+    "content": "**UK Energy Bills Set to Rise 26 % in January, Adding £443 per Household to an Annual Total of £2,166**\n\nThe domestic energy price cap in Great Britain will increase by 26 % when it is revised on 1 January 2024, according to market‑analysis firm Cornwall Insight. The adjustment will lift the average annual household energy bill to £2,166 – an additional £443 compared with the current level.\n\nThe rise reflects the scheduled Ofgem review that aligns consumer tariffs with wholesale market conditions. The forecast has been reported by a range of UK outlets, including *The Guardian*, the BBC, *The Independent*, AOL.com, BigGo Finance, Nacionale and Radio News Hub.\n\n**Drivers of the increase**\n\nAnalysts attribute the higher cap to several converging factors:\n\n* **Rising inflation** – General price growth in the United Kingdom is eroding purchasing power and pushing up the cost of energy inputs.  \n* **Geopolitical tension** – The war in Iran has added pressure to global energy markets, according to London Business News.  \n* **Net‑zero transition** – Political commentators and outlets such as AOL.co.uk argue that the shift toward greener energy sources is contributing to higher prices.\n\n**Impact on consumers**\n\nThe cap takes effect at the start of the heating season, meaning households are likely to feel the impact when demand for gas and electricity peaks. Consumer‑rights groups warn that the extra £443 per year could push vulnerable families into energy‑bill hardship, a concern that has already prompted public and parliamentary criticism of current energy policy.\n\n**Future adjustments**\n\nWhile the 26 % increase is the steepest in recent history, Ofgem may consider further revisions later in 2024 if market conditions change. Potential triggers for additional adjustments include fluctuations in wholesale prices, shifts in inflation trends, or further geopolitical developments affecting energy supply.\n\n**Broader context**\n\nThe forecast highlights the ongoing challenge for the UK energy sector: protecting households from volatile market swings while contending with inflationary pressures, international conflicts and the transition to a low‑carbon economy. The January price‑cap revision will test the resilience of both consumers and policymakers throughout the year.\n\n**Key takeaway:** From 1 January 2024, the average British household will face a £443 rise in annual energy costs, driven by higher inflation, geopolitical instability and the net‑zero agenda. Further cap adjustments remain possible later in the year, depending on market dynamics.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_71.jpg",
+    "date": "2026-11-18",
+    "time": "12:53",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Energy price cap in Great Britain is expected to increase by 26% in January.",
+      "The forecasted annual household energy cost after the increase is £2,166.",
+      "The increase represents an additional £443 per household per year.",
+      "Multiple UK news outlets (The Guardian, BBC, The Independent, AOL.com, BigGo Finance, Nacionale, Radio News Hub) report the same percentage and monetary figures."
+    ],
+    "timeline": [
+      {
+        "date": "January 2024 (forecast month)",
+        "event": "Energy price cap scheduled to rise by 26%, raising average annual household bill to £2,166."
+      },
+      {
+        "date": "Prior to January 2024",
+        "event": "Cornwall Insight releases final forecast confirming the 26% rise."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=71",
+    "featured": true
+  },
+  {
     "id": 70,
     "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
     "summary": "**Jensen Huang Scandal Raises Stakes for U.S.–China AI Talks Ahead of Trump‑Xi Summit**",
@@ -35,7 +69,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=70",
-    "featured": true
+    "featured": false
   },
   {
     "id": 69,

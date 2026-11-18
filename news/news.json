@@ -1,5 +1,43 @@
 [
   {
+    "id": 70,
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "summary": "**Jensen Huang Scandal Raises Stakes for U.S.–China AI Talks Ahead of Trump‑Xi Summit**",
+    "content": "**Jensen Huang Scandal Raises Stakes for U.S.–China AI Talks Ahead of Trump‑Xi Summit**\n\nA controversy involving Nvidia chief executive Jensen Huang and a suspected Chinese intelligence operative is intensifying an already strained U.S.–China technology relationship just weeks before President Donald Trump’s scheduled summit with President Xi Jinping in Beijing. Reported by the BBC, NBC News, Fox News and the Taipei Times, the episode could reshape the summit’s agenda and affect Chinese firms’ access to American artificial‑intelligence (AI) hardware.\n\nThe issue emerged when a company identified as Megaspeed confirmed that a person it described as a suspected Chinese spy, who had been linked to Nvidia, had left the firm. Fox News subsequently reported that Nvidia was slated to receive a “Trump AI designation,” a label that could alter the company’s standing in U.S.–China technology exchanges. The Daily Wire noted President Trump’s terse, two‑word response to questions about the scandal, signaling that the matter will be revisited in talks with President Xi.\n\nChinese officials have warned that the controversy could lead to a broader exclusion of China from U.S. AI technology. The BBC highlighted Beijing’s fear of being “shut out” of critical AI tools, while PBS and the Taipei Times said the incident is heightening the AI rivalry between the two powers. At the same time, the United States has been tightening chip export controls across Southeast Asia, a move the BBC linked to a broader strategy of limiting China’s access to advanced semiconductors and AI capabilities.\n\nThe timing coincides with diplomatic signals that U.S.–China talks are entering a “major test,” according to NBC News. The upcoming summit, which President Trump will attend in China, is expected to cover a wide range of bilateral issues, but the Huang episode is now likely to dominate discussions on technology security and intellectual‑property protection. An expert quoted by Raw Story said President Trump is “desperately worried” about the scandal’s implications, underscoring its political weight in Washington.\n\nThe controversy taps into long‑standing concerns over technology transfer and espionage. Nvidia, a leading supplier of graphics‑processing units (GPUs) that power AI workloads, occupies a strategic position in the global supply chain. Allegations that a Chinese operative infiltrated the company’s inner circle have amplified U.S. anxieties about covert acquisition of cutting‑edge AI know‑how. The incident dovetails with broader U.S. policy moves aimed at restricting the flow of advanced chips to China, a strategy already affecting Chinese manufacturers in the region.\n\nPotential ramifications extend beyond immediate diplomatic friction. Heightened scrutiny of Nvidia and its leadership could lead to tighter regulatory oversight, possible sanctions, or limits on the firm’s ability to sell AI‑related hardware to Chinese customers. For China, reduced access to U.S. AI technology could slow domestic AI initiatives and force a pivot toward indigenous alternatives or alternative supply routes. The episode also raises the prospect of further espionage investigations, prompting both governments to adopt more aggressive counter‑intelligence measures.\n\nThe Trump‑Xi summit will be the first major diplomatic forum where the scandal’s impact is likely to be assessed. Officials from both sides are expected to discuss safeguards against technology theft, the future of chip export controls, and a broader framework governing AI collaboration. U.S. policymakers may also consider formalizing the “Trump AI designation” for Nvidia and similar firms, a step that could institutionalize restrictions on technology transfers. Continued dialogue in the weeks after the summit will determine whether the incident becomes a catalyst for a new era of strategic competition or a point of negotiation that yields mutually acceptable security protocols.\n\nIn sum, the Jensen Huang scandal has thrust AI security to the forefront of U.S.–China relations at a critical juncture. By exposing vulnerabilities in corporate‑level access to sensitive technology, the episode amplifies existing mistrust and sets the stage for a summit that could redefine the parameters of bilateral cooperation in the AI domain. The outcome of the talks will likely shape the trajectory of both nations’ AI strategies for years to come.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_70.jpg",
+    "date": "2026-11-18",
+    "time": "03:32",
+    "reading_time": "4 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Jensen Huang is the CEO of Nvidia (implied by multiple article titles).",
+      "China fears the scandal could shut it out of US AI technology before a summit between President Donald Trump and President Xi Jinping (BBC title).",
+      "U.S.–China talks are described as facing a major test after the Jensen Huang scandal (NBC News title).",
+      "President Donald Trump is scheduled to travel to China for a summit with President Xi Jinping (multiple titles).",
+      "Several media outlets (BBC, The New York Times, NBC News, PBS, Fox News, The Daily Beast, Raw Story, The Daily Wire, Taipei Times) have published articles about the scandal and related AI tensions.",
+      "The scandal is reported to be heightening the AI rivalry between the United States and China (PBS, Taipei Times titles).",
+      "A company named Megaspeed reportedly confirmed the exit of a suspected Chinese spy linked to Nvidia (Fox News title).",
+      "U.S. chip restrictions on Southeast Asia are said to affect China (BBC title)."
+    ],
+    "timeline": [
+      "Scandal involving Jensen Huang and a suspected Chinese spy emerges (date not provided).",
+      "China expresses fear of being shut out of US AI technology before the Trump‑Xi summit (BBC).",
+      "U.S.–China talks face a major test following the scandal (NBC News).",
+      "Trump’s visit to China and the summit with Xi Jinping is scheduled (multiple sources).",
+      "Fox News reports Nvidia to receive a Trump AI designation after Megaspeed’s confirmation (Fox News).",
+      "PBS and Taipei Times note the scandal heightening AI rivalry (PBS, Taipei Times).",
+      "Raw Story quotes an expert saying Trump is “desperately worried” about the scandal (Raw Story).",
+      "The Daily Wire reports Trump’s two‑word answer putting the scandal back in play for Xi talks (The Daily Wire)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=70",
+    "featured": true
+  },
+  {
     "id": 69,
     "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
     "summary": "**Nvidia’s Founder Signals Willingness to Return as CEO Amid Board Deliberations and Upcoming Earnings**",
@@ -29,7 +67,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=69",
-    "featured": true
+    "featured": false
   },
   {
     "id": 68,

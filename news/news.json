@@ -1,5 +1,32 @@
 [
   {
+    "id": 75,
+    "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+    "summary": "**Four Men Convicted in Drug‑Facilitated Sexual Assault of British Woman**",
+    "content": "**Four Men Convicted in Drug‑Facilitated Sexual Assault of British Woman**\n\nA London jury has found four men guilty of multiple sexual offences after Joanne Young, a British woman, was drugged by her husband and advertised for sex online. The verdict, reported by the BBC, Reuters, The Guardian and the Los Angeles Times, marks the conclusion of a high‑profile trial that has drawn extensive coverage in the United Kingdom and abroad.\n\n**The crime**\n\nAccording to court documents, Young’s husband administered a sedative that rendered her incapacitated and then posted online advertisements seeking sexual partners for his wife. Men who responded to the postings entered Young’s home and engaged in non‑consensual sexual acts while she was unable to resist or communicate consent. The four defendants were each charged with offences arising from the lack of consent, a legal principle reinforced by the evidence of drug‑induced incapacitation.\n\n**Key evidence**\n\nThe prosecution’s case rested on three pillars: forensic proof that Young had been drugged, digital records of the husband’s advertisements, and testimony linking the men to the assaults. The online platform used for the ads has not been disclosed, but investigators highlighted how the anonymity and reach of the internet can be weaponised to facilitate sexual violence.\n\n**Legal and social implications**\n\nLegal experts noted that the convictions underscore the absolute requirement of consent and confirm that it cannot be given when a person is incapacitated, regardless of any apparent willingness expressed in a digital context. The verdict also sends a clear signal to law‑enforcement agencies and the judiciary that online facilitation of sexual assault will be pursued aggressively.\n\nAdvocacy groups have seized on the case to call for stricter monitoring and removal of content that encourages sexual exploitation on digital platforms, as well as for enhanced safeguards against drug‑facilitated abuse.\n\n**Sentencing and further proceedings**\n\nSentencing has not yet been announced. In comparable cases, custodial terms are typical, reflecting the seriousness of the offences and the breach of consent. The husband, who orchestrated the drugging and advertisements, faces separate legal proceedings; details of his case remain undisclosed in current reporting.\n\n**Broader significance**\n\nThe convictions highlight the dangerous convergence of domestic manipulation, substance abuse and the unregulated use of online services for sexual exploitation. As the court moves toward sentencing, the case is expected to influence ongoing debates about consent, digital responsibility and the protection of vulnerable individuals from drug‑facilitated crimes.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_75.jpg",
+    "date": "2026-11-19",
+    "time": "21:18",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Four men were found guilty of sexual offences against a British woman.",
+      "The woman’s name is Joanne Young.",
+      "Joanne Young was drugged by her husband.",
+      "The husband advertised his wife for sex online.",
+      "The case was tried in the United Kingdom.",
+      "The convictions were reported by multiple reputable news outlets (BBC, Reuters, The Independent, Yahoo News Canada, ABC News, The Guardian, Los Angeles Times, ABC News Australia, Radio News Hub, Sky News)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=75",
+    "featured": true
+  },
+  {
     "id": 74,
     "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
     "summary": "**Former U.S. President Donald Trump Calls Russian Leader “My Friend” During APEC Handshake**",
@@ -28,7 +55,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=74",
-    "featured": true
+    "featured": false
   },
   {
     "id": 73,

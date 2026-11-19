@@ -1,5 +1,39 @@
 [
   {
+    "id": 73,
+    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+    "summary": "**Hallandale Beach McDonald’s Shooting Injures Father and Daughter as National Debate Over Predatory Relationships Intensifies**",
+    "content": "**Hallandale Beach McDonald’s Shooting Injures Father and Daughter as National Debate Over Predatory Relationships Intensifies**\n\n*Hallandale Beach, Fla.* – An 18‑year‑old male opened fire inside a McDonald’s restaurant in Hallandale Beach, Broward County, wounding an 11‑year‑old girl and her father. Both victims were taken to a local hospital, where their conditions were reported as stable. Police arrested the suspect at the scene and continue to investigate the motive. No official date for the incident has been released, but the shooting has already heightened concern among residents and law‑enforcement officials.\n\nThe Hallandale Beach shooting occurs amid a growing national conversation about the vulnerability of minors in relationships with significantly older individuals. A series of personal testimonies compiled by BuzzFeed has drawn attention to women who, looking back on relationships that began in their teenage years, now describe those dynamics as predatory. The accounts frequently portray older men—often cast as mentors or protectors—exploiting the naiveté of teenage girls, resulting in emotional and, at times, physical harm. The stories have spurred advocacy groups and policymakers to call for stronger protections for minors.\n\nBoth the local shooting and the broader discussion share a common theme: the safety of young people in public spaces and private relationships. In Hallandale Beach, the immediate impact is visible—hospital beds, police tape, and a shaken community. Nationally, the revelations about exploitative dating practices are less tangible but equally consequential, challenging cultural norms that have historically downplayed power imbalances in such relationships.\n\nLaw‑enforcement officials have not disclosed a motive for the teenager’s actions, and the investigation remains ongoing. Community leaders have organized support for the injured family, including counseling and financial assistance. Simultaneously, advocacy organizations are using the BuzzFeed testimonies to lobby for legislative reforms, such as raising the age of consent in certain jurisdictions and mandating comprehensive relationship‑education curricula in schools. Proponents argue that education can equip teenagers to recognize and reject manipulative behavior before it escalates.\n\nProsecutors are expected to file charges reflecting the seriousness of the assault on a minor and her parent. The case will proceed through the criminal‑justice system while the national dialogue on predatory relationships continues to evolve as more survivors share their experiences. Media outlets, including the BBC and BuzzFeed, have pledged ongoing coverage of both the legal outcomes of the Hallandale Beach shooting and the societal implications of the relationship‑abuse revelations.\n\nThe dual narratives underscore a stark reminder: protecting children and adolescents requires attention to both external threats, such as gun violence in public venues, and internal vulnerabilities, such as exploitative personal relationships. The injuries sustained by the 11‑year‑old girl and her father illustrate the immediate danger posed by firearms, while the amplified voices of women recounting predatory dating experiences highlight a pervasive, often invisible threat. Together, these stories call for a comprehensive approach—one that combines stricter gun‑control measures, enhanced security in public spaces, and robust education on healthy relationships—to safeguard young people across the United States.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_73.jpg",
+    "date": "2026-11-19",
+    "time": "03:05",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      {
+        "event": "Shooting at Hallandale Beach McDonald's",
+        "location": "Hallandale Beach, Florida, USA",
+        "perpetrator_age": 18,
+        "victim_age": 11,
+        "victim_relation": "father and daughter"
+      },
+      "Women shared personal accounts that relationships with older men while they were teens were later recognized as predatory (source: BuzzFeed)"
+    ],
+    "timeline": [
+      {
+        "event": "Shooting at Hallandale Beach McDonald's",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=73",
+    "featured": true
+  },
+  {
     "id": 72,
     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
     "summary": "**Ukraine’s Underground Warfare in Old Soviet‑Era Gas Pipelines**",
@@ -51,7 +85,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=72",
-    "featured": true
+    "featured": false
   },
   {
     "id": 71,

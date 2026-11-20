@@ -1,5 +1,39 @@
 [
   {
+    "id": 77,
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "summary": "**UK‑EU Brussels Summit Yields Trade and Travel Agreements; Andy Burnham Calls for Deeper Post‑Brexit Engagement**",
+    "content": "**UK‑EU Brussels Summit Yields Trade and Travel Agreements; Andy Burnham Calls for Deeper Post‑Brexit Engagement**\n\n*London, 20 November 2026* – A high‑profile summit in Brussels has produced the first formal UK‑EU agreements on trade and travel since the United Kingdom left the bloc, prompting observers to label the meeting a “Brexit reset.” Senior officials from both sides signed accords that aim to ease customs frictions, align regulatory standards where possible, and simplify passenger movement across the Channel.\n\nThe trade framework, negotiated by senior customs and market‑access teams, sets out procedures to reduce delays at borders and to coordinate standards in sectors such as agriculture and manufacturing. In parallel, transport ministers agreed on a travel arrangement that streamlines visa requirements and restores several air and rail links that were curtailed after Brexit. Both deals now await parliamentary scrutiny in the United Kingdom and ratification by EU institutions.\n\nGreater Manchester mayor Andy Burnham, who attended the summit, used the occasion to press for a broader re‑engagement with Europe. In remarks reported by the BBC, Burnham said the United Kingdom “will explore even closer ties with the EU” and described the summit as giving him “my first taste of EU deal‑making.” He also announced a “Brexit brainstorm” – a series of consultations intended to move beyond the incremental adjustments that have dominated UK‑EU relations since the 2020 transition period ended.\n\nThe summit’s significance has been highlighted across a range of outlets. The *New York Times* called the gathering a “Brexit reset,” while the BBC, *The Independent* and CNN noted the rarity of such high‑level dialogue and the explicit aim of “rebuilding ties” after years of political and economic strain. Analysts see the agreements as a template for future cooperation and as evidence of a mutual desire to resolve the trade and travel disputes that have hampered businesses and travelers on both sides of the Channel.\n\nFor the United Kingdom, the accords promise to ease supply‑chain disruptions and restore smoother passenger flows, benefits that are expected to be felt in sectors ranging from agriculture to tourism. For the EU, the deals secure a stable trading partner on its western flank and demonstrate that constructive engagement remains possible despite the rupture of 2020.\n\nImplementation now moves to the legislative arena. In Westminster, MPs will examine the details of customs alignment and travel provisions before granting formal approval. Simultaneously, the European Commission and the European Parliament will conduct their own ratification procedures to ensure compliance with EU law. Both parties have signalled that further negotiations are on the horizon, with possibilities for expanded cooperation in digital services, research collaboration and deeper regulatory alignment.\n\nThe Brussels summit illustrates how the United Kingdom and the European Union can move beyond the antagonism that has defined much of their recent history. By securing trade and travel agreements, the two sides have addressed immediate practical concerns and opened a pathway for more ambitious dialogue. The coming weeks will test whether the political momentum generated in Brussels can be translated into lasting policy change, potentially marking the start of a new chapter in UK‑EU relations—one defined by cooperation rather than division.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_77.jpg",
+    "date": "2026-11-20",
+    "time": "19:53",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United Kingdom and the European Union held a summit in Brussels to rebuild ties after Brexit.",
+      "Andy Burnham said the UK will explore even closer ties with the EU after agreeing a deal.",
+      "The summit resulted in agreements on trade and travel between the UK and the EU.",
+      "Burnham attended the summit in Brussels and described it as his first taste of EU dealmaking.",
+      "Burnham announced a \"Brexit brainstorm\" and said he is moving away from incremental change.",
+      "The summit was described as a rare event aimed at \"rebuilding ties\" after the Brexit divorce."
+    ],
+    "timeline": [
+      "Andy Burnham publicly states the UK will explore closer EU ties (reported by BBC).",
+      "The UK and EU schedule a summit in Brussels (reported by DW.com).",
+      "Burnham travels to Brussels for the summit (reported by Bloomberg).",
+      "During the summit, trade and travel agreements are reached (reported by AOL.com).",
+      "Post‑summit analysis describes the outcome as a Brexit reset (reported by The New York Times).",
+      "Commentary on the summit’s significance appears in various outlets (BBC, The Independent, CNN, myMotherLode.com)."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=77",
+    "featured": true
+  },
+  {
     "id": 76,
     "title": "What the Brussels summit could mean for the Brexit deal",
     "summary": "**UK‑EU Brexit Reset Summit – Core Agreements Reached, Tuition‑Fee Dispute Persists**",
@@ -45,7 +79,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=76",
-    "featured": true
+    "featured": false
   },
   {
     "id": 75,

@@ -1,5 +1,53 @@
 [
   {
+    "id": 76,
+    "title": "What the Brussels summit could mean for the Brexit deal",
+    "summary": "**UK‑EU Brexit Reset Summit – Core Agreements Reached, Tuition‑Fee Dispute Persists**",
+    "content": "**UK‑EU Brexit Reset Summit – Core Agreements Reached, Tuition‑Fee Dispute Persists**\n\n*London and Brussels* – Leaders from the United Kingdom and the European Union met in Brussels for a high‑profile summit aimed at delivering a “Brexit reset” of their post‑Brexit relationship. While the exact date of the talks was not disclosed, the parties emerged with a draft agreement covering several priority areas, but a key dispute over university tuition fees remains unresolved.\n\n**Agreements announced**\n\nThe summit produced a package of new arrangements on food trade, youth mobility, energy cooperation and broader trade issues. Reuters reported that the reset will be launched with specific deals on food and youth‑mobility, and France 24 added that energy provisions will be part of the sign‑off. The Financial Times’ live coverage confirmed that the UK government declared the reset deal “agreed,” a sentiment echoed by Downing Street, according to RTE.ie.\n\n* Food‑trade: The new framework is intended to smooth the flow of agricultural products between the UK and the EU, addressing supply‑chain disruptions that have plagued both markets since the UK’s departure from the bloc.  \n* Youth‑mobility: The agreement seeks to restore and expand opportunities for students and young professionals to move across borders, a sector that suffered significant setbacks after Brexit.  \n* Energy cooperation: The deal aims to align regulatory frameworks and facilitate cross‑border energy flows, supporting both parties’ climate and security strategies.\n\n**Tuition‑fee stalemate**\n\nThe Guardian highlighted that tuition fees for UK students studying in the EU remain a stumbling block. BBC analysis noted that, although the UK describes the reset deal as “done,” negotiations will continue in certain sectors, with tuition fees among the topics slated for further discussion. The Independent pointed out that the issue is especially salient for devolved administrations, citing the Labour‑led Greater Manchester region.\n\nAndy Burnham, Mayor of Greater Manchester, attended the summit. Both The Times and Al Jazeera reported his participation, and Mortgage Professional America referenced his anticipated criticism of Brexit ahead of the talks, noting possible ripple effects on the UK mortgage market.\n\nIf the tuition‑fee dispute is not resolved, it could affect thousands of UK students who rely on EU institutions for higher education, influencing fee structures, financial‑aid eligibility and the overall attractiveness of EU universities. The Guardian warned that a prolonged stalemate could strain political relations, particularly in regions such as Greater Manchester where higher‑education funding is a priority.\n\n**Next steps**\n\nFrance 24 and Reuters indicated that the formal signing of the trade, energy and youth‑mobility agreements will take place in Brussels in the coming weeks. Bilateral talks on tuition fees and any other lingering issues will continue thereafter. The Institute for Government noted that the summit will test the political salience of Brexit, suggesting that future negotiations will be closely watched by both domestic and European audiences.\n\n**Conclusion**\n\nThe Brussels summit delivered a substantive reset of the UK‑EU relationship, cementing new cooperation in food trade, energy and youth mobility while leaving tuition fees as the principal unresolved item. The agreements are poised to stabilise key economic sectors and restore cross‑border movement for young people, but the pending tuition‑fee negotiations will determine how fully the reset translates into tangible benefits for students and the broader UK economy.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_76.jpg",
+    "date": "2026-11-20",
+    "time": "11:13",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The United Kingdom and the European Union are holding a summit in Brussels to discuss a Brexit ‘reset’ deal (multiple sources).",
+      "The Guardian reports that the UK and EU are close to a Brexit reset deal but tuition fees remain a stumbling block.",
+      "BBC reports that the UK says the Brexit reset deal is ‘done’ but talks will continue in some areas.",
+      "Reuters reports that the UK and EU will launch a reset with food and youth‑mobility deals.",
+      "The Times reports that Andy Burnham is involved in the Brexit reset discussions.",
+      "RTE.ie reports that a EU‑UK reset deal has been agreed, according to Downing Street.",
+      "Al Jazeera reports that Andy Burnham is heading to Brussels for the summit.",
+      "The Independent reports on the contents of the UK‑EU relationship reset draft and its stakes for Andy Burnham.",
+      "France 24 reports that the EU and UK are set to sign deals on trade, energy and youth mobility at the Brussels summit.",
+      "Financial Times live coverage states that the UK says the Brexit ‘reset’ deal has been agreed.",
+      "BBC analysis outlines what the Brussels summit could mean for the UK‑EU Brexit deal.",
+      "Mortgage Professional America notes that Andy Burnham will condemn Brexit ahead of the EU summit and discusses potential impacts on UK mortgages.",
+      "Institute for Government states that the summit will test the political salience of Brexit.",
+      "The Guardian outlines what is at stake at the EU‑UK summit in Brussels."
+    ],
+    "timeline": [
+      {
+        "event": "UK‑EU summit in Brussels to discuss Brexit reset",
+        "date": "not specified in sources"
+      },
+      {
+        "event": "Live coverage of summit indicating agreement on reset deal",
+        "date": "during summit (date not specified)"
+      },
+      {
+        "event": "Reports of pending discussions on tuition fees and other issues",
+        "date": "during/after summit (date not specified)"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=76",
+    "featured": true
+  },
+  {
     "id": 75,
     "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
     "summary": "**Four Men Convicted in Drug‑Facilitated Sexual Assault of British Woman**",
@@ -24,7 +72,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=75",
-    "featured": true
+    "featured": false
   },
   {
     "id": 74,

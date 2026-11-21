@@ -1,5 +1,30 @@
 [
   {
+    "id": 79,
+    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+    "summary": "**EU‑UK Post‑Brexit Deal Reached While Tuition‑Fees Dispute Persists**",
+    "content": "**EU‑UK Post‑Brexit Deal Reached While Tuition‑Fees Dispute Persists**\n\nLondon – The United Kingdom and the European Union have announced that they have secured a post‑Brexit agreement covering a range of outstanding issues, officials in No 10 confirmed. The deal marks a significant step toward normalising relations after the UK’s departure from the bloc, but it leaves the contentious university tuition‑fees question unresolved, a point that could generate further political pressure in Westminster.\n\nThe agreement restores cooperation in trade, security and the movement of young people. Central to the package is a youth‑mobility scheme that would enable students and recent graduates to travel, study and work across the EU and the UK with greater ease. The BBC reported that negotiators are finalising the scheme’s details, with implementation slated for after the framework is formally adopted.\n\nThe tuition‑fees issue remains a sticking point. The EU has urged the UK to align its university fee policy with certain European standards, a demand the British government has so far resisted. The Guardian noted that, although the broader deal is in place, the fee dispute will require additional talks before a comprehensive settlement can be declared.\n\nLabour leader Ed Miliband sought to reassure the public that the dispute will not derail the overall agreement. In statements reported by the BBC, Yahoo News UK, The Telegraph and JournalArta, Miliband emphasized that the EU‑UK deal is not contingent on reaching a tuition‑fees accord, underscoring the government’s intention to keep the wider relationship on track.\n\nAnalysts have described the outcome as “a step in the right direction” while warning that unfinished business remains. The BBC highlighted that the new framework provides a foundation for cooperation but does not settle all outstanding matters. The unresolved fee question could intensify political pressure on the UK government, affect public perception of the post‑Brexit settlement—particularly among students and families—and illustrate the broader challenges of disentangling UK regulations from EU rules more than six years after the formal exit.\n\nBoth sides have indicated that negotiations on tuition fees will continue alongside the finalisation of the youth‑mobility scheme. No 10 said discussions will proceed in parallel with the technical work required to launch the scheme, though a timetable for resolving the fee dispute has not been set. The commitment to keep the broader deal moving suggests that the issue is viewed as a negotiable detail rather than a deal‑breaker.\n\nIn sum, the EU‑UK post‑Brexit agreement represents a notable advance in restoring functional ties between the United Kingdom and its former bloc. The outstanding tuition‑fees disagreement, however, reminds observers that the relationship is still being calibrated. The next phase will involve detailed talks on the youth‑mobility programme and continued diplomatic engagement to bridge the fee gap, outcomes that are likely to shape the UK’s domestic political narrative and the long‑term stability of the post‑Brexit partnership.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_79.jpg",
+    "date": "2026-11-21",
+    "time": "09:29",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ed Miliband publicly stated that the EU‑UK deal is not dependent on an agreement on university tuition fees (BBC, Yahoo News UK, The Telegraph, JournalArta).",
+      "The UK government (No 10) confirmed that a deal with the EU has been reached while the tuition‑fees issue remains unresolved (The Guardian).",
+      "The UK and EU are negotiating a youth mobility/experience scheme (BBC).",
+      "A new Brexit‑related deal was described by the BBC as a \"step in the right direction\" but not a solution to all issues (BBC)."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=79",
+    "featured": true
+  },
+  {
     "id": 78,
     "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
     "summary": "**UK‑EU Cost‑Cutting Deal Draws Praise from Retailers, Caution from Analysts**",
@@ -23,7 +48,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=78",
-    "featured": true
+    "featured": false
   },
   {
     "id": 77,

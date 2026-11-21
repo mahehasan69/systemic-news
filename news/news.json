@@ -1,5 +1,52 @@
 [
   {
+    "id": 81,
+    "title": "Bahrain says Iranian attack hits industrial facility",
+    "summary": "**Iran‑launched missiles and drones strike Bahrain industrial site; IRGC says its target was U.S. Patriot radars**",
+    "content": "**Iran‑launched missiles and drones strike Bahrain industrial site; IRGC says its target was U.S. Patriot radars**\n\n*Bahrain – Thursday* – A salvo of missiles and drones fired from Iran struck a civilian industrial complex in Bahrain on Thursday, igniting a fire that emergency crews battled throughout the day. Bahrain’s air‑defence network intercepted part of the attack, but at least one projectile hit the non‑military facility, causing damage without any reported casualties.\n\nBahrain’s foreign ministry and senior officials immediately held Tehran responsible, describing the strike as an act of aggression against sovereign territory. The ministry’s statement followed a confirmation of the fire and a report from Bahrain’s air‑defence command that it had engaged the incoming weapons.\n\nIn contrast, Iran’s Islamic Revolutionary Guard Corps (IRGC) issued a statement through state media outlets Xinhua and TRT World asserting that the missiles and drones were aimed at U.S. Patriot missile‑defence radars stationed at two Bahraini bases, not at civilian infrastructure. The IRGC’s claim frames the operation as part of Tehran’s broader opposition to U.S. military assets in the Gulf region.\n\n**Details of the attack**\n\n- **Time and launch** – Early Thursday morning, missiles and drones were launched from Iranian territory toward Bahrain, according to coordinated reports from Reuters, Xinhua, TRT World and other regional outlets.  \n- **Defence response** – Bahrain’s air‑defence systems intercepted a portion of the salvo. Despite the partial success, one weapon struck the industrial site, triggering a blaze that was contained by fire‑fighting crews.  \n- **Casualties and damage** – No injuries were reported. The facility, described uniformly as a civilian industrial installation, sustained material damage but remained operational after the incident.\n\n**Strategic context**\n\nBahrain hosts a significant U.S. naval presence, including two bases equipped with Patriot air‑defence systems that Iran has previously identified as legitimate targets. The IRGC’s statement aligns with Tehran’s longstanding rhetoric of countering what it perceives as an American encirclement of the region. Bahrain’s swift attribution of blame underscores the kingdom’s concern over any breach of its airspace and the potential for escalation.\n\n**Potential repercussions**\n\n- **Diplomatic** – Bahrain is expected to lodge a formal protest with Tehran and to coordinate closely with the United States.  \n- **Military** – While the United States has not yet issued an official comment, analysts anticipate a possible increase in alert status for Patriot units and heightened surveillance of Iranian launch sites.  \n- **Investigations** – Regional and possibly international investigative teams will examine the weapons used, assess the extent of the damage, and determine whether additional targets were engaged.\n\nThe incident highlights the vulnerability of civilian infrastructure in a region already strained by geopolitical rivalries and demonstrates both the capabilities and limits of Bahrain’s air‑defence posture. As diplomatic channels activate and investigations proceed, the strike may serve as an early indicator of how Iran’s IRGC will employ long‑range strike assets in future confrontations with U.S. forces and their Gulf allies.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-21",
+    "time": "22:59",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "An attack attributed to Iran struck a civilian industrial facility in Bahrain, causing a fire (reported by Reuters, Al Jazeera, Haaretz, Khaleej Times, The Times of Israel, TRT World, Arab News PK, Anadolu Ajansı).",
+      "Bahrain's government publicly blamed Iran for the attack (multiple sources).",
+      "Iran's Islamic Revolutionary Guard Corps (IRGC) said it targeted U.S. positions, specifically Patriot radars, at two bases in Bahrain with missiles and drones (Xinhua, TRT World).",
+      "Bahrain's air defence systems intercepted some of the incoming attacks (Reuters).",
+      "The facility described in all reports is a civilian industrial site."
+    ],
+    "timeline": [
+      {
+        "event": "Iranian missiles/drones launched toward Bahrain.",
+        "source": "Reuters, Xinhua, TRT World"
+      },
+      {
+        "event": "Bahrain's air defence systems intercept part of the attack.",
+        "source": "Reuters"
+      },
+      {
+        "event": "Fire breaks out at a civilian industrial facility in Bahrain.",
+        "source": "Al Jazeera, Haaretz, Khaleej Times, The Times of Israel, Anadolu Ajansı"
+      },
+      {
+        "event": "Bahrain government publicly blames Iran for the strike.",
+        "source": "Multiple news outlets"
+      },
+      {
+        "event": "IRGC releases statement claiming it targeted U.S. Patriot radars at two bases in Bahrain.",
+        "source": "Xinhua, TRT World"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=81",
+    "featured": true
+  },
+  {
     "id": 80,
     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
     "summary": "**Zelensky Defends Crimean Bridge Strikes as “Fair Response” Amid Growing Regional Tensions**",
@@ -26,7 +73,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=80",
-    "featured": true
+    "featured": false
   },
   {
     "id": 79,

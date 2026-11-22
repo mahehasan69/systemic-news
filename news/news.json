@@ -1,5 +1,38 @@
 [
   {
+    "id": 82,
+    "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+    "summary": "**British Labour Shadow Chancellor and Ukrainian President Condemn Putin as “Killer” and Defend Crimean Bridge Strikes**",
+    "content": "**British Labour Shadow Chancellor and Ukrainian President Condemn Putin as “Killer” and Defend Crimean Bridge Strikes**\n\n*Kyiv, 22 November 2026* – In a high‑profile meeting in Kyiv, British Labour Party shadow chancellor Wes Streeting and Ukrainian President Volodymyr Zelensky jointly denounced Russian President Vladimir Putin, describing him as a “killer.” The encounter, reported by the BBC and Sky News, also saw Zelensky justify Ukraine’s recent attacks on the Crimean Bridge as a “fair response” to Russian aggression.\n\nStreeting, who met Zelensky in person for the first time, called Putin a “cold‑blooded killer,” echoing Zelensky’s own characterization. Both leaders framed the language as a moral indictment of the Russian president’s conduct in the war that began with Moscow’s invasion of Ukraine in February 2022.\n\nZelensky defended the strikes on the Crimean Bridge – a vital supply route linking Russia to the annexed peninsula – as proportionate retaliation against what he termed “Russian aggression.” The remarks were relayed by Yahoo and the BBC, which noted that the two officials were in Kyiv as part of a broader diplomatic tour that also included engagements in the United Kingdom.\n\nThe condemnation came against a contrasting backdrop in the United States. Former President Donald Trump publicly referred to Putin as a “friend,” a comment widely reported by the BBC. Zelensky responded sharply, rejecting any notion of friendship with the Russian leader and warning that such statements undermine Kyiv’s fight for sovereignty. The rebuke was highlighted in coverage by the Daily Mail, The Independent and Yahoo.\n\nStreeting’s criticism of Putin extended beyond Kyiv. Speaking in Poland, he accused the Russian leader of “outrageous provocation,” a description cited by The Times. The remarks illustrate a growing pattern of forceful rhetoric among Western politicians, who have increasingly used terms such as “killer” and “outrageous provocation” to signal a hardening stance toward Moscow.\n\nAnalysts say the joint statements could influence diplomatic calculations within the Western alliance. By labeling Putin a “killer” and defending the Crimean Bridge attacks as proportionate, Zelensky and Streeting signal that Western support for Ukraine encompasses both material aid and moral endorsement of Kyiv’s military choices. The divergent narratives – Zelensky’s condemnation versus Trump’s friendly overture – raise questions about the coherence of messaging among NATO allies and may shape upcoming talks between the United Kingdom and Ukraine on defense assistance, humanitarian aid and sanctions.\n\nLooking ahead, officials from both governments are expected to continue coordinating on security and economic support for Ukraine. Kyiv has indicated it will remain vigilant in challenging any remarks that could be interpreted as softening the stance toward Moscow, while the “fair response” justification for the Crimean Bridge strikes is likely to feature in ongoing debates over the legality and proportionality of Ukrainian operations targeting Russian logistics.\n\nThe Kyiv meeting underscores a sharpening of Western rhetorical resolve against Vladimir Putin. By branding the Russian president a “killer” and defending recent strikes on a strategic bridge, Streeting and Zelensky have reinforced Ukraine’s narrative of justified self‑defence and drawn a clear line against any portrayal of Putin as a friendly figure, a stance that will shape diplomatic negotiations and public opinion in the weeks to come.",
+    "category": "🌍 World",
+    "image": "assets/images/news_82.jpg",
+    "date": "2026-11-22",
+    "time": "03:00",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Wes Streeting met Ukrainian President Volodymyr Zelensky",
+      "During the meeting Streeting called Vladimir Putin a \"cold‑blooded killer\"",
+      "Zelensky referred to Vladimir Putin as a \"killer\"",
+      "Zelensky said the strikes on the Crimean Bridge were a \"fair response\"",
+      "Former US President Donald Trump called Vladimir Putin a \"friend\"",
+      "Zelensky rebuked Trump for calling Putin a friend"
+    ],
+    "timeline": [
+      "Meeting (reported by BBC and Sky News) where Streeting called Putin a \"cold‑blooded killer\" and Zelensky called Putin a \"killer\" (location reported as Kyiv)",
+      "Trump publicly described Putin as a \"friend\" (reported by BBC)",
+      "Zelensky rebuked Trump for the comment (reported by Daily Mail, The Independent, Yahoo)",
+      "Zelensky described recent Crimean Bridge strikes as a \"fair response\" during a meeting with Streeting (reported by Yahoo and BBC; location reported as the United Kingdom)",
+      "Streeting accused Putin of \"outrageous provocation\" while in Poland (reported by The Times)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=82",
+    "featured": true
+  },
+  {
     "id": 81,
     "title": "Bahrain says Iranian attack hits industrial facility",
     "summary": "**Iran‑launched missiles and drones strike Bahrain industrial site; IRGC says its target was U.S. Patriot radars**",
@@ -44,7 +77,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=81",
-    "featured": true
+    "featured": false
   },
   {
     "id": 80,

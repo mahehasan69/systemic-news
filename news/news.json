@@ -1,5 +1,35 @@
 [
   {
+    "id": 84,
+    "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+    "summary": "**COP31 Climate Talks End Without Agreement**",
+    "content": "**COP31 Climate Talks End Without Agreement**\n\n*UNFCCC conference in Turkey collapses over fossil‑fuel language*\n\nThe 31st Conference of the Parties (COP31) to the United Nations Framework Convention on Climate Change concluded in late November 2023 in Turkey without a binding climate pact. Deep divisions over the inclusion of fossil‑fuel phase‑out language proved decisive, prompting the European Union (EU) and a number of other delegations to reject the final draft text and triggering a rapid breakdown of negotiations.\n\n**EU’s Rejection Sparks Collapse**\n\nThe EU announced it would not endorse a draft that omitted any reference to phasing out fossil fuels, arguing that the absence of explicit language violated the bloc’s climate objectives. EU officials said the omission left the agreement “inconsistent with the science and our climate targets.” Their refusal set off a chain reaction, with several other parties following suit and the core agreement disintegrating in the final days of the summit.\n\n**UN Secretary‑General’s Warning**\n\nUnited Nations Secretary‑General António Guterres addressed the impasse, stating, “There is no ambiguity in the science.” He warned that the lack of a formal accord does not diminish the urgency of climate action. Observers described the closing sessions as chaotic, with delegations scrambling to salvage any progress while the central text remained unresolved.\n\n**Implications for the Global Climate Agenda**\n\nThe failure to secure a deal marks a setback for the incremental tightening of emissions targets and the mobilization of finance that successive COPs have sought to achieve. Without consensus on a fossil‑fuel phase‑out, the international community risks missing the emissions reductions needed to keep warming within the limits set by the Paris Agreement. The EU’s stance reflects growing impatience for concrete commitments, whereas several nations argued that explicit phase‑out language infringes on energy sovereignty and hampers economic development.\n\n**Informal Talks Continue**\n\nDespite the formal collapse, negotiations did not cease entirely. The *Taipei Times* reported that extended informal talks continued after the official session ended, though no formal deal was adopted. Organisers indicated that a follow‑up session or a future COP could provide an opportunity to revisit the contentious fossil‑fuel provisions.\n\n**Looking Ahead**\n\nThe next phase is likely to involve a mix of bilateral and multilateral outreach aimed at reconciling the divergent positions that derailed COP31. The EU is expected to press for explicit phase‑out language in any revised draft, while coalitions of developing nations will seek to balance heightened climate ambition with economic considerations. The UN climate secretariat is preparing a revised text that addresses the EU’s concerns while accommodating the sensitivities of other parties, setting the stage for renewed negotiations at the next conference.\n\n**Conclusion**\n\nThe collapse of COP31 underscores that scientific consensus alone cannot guarantee political agreement. As climate impacts accelerate, the ability of negotiators to bridge ideological and economic divides will determine whether future COPs can deliver the decisive, enforceable commitments demanded by the climate science community. The coming months will test the resilience of the international climate regime and its capacity to translate urgency into action.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_84.jpg",
+    "date": "2026-11-22",
+    "time": "19:21",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "COP31 climate talks failed to reach a deal and collapsed.",
+      "The European Union rejected the final draft because it omitted language on fossil fuel phase‑out.",
+      "Multiple sources cite divisions over fossil fuels as a key reason for the collapse.",
+      "The summit was held in Turkey.",
+      "The UN chief warned there is “no ambiguity in the science” despite the lack of agreement."
+    ],
+    "timeline": [
+      "November 2023 – COP31 summit convened in Turkey.",
+      "Late November 2023 – EU and other parties reject final draft over fossil‑fuel omission.",
+      "End of the summit – talks collapse without a climate pact."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=84",
+    "featured": true
+  },
+  {
     "id": 83,
     "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
     "summary": "**Theresa May says “Brexit is done” and urges Andy Burnham to move on**",
@@ -23,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=83",
-    "featured": true
+    "featured": false
   },
   {
     "id": 82,

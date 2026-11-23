@@ -1,5 +1,41 @@
 [
   {
+    "id": 87,
+    "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+    "summary": "**Ukrainian Naval Drones Hit Russian Vessels Near Libya’s Benghazi Port**",
+    "content": "**Ukrainian Naval Drones Hit Russian Vessels Near Libya’s Benghazi Port**\n\n*Early 2024 – Mediterranean Sea*  \n\nUkrainian forces deployed unmanned maritime drones to strike at least two Russian vessels off the coast of Libya, near the port city of Benghazi, in the first known extension of the Ukraine‑Russia war into the Mediterranean region. Ukrainian President Volodymyr Zelensky confirmed that a Russian warship was hit, and subsequent reports suggest the ship may have been damaged or even sunk. A second Russian vessel was also struck, though its exact condition remains unverified.\n\nThe attacks were carried out with naval drones, a capability that Kyiv has increasingly employed to target Russian maritime assets far from its own shoreline. The Guardian reported that two Russian ships were hit in the same incident, while The New York Times identified the weapons as remote‑controlled maritime drones, underscoring Ukraine’s expanding use of low‑cost, high‑impact technology beyond its Black Sea coast.\n\nBenghazi, a Libyan hub for commercial and, increasingly, military shipping, became the focal point of the strike. The incident prompted immediate diplomatic concern. Italy, whose southern coast lies just across the sea, warned that the conflict could spread into the Mediterranean, raising alarms over the security of shipping lanes and regional stability.\n\nIn response, the United Nations called for a formal investigation into the attack. TVC News cited the UN’s request, noting that a probe could assess the legality of the strike under international law and its broader implications for maritime security. Russia has not yet issued an official statement on the damage, while Libya, whose territorial waters were directly affected, is expected to seek assurances against future incursions. Italy has already signaled heightened vigilance and may coordinate with NATO and European Union partners on additional security measures.\n\nThe Benghazi strike fits a broader pattern of the war spilling beyond Europe’s traditional frontlines. Since Russia’s full‑scale invasion of Ukraine in 2022, Kyiv has turned to asymmetric tactics, including the deployment of naval drones to target Russian assets at great distances. Analysts note that the Mediterranean— a critical conduit for energy supplies and global trade— now represents a new arena where the conflict’s reverberations are felt, highlighting both Ukraine’s ingenuity and the vulnerability of Russian maritime operations operating far from home ports.\n\nLooking ahead, the UN investigation is expected to examine the drones’ origins, the command structure behind the operation, and the extent of the damage inflicted. Russia may demand reparations or consider a retaliatory response, while Libya is likely to press for guarantees that its waters will be protected from further attacks. Italy’s warning suggests that NATO and EU members could contemplate additional steps to safeguard Mediterranean security. Ukrainian officials have not ruled out further drone deployments in the region, indicating that the maritime dimension of the conflict may remain active.\n\nThe Benghazi incident underscores how the Ukraine‑Russia war has transcended Eastern Europe, raising the stakes for regional stability and prompting a coordinated international response. As investigations proceed and diplomatic channels stay open, the strike serves as a stark reminder that modern conflicts can quickly cross borders, drawing in neighboring states and global institutions alike.",
+    "category": "🌍 World",
+    "image": "assets/images/news_87.jpg",
+    "date": "2026-11-23",
+    "time": "21:05",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Ukrainian drones struck Russian ships off Libya (BBC, Al Jazeera, The Guardian, CNN).",
+      "A Russian warship was hit or sunk off Libya (BBC, Reuters, The Japan Times, The Washington Post).",
+      "The strike occurred at or near Benghazi port in Libya (Euronews).",
+      "Italy warned that the Ukraine war could spread to the Mediterranean after the attack (Anadolu Ajansı).",
+      "The United Nations called for a probe after the attack (TVC News).",
+      "Ukrainian President Volodymyr Zelensky said a Russian warship was hit by Ukrainian drones (BBC).",
+      "The incident is described as part of the war spreading beyond Europe (multiple sources).",
+      "The Guardian reported that two Russian ships were struck.",
+      "The New York Times reported that Ukrainian naval drones were used."
+    ],
+    "timeline": [
+      "Strike reported by multiple news agencies in early 2024 (exact date not provided).",
+      "Initial reports of a hit on a Russian warship appeared.",
+      "Subsequent reports claimed the vessel was sunk.",
+      "Italy issued a warning about war spread to the Mediterranean.",
+      "UN called for an investigation."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=87",
+    "featured": true
+  },
+  {
     "id": 86,
     "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
     "summary": "**Drone Strikes Damage Russian Warship and Cargo Vessel in Benghazi Port**",
@@ -25,7 +61,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=86",
-    "featured": true
+    "featured": false
   },
   {
     "id": 85,

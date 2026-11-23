@@ -1,5 +1,37 @@
 [
   {
+    "id": 85,
+    "title": "What's next after no deal at COP31 climate talks?",
+    "summary": "**COP31 Climate Talks End Without a Deal**",
+    "content": "**COP31 Climate Talks End Without a Deal**\n\nThe 31st session of the United Nations climate conference concluded without a binding agreement after member states rejected a draft text that omitted any explicit reference to fossil fuels. The outcome, reported by the BBC, The Guardian and Bloomberg, marks a rare collapse of the high‑profile summit and has reignited criticism of the UN climate process.\n\nNegotiators presented the draft after weeks of intensive bargaining, but the document failed to address the continued use of fossil fuels. According to CBC, delegations voted against the proposal, citing the absence of fossil‑fuel language as a core flaw. Parallel disputes over the scale and allocation of climate finance further eroded consensus, with the BBC and Bloomberg noting that disagreements on money flows constituted a second major stumbling block.\n\nWith no new global climate pact adopted, the conference adjourned without a consensus on how to accelerate emissions reductions. Observers from Politico and Time highlighted the symbolic weight of the breakdown, warning that the inability to secure even a modest accord undermines confidence in the multilateral climate architecture.\n\nIn the United Kingdom, climate minister Graham Burnham faced mounting pressure from environmental groups and media outlets such as Sky News to reject the controversial Rosebank oil field project—a stance that gained traction after the summit’s failure.\n\nDespite the diplomatic setback, the private sector signalled a divergent trajectory. Forbes reported that business leaders are already pivoting toward electrification initiatives independent of any international treaty. Companies across the energy, automotive and manufacturing sectors are accelerating investments in electric technologies, viewing the market shift as both a climate imperative and a commercial opportunity. This momentum suggests that, even in the absence of a global agreement, the transition to low‑carbon solutions may continue to gather pace.\n\nThe collapse of COP31 underscores longstanding tensions within the climate‑negotiation framework. Critics argue that the UN process has become increasingly fragmented, with divergent national interests and a lack of enforceable commitments hampering progress. The failure to embed fossil‑fuel language reflects a broader reluctance among some governments to confront the sector that still dominates global energy supply, while the unresolved financing debate highlights persistent gaps in how wealthier nations will support developing countries’ mitigation and adaptation efforts.\n\nLooking ahead, the international community must prepare for the next round of climate talks, although specific dates and formats have yet to be announced. In the interim, the private sector’s commitment to electrification is expected to persist, providing a parallel pathway toward emissions reductions. Analysts contend that future negotiations will need to address both fossil‑fuel phase‑out language and transparent, adequate climate finance if they are to avoid a repeat of COP31’s outcome.\n\nThe key takeaway is clear: without a universally accepted framework that explicitly tackles fossil‑fuel use and secures reliable financing, global climate ambition will continue to rely heavily on market‑driven actions. The onus now rests on governments and businesses alike to bridge the policy gap and keep momentum toward a low‑carbon future alive in the wake of diplomatic disappointment.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_85.jpg",
+    "date": "2026-11-23",
+    "time": "00:44",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "COP31 climate negotiations concluded without an agreement (BBC, Politico, Time, The Guardian, CBC, ABC News).",
+      "Member states rejected a draft deal because it did not mention fossil fuels (CBC).",
+      "The collapse was linked to disputes over fossil‑fuel references and financing (BBC, The Guardian, Bloomberg).",
+      "UK climate minister (Burnham) was urged to reject the Rosebank oil field after the talks failed (Sky News).",
+      "Business leaders are already shifting focus to electrification despite the lack of a deal (Forbes)."
+    ],
+    "timeline": [
+      "COP31 negotiations took place.",
+      "A draft deal was presented to member states.",
+      "Member states rejected the draft (citing lack of fossil‑fuel language).",
+      "Negotiations broke down and the conference ended without a deal.",
+      "Post‑COP31, business sector announced continued push toward electrification."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=85",
+    "featured": true
+  },
+  {
     "id": 84,
     "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
     "summary": "**COP31 Climate Talks End Without Agreement**",
@@ -27,7 +59,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=84",
-    "featured": true
+    "featured": false
   },
   {
     "id": 83,

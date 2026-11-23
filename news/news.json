@@ -1,5 +1,33 @@
 [
   {
+    "id": 86,
+    "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
+    "summary": "**Drone Strikes Damage Russian Warship and Cargo Vessel in Benghazi Port**",
+    "content": "**Drone Strikes Damage Russian Warship and Cargo Vessel in Benghazi Port**\n\n*Benghazi, Libya –* A Russian corvette was severely damaged – and may have been sunk – after a suspected naval‑drone attack in the Libyan port of Benghazi on [date]. The same incident also struck a Russian-flagged cargo ship anchored in the harbor. Libyan authorities reported a “huge explosion” that rocked the warship, while the cargo vessel sustained damage but remained afloat.\n\nLibyan officials were the first to describe the scene, noting that both vessels were hit by unmanned maritime drones. No organization has claimed responsibility, but analysts widely suspect Ukrainian naval‑drone operators, reflecting a growing pattern of drone‑based maritime aggression linked to the Russia‑Ukraine conflict.\n\nThe United Nations responded swiftly, calling for an impartial investigation to determine the drones’ origin, assess the extent of the damage, and evaluate the broader security implications for the Mediterranean. UN representatives emphasized that the use of unmanned sea platforms in international waters raises legal and safety questions that extend beyond the immediate parties.\n\nThe attacks occurred amid heightened tension in the Mediterranean, where Russian and Ukrainian forces have increasingly turned to unconventional weapons to disrupt each other’s logistics. Libya’s extensive coastline and busy ports make the region a focal point for naval activity. Moscow’s presence in Benghazi underscores its broader maritime interests, while the suspected Ukrainian strike signals an intent to challenge those interests far from the Black Sea.\n\nThe incident carries several strategic implications. First, damage to a corvette – a vessel typically employed for coastal defense and patrol – represents a direct blow to Russia’s naval capability in the Mediterranean. Second, the successful use of sea drones illustrates a shift in how the conflict is being fought, allowing attacks at greater distances with reduced risk to personnel. Third, the episode raises concerns for commercial shipping and regional stability, as the Mediterranean remains a critical artery for global trade.\n\nIn the immediate aftermath, the United Nations pledged to launch an investigative mission to collect evidence, interview witnesses, and analyze the technical characteristics of the drones employed. Both Ukrainian and Russian authorities are expected to issue statements, though neither side has confirmed involvement or provided detailed accounts of the event. International maritime agencies are monitoring the situation closely and have advised vessels approaching Libyan ports to exercise heightened vigilance.\n\nThe findings of the inquiry are likely to shape diplomatic and military responses. Confirmation of Ukrainian involvement could prompt a formal protest from Russia and potentially lead to retaliatory measures in the maritime domain. Conversely, inconclusive evidence may intensify calls for broader international regulation of unmanned maritime weapons. Meanwhile, the damaged Russian vessels will undergo assessments to determine whether they can be repaired or will be decommissioned.\n\nThe Benghazi drone attacks underscore the evolving nature of modern warfare, where unmanned systems can strike high‑value targets far from front lines. As the United Nations moves forward with its investigation, the incident highlights the urgent need for clear rules governing the deployment of sea drones and for mechanisms to prevent escalation in already volatile maritime corridors. The outcome of the inquiry will not only clarify responsibility for these specific attacks but also set precedents for how the international community addresses the growing challenge of unmanned naval warfare.",
+    "category": "🌍 World",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-23",
+    "time": "08:49",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "A Russian warship was damaged or sunk at the port of Benghazi, Libya, after a suspected drone attack.",
+      "The attack involved naval (sea) drones.",
+      "Libyan officials reported the incident.",
+      "Two Russian vessels were reported attacked (a corvette and a cargo ship).",
+      "The United Nations called for an investigation into the attack."
+    ],
+    "timeline": [
+      "Reports of the incident appeared in multiple news outlets on the same day; specific timestamps are not provided in the source texts."
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=86",
+    "featured": true
+  },
+  {
     "id": 85,
     "title": "What's next after no deal at COP31 climate talks?",
     "summary": "**COP31 Climate Talks End Without a Deal**",
@@ -29,7 +57,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=85",
-    "featured": true
+    "featured": false
   },
   {
     "id": 84,

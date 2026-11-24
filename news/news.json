@@ -1,5 +1,43 @@
 [
   {
+    "id": 89,
+    "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+    "summary": "**Two Men Arrested Over Alleged Break‑in at Prince and Princess of Wales’ Norfolk Home**",
+    "content": "**Two Men Arrested Over Alleged Break‑in at Prince and Princess of Wales’ Norfolk Home**\n\nBritish police have taken two men into custody on suspicion of burglary and trespass after an alleged intrusion at the private country residence of the Prince and Princess of Wales in Norfolk, England. The arrests were reported by a range of international outlets, including the BBC, Reuters, The Guardian, ABC, NBC and The New York Times.\n\nAccording to police statements, the suspects were apprehended shortly after the alleged break‑in. At least one source described the men as wearing masks, underscoring the covert nature of the alleged offence. Police have not disclosed the individuals’ names, the exact time of the operation, or the evidence that led to the arrests, and officials declined to comment further.\n\nThe property, a private estate used by the royal couple as a retreat from their official duties in London, is protected by the Metropolitan Police’s Royalty and Diplomatic Protection unit. Although not open to the public, the residence remains a symbol of the monarchy and is subject to heightened security measures. The alleged breach has prompted questions about the adequacy of safeguards at royal homes that are not regularly accessible to the public.\n\nLaw enforcement confirmed that the investigation is ongoing. Detectives are collecting forensic evidence, reviewing surveillance footage and interviewing witnesses to determine how the suspects accessed the estate and whether any items were taken. The two men remain in custody pending a review of the case file by the Crown Prosecution Service, which will decide whether formal charges will be filed. No details on potential sentencing have been released.\n\nBeyond the immediate legal implications, the incident raises broader concerns about national‑security policy, resource allocation for protective services, and public confidence in the ability of authorities to shield high‑profile figures from criminal activity. It adds to a growing list of security breaches involving royal properties and may prompt a reassessment of protection protocols for both public and private royal sites.\n\nPolice are expected to release further information as the inquiry progresses, and any court proceedings could shed light on the methods used by the suspects and the effectiveness of the response by security personnel. Observers will be watching for recommendations that could influence future security strategies for the monarchy’s private residences.\n\nThe arrests highlight the ongoing challenges of safeguarding royal properties. While the full details of the break‑in remain undisclosed, the case has already triggered a thorough police investigation and attracted widespread media attention, underscoring the intersection of criminal activity, royal security and public interest.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_89.jpg",
+    "date": "2026-11-24",
+    "time": "17:24",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Two men were arrested by UK police on suspicion of burglary and trespass at the country residence of Prince William and Kate Middleton.",
+      "The residence is located in Norfolk, England.",
+      "The suspects were described as masked in at least one report.",
+      "The arrest was reported by multiple news outlets (BBC, Reuters, The Guardian, ABC, NBC, NYT, etc.)."
+    ],
+    "timeline": [
+      {
+        "event": "Break‑in at the Prince and Princess of Wales’s country residence",
+        "date": "Not specified in sources"
+      },
+      {
+        "event": "Police apprehend two suspects on suspicion of burglary and trespass",
+        "date": "Not specified in sources"
+      },
+      {
+        "event": "News outlets publish reports of the arrests",
+        "date": "Not specified but contemporaneous with the arrests"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=89",
+    "featured": true
+  },
+  {
     "id": 88,
     "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
     "summary": "**Trump’s Intervention Restores Jensen Huang as Nvidia CEO, Triggering Market Gains and Congressional Backlash**",
@@ -30,7 +68,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=88",
-    "featured": true
+    "featured": false
   },
   {
     "id": 87,

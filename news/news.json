@@ -1,5 +1,38 @@
 [
   {
+    "id": 88,
+    "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
+    "summary": "**Trump’s Intervention Restores Jensen Huang as Nvidia CEO, Triggering Market Gains and Congressional Backlash**",
+    "content": "**Trump’s Intervention Restores Jensen Huang as Nvidia CEO, Triggering Market Gains and Congressional Backlash**\n\nWashington — On Tuesday, President Donald Trump intervened in Nvidia’s corporate affairs, persuading the company’s board to reverse its earlier decision to remove co‑founder Jensen Huang as chief executive officer. The reversal, confirmed by Reuters, CNBC, The Boston Globe and other outlets, placed Huang back at the helm within minutes of the announcement.\n\nThe board’s original vote to oust Huang had been surrounded by speculation. Details of Trump’s outreach to the directors have not been disclosed, but the president’s involvement prompted the board to rescind the removal and reinstate Huang. The news was reported simultaneously by CNN, The New York Times, BBC and other international services, underscoring the global interest in the episode.\n\n**Market reaction**\n\nWithin moments of the announcement, Asian equity indices rose sharply. The BBC noted a pronounced jump in regional markets as investors welcomed what they perceived as restored stability at Nvidia, one of the world’s most valuable technology firms. Nvidia’s own share price surged, reflecting renewed confidence in Huang’s leadership and the company’s strategic direction.\n\n**Congressional response**\n\nLawmakers on both sides of the aisle reacted swiftly. NBC News and Politico documented a chorus of criticism, with members of Congress questioning the propriety of a sitting president influencing the internal governance of a publicly traded company. Critics warned that such interference could set a dangerous precedent for executive overreach.\n\nThe controversy deepened when several Republican legislators broke with the president, citing unverified allegations that Nvidia had been involved in the smuggling of advanced chips. The Guardian reported that the accusations, though not substantiated, heightened intra‑party tensions and prompted calls for greater oversight.\n\n**Broader implications**\n\nThe incident has revived a longstanding debate over the limits of presidential power in the private sector. Analysts cited by Yahoo are already assessing the political ramifications ahead of the 2028 election, suggesting the episode could become a flashpoint for discussions on corporate governance, national security and trade policy. Federal agencies are reportedly considering investigations into the smuggling claims, which could lead to sanctions or export‑control reviews.\n\nCongressional committees are expected to schedule hearings to examine three key issues: the board’s original decision‑making process, the president’s role in the reversal, and the credibility of the smuggling allegations. Legislative proposals aimed at curbing presidential influence over corporate boards may emerge from those inquiries.\n\n**Outlook**\n\nMarket participants will be watching for further disclosures from Nvidia and any formal statements from the White House. The unfolding investigation could affect the company’s supply‑chain relationships, especially if the smuggling allegations trigger regulatory action. Politically, the episode is likely to feature in campaign narratives as both a cautionary tale of executive overreach and a rallying point for advocates of stronger checks on presidential authority.\n\nIn sum, a single presidential intervention has reshaped the leadership of one of the world’s most valuable technology firms, sparked a surge in market optimism, and ignited a partisan clash that may reverberate through upcoming elections and legislative agendas. The convergence of corporate governance, international trade concerns and political accountability highlights how tightly intertwined business and politics have become in the modern era.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/placeholder.jpg",
+    "date": "2026-11-24",
+    "time": "05:51",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "President Donald Trump intervened on behalf of Jensen Huang leading to Huang’s reinstatement as CEO of Nvidia",
+      "Jensen Huang’s return as Nvidia CEO was reported by multiple outlets (CNN, The New York Times, Reuters, CNBC, BBC, The Boston Globe)",
+      "Asian markets rose following the announcement of Huang’s reinstatement",
+      "Congressional members expressed anger and skepticism about the reinstatement",
+      "Republican lawmakers publicly broke with Trump over allegations of Nvidia chip smuggling after Huang’s return"
+    ],
+    "timeline": [
+      "Trump intervenes with Nvidia board to reverse a decision removing Jensen Huang as CEO (date not specified)",
+      "Jensen Huang is reinstated as Nvidia CEO (reported by Reuters, The Boston Globe, CNBC)",
+      "Asian markets react positively, jumping after the news (BBC)",
+      "Congressional members publicly criticize the move and express skepticism (NBC News, Politico)",
+      "Republican lawmakers break with Trump, citing alleged Nvidia chip smuggling (The Guardian)",
+      "Analysts discuss potential political ramifications for the 2028 election (Yahoo)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=88",
+    "featured": true
+  },
+  {
     "id": 87,
     "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
     "summary": "**Ukrainian Naval Drones Hit Russian Vessels Near Libya’s Benghazi Port**",
@@ -33,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=87",
-    "featured": true
+    "featured": false
   },
   {
     "id": 86,

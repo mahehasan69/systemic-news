@@ -1,5 +1,29 @@
 [
   {
+    "id": 92,
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "summary": "**Poundland and Dealz Enter Administration, Threatening Up to 12,000 Jobs**",
+    "content": "**Poundland and Dealz Enter Administration, Threatening Up to 12,000 Jobs**\n\nPoundland, the UK discount‑price retailer that also owns the Dealz chain, has filed for administration, putting as many as 12,000 positions at risk across its network of stores. The filing, confirmed by multiple news outlets, marks a major development for the country’s low‑price retail sector.\n\n**Administration Details**\n\nThe company has formally sought protection from its creditors, placing it under the supervision of appointed administrators. Administration allows an insolvent business to be reorganised or its assets sold, with the aim of maximising returns for creditors while preserving value where possible. In Poundland’s case, the move has immediately raised concerns about the security of jobs held by store staff, distribution workers and corporate personnel.\n\n**Impact on Dealz**\n\nPoundland’s ownership of Dealz – a discount retailer operating primarily in Ireland – means the administration affects both brands. The two chains share supply chains, merchandising strategies and a focus on value‑driven pricing. While no specific operational changes for Dealz have been announced, the parent company’s insolvency could have downstream effects on the Irish chain.\n\n**Stores Remain Open**\n\nDespite the administration filing, all Poundland outlets have stayed open. This temporary continuity provides a short‑term buffer for shoppers who rely on the retailer’s low‑price offerings and for employees who remain on the payroll while the administrators assess the business’s future. Keeping the stores operational also helps preserve cash flow and maintains customer access, which can be crucial in any restructuring or sale process.\n\n**Employment Stakes**\n\nThe potential loss of up to 12,000 jobs reflects the scale of Poundland’s high‑street footprint. Although the exact number of redundancies has not been confirmed, employees have been warned that their positions are at risk. The decision to keep shops open suggests that administrators are attempting to minimise disruption and retain as much of the workforce as possible while longer‑term options are explored.\n\n**Broader Market Implications**\n\nPoundland occupies a prominent place in the UK discount market, offering everyday essentials at a single‑price point. A reduction in its workforce could reverberate through supply chains, affect vendor relationships and alter the competitive landscape for price‑sensitive consumers. The administration also highlights the pressures facing brick‑and‑mortar retailers, including rising operating costs, shifting consumer habits and intensified competition from online platforms.\n\n**Possible Outcomes**\n\nAdministrators will now evaluate a range of options, including restructuring, the sale of assets or a complete wind‑down of the business. The continued operation of stores indicates a short‑term strategy to preserve revenue while the viability of each outlet is examined. Stakeholders—employees, suppliers and local communities—are awaiting further announcements regarding restructuring plans or potential acquisition interest. A definitive timeline for outcomes has not been set, and updates are expected as the process unfolds.\n\n**Conclusion**\n\nPoundland’s entry into administration places a substantial portion of its workforce in jeopardy while temporarily maintaining retail operations. The case underscores the fragility of discount retailers operating on thin margins and raises questions about employment and consumer choice in the UK market. As administrators move forward, the fate of up to 12,000 jobs and the future of the Poundland and Dealz brands will become clearer, shaping the outlook for low‑price retail in the months ahead.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_92.jpg",
+    "date": "2026-11-25",
+    "time": "22:19",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Poundland entered administration (multiple sources)",
+      "Poundland is the owner of Dealz (RTE)",
+      "Poundland shops remained open after administration (Digg)"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=92",
+    "featured": true
+  },
+  {
     "id": 91,
     "title": "Energy bills to rise by 26% from January after gas prices surge",
     "summary": "**UK Energy Price Cap Set to Rise 26 % in January 2024**",
@@ -30,7 +54,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=91",
-    "featured": true
+    "featured": false
   },
   {
     "id": 90,

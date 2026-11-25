@@ -1,5 +1,38 @@
 [
   {
+    "id": 91,
+    "title": "Energy bills to rise by 26% from January after gas prices surge",
+    "summary": "**UK Energy Price Cap Set to Rise 26 % in January 2024**",
+    "content": "**UK Energy Price Cap Set to Rise 26 % in January 2024**\n\nThe government‑mandated energy price cap for Great Britain will increase by 26 % from January 2024, pushing the average annual cost of electricity and gas for a typical household to just over £2,000. One estimate puts the new total at £2,166 per year. The change has been reported by the BBC, Reuters, Bloomberg, The Independent, The Guardian, Daily Sabah, Gulf News and Lianhe Zaobao.\n\n### Why the cap is climbing\n\nThe rise follows a sharp surge in wholesale gas prices that began in late 2023. Analysts attribute the spike to a combination of factors:\n\n* Heightened geopolitical tension stemming from the Iran‑Russia conflict.  \n* Broad cost‑of‑living pressures.  \n* A tightening global gas market.\n\nThese forces feed directly into the calculation of the price cap, which limits the maximum amount suppliers can charge households on standard‑variable tariffs.\n\n### Immediate impact on consumers\n\nFrom January, households will see higher figures on their monthly energy statements. The increase will add a noticeable amount to overall household expenditure on electricity and gas, further straining budgets that are already under pressure. Because energy costs form a significant component of the Consumer Price Index, the higher cap is also expected to lift the United Kingdom’s inflation rate.\n\n### The price‑cap mechanism\n\nIntroduced to protect consumers from extreme price volatility, the cap is reviewed periodically to reflect changes in wholesale markets and other cost drivers. The 26 % adjustment is the largest single‑year increase since the cap was first implemented. While the cap sets a ceiling on what suppliers can charge, it does not remove the underlying market pressures that have driven wholesale gas prices upward; the higher ceiling is therefore a symptom of broader market dynamics rather than a standalone policy decision.\n\n### Reactions from economists and consumer groups\n\nEconomists and consumer‑advocacy organisations warn that the new level of energy bills could exacerbate inflationary pressures across the economy. Higher energy costs reduce disposable income, potentially curbing consumer spending in other sectors and prompting a reassessment of monetary‑policy stances. The rise also raises questions about the adequacy of existing support schemes for low‑income households, many of whom already struggle to meet basic energy needs.\n\n### Outlook and future reviews\n\nRegulators have indicated that the price cap will be reviewed regularly, with further adjustments possible if wholesale gas prices continue to fluctuate. The next review will consider both market developments and the broader economic environment, including any changes in geopolitical tensions that could affect energy supply and pricing.\n\n### Bottom line\n\nThe 26 % hike to the UK energy price cap underscores the direct link between global wholesale gas markets and domestic household costs. While the cap aims to shield consumers from the most extreme price swings, the current surge reflects deeper structural pressures that will continue to shape energy affordability and inflation trends in the United Kingdom.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_91.jpg",
+    "date": "2026-11-25",
+    "time": "12:28",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Energy bills for households in Great Britain/UK will increase by 26% starting in January.",
+      "The increase will lift annual household energy costs to above £2,000, with one estimate of £2,166 per year.",
+      "The rise is reported by multiple reputable news outlets (BBC, Reuters, Bloomberg, The Independent, The Guardian, Daily Sabah, Gulf News, 联合早报)."
+    ],
+    "timeline": [
+      {
+        "date": "Late 2023",
+        "event": "Sharp rise in wholesale gas prices reported."
+      },
+      {
+        "date": "January 2024",
+        "event": "Energy price cap rises by 26%, lifting annual bills to >£2,000."
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=91",
+    "featured": true
+  },
+  {
     "id": 90,
     "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
     "summary": "**UK Government to Launch Independent Panel and Inquiry into Nuclear Test Veterans’ Records**",
@@ -27,7 +60,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=90",
-    "featured": true
+    "featured": false
   },
   {
     "id": 89,

@@ -1,5 +1,35 @@
 [
   {
+    "id": 90,
+    "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+    "summary": "**UK Government to Launch Independent Panel and Inquiry into Nuclear Test Veterans’ Records**",
+    "content": "**UK Government to Launch Independent Panel and Inquiry into Nuclear Test Veterans’ Records**\n\nLondon – The UK government announced today that an independent panel will be established to investigate the nation’s historic nuclear weapons testing programme and to review the records of service personnel who participated in those trials. Deputy Prime Minister Andy Burnham, speaking alongside the Prime Minister, said the veterans and their families “will get the full truth” and that the inquiry will produce an authoritative account of the tests and their long‑term impacts.\n\nThe announcement follows a series of BBC interviews in which former nuclear‑test veterans described a decades‑long “search for justice.” Many of those veterans served in the 1950s and 1960s and have long argued that the health and environmental consequences of the United Kingdom’s nuclear tests have been insufficiently documented and inadequately addressed by successive governments.\n\n**Scope of the panel**\n\nThe panel, whose formation was confirmed by the Prime Minister, will conduct a comprehensive review of archival material, medical records and environmental data related to the tests. Its remit includes:\n\n* Assessing the health outcomes experienced by service members and their families.  \n* Evaluating the operational conduct of the tests and the subsequent handling of veteran welfare.  \n* Producing a report with findings and recommendations that will be free from political interference, as emphasized by Burnham.\n\n**Historical background**\n\nFrom the early 1950s through the 1990s the United Kingdom carried out a series of nuclear weapons tests, principally at the Monte Bello range in Australia and on Christmas Island in the Pacific. While the tests were central to the development of the UK’s nuclear deterrent, they have been linked to respiratory illnesses, cancers and other chronic conditions among participants. Families of veterans have also reported environmental contamination and ongoing health concerns.\n\n**Implications**\n\nThe panel’s work addresses a moral and legal imperative to provide veterans and their relatives with a transparent record of the risks they faced. It could also lay the groundwork for compensation schemes or other remedial measures, echoing government statements that veterans have “waited too long for the truth.” Findings may inform broader policy discussions on nuclear safety, historical accountability and the management of legacy nuclear sites.\n\n**Next steps**\n\nThe independent panel is expected to be convened within the coming weeks, drawing on experts in nuclear science, medical research and archival investigation. Following its formation, a formal inquiry into veterans’ records will commence, involving interviews with former service members, families and relevant officials. Upon completing its review, the panel will publish a report detailing its conclusions and recommendations, which could prompt legislative action, compensation packages or further governmental measures to address identified health or environmental harms.\n\nBy committing to uncover “the full truth” for nuclear‑test veterans, the government signals a decisive shift toward greater transparency and accountability for a chapter of the nation’s defence history that has long been shrouded in secrecy. The forthcoming report is set to shape future support for veterans and to establish a precedent for how governments confront the legacies of their nuclear programmes.",
+    "category": "🏥 Health",
+    "image": "assets/images/news_90.jpg",
+    "date": "2026-11-25",
+    "time": "02:09",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Nuclear test veterans spoke to the BBC about a search for justice",
+      "Andy Burnham said nuclear test veterans will get the full truth",
+      "Andy Burnham confirmed the creation of an independent panel on nuclear weapons testing",
+      "The independent panel is intended to establish the truth about nuclear weapons testing",
+      "Andy Burnham launched an inquiry into nuclear bomb test veterans’ records",
+      "The UK Prime Minister announced an Independent Panel on nuclear weapons testing and said veterans and their families have waited too long for the truth",
+      "Andy Burnham confirmed an independent probe into nuclear test veterans",
+      "Andy Burnham promised full truth for nuclear test veterans in a UK probe",
+      "The UK government launched a probe into decades‑long nuclear tests"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=90",
+    "featured": true
+  },
+  {
     "id": 89,
     "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
     "summary": "**Two Men Arrested Over Alleged Break‑in at Prince and Princess of Wales’ Norfolk Home**",
@@ -35,7 +65,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=89",
-    "featured": true
+    "featured": false
   },
   {
     "id": 88,

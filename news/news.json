@@ -1,5 +1,36 @@
 [
   {
+    "id": 94,
+    "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+    "summary": "**Net migration to the United Kingdom falls to 77,000 – the lowest level in three decades**",
+    "content": "**Net migration to the United Kingdom falls to 77,000 – the lowest level in three decades**\n\nThe Office for National Statistics (ONS) has reported that net migration to the United Kingdom dropped to 77,000 in the most recent reporting period, the smallest net inflow since 1997. The figure excludes the pandemic‑related slump that briefly depressed migration flows, indicating that the decline reflects a sustained shift rather than a temporary anomaly.\n\n**A sharp contraction**\n\nCompared with the previous period, net migration fell by more than half, a decline confirmed by the *Financial Times*. In the same timeframe, the Home Office recorded a fall in asylum applications, according to the BBC. The combined reduction in regular migration and asylum claims pushed the net total to 77,000.\n\n**Policy tightening as a key driver**\n\nAnalysts attribute the downward trend primarily to the UK government’s recent tightening of immigration rules, a shift documented by *EasternEye*. Stricter criteria for work visas, student permits and other entry routes have made it more difficult for prospective migrants to come to the UK. The simultaneous drop in asylum claims suggests fewer individuals are seeking protection, further contributing to the overall decline.\n\n**Historical context**\n\nNet migration has fluctuated widely over the past three decades. The last time it fell as low as it does now was in 1997, when inflows were similarly modest. Since the early 2000s, net migration has generally risen, reaching peaks of more than 300,000 in some years. The current 77,000 figure therefore marks a reversal of a multi‑decade upward trajectory and represents the lowest level in roughly 30 years when pandemic‑related anomalies are excluded.\n\n**Potential implications**\n\nA sustained reduction in net migration could affect the labour market, public‑service provision and the demographic composition of the country—issues closely monitored by policymakers and economists. While the ONS data does not quantify these effects, the more‑than‑50 percent drop from the previous period has sparked speculation about repercussions for sectors that have traditionally relied on migrant labour. The decline in asylum applications may also shift the balance between economic migrants and those seeking refuge.\n\n**Looking ahead**\n\nThe ONS is expected to release further migration statistics that will indicate whether the downward trend continues. Those data will inform the government’s assessment of recent immigration reforms and could prompt policy adjustments if the decline begins to impact economic or social objectives. Ongoing monitoring will be essential to determine whether the 77,000 net migration figure is a temporary dip or the start of a longer‑term realignment.\n\nIn sum, the latest ONS figures show net migration to the United Kingdom at 77,000—the lowest level since 1997 and the smallest in about thirty years when pandemic‑related anomalies are set aside. The drop follows tighter immigration rules and a concurrent fall in asylum claims, signalling a notable shift in the country’s migration profile. Future releases and policy responses will clarify how this development shapes the UK’s labour market, public services and broader demographic outlook.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_94.jpg",
+    "date": "2026-11-26",
+    "time": "14:54",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "Net migration to the UK fell to 77,000",
+      "The figure represents the lowest net migration level in roughly three decades",
+      "The low is the lowest since 1997 (as reported by multiple sources)",
+      "The data excludes the pandemic‑related slump",
+      "Office for National Statistics (ONS) figures are the source of the data",
+      "Asylum claims also fell during the same period (BBC)",
+      "Net migration fell by more than half compared with previous period (Financial Times)"
+    ],
+    "timeline": [
+      "ONS releases latest net migration figures (date not specified in sources)",
+      "Multiple news outlets publish stories reporting the 77,000 figure (same reporting period)"
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=94",
+    "featured": true
+  },
+  {
     "id": 93,
     "title": "UK government set to publish new treaties agreed with EU",
     "summary": "**Post‑Brexit Britain Unveils New Treaties, Security Pact with Poland and Wider EU Engagement**",
@@ -79,7 +110,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=93",
-    "featured": true
+    "featured": false
   },
   {
     "id": 92,

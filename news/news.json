@@ -1,5 +1,87 @@
 [
   {
+    "id": 93,
+    "title": "UK government set to publish new treaties agreed with EU",
+    "summary": "**Post‑Brexit Britain Unveils New Treaties, Security Pact with Poland and Wider EU Engagement**",
+    "content": "**Post‑Brexit Britain Unveils New Treaties, Security Pact with Poland and Wider EU Engagement**\n\n*London, 26 November 2026* – The United Kingdom has announced a series of new treaties with the European Union, part of a coordinated effort to close regulatory gaps that have persisted since the country’s departure from the bloc in 2020. The move follows the publication of a “UK‑EU Summit package – factsheet and myth‑buster” on the official GOV.UK portal, which aims to clarify the substance of recent negotiations.\n\n**Parliamentary analyses map the scope of the relationship**\n\nThe House of Lords Library released a report on the removal of sanitary and phytosanitary (SPS) checks at EU borders, signalling a possible shift toward deeper alignment on food‑safety and agricultural standards. In parallel, the House of Commons Library issued a briefing titled *“Debate on the UK applying to join the European Union,”* which examines the political and legal implications of a future membership bid. Together, the two papers highlight the breadth of issues – from customs procedures to strategic considerations – that continue to shape the UK‑EU relationship.\n\n**Bilateral security cooperation expands**\n\nOn the security front, the UK and Poland are set to sign a defence and security treaty, a development announced on GOV.UK as a response to shared regional concerns. The Royal United Services Institute (RUSI) has published an analysis of the proposed UK‑EU security pact, noting that the Poland treaty could complement wider European defence architectures. The European Union’s Council maintains an up‑to‑date timeline of post‑Brexit agreements, documenting milestones such as the forthcoming publication of the new UK‑EU treaties and the signing ceremony for the UK‑Poland pact.\n\n**Economic and territorial implications under scrutiny**\n\nReal Instituto Elcano’s study, *“Gibraltar set to feel the impact of its new reality,”* examines how changes in customs and regulatory procedures may affect the British overseas territory’s economy and border management. The SPICe Spotlight think‑tank contributed an article assessing progress in UK‑EU negotiations, arguing that the removal of SPS checks and clearer trade rules could materially affect supply chains and market access. BBC reporting quoted UK minister Andrew Burnham, who said the United Kingdom will explore even closer ties with the EU after agreeing a deal, reinforcing the government’s intent to deepen cooperation where mutual benefit is clear.\n\n**Drivers and outlook**\n\nThe convergence of these reports points to three common drivers: the need for post‑Brexit regulatory alignment, heightened security concerns, and the economic stability of border regions such as Gibraltar. The new treaties are expected to detail how customs and regulatory procedures will evolve, while the UK‑Poland defence and security treaty will formalise a partnership that could serve as a template for future bilateral arrangements. RUSI’s analysis suggests that the outcome of the broader UK‑EU security pact will be pivotal for Britain’s strategic posture in Europe.\n\nStakeholders across government, academia and industry will be watching closely as the publications, treaty signings and ongoing negotiations unfold, given their potential to reshape trade, security and diplomatic ties in the post‑Brexit era.",
+    "category": "💰 Finance",
+    "image": "assets/images/news_93.jpg",
+    "date": "2026-11-26",
+    "time": "04:52",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The UK government announced it will publish new treaties agreed with the EU (BBC).",
+      "The UK government released a factsheet titled \"UK‑EU Summit package - factsheet and mythbuster\" on GOV.UK.",
+      "The House of Lords Library published a report on removing sanitary and phytosanitary checks at EU borders.",
+      "Real Instituto Elcano published an analysis titled \"Gibraltar set to feel the impact of its new reality\".",
+      "The UK and Poland are scheduled to sign a major defence and security treaty, as announced on GOV.UK.",
+      "The House of Commons Library produced a briefing titled \"Debate on the UK applying to join the European Union\".",
+      "SPICe Spotlight published an article analysing the progress of UK‑EU negotiations.",
+      "BBC reported that UK minister Burnham said the UK will explore even closer ties with the EU after agreeing a deal.",
+      "The Royal United Services Institute (RUSI) published an analysis of the proposed UK‑EU security pact.",
+      "The Council of the European Union maintains a timeline of post‑Brexit agreements."
+    ],
+    "timeline": [
+      {
+        "event": "Publication of new UK‑EU treaties",
+        "source": "BBC",
+        "date": null
+      },
+      {
+        "event": "Release of UK‑EU Summit package factsheet",
+        "source": "GOV.UK",
+        "date": null
+      },
+      {
+        "event": "House of Lords Library report on sanitary and phytosanitary checks",
+        "source": "House of Lords Library",
+        "date": null
+      },
+      {
+        "event": "Real Instituto Elcano analysis of Gibraltar post‑Brexit reality",
+        "source": "Real Instituto Elcano",
+        "date": null
+      },
+      {
+        "event": "Signing of UK‑Poland defence and security treaty",
+        "source": "GOV.UK",
+        "date": null
+      },
+      {
+        "event": "House of Commons Library debate on UK EU membership application",
+        "source": "House of Commons Library",
+        "date": null
+      },
+      {
+        "event": "SPICe Spotlight article on UK‑EU negotiation progress",
+        "source": "SPICe Spotlight",
+        "date": null
+      },
+      {
+        "event": "BBC interview with Burnham on exploring closer EU ties",
+        "source": "BBC",
+        "date": null
+      },
+      {
+        "event": "RUSI analysis of proposed UK‑EU security pact",
+        "source": "RUSI",
+        "date": null
+      },
+      {
+        "event": "Council of EU updates post‑Brexit agreements timeline",
+        "source": "Council, European Union",
+        "date": null
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=93",
+    "featured": true
+  },
+  {
     "id": 92,
     "title": "Poundland collapses putting 11,000 jobs at risk",
     "summary": "**Poundland and Dealz Enter Administration, Threatening Up to 12,000 Jobs**",
@@ -21,7 +103,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=92",
-    "featured": true
+    "featured": false
   },
   {
     "id": 91,

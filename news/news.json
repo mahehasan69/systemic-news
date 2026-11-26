@@ -1,5 +1,48 @@
 [
   {
+    "id": 95,
+    "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+    "summary": "**Huntingdon Train Attacker Convicted of 14 Counts of Attempted Murder**",
+    "content": "**Huntingdon Train Attacker Convicted of 14 Counts of Attempted Murder**\n\nA Huntingdon jury has found a man guilty of 14 counts of attempted murder for a violent assault on a London‑bound commuter train. The verdict, delivered after 16 hours of deliberation, concludes a high‑profile trial that has highlighted passenger bravery and the challenges of safeguarding the UK rail network.\n\nThe attack occurred on a north‑bound service from London when the assailant entered a carriage and began targeting fellow passengers. CCTV footage captured roughly five minutes of the incident, showing a rapid escalation of violence before other travelers intervened. Authorities praised the passengers for confronting the attacker, noting that their actions helped limit the duration of the assault and prevented further harm.\n\nFourteen individuals were identified as victims of the attempted‑murder charges. While the precise nature of their injuries has not been disclosed, the court determined that each faced a credible threat to life during the brief but intense episode. The prosecution’s case relied on surveillance video, eyewitness testimony and forensic evidence to establish the attacker’s intent and the severity of the assault.\n\nThe jury’s 16‑hour deliberation underscored the complexity of the case and the weight of the evidence. Their verdict reflects a finding that the perpetrator’s conduct met the statutory threshold for attempted murder on multiple counts—a rare outcome in public‑transport attacks. The judge instructed jurors to consider each victim individually, resulting in separate convictions for all fourteen victims.\n\nSentencing has not yet been announced. Legal analysts expect a lengthy custodial term given the multiplicity of charges, while noting that the passengers’ intervention may be considered a mitigating factor. An appeal is likely, as is customary in serious violent‑offense cases.\n\nThe conviction carries broader implications for railway security and public confidence in the UK’s transport system. The swift response by passengers underscores the importance of civilian vigilance in emergencies, and the successful prosecution demonstrates the criminal‑justice system’s capacity to hold individuals accountable for endangering public safety. Authorities have reiterated the need for continued investment in surveillance technology and staff training to deter similar attacks.\n\nAs the case moves toward sentencing, attention will turn to the victims’ recovery and ongoing discussions about preventive measures on public transport. The incident serves as a stark reminder of the potential for violence in everyday settings and the critical impact of collective action when faced with danger.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_95.jpg",
+    "date": "2026-11-26",
+    "time": "23:40",
+    "reading_time": "2 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The attacker was found guilty of 14 counts of attempted murder",
+      "Jury deliberated for 16 hours before delivering the verdict",
+      "The attack occurred on a London‑bound train at Huntingdon, UK",
+      "Passengers were praised for their courage in confronting the attacker",
+      "The incident lasted approximately five minutes and was captured on CCTV"
+    ],
+    "timeline": [
+      {
+        "event": "Attack on London‑bound train at Huntingdon",
+        "date": "unknown"
+      },
+      {
+        "event": "CCTV footage captured five minutes of the attack",
+        "date": "unknown"
+      },
+      {
+        "event": "Trial concluded with jury deliberation lasting 16 hours",
+        "date": "unknown"
+      },
+      {
+        "event": "Verdict: guilty of 14 counts of attempted murder",
+        "date": "unknown"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=95",
+    "featured": true
+  },
+  {
     "id": 94,
     "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
     "summary": "**Net migration to the United Kingdom falls to 77,000 – the lowest level in three decades**",
@@ -28,7 +71,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=94",
-    "featured": true
+    "featured": false
   },
   {
     "id": 93,

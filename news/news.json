@@ -1,5 +1,34 @@
 [
   {
+    "id": 97,
+    "title": "Watch: What has happened to DWP online services?",
+    "summary": "**Cyber Attack Forces Temporary Shutdown of DWP Online Services**",
+    "content": "**Cyber Attack Forces Temporary Shutdown of DWP Online Services**\n\nA cyber incident targeting the Department for Work and Pensions (DWP) has led to the temporary removal of several key online portals, leaving millions of claimants unable to log into benefit and pension services. Despite the digital outage, the department confirmed that regular benefit payments have continued without interruption.\n\nThe breach was first reported by a coalition of media outlets—including the BBC, Resilience Media, Nacionale, ITVX and Howl.Link. In response, DWP officials took precautionary action by taking a range of its online platforms offline. Users attempting to access the Universal Credit system encountered sign‑in failures, and broader access to pensions and other benefit‑related services was similarly blocked.\n\n**Immediate Impact**\n\nThe shutdown affected the DWP’s digital ecosystem, which normally allows claimants to manage accounts, submit documentation and check payment status. While the loss of online access created a sudden barrier for millions, the department assured the public that benefit disbursements were not affected.\n\nIn addition to the technical outage, DWP warned that the incident could have exposed personal data and could be exploited by scammers. The department issued guidance for individuals unable to sign in to Universal Credit, outlining steps to verify communications, protect personal information and recognise phishing attempts.\n\n**Response and Mitigation**\n\nDisabling vulnerable entry points is a standard response to cyber threats, intended to contain potential damage while investigations proceed. By taking the affected services offline, DWP aims to prevent further unauthorised access and preserve the integrity of its systems. The public guidance emphasises vigilance against fraudulent outreach that may seek to exploit the breach.\n\n**Broader Implications**\n\nThe incident highlights the growing reliance on digital channels for the delivery of social‑security benefits in the United Kingdom. While the continuity of payments mitigates immediate financial hardship, the inability to update personal details, track application progress or communicate with caseworkers can delay non‑payment‑related interactions and erode confidence in public services.\n\n**Path Forward**\n\nDWP officials describe the service removal as a temporary measure. The department plans to restore online functionality once security assessments are completed and any vulnerabilities are addressed. In the meantime, it will continue to disseminate advice on recognising and avoiding scam communications, urging claimants to monitor official DWP channels for updates on restoration timelines.\n\n**Conclusion**\n\nThe cyber incident at the Department for Work and Pensions temporarily disabled essential online portals, preventing millions of users from accessing benefits and pensions services while leaving benefit payments untouched. DWP’s swift actions—shutting down compromised services, maintaining payment continuity and issuing protective guidance—demonstrate an effort to balance immediate risk mitigation with the ongoing delivery of core welfare functions. The episode underscores the critical importance of robust cybersecurity safeguards for government infrastructure and the need for continual vigilance against cyber threats.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_97.jpg",
+    "date": "2026-11-27",
+    "time": "18:02",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "DWP online services experienced disruptions due to a cyber incident",
+      "Some DWP online services were taken offline",
+      "Millions of users lost access to benefits and pensions services",
+      "Benefit payments remained unaffected",
+      "The incident prompted removal of some online services",
+      "The incident raised concerns about data being taken and scam messages",
+      "Guidance was offered for users unable to sign in to Universal Credit",
+      "The incident was reported by BBC, Resilience Media, Nacionale, ITVX, and Howl.Link"
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=97",
+    "featured": true
+  },
+  {
     "id": 96,
     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
     "summary": "**Zelensky Warns U.S. That Middle‑East Focus Undermines Pressure on Russia, Draws Hitler Analogy to Trump’s Remarks**",
@@ -24,7 +53,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=96",
-    "featured": true
+    "featured": false
   },
   {
     "id": 95,

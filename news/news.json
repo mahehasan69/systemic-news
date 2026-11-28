@@ -1,5 +1,31 @@
 [
   {
+    "id": 98,
+    "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+    "summary": "**UK Department for Work and Pensions Takes Pension and Benefits Services Offline After Cyber Incident**",
+    "content": "**UK Department for Work and Pensions Takes Pension and Benefits Services Offline After Cyber Incident**\n\nThe Department for Work and Pensions (DWP) has taken its online pension and benefits platforms offline after detecting a cyber incident, leaving millions of UK residents unable to access their accounts. The outage, reported by the BBC, The Guardian, Reuters, The Independent, The Register, The Times and Infosecurity Magazine, has been described by some sources as a “serious” or “significant” cyber event.\n\n**What happened**\n\nThe UK Benefits Agency – the DWP division that administers state‑provided welfare and pension schemes – identified unusual activity on its digital infrastructure and, as a precaution, shut down public access to its online portals. The affected services include the sites that allow claimants to view benefit entitlements, submit applications, update personal details and retrieve pension statements.\n\n**Cause and investigation**\n\nOfficials have confirmed that a cyber‑related breach triggered the protective shutdown, but the precise technical cause remains unknown. The DWP has not disclosed whether the incident involved malware, ransomware, a denial‑of‑service attack or another form of malicious activity. An investigation is being led by the department’s internal security team in partnership with the National Cyber Security Centre (NCSC).\n\n**Impact on claimants**\n\nWith the portals offline, claimants cannot check application statuses, amend personal information or access pension forecasts. For many, especially those who rely on regular benefit payments, the loss of digital access could cause delays in receiving funds and complicate retirement planning. The DWP acknowledges the potential for “disruption to benefit claims and pension information retrieval” and has urged affected individuals to use telephone helplines for urgent matters.\n\n**Broader significance**\n\nThe DWP is one of the United Kingdom’s largest public bodies, overseeing the state pension, universal credit, disability benefits and other welfare programmes. Its digital services have become the primary interface for the public, a shift accelerated by the COVID‑19 pandemic and subsequent government pushes toward online self‑service. The incident highlights the vulnerability of critical public infrastructure to cyber threats—a concern echoed by security analysts across the sector.\n\n**Response and next steps**\n\nThe department has opened a public communications channel to provide updates and is working with the NCSC to conduct a forensic analysis, identify any compromised data and implement remedial measures. A priority is the rapid restoration of online access while safeguarding user data.\n\nThe episode arrives amid heightened scrutiny of the UK government’s cyber‑defence posture, particularly for essential public services. It may prompt a review of security protocols, funding for cyber resilience and the balance between digital convenience and system robustness.\n\n**Looking ahead**\n\nThe DWP plans to publish a detailed post‑incident report once the investigation concludes. Parliamentary committees and consumer‑advocacy groups are expected to seek transparency on the cause, any data exposure and steps taken to prevent future breaches. In the interim, the department’s focus remains on restoring services and providing clear guidance to claimants whose benefits may be delayed.\n\nThe incident underscores the critical role of digital infrastructure in delivering public welfare and the growing imperative for robust cyber‑security measures to protect the nation’s social safety net.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_98.jpg",
+    "date": "2026-11-28",
+    "time": "01:26",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Department for Work and Pensions (DWP) experienced a cyber incident that caused its pension and benefits online services to go offline.",
+      "Multiple reputable news outlets (BBC, The Guardian, Reuters, The Independent, The Register, The Times, Infosecurity Magazine) reported the outage.",
+      "The incident was reported as affecting the UK welfare and pension services broadly.",
+      "The UK Benefits Agency (part of DWP) pulled its online services after detecting the incident.",
+      "The incident was described by some sources as a \"serious\" or \"significant\" cyber incident."
+    ],
+    "timeline": [],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=98",
+    "featured": true
+  },
+  {
     "id": 97,
     "title": "Watch: What has happened to DWP online services?",
     "summary": "**Cyber Attack Forces Temporary Shutdown of DWP Online Services**",
@@ -26,7 +52,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=97",
-    "featured": true
+    "featured": false
   },
   {
     "id": 96,

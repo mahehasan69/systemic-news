@@ -1,5 +1,48 @@
 [
   {
+    "id": 99,
+    "title": "Pensions and benefits services still down after 'cyber incident'",
+    "summary": "**UK Department for Work and Pensions Takes Universal Credit and State‑Pension Platforms Offline After “Serious Cyber Incident”**",
+    "content": "**UK Department for Work and Pensions Takes Universal Credit and State‑Pension Platforms Offline After “Serious Cyber Incident”**\n\nThe Department for Work and Pensions (DWP) has switched off its Universal Credit portal and online state‑pension service following a “serious cyber incident”, leaving millions of claimants unable to view benefits, submit new claims or manage existing ones. The outage, first reported by the BBC, Reuters and other outlets, has persisted for several weeks.\n\n**Timeline and response**\n\nThe DWP detected the incident and, within hours, disabled the two digital platforms to protect its infrastructure. A notice on GOV.UK warned of a temporary disruption to some DWP online services but did not give a specific restoration timetable. Subsequent reporting by the BBC, The Guardian and The Register confirmed that the services remained offline, indicating an extended interruption rather than a brief glitch.\n\n**Impact on claimants**\n\nAOL.com highlighted that “millions of claimants” have lost online access, resulting in delayed payments, uncertainty about entitlements and added pressure on already stretched support channels. With digital routes unavailable, claimants are being urged to use telephone helplines for urgent benefit needs.\n\n**Cause and accountability**\n\nOfficials have not confirmed the exact cause of the incident, but a hacking attempt or other form of cyber‑attack is suspected. No attribution has been made, and the DWP has not released details about the perpetrators or the method of intrusion. The lack of clarity has intensified calls for greater cybersecurity investment in government systems, a concern echoed by a Southport MP who warned of cyber dangers three weeks before the outage was still being reported.\n\n**Broader implications**\n\nThe disruption comes at a time when the UK government relies heavily on digital platforms to deliver welfare benefits. Universal Credit and the online pension service are central to the DWP’s strategy of streamlining support and reducing administrative costs. Their unavailability not only affects individual claimants but also raises questions about the resilience of the nation’s digital infrastructure. Analysts warn that prolonged outages can erode public confidence in government services and may trigger legislative scrutiny of cybersecurity standards for public agencies.\n\n**Restoration efforts**\n\nThe DWP has said that work to restore the portals is underway, involving internal IT teams and external cybersecurity experts. No firm completion date has been announced, and further statements are expected to outline the technical steps taken to remediate the breach and the timeline for full service recovery.\n\n**Outlook**\n\nThe incident underscores the growing cyber threats facing public institutions and the need for robust defence measures, transparent communication with affected citizens and contingency planning for essential welfare programs. The coming weeks will reveal whether the DWP can swiftly re‑establish online access and restore confidence among the millions who depend on timely benefit payments.",
+    "category": "🤖 AI & Technology",
+    "image": "assets/images/news_99.jpg",
+    "date": "2026-11-28",
+    "time": "10:05",
+    "reading_time": "3 min read",
+    "author": "SYSTEMIC NEWS",
+    "confidence": 50,
+    "facts": [
+      "The Department for Work and Pensions (DWP) took Universal Credit and pension services offline after a cyber incident (sources: BBC, Reuters, Pasquale Pillitteri).",
+      "Multiple news outlets reported that pension and benefits services remained offline for several weeks (BBC, Guardian, The Register).",
+      "GOV.UK issued a notice of temporary disruption to some DWP online services.",
+      "Millions of claimants were reported to have lost access to benefits and pension services (AOL.com).",
+      "The incident was described as a 'serious cyber incident' by several sources (BBC, Startup Fortune, LBC)."
+    ],
+    "timeline": [
+      {
+        "event": "Cyber incident reported and DWP services taken offline",
+        "date": "Not specified"
+      },
+      {
+        "event": "GOV.UK posts notice of temporary disruption to some online services",
+        "date": "Not specified"
+      },
+      {
+        "event": "BBC and other outlets report services still offline after several weeks",
+        "date": "Not specified"
+      },
+      {
+        "event": "Three weeks after a Southport MP warned of cyber dangers, services remained down",
+        "date": "Not specified"
+      }
+    ],
+    "sources": [
+      "news.google.com"
+    ],
+    "url": "article.html?id=99",
+    "featured": true
+  },
+  {
     "id": 98,
     "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
     "summary": "**UK Department for Work and Pensions Takes Pension and Benefits Services Offline After Cyber Incident**",
@@ -23,7 +66,7 @@
       "news.google.com"
     ],
     "url": "article.html?id=98",
-    "featured": true
+    "featured": false
   },
   {
     "id": 97,
